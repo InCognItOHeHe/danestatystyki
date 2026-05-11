@@ -1,0 +1,9918 @@
+{
+  "Brunn, Adam": {
+    "pozycja": "O",
+    "teamId": "131002"
+  },
+  "Altera, Néstor": {
+    "pozycja": "O",
+    "teamId": "131002"
+  },
+  "Smaga, Przemysław": {
+    "pozycja": "L",
+    "teamId": "131002"
+  },
+  "Armendáriz, Miguel": {
+    "pozycja": "L",
+    "teamId": "131002"
+  },
+  "Wichrowski, Antoni": {
+    "pozycja": "P",
+    "teamId": "131002"
+  },
+  "Zejer, Wojciech": {
+    "pozycja": "P",
+    "teamId": "131002"
+  },
+  "Okoński, Jan": {
+    "pozycja": "P",
+    "teamId": "131002"
+  },
+  "Markiewicz, Błażej": {
+    "pozycja": "P",
+    "teamId": "131002"
+  },
+  "Kyurpanov, Boycho": {
+    "pozycja": "S",
+    "teamId": "131002"
+  },
+  "Zorc, Mario": {
+    "pozycja": "S",
+    "teamId": "131002"
+  },
+  "Sznober, Wincenty": {
+    "pozycja": "Ś",
+    "teamId": "131002"
+  },
+  "Morais, Fábio": {
+    "pozycja": "Ś",
+    "teamId": "131002"
+  },
+  "Andrzejuk, Andrzej": {
+    "pozycja": "Ś",
+    "teamId": "131002"
+  },
+  "Wenyu, Cai": {
+    "pozycja": "Ś",
+    "teamId": "131002"
+  },
+  "Raymond, Stéphane": {
+    "pozycja": "O",
+    "teamId": "130607"
+  },
+  "Kreft, Adam": {
+    "pozycja": "O",
+    "teamId": "130607"
+  },
+  "Lobão, Honório": {
+    "pozycja": "L",
+    "teamId": "130607"
+  },
+  "Gawroński, Dominik": {
+    "pozycja": "L",
+    "teamId": "130607"
+  },
+  "Konieczny, Marcin": {
+    "pozycja": "P",
+    "teamId": "130607"
+  },
+  "Nowicki, Igor": {
+    "pozycja": "P",
+    "teamId": "130607"
+  },
+  "Grabowski, Jarosław": {
+    "pozycja": "P",
+    "teamId": "130607"
+  },
+  "Sokołowski, Krystian": {
+    "pozycja": "S",
+    "teamId": "130607"
+  },
+  "Rogala, Krzysztof": {
+    "pozycja": "S",
+    "teamId": "130607"
+  },
+  "Petrov, Vasil": {
+    "pozycja": "Ś",
+    "teamId": "130607"
+  },
+  "Bichta, Wojciech": {
+    "pozycja": "Ś",
+    "teamId": "130607"
+  },
+  "Kulpa, Tymoteusz": {
+    "pozycja": "Ś",
+    "teamId": "130607"
+  },
+  "Spasov, Simeon": {
+    "pozycja": "O",
+    "teamId": "128619"
+  },
+  "Barszczewski, Andrzej": {
+    "pozycja": "O",
+    "teamId": "128619"
+  },
+  "Battin, Colin": {
+    "pozycja": "L",
+    "teamId": "128619"
+  },
+  "Stasiak, Borys": {
+    "pozycja": "L",
+    "teamId": "128619"
+  },
+  "Żołądek, Daniel": {
+    "pozycja": "P",
+    "teamId": "128619"
+  },
+  "Pawelczyk, Filip": {
+    "pozycja": "P",
+    "teamId": "128619"
+  },
+  "White, Alex": {
+    "pozycja": "P",
+    "teamId": "128619"
+  },
+  "Fontaine, Olivier": {
+    "pozycja": "S",
+    "teamId": "128619"
+  },
+  "Père, Clément": {
+    "pozycja": "S",
+    "teamId": "128619"
+  },
+  "Foray, Daniel": {
+    "pozycja": "S",
+    "teamId": "128619"
+  },
+  "Trifković, Adin": {
+    "pozycja": "Ś",
+    "teamId": "128619"
+  },
+  "Nikolov, Branislav": {
+    "pozycja": "Ś",
+    "teamId": "128619"
+  },
+  "Jakubowski, Krzysztof": {
+    "pozycja": "Ś",
+    "teamId": "131020"
+  },
+  "Ümıt, Alpkan": {
+    "pozycja": "Ś",
+    "teamId": "128619"
+  },
+  "Majcher, Michał": {
+    "pozycja": "O",
+    "teamId": "130885"
+  },
+  "Grelewicz, Piotr": {
+    "pozycja": "O",
+    "teamId": "130885"
+  },
+  "Ďumbala, Ľudovít": {
+    "pozycja": "O",
+    "teamId": "130885"
+  },
+  "Babis, Mateusz": {
+    "pozycja": "L",
+    "teamId": "130885"
+  },
+  "Abreu, Nelson": {
+    "pozycja": "L",
+    "teamId": "130885"
+  },
+  "Bednarek, Dawid": {
+    "pozycja": "P",
+    "teamId": "130885"
+  },
+  "Rodowicz, Jan": {
+    "pozycja": "P",
+    "teamId": "130885"
+  },
+  "Schimmer, Bernd": {
+    "pozycja": "P",
+    "teamId": "130885"
+  },
+  "Butowski, Artur": {
+    "pozycja": "P",
+    "teamId": "130885"
+  },
+  "Pachev, Vasil": {
+    "pozycja": "P",
+    "teamId": "130885"
+  },
+  "Hannen, Jack": {
+    "pozycja": "P",
+    "teamId": "130885"
+  },
+  "Rogalski, Adam": {
+    "pozycja": "S",
+    "teamId": "130885"
+  },
+  "Guilloton, Thierry": {
+    "pozycja": "S",
+    "teamId": "130885"
+  },
+  "Wróbel, Daniel": {
+    "pozycja": "P",
+    "teamId": "130797"
+  },
+  "Wiśniewski, Daniel": {
+    "pozycja": "Ś",
+    "teamId": "130885"
+  },
+  "Marseille, Maurice": {
+    "pozycja": "Ś",
+    "teamId": "130885"
+  },
+  "Potocki, Radosław": {
+    "pozycja": "O",
+    "teamId": "128580"
+  },
+  "Schüßler, Siegmar": {
+    "pozycja": "O",
+    "teamId": "128580"
+  },
+  "Lucev, Borko": {
+    "pozycja": "O",
+    "teamId": "128580"
+  },
+  "Asel, Aslan": {
+    "pozycja": "L",
+    "teamId": "128580"
+  },
+  "Raimundo, Olavo": {
+    "pozycja": "L",
+    "teamId": "128580"
+  },
+  "Cieszkowski, Tomasz": {
+    "pozycja": "P",
+    "teamId": "128580"
+  },
+  "Aleksiuk, Patryk": {
+    "pozycja": "P",
+    "teamId": "128580"
+  },
+  "Kowalski, Arkadiusz": {
+    "pozycja": "P",
+    "teamId": "128580"
+  },
+  "Marchel, Antoni": {
+    "pozycja": "S",
+    "teamId": "128580"
+  },
+  "Staniszewski, Piotr": {
+    "pozycja": "S",
+    "teamId": "128580"
+  },
+  "Kazama, Ginzô": {
+    "pozycja": "Ś",
+    "teamId": "128580"
+  },
+  "Hudziak, Sławomir": {
+    "pozycja": "Ś",
+    "teamId": "128580"
+  },
+  "Smoliński, Dariusz": {
+    "pozycja": "Ś",
+    "teamId": "128580"
+  },
+  "Gnaś, Rafał": {
+    "pozycja": "O",
+    "teamId": "128586"
+  },
+  "Forystek, Michał": {
+    "pozycja": "O",
+    "teamId": "128586"
+  },
+  "Kwiatkowski, Piotr": {
+    "pozycja": "O",
+    "teamId": "128586"
+  },
+  "Syski, Bartłomiej": {
+    "pozycja": "L",
+    "teamId": "128586"
+  },
+  "Altenburg, Felix": {
+    "pozycja": "L",
+    "teamId": "128586"
+  },
+  "Marczak, Adrian": {
+    "pozycja": "P",
+    "teamId": "128586"
+  },
+  "Mendes, Artur": {
+    "pozycja": "P",
+    "teamId": "128586"
+  },
+  "Popović, Dimitrije": {
+    "pozycja": "P",
+    "teamId": "128586"
+  },
+  "Artero, Marc": {
+    "pozycja": "S",
+    "teamId": "128586"
+  },
+  "Stoyanov, Alexander": {
+    "pozycja": "S",
+    "teamId": "128586"
+  },
+  "Podolski, Rafał": {
+    "pozycja": "Ś",
+    "teamId": "128586"
+  },
+  "Önay, Furkan": {
+    "pozycja": "Ś",
+    "teamId": "128586"
+  },
+  "Carson, Brandon": {
+    "pozycja": "Ś",
+    "teamId": "128586"
+  },
+  "Piechowiak, Jacek": {
+    "pozycja": "Ś",
+    "teamId": "128586"
+  },
+  "Strother, Byron": {
+    "pozycja": "Ś",
+    "teamId": "128586"
+  },
+  "Žurej, Klemen": {
+    "pozycja": "Ś",
+    "teamId": "128586"
+  },
+  "Wagner, Olgierd": {
+    "pozycja": "O",
+    "teamId": "128635"
+  },
+  "Zabrocki, Grzegorz": {
+    "pozycja": "O",
+    "teamId": "128635"
+  },
+  "Hecht, David": {
+    "pozycja": "L",
+    "teamId": "128635"
+  },
+  "Quataert, Siegfried": {
+    "pozycja": "L",
+    "teamId": "128635"
+  },
+  "Kuberka, Maciej": {
+    "pozycja": "P",
+    "teamId": "128635"
+  },
+  "Bąk, Karol": {
+    "pozycja": "P",
+    "teamId": "128635"
+  },
+  "Żak, Gabriel": {
+    "pozycja": "P",
+    "teamId": "128635"
+  },
+  "Górski, Wojciech": {
+    "pozycja": "S",
+    "teamId": "128635"
+  },
+  "Bouchard, Jean-Philippe": {
+    "pozycja": "S",
+    "teamId": "128635"
+  },
+  "Jeleń, Kacper": {
+    "pozycja": "Ś",
+    "teamId": "128635"
+  },
+  "Matuszewski, Aleksander": {
+    "pozycja": "Ś",
+    "teamId": "128635"
+  },
+  "Ravera, Giancarlo": {
+    "pozycja": "Ś",
+    "teamId": "128635"
+  },
+  "Gryta, Wiktor": {
+    "pozycja": "Ś",
+    "teamId": "128635"
+  },
+  "Łosiak, Łukasz": {
+    "pozycja": "Ś",
+    "teamId": "128635"
+  },
+  "Rapa, Michał": {
+    "pozycja": "Ś",
+    "teamId": "128635"
+  },
+  "Karwik, Ireneusz": {
+    "pozycja": "Ś",
+    "teamId": "128635"
+  },
+  "Mazurek, Janusz": {
+    "pozycja": "Ś",
+    "teamId": "128635"
+  },
+  "Dziabas, Michał": {
+    "pozycja": "Ś",
+    "teamId": "128635"
+  },
+  "Brania, Antoni": {
+    "pozycja": "O",
+    "teamId": "130744"
+  },
+  "Dopke, Hubert": {
+    "pozycja": "O",
+    "teamId": "130744"
+  },
+  "Buszman, Bartosz": {
+    "pozycja": "O",
+    "teamId": "130744"
+  },
+  "Mantelini, Flavio": {
+    "pozycja": "L",
+    "teamId": "130744"
+  },
+  "Małkiewicz, Piotr": {
+    "pozycja": "L",
+    "teamId": "130744"
+  },
+  "Hrzica, Relja": {
+    "pozycja": "L",
+    "teamId": "130744"
+  },
+  "Drzewicki, Władysław": {
+    "pozycja": "P",
+    "teamId": "130744"
+  },
+  "Sokołowski, Zbigniew": {
+    "pozycja": "P",
+    "teamId": "130744"
+  },
+  "Jordan, Louis": {
+    "pozycja": "P",
+    "teamId": "130744"
+  },
+  "Żur, Tomasz": {
+    "pozycja": "P",
+    "teamId": "130744"
+  },
+  "Callot, Mathias": {
+    "pozycja": "P",
+    "teamId": "130744"
+  },
+  "Dobrowolski, Robert": {
+    "pozycja": "S",
+    "teamId": "130744"
+  },
+  "Szymański, Olaf": {
+    "pozycja": "S",
+    "teamId": "130744"
+  },
+  "Cisak, Hieronim": {
+    "pozycja": "S",
+    "teamId": "130744"
+  },
+  "Migdał, Tomasz": {
+    "pozycja": "Ś",
+    "teamId": "130744"
+  },
+  "Biegański, Adam": {
+    "pozycja": "Ś",
+    "teamId": "130744"
+  },
+  "Davis, Grady": {
+    "pozycja": "Ś",
+    "teamId": "130744"
+  },
+  "Łukaszewski, Łukasz": {
+    "pozycja": "Ś",
+    "teamId": "130744"
+  },
+  "Defoe, Simon": {
+    "pozycja": "O",
+    "teamId": "128722"
+  },
+  "Svetozarević, Vasilije": {
+    "pozycja": "O",
+    "teamId": "128722"
+  },
+  "Gray, Cameron": {
+    "pozycja": "O",
+    "teamId": "128722"
+  },
+  "Lusini, Pierluigi": {
+    "pozycja": "O",
+    "teamId": "128722"
+  },
+  "Gandubert, Siffre": {
+    "pozycja": "O",
+    "teamId": "128722"
+  },
+  "Onzia, Stijn": {
+    "pozycja": "O",
+    "teamId": "128722"
+  },
+  "Cammell, Peter": {
+    "pozycja": "O",
+    "teamId": "128722"
+  },
+  "Levavasseur, Christian": {
+    "pozycja": "L",
+    "teamId": "128722"
+  },
+  "Kapor, Kristjan": {
+    "pozycja": "L",
+    "teamId": "128722"
+  },
+  "Parikka, Ville": {
+    "pozycja": "P",
+    "teamId": "128722"
+  },
+  "Crombez, Steven": {
+    "pozycja": "P",
+    "teamId": "128722"
+  },
+  "Cicotti, Ottorino": {
+    "pozycja": "P",
+    "teamId": "128722"
+  },
+  "Wałdoch, Dariusz": {
+    "pozycja": "P",
+    "teamId": "128722"
+  },
+  "Gdula, Daniel": {
+    "pozycja": "P",
+    "teamId": "128722"
+  },
+  "Wróbel, Jan": {
+    "pozycja": "P",
+    "teamId": "128722"
+  },
+  "Wiegel, Cedric": {
+    "pozycja": "S",
+    "teamId": "128722"
+  },
+  "Janvier, Philippe": {
+    "pozycja": "S",
+    "teamId": "128722"
+  },
+  "Kaźmierczak, Bartłomiej": {
+    "pozycja": "Ś",
+    "teamId": "128722"
+  },
+  "Brzóski, Gabriel": {
+    "pozycja": "Ś",
+    "teamId": "128722"
+  },
+  "Kołodziej, Marek": {
+    "pozycja": "Ś",
+    "teamId": "128722"
+  },
+  "Muszalik, Michał": {
+    "pozycja": "O",
+    "teamId": "128596"
+  },
+  "Jovanović, Romeo": {
+    "pozycja": "O",
+    "teamId": "128596"
+  },
+  "Rudziński, Barabasz": {
+    "pozycja": "L",
+    "teamId": "128596"
+  },
+  "Krakowski, Bartosz": {
+    "pozycja": "L",
+    "teamId": "128596"
+  },
+  "Suski, Igor": {
+    "pozycja": "P",
+    "teamId": "128596"
+  },
+  "Zbierski, Zbigniew": {
+    "pozycja": "P",
+    "teamId": "128596"
+  },
+  "Marola, Samuel": {
+    "pozycja": "P",
+    "teamId": "128596"
+  },
+  "Dziurdzia, Sergiusz": {
+    "pozycja": "S",
+    "teamId": "128596"
+  },
+  "Paluszak, Juliusz": {
+    "pozycja": "S",
+    "teamId": "128596"
+  },
+  "Weiss, Stanisław": {
+    "pozycja": "Ś",
+    "teamId": "128596"
+  },
+  "Cybulski, Julian": {
+    "pozycja": "Ś",
+    "teamId": "128596"
+  },
+  "Ďurica, László": {
+    "pozycja": "Ś",
+    "teamId": "128596"
+  },
+  "Gerc, Leszek": {
+    "pozycja": "O",
+    "teamId": "128577"
+  },
+  "Georgoulis, Efstratios": {
+    "pozycja": "O",
+    "teamId": "128577"
+  },
+  "Diković, Izidor": {
+    "pozycja": "O",
+    "teamId": "128577"
+  },
+  "Stanca, Iorghu": {
+    "pozycja": "O",
+    "teamId": "128577"
+  },
+  "Piscanu, Constantin": {
+    "pozycja": "O",
+    "teamId": "128577"
+  },
+  "Radan, Primož": {
+    "pozycja": "L",
+    "teamId": "128577"
+  },
+  "Bullard, Ryan": {
+    "pozycja": "L",
+    "teamId": "128577"
+  },
+  "Kowalski, Dominik": {
+    "pozycja": "P",
+    "teamId": "128577"
+  },
+  "Flajs, Domen": {
+    "pozycja": "P",
+    "teamId": "128577"
+  },
+  "Grozav, Stelian": {
+    "pozycja": "P",
+    "teamId": "128577"
+  },
+  "Kozłowski, Zbigniew": {
+    "pozycja": "P",
+    "teamId": "128577"
+  },
+  "Svorník, Ladislav": {
+    "pozycja": "P",
+    "teamId": "128577"
+  },
+  "Benek, Şahin": {
+    "pozycja": "S",
+    "teamId": "128577"
+  },
+  "Jaworski, Marcin": {
+    "pozycja": "S",
+    "teamId": "128577"
+  },
+  "Weiland, Ireneusz": {
+    "pozycja": "S",
+    "teamId": "128577"
+  },
+  "Penchev, Vasil": {
+    "pozycja": "Ś",
+    "teamId": "128577"
+  },
+  "Bugarchev, Georgi": {
+    "pozycja": "Ś",
+    "teamId": "128577"
+  },
+  "Moreau, Christophe": {
+    "pozycja": "Ś",
+    "teamId": "128577"
+  },
+  "Fiumani, Gianfranco": {
+    "pozycja": "Ś",
+    "teamId": "128577"
+  },
+  "Parafiniuk, Łucjan": {
+    "pozycja": "Ś",
+    "teamId": "128577"
+  },
+  "Arnaud, Charly": {
+    "pozycja": "O",
+    "teamId": "130757"
+  },
+  "Wybraniec, Mateusz": {
+    "pozycja": "O",
+    "teamId": "130757"
+  },
+  "Cholewicki, Krzysztof": {
+    "pozycja": "L",
+    "teamId": "130757"
+  },
+  "Solis, Chris": {
+    "pozycja": "L",
+    "teamId": "130757"
+  },
+  "Książek, Michał": {
+    "pozycja": "P",
+    "teamId": "130757"
+  },
+  "Preis, Roman": {
+    "pozycja": "P",
+    "teamId": "130757"
+  },
+  "Božovský, Eduard": {
+    "pozycja": "P",
+    "teamId": "130757"
+  },
+  "Ratajczyk, Karol": {
+    "pozycja": "S",
+    "teamId": "130757"
+  },
+  "Orzech, Mieczysław": {
+    "pozycja": "S",
+    "teamId": "130757"
+  },
+  "Vauthier, Bertrand": {
+    "pozycja": "Ś",
+    "teamId": "130757"
+  },
+  "Frąckowiak, Oskar": {
+    "pozycja": "Ś",
+    "teamId": "130757"
+  },
+  "Legros, Jean-Marie": {
+    "pozycja": "Ś",
+    "teamId": "130757"
+  },
+  "Suzuki, Urara": {
+    "pozycja": "O",
+    "teamId": "130520"
+  },
+  "Michalski, Jacek": {
+    "pozycja": "O",
+    "teamId": "130520"
+  },
+  "Bleja, Kacper": {
+    "pozycja": "L",
+    "teamId": "130520"
+  },
+  "Maehle, Matthias": {
+    "pozycja": "L",
+    "teamId": "130520"
+  },
+  "Bubnov, Ivar": {
+    "pozycja": "L",
+    "teamId": "130520"
+  },
+  "Witek, Krzysztof": {
+    "pozycja": "P",
+    "teamId": "130520"
+  },
+  "Rozbicki, Bogdan": {
+    "pozycja": "P",
+    "teamId": "130520"
+  },
+  "Malloy, Shad": {
+    "pozycja": "P",
+    "teamId": "130520"
+  },
+  "Gołębiowski, Szymon": {
+    "pozycja": "P",
+    "teamId": "130520"
+  },
+  "Buraczyński, Krzysztof": {
+    "pozycja": "S",
+    "teamId": "130520"
+  },
+  "Carniani, Daniele": {
+    "pozycja": "S",
+    "teamId": "130520"
+  },
+  "Ostendorff, Andreas": {
+    "pozycja": "S",
+    "teamId": "130520"
+  },
+  "Murawski, Bartosz": {
+    "pozycja": "Ś",
+    "teamId": "130520"
+  },
+  "Czudaj, Bartosz": {
+    "pozycja": "Ś",
+    "teamId": "130520"
+  },
+  "Żero, Krzysztof": {
+    "pozycja": "Ś",
+    "teamId": "130520"
+  },
+  "Sulżycki, Mateusz": {
+    "pozycja": "Ś",
+    "teamId": "130520"
+  },
+  "Czech, Aleksander": {
+    "pozycja": "O",
+    "teamId": "128638"
+  },
+  "Stokić, Nikola": {
+    "pozycja": "O",
+    "teamId": "128638"
+  },
+  "Kılıç, Erol": {
+    "pozycja": "L",
+    "teamId": "128638"
+  },
+  "Tuninetti, Gaspare": {
+    "pozycja": "L",
+    "teamId": "128638"
+  },
+  "Siedlecki, Wojciech": {
+    "pozycja": "P",
+    "teamId": "128638"
+  },
+  "Szczodrowski, Dariusz": {
+    "pozycja": "P",
+    "teamId": "128638"
+  },
+  "Jun, Kuang-chao": {
+    "pozycja": "P",
+    "teamId": "128638"
+  },
+  "Bifu, Takenori": {
+    "pozycja": "S",
+    "teamId": "128638"
+  },
+  "Blackman, Bobby": {
+    "pozycja": "S",
+    "teamId": "128638"
+  },
+  "Witkowski, Tomasz": {
+    "pozycja": "Ś",
+    "teamId": "128638"
+  },
+  "Cyran, Grzegorz": {
+    "pozycja": "Ś",
+    "teamId": "128638"
+  },
+  "Dąbrowski, Michał": {
+    "pozycja": "Ś",
+    "teamId": "128638"
+  },
+  "Zápotočný, Oldřich": {
+    "pozycja": "O",
+    "teamId": "128604"
+  },
+  "Milushev, Georgi": {
+    "pozycja": "O",
+    "teamId": "128604"
+  },
+  "Tolev, Kiril": {
+    "pozycja": "O",
+    "teamId": "128604"
+  },
+  "Zabiegała, Andrzej": {
+    "pozycja": "L",
+    "teamId": "128604"
+  },
+  "Gordino, Demétrio": {
+    "pozycja": "L",
+    "teamId": "128604"
+  },
+  "Hammadi, Denis": {
+    "pozycja": "P",
+    "teamId": "128604"
+  },
+  "Ciemiński, Mikołaj": {
+    "pozycja": "P",
+    "teamId": "128604"
+  },
+  "Pietruszewski, Maksymilian": {
+    "pozycja": "P",
+    "teamId": "128604"
+  },
+  "Ptak, Michał": {
+    "pozycja": "P",
+    "teamId": "128604"
+  },
+  "Dąbrowski, Jacek": {
+    "pozycja": "P",
+    "teamId": "128604"
+  },
+  "Guimarães, Bártolo": {
+    "pozycja": "S",
+    "teamId": "128604"
+  },
+  "Sujak, Ryszard": {
+    "pozycja": "S",
+    "teamId": "128604"
+  },
+  "Angenot, Ander": {
+    "pozycja": "Ś",
+    "teamId": "128604"
+  },
+  "Işil, Semih": {
+    "pozycja": "Ś",
+    "teamId": "128604"
+  },
+  "Wysokiński, Damian": {
+    "pozycja": "Ś",
+    "teamId": "128604"
+  },
+  "Kozyra, Albert": {
+    "pozycja": "Ś",
+    "teamId": "128604"
+  },
+  "Szymczyk, Igor": {
+    "pozycja": "Ś",
+    "teamId": "128604"
+  },
+  "Gruszczyński, Oliwier": {
+    "pozycja": "O",
+    "teamId": "128592"
+  },
+  "Gebel, Paweł": {
+    "pozycja": "O",
+    "teamId": "128592"
+  },
+  "Lambertini, Osvaldo": {
+    "pozycja": "L",
+    "teamId": "128592"
+  },
+  "Kowalski, Robert": {
+    "pozycja": "L",
+    "teamId": "128592"
+  },
+  "Oizumi, Rokusaburo": {
+    "pozycja": "P",
+    "teamId": "128592"
+  },
+  "Del Boca, Abel": {
+    "pozycja": "P",
+    "teamId": "128592"
+  },
+  "Brambati, Andrés": {
+    "pozycja": "P",
+    "teamId": "128592"
+  },
+  "Mürisep, Aarne": {
+    "pozycja": "P",
+    "teamId": "128592"
+  },
+  "Hansell, Noel": {
+    "pozycja": "S",
+    "teamId": "128592"
+  },
+  "Rigel, Patrick": {
+    "pozycja": "S",
+    "teamId": "128592"
+  },
+  "Noble, Trevor": {
+    "pozycja": "Ś",
+    "teamId": "128592"
+  },
+  "Sejkora, Benes": {
+    "pozycja": "Ś",
+    "teamId": "128592"
+  },
+  "Milchram, Reinhardt": {
+    "pozycja": "Ś",
+    "teamId": "128592"
+  },
+  "Onderčok, Szervác": {
+    "pozycja": "Ś",
+    "teamId": "128592"
+  },
+  "Busłowicz, Jerzy": {
+    "pozycja": "O",
+    "teamId": "131134"
+  },
+  "Tyniec, Igor": {
+    "pozycja": "O",
+    "teamId": "131134"
+  },
+  "Montoya, Santiago": {
+    "pozycja": "O",
+    "teamId": "131134"
+  },
+  "Kowalik, Jakub": {
+    "pozycja": "O",
+    "teamId": "131134"
+  },
+  "Beil, Jörn": {
+    "pozycja": "O",
+    "teamId": "131134"
+  },
+  "Liveric, Nedjeljko": {
+    "pozycja": "O",
+    "teamId": "131134"
+  },
+  "Legrand, Johann": {
+    "pozycja": "L",
+    "teamId": "131134"
+  },
+  "Hajek, Maciej": {
+    "pozycja": "L",
+    "teamId": "131134"
+  },
+  "Kirov, Martin": {
+    "pozycja": "P",
+    "teamId": "131134"
+  },
+  "Cosentino, Palito": {
+    "pozycja": "P",
+    "teamId": "131134"
+  },
+  "Nowak, Julian": {
+    "pozycja": "P",
+    "teamId": "131134"
+  },
+  "Greenlee, Kevin": {
+    "pozycja": "P",
+    "teamId": "131134"
+  },
+  "Guérard, Nathan": {
+    "pozycja": "S",
+    "teamId": "131134"
+  },
+  "de Almeida, Salvador": {
+    "pozycja": "S",
+    "teamId": "131134"
+  },
+  "Misztal, Szymon": {
+    "pozycja": "Ś",
+    "teamId": "131134"
+  },
+  "Rosochacki, Paweł": {
+    "pozycja": "Ś",
+    "teamId": "131134"
+  },
+  "Nicasio, Mario": {
+    "pozycja": "Ś",
+    "teamId": "131134"
+  },
+  "Hajduk, Jacek": {
+    "pozycja": "O",
+    "teamId": "128668"
+  },
+  "Sobótka, Ignacy": {
+    "pozycja": "O",
+    "teamId": "128668"
+  },
+  "Domalik, Rafał": {
+    "pozycja": "O",
+    "teamId": "128668"
+  },
+  "Drzazga, Adrian": {
+    "pozycja": "O",
+    "teamId": "128668"
+  },
+  "Czarczyński, Franciszek": {
+    "pozycja": "L",
+    "teamId": "128668"
+  },
+  "Nunes, Leandro": {
+    "pozycja": "L",
+    "teamId": "128668"
+  },
+  "Vecchi, Donatello": {
+    "pozycja": "P",
+    "teamId": "128668"
+  },
+  "Przydatek, Robert": {
+    "pozycja": "P",
+    "teamId": "128668"
+  },
+  "Streisand, Leopold": {
+    "pozycja": "P",
+    "teamId": "128668"
+  },
+  "Röhe, Müslüm": {
+    "pozycja": "P",
+    "teamId": "128668"
+  },
+  "Bogalho, Demétrio": {
+    "pozycja": "S",
+    "teamId": "128668"
+  },
+  "Moreau, Vincent": {
+    "pozycja": "S",
+    "teamId": "128668"
+  },
+  "Velev, Kiril": {
+    "pozycja": "Ś",
+    "teamId": "128668"
+  },
+  "Korczyc, Patryk": {
+    "pozycja": "Ś",
+    "teamId": "128668"
+  },
+  "Popowicz, Marcin": {
+    "pozycja": "Ś",
+    "teamId": "128668"
+  },
+  "Janicki, Kacper": {
+    "pozycja": "O",
+    "teamId": "128612"
+  },
+  "Krysztofiak, Piotr": {
+    "pozycja": "O",
+    "teamId": "128612"
+  },
+  "Kłyż, Alan": {
+    "pozycja": "L",
+    "teamId": "128612"
+  },
+  "Olszewski, Jan": {
+    "pozycja": "L",
+    "teamId": "128612"
+  },
+  "Garcia, James": {
+    "pozycja": "P",
+    "teamId": "128612"
+  },
+  "Wasiak, Mateusz": {
+    "pozycja": "P",
+    "teamId": "128612"
+  },
+  "Kowalczyk, Adam": {
+    "pozycja": "P",
+    "teamId": "128612"
+  },
+  "Kozikowski, Bartosz": {
+    "pozycja": "S",
+    "teamId": "128612"
+  },
+  "Coaña, Roberto": {
+    "pozycja": "S",
+    "teamId": "128612"
+  },
+  "Jerzak, Jacek": {
+    "pozycja": "Ś",
+    "teamId": "128612"
+  },
+  "Mazur, Zbigniew": {
+    "pozycja": "Ś",
+    "teamId": "128612"
+  },
+  "Kielar, Tomasz": {
+    "pozycja": "Ś",
+    "teamId": "128612"
+  },
+  "Drozdowski, Jacek": {
+    "pozycja": "Ś",
+    "teamId": "128612"
+  },
+  "Jaworski, Filip": {
+    "pozycja": "Ś",
+    "teamId": "128612"
+  },
+  "Czyżykowski, Piotr": {
+    "pozycja": "Ś",
+    "teamId": "128612"
+  },
+  "Cap, Tymon": {
+    "pozycja": "O",
+    "teamId": "128663"
+  },
+  "Szewczyk, Cezary": {
+    "pozycja": "O",
+    "teamId": "128663"
+  },
+  "Sielczak, Kamil": {
+    "pozycja": "L",
+    "teamId": "128663"
+  },
+  "Ilgat, Dağhan": {
+    "pozycja": "L",
+    "teamId": "128663"
+  },
+  "Walczak, Przemysław": {
+    "pozycja": "P",
+    "teamId": "128663"
+  },
+  "Szczepański, Maciej": {
+    "pozycja": "P",
+    "teamId": "128663"
+  },
+  "Schaffer, Greg": {
+    "pozycja": "P",
+    "teamId": "128663"
+  },
+  "Chudyba, Patryk": {
+    "pozycja": "S",
+    "teamId": "128663"
+  },
+  "Mavısu, Eşref": {
+    "pozycja": "S",
+    "teamId": "128663"
+  },
+  "Guza, Dawid": {
+    "pozycja": "S",
+    "teamId": "128663"
+  },
+  "Delekta, Wojciech": {
+    "pozycja": "Ś",
+    "teamId": "128663"
+  },
+  "Zarzycki, Leon": {
+    "pozycja": "Ś",
+    "teamId": "128663"
+  },
+  "Mpaxevanos, Omiros": {
+    "pozycja": "Ś",
+    "teamId": "128663"
+  },
+  "Šindel, Szervác": {
+    "pozycja": "Ś",
+    "teamId": "128663"
+  },
+  "Krawczyk, Przemysław": {
+    "pozycja": "Ś",
+    "teamId": "128663"
+  },
+  "Lenk, Mateusz": {
+    "pozycja": "Ś",
+    "teamId": "128663"
+  },
+  "Pili, Mauro": {
+    "pozycja": "O",
+    "teamId": "128764"
+  },
+  "Tom, Thibault": {
+    "pozycja": "O",
+    "teamId": "128764"
+  },
+  "Muhel, Margus": {
+    "pozycja": "L",
+    "teamId": "128764"
+  },
+  "Admiraal, Gosse": {
+    "pozycja": "P",
+    "teamId": "128764"
+  },
+  "Terrell, Seth": {
+    "pozycja": "P",
+    "teamId": "128764"
+  },
+  "Kuligowski, Tomasz": {
+    "pozycja": "P",
+    "teamId": "128764"
+  },
+  "Wnuk, Grzegorz": {
+    "pozycja": "S",
+    "teamId": "128764"
+  },
+  "Piwoński, Miron": {
+    "pozycja": "S",
+    "teamId": "128764"
+  },
+  "Duda, Artur": {
+    "pozycja": "Ś",
+    "teamId": "128764"
+  },
+  "Circolo, Corrado": {
+    "pozycja": "Ś",
+    "teamId": "128764"
+  },
+  "Ljubojević, Velimir": {
+    "pozycja": "Ś",
+    "teamId": "128764"
+  },
+  "Kula, Dariusz": {
+    "pozycja": "Ś",
+    "teamId": "128764"
+  },
+  "Graciani, Beto": {
+    "pozycja": "Ś",
+    "teamId": "128764"
+  },
+  "Monica, Jerzy": {
+    "pozycja": "O",
+    "teamId": "128639"
+  },
+  "Gudz, Kacper": {
+    "pozycja": "O",
+    "teamId": "128639"
+  },
+  "Burgio, Guglielmo": {
+    "pozycja": "O",
+    "teamId": "128639"
+  },
+  "Pilecki, Adam": {
+    "pozycja": "L",
+    "teamId": "128639"
+  },
+  "Raykovski, Lyubomir": {
+    "pozycja": "L",
+    "teamId": "128639"
+  },
+  "Danielak, Maciej": {
+    "pozycja": "P",
+    "teamId": "128639"
+  },
+  "Goodwin, Alejandro": {
+    "pozycja": "P",
+    "teamId": "128639"
+  },
+  "Słomka, Mikołaj": {
+    "pozycja": "P",
+    "teamId": "128639"
+  },
+  "Karpiński, Bartosz": {
+    "pozycja": "P",
+    "teamId": "128639"
+  },
+  "Kostka, Kajetan": {
+    "pozycja": "S",
+    "teamId": "128639"
+  },
+  "Sakoda, Yutaka": {
+    "pozycja": "S",
+    "teamId": "128639"
+  },
+  "Dąbrowski, Maciej": {
+    "pozycja": "Ś",
+    "teamId": "128639"
+  },
+  "Moskała, Adam": {
+    "pozycja": "Ś",
+    "teamId": "128639"
+  },
+  "Reynolds, Sterling": {
+    "pozycja": "Ś",
+    "teamId": "128639"
+  },
+  "Pearce, Kit": {
+    "pozycja": "Ś",
+    "teamId": "128639"
+  },
+  "Dumitru, Mitica": {
+    "pozycja": "O",
+    "teamId": "128802"
+  },
+  "Makuch, Jacek": {
+    "pozycja": "O",
+    "teamId": "128802"
+  },
+  "Antonov, Konstantin": {
+    "pozycja": "O",
+    "teamId": "128802"
+  },
+  "Kuta, Antoni": {
+    "pozycja": "L",
+    "teamId": "128802"
+  },
+  "Meller, Jakub": {
+    "pozycja": "L",
+    "teamId": "128802"
+  },
+  "Alexandrov, Ivan": {
+    "pozycja": "P",
+    "teamId": "128802"
+  },
+  "Laskowski, Wiktor": {
+    "pozycja": "P",
+    "teamId": "128802"
+  },
+  "Soveral, Gonçalo": {
+    "pozycja": "P",
+    "teamId": "128802"
+  },
+  "Gojnea, Vali": {
+    "pozycja": "P",
+    "teamId": "128802"
+  },
+  "Kovjenič, Lovro": {
+    "pozycja": "S",
+    "teamId": "128802"
+  },
+  "Grabarczyk, Mateusz": {
+    "pozycja": "S",
+    "teamId": "128802"
+  },
+  "Agraït, Mariano": {
+    "pozycja": "Ś",
+    "teamId": "128802"
+  },
+  "Iwański, Maciej": {
+    "pozycja": "Ś",
+    "teamId": "128802"
+  },
+  "Mieczkowski, Michał": {
+    "pozycja": "Ś",
+    "teamId": "128802"
+  },
+  "Gontarczyk, Jan": {
+    "pozycja": "Ś",
+    "teamId": "128802"
+  },
+  "Krzyżanowski, Kazimierz": {
+    "pozycja": "Ś",
+    "teamId": "128802"
+  },
+  "Ziółkowski, Paweł": {
+    "pozycja": "Ś",
+    "teamId": "128802"
+  },
+  "Tempsch, Henrik": {
+    "pozycja": "O",
+    "teamId": "128615"
+  },
+  "Majka, Andrzej": {
+    "pozycja": "O",
+    "teamId": "128615"
+  },
+  "Proust, Yvon": {
+    "pozycja": "O",
+    "teamId": "128615"
+  },
+  "Brzeziński, Damian": {
+    "pozycja": "L",
+    "teamId": "128615"
+  },
+  "Łabędzki, Hubert": {
+    "pozycja": "L",
+    "teamId": "128615"
+  },
+  "Kurowski, Kacper": {
+    "pozycja": "P",
+    "teamId": "128615"
+  },
+  "Pietrzyk, Wojciech": {
+    "pozycja": "P",
+    "teamId": "128615"
+  },
+  "Mannara, Humberto": {
+    "pozycja": "P",
+    "teamId": "128615"
+  },
+  "Karakashev, Dimitar": {
+    "pozycja": "P",
+    "teamId": "128615"
+  },
+  "Louzada, Harley": {
+    "pozycja": "P",
+    "teamId": "128615"
+  },
+  "Maciejewski, Apolinary": {
+    "pozycja": "P",
+    "teamId": "128615"
+  },
+  "Canabrava, Jacinto": {
+    "pozycja": "S",
+    "teamId": "128615"
+  },
+  "Perzyński, Stanisław": {
+    "pozycja": "S",
+    "teamId": "128615"
+  },
+  "Marciniak, Paweł": {
+    "pozycja": "Ś",
+    "teamId": "128615"
+  },
+  "Woltering, Ratilo": {
+    "pozycja": "Ś",
+    "teamId": "128615"
+  },
+  "Mizerski, Euzebiusz": {
+    "pozycja": "Ś",
+    "teamId": "128615"
+  },
+  "Coviello, Florindo": {
+    "pozycja": "Ś",
+    "teamId": "128615"
+  },
+  "Topalov, Tzanko": {
+    "pozycja": "O",
+    "teamId": "128708"
+  },
+  "Guillén, Arturo": {
+    "pozycja": "O",
+    "teamId": "128708"
+  },
+  "Sieńko, Miłosz": {
+    "pozycja": "O",
+    "teamId": "128708"
+  },
+  "Kuczkowski, Maciej": {
+    "pozycja": "O",
+    "teamId": "128708"
+  },
+  "Governini, Massimiliano": {
+    "pozycja": "O",
+    "teamId": "128708"
+  },
+  "Machado, Simão": {
+    "pozycja": "L",
+    "teamId": "128708"
+  },
+  "Serafimov, Borislav": {
+    "pozycja": "L",
+    "teamId": "128708"
+  },
+  "Matysiak, Rafał": {
+    "pozycja": "L",
+    "teamId": "128708"
+  },
+  "Bernard, Nicolas": {
+    "pozycja": "L",
+    "teamId": "128708"
+  },
+  "Ohata, Magno": {
+    "pozycja": "P",
+    "teamId": "128708"
+  },
+  "Ropret, Gal Timotej": {
+    "pozycja": "P",
+    "teamId": "128708"
+  },
+  "Sokołowski, Jan": {
+    "pozycja": "P",
+    "teamId": "128708"
+  },
+  "Akanishi, Wataru": {
+    "pozycja": "P",
+    "teamId": "128708"
+  },
+  "Zelencik, Mikulás": {
+    "pozycja": "P",
+    "teamId": "128708"
+  },
+  "Kuntay, Balkar": {
+    "pozycja": "P",
+    "teamId": "128708"
+  },
+  "Galvão, Tom": {
+    "pozycja": "P",
+    "teamId": "128708"
+  },
+  "Lemsalu, Kustas": {
+    "pozycja": "P",
+    "teamId": "128708"
+  },
+  "Gigov, Angel": {
+    "pozycja": "S",
+    "teamId": "128708"
+  },
+  "Auroux, Laurent": {
+    "pozycja": "S",
+    "teamId": "128708"
+  },
+  "Assis, Helder": {
+    "pozycja": "Ś",
+    "teamId": "128708"
+  },
+  "Šmrtnik, Danijel": {
+    "pozycja": "Ś",
+    "teamId": "128708"
+  },
+  "Michalak, Zygmunt": {
+    "pozycja": "Ś",
+    "teamId": "128708"
+  },
+  "Szynszecki, Kamil": {
+    "pozycja": "O",
+    "teamId": "128676"
+  },
+  "Dudev, Nikola": {
+    "pozycja": "O",
+    "teamId": "128676"
+  },
+  "Pilch, Mateusz": {
+    "pozycja": "O",
+    "teamId": "128676"
+  },
+  "Duval, Elies": {
+    "pozycja": "O",
+    "teamId": "128676"
+  },
+  "Rybaczuk, Patryk": {
+    "pozycja": "L",
+    "teamId": "128676"
+  },
+  "Maia, Warley": {
+    "pozycja": "L",
+    "teamId": "128676"
+  },
+  "Tamagnini, Adelino": {
+    "pozycja": "P",
+    "teamId": "128676"
+  },
+  "Antonakos, Kostas": {
+    "pozycja": "P",
+    "teamId": "128676"
+  },
+  "Arney, Ralph": {
+    "pozycja": "P",
+    "teamId": "128676"
+  },
+  "Bujok, Julian": {
+    "pozycja": "P",
+    "teamId": "128676"
+  },
+  "Pelıt, Aras": {
+    "pozycja": "P",
+    "teamId": "128676"
+  },
+  "Spasov, Malin": {
+    "pozycja": "P",
+    "teamId": "128676"
+  },
+  "Nevins, Isaiah": {
+    "pozycja": "S",
+    "teamId": "128676"
+  },
+  "Olewiński, Michał": {
+    "pozycja": "S",
+    "teamId": "128676"
+  },
+  "Järvi, Ewert": {
+    "pozycja": "Ś",
+    "teamId": "128676"
+  },
+  "Hersom, David": {
+    "pozycja": "Ś",
+    "teamId": "128676"
+  },
+  "Owoc, Ryszard": {
+    "pozycja": "Ś",
+    "teamId": "128676"
+  },
+  "Stępak, Sebastian": {
+    "pozycja": "Ś",
+    "teamId": "128676"
+  },
+  "Pankowski, Paweł": {
+    "pozycja": "O",
+    "teamId": "128579"
+  },
+  "Wilk, Kacper": {
+    "pozycja": "O",
+    "teamId": "128579"
+  },
+  "Stankiewicz, Piotr": {
+    "pozycja": "L",
+    "teamId": "128579"
+  },
+  "Alcântara, Olivério": {
+    "pozycja": "L",
+    "teamId": "128579"
+  },
+  "Travnicek, Adam": {
+    "pozycja": "P",
+    "teamId": "128579"
+  },
+  "Namysło, Jan": {
+    "pozycja": "P",
+    "teamId": "128579"
+  },
+  "Ignaczak, Mateusz": {
+    "pozycja": "P",
+    "teamId": "128579"
+  },
+  "Taracha, Wiktor": {
+    "pozycja": "P",
+    "teamId": "128579"
+  },
+  "Komorowski, Mateusz": {
+    "pozycja": "S",
+    "teamId": "128579"
+  },
+  "Zawadzki, Maciej": {
+    "pozycja": "S",
+    "teamId": "128579"
+  },
+  "Gomez, Damian": {
+    "pozycja": "Ś",
+    "teamId": "128579"
+  },
+  "Yuze, Ma": {
+    "pozycja": "Ś",
+    "teamId": "128579"
+  },
+  "Usseglio, Italo": {
+    "pozycja": "Ś",
+    "teamId": "128579"
+  },
+  "Xiangda, Sakchai": {
+    "pozycja": "Ś",
+    "teamId": "128579"
+  },
+  "Gallegos, Basilio": {
+    "pozycja": "Ś",
+    "teamId": "128579"
+  },
+  "Chunxian, Yong": {
+    "pozycja": "Ś",
+    "teamId": "128579"
+  },
+  "Chuanhao, See-Yuen": {
+    "pozycja": "Ś",
+    "teamId": "128579"
+  },
+  "Stathakopoulos, Alkis": {
+    "pozycja": "Ś",
+    "teamId": "128579"
+  },
+  "Handa, Yuuharu": {
+    "pozycja": "O",
+    "teamId": "137449"
+  },
+  "Lasek, Adam": {
+    "pozycja": "O",
+    "teamId": "137449"
+  },
+  "Gralewicz, Adam": {
+    "pozycja": "O",
+    "teamId": "137449"
+  },
+  "Grzymski, Daniel": {
+    "pozycja": "L",
+    "teamId": "137449"
+  },
+  "Kosorić, Elmin": {
+    "pozycja": "L",
+    "teamId": "137449"
+  },
+  "Armatys, Bogusław": {
+    "pozycja": "P",
+    "teamId": "137449"
+  },
+  "Radny, Mirosław": {
+    "pozycja": "P",
+    "teamId": "137449"
+  },
+  "Fijałkowski, Kacper": {
+    "pozycja": "P",
+    "teamId": "137449"
+  },
+  "Olejniczak, Jan": {
+    "pozycja": "S",
+    "teamId": "137449"
+  },
+  "Szmurło, Paweł": {
+    "pozycja": "S",
+    "teamId": "137449"
+  },
+  "Miecznikowski, Adam": {
+    "pozycja": "Ś",
+    "teamId": "137449"
+  },
+  "Chamera, Wiesław": {
+    "pozycja": "Ś",
+    "teamId": "137449"
+  },
+  "Arruda, Daniel": {
+    "pozycja": "Ś",
+    "teamId": "137449"
+  },
+  "Lichwa, Janusz": {
+    "pozycja": "O",
+    "teamId": "128769"
+  },
+  "Spychała, Bogusław": {
+    "pozycja": "O",
+    "teamId": "128769"
+  },
+  "Bugaj, Piotr": {
+    "pozycja": "L",
+    "teamId": "128769"
+  },
+  "Głogowski, Adam": {
+    "pozycja": "L",
+    "teamId": "128769"
+  },
+  "Przybyło, Oliwier": {
+    "pozycja": "P",
+    "teamId": "128769"
+  },
+  "Walczak, Michał": {
+    "pozycja": "P",
+    "teamId": "128769"
+  },
+  "Dobrek, Wiktor": {
+    "pozycja": "P",
+    "teamId": "128769"
+  },
+  "Osiński, Krzysztof": {
+    "pozycja": "P",
+    "teamId": "128769"
+  },
+  "Monkiewicz, Aleksy": {
+    "pozycja": "S",
+    "teamId": "128769"
+  },
+  "Çevren, Kutalp": {
+    "pozycja": "S",
+    "teamId": "128769"
+  },
+  "Gajda, Tymoteusz": {
+    "pozycja": "Ś",
+    "teamId": "128769"
+  },
+  "Millay, Eddy": {
+    "pozycja": "Ś",
+    "teamId": "128769"
+  },
+  "Õnnis, Toonart": {
+    "pozycja": "Ś",
+    "teamId": "128769"
+  },
+  "Šnúrik, Oto": {
+    "pozycja": "Ś",
+    "teamId": "128769"
+  },
+  "Altarocca, Leonardo": {
+    "pozycja": "Ś",
+    "teamId": "128769"
+  },
+  "Sakić, Kristijan": {
+    "pozycja": "Ś",
+    "teamId": "128769"
+  },
+  "Wiktor, Jarosław": {
+    "pozycja": "O",
+    "teamId": "128684"
+  },
+  "Vakros, Themistoklis": {
+    "pozycja": "O",
+    "teamId": "128684"
+  },
+  "Fido, Percy": {
+    "pozycja": "L",
+    "teamId": "128684"
+  },
+  "Toivanen, Harry": {
+    "pozycja": "L",
+    "teamId": "128684"
+  },
+  "Niemistö, Jere": {
+    "pozycja": "L",
+    "teamId": "128684"
+  },
+  "Matsumoto, Shichinosuke": {
+    "pozycja": "L",
+    "teamId": "128684"
+  },
+  "Rinne, Elias": {
+    "pozycja": "L",
+    "teamId": "128684"
+  },
+  "Sobczyński, Robert": {
+    "pozycja": "L",
+    "teamId": "128684"
+  },
+  "Dzierżek, Jerzy": {
+    "pozycja": "P",
+    "teamId": "128684"
+  },
+  "Jasiak, Piotr": {
+    "pozycja": "P",
+    "teamId": "128684"
+  },
+  "Lazić, Matijas": {
+    "pozycja": "P",
+    "teamId": "128684"
+  },
+  "Skiba, Tymoteusz": {
+    "pozycja": "P",
+    "teamId": "128684"
+  },
+  "Xuanren, Tat-wah": {
+    "pozycja": "S",
+    "teamId": "128684"
+  },
+  "Gontijo, Ismael": {
+    "pozycja": "S",
+    "teamId": "128684"
+  },
+  "Łaskawiec, Antoni": {
+    "pozycja": "Ś",
+    "teamId": "128684"
+  },
+  "Gros, Dominik": {
+    "pozycja": "Ś",
+    "teamId": "128684"
+  },
+  "Goffart, Jean": {
+    "pozycja": "O",
+    "teamId": "130611"
+  },
+  "Pareja, Edesio": {
+    "pozycja": "O",
+    "teamId": "130611"
+  },
+  "Wolniewicz, Ziemowit": {
+    "pozycja": "L",
+    "teamId": "130611"
+  },
+  "Marinho, Breno": {
+    "pozycja": "L",
+    "teamId": "130611"
+  },
+  "Georgiev, Nedko": {
+    "pozycja": "L",
+    "teamId": "130611"
+  },
+  "Pączkowski, Mateusz": {
+    "pozycja": "P",
+    "teamId": "130611"
+  },
+  "Żukowski, Robert": {
+    "pozycja": "P",
+    "teamId": "130611"
+  },
+  "Urbaniak, Marcin": {
+    "pozycja": "P",
+    "teamId": "130611"
+  },
+  "Macanović, Almin": {
+    "pozycja": "S",
+    "teamId": "130611"
+  },
+  "Bielecki, Stanisław": {
+    "pozycja": "S",
+    "teamId": "130611"
+  },
+  "Wiśniewski, Sylwester": {
+    "pozycja": "Ś",
+    "teamId": "130611"
+  },
+  "Borowski, Jarosław": {
+    "pozycja": "Ś",
+    "teamId": "130611"
+  },
+  "Grabner, Volkart": {
+    "pozycja": "Ś",
+    "teamId": "130611"
+  },
+  "Pycki, Michał": {
+    "pozycja": "Ś",
+    "teamId": "130611"
+  },
+  "Nowakowski, Kazimierz": {
+    "pozycja": "Ś",
+    "teamId": "130611"
+  },
+  "Omasta, Wojciech": {
+    "pozycja": "Ś",
+    "teamId": "130611"
+  },
+  "Sinagra, Corrado": {
+    "pozycja": "Ś",
+    "teamId": "130611"
+  },
+  "Conte, Massimiliano": {
+    "pozycja": "Ś",
+    "teamId": "130611"
+  },
+  "Szymkowiak, Patryk": {
+    "pozycja": "Ś",
+    "teamId": "130611"
+  },
+  "Róg, Jędrzej": {
+    "pozycja": "Ś",
+    "teamId": "130611"
+  },
+  "Piirainen, Thomas": {
+    "pozycja": "O",
+    "teamId": "130934"
+  },
+  "Simeonov, Miroslav": {
+    "pozycja": "O",
+    "teamId": "130934"
+  },
+  "Kejklíček, Jakub": {
+    "pozycja": "L",
+    "teamId": "130934"
+  },
+  "Šefčík, Bruno": {
+    "pozycja": "L",
+    "teamId": "130934"
+  },
+  "Longueira, Oscar": {
+    "pozycja": "P",
+    "teamId": "130934"
+  },
+  "Inagaki, Tsumasaburo": {
+    "pozycja": "P",
+    "teamId": "130934"
+  },
+  "McCall, Brian": {
+    "pozycja": "P",
+    "teamId": "130934"
+  },
+  "Pajer, Vojko": {
+    "pozycja": "S",
+    "teamId": "130934"
+  },
+  "Pitkänen, Lauri": {
+    "pozycja": "S",
+    "teamId": "130934"
+  },
+  "Hegedusic, Zivko": {
+    "pozycja": "S",
+    "teamId": "130934"
+  },
+  "Mark, Gabe": {
+    "pozycja": "S",
+    "teamId": "130934"
+  },
+  "Rossi, Yves": {
+    "pozycja": "S",
+    "teamId": "130934"
+  },
+  "Figueira, Nascimento": {
+    "pozycja": "Ś",
+    "teamId": "130934"
+  },
+  "Talčík, Gyula": {
+    "pozycja": "Ś",
+    "teamId": "130934"
+  },
+  "Neves, Adalberto": {
+    "pozycja": "Ś",
+    "teamId": "130934"
+  },
+  "Devizzia, Marcial": {
+    "pozycja": "Ś",
+    "teamId": "130934"
+  },
+  "Tomita, Toshio": {
+    "pozycja": "Ś",
+    "teamId": "130934"
+  },
+  "Okitsu, Ginzô": {
+    "pozycja": "Ś",
+    "teamId": "130934"
+  },
+  "Anev, Stoyan": {
+    "pozycja": "Ś",
+    "teamId": "130934"
+  },
+  "Szmytkowski, Łukasz": {
+    "pozycja": "O",
+    "teamId": "130565"
+  },
+  "Czerwiński, Radosław": {
+    "pozycja": "L",
+    "teamId": "130565"
+  },
+  "Gruszczyński, Maciej": {
+    "pozycja": "L",
+    "teamId": "130565"
+  },
+  "Hellströmer, Rudolf": {
+    "pozycja": "P",
+    "teamId": "130565"
+  },
+  "Wysocki, Witold": {
+    "pozycja": "P",
+    "teamId": "130565"
+  },
+  "Carrasco, Manel": {
+    "pozycja": "P",
+    "teamId": "130565"
+  },
+  "Masson, Anthony": {
+    "pozycja": "S",
+    "teamId": "130565"
+  },
+  "Benız, Egemen": {
+    "pozycja": "S",
+    "teamId": "130565"
+  },
+  "Wielach, Harald": {
+    "pozycja": "S",
+    "teamId": "130565"
+  },
+  "Sankiewicz, Kamil": {
+    "pozycja": "Ś",
+    "teamId": "130565"
+  },
+  "Wypych, Wiesław": {
+    "pozycja": "Ś",
+    "teamId": "130565"
+  },
+  "Żarski, Tomasz": {
+    "pozycja": "Ś",
+    "teamId": "130565"
+  },
+  "Szarko, Tymoteusz": {
+    "pozycja": "Ś",
+    "teamId": "130565"
+  },
+  "Cynk, Miłosz": {
+    "pozycja": "O",
+    "teamId": "128588"
+  },
+  "Stanek, Leszek": {
+    "pozycja": "O",
+    "teamId": "128588"
+  },
+  "Krummeich, Malte": {
+    "pozycja": "L",
+    "teamId": "128588"
+  },
+  "Szczechla, Klemens": {
+    "pozycja": "L",
+    "teamId": "128588"
+  },
+  "Kuhbrücke, Matthäus": {
+    "pozycja": "L",
+    "teamId": "128588"
+  },
+  "Portas, Paiva": {
+    "pozycja": "L",
+    "teamId": "128588"
+  },
+  "Dalay, Gökberk": {
+    "pozycja": "L",
+    "teamId": "128588"
+  },
+  "Nicholas, Erik": {
+    "pozycja": "L",
+    "teamId": "128588"
+  },
+  "Savorgnani, Nedo": {
+    "pozycja": "P",
+    "teamId": "128588"
+  },
+  "Walczak, Ryszard": {
+    "pozycja": "P",
+    "teamId": "128588"
+  },
+  "Kubak, Seweryn": {
+    "pozycja": "P",
+    "teamId": "128588"
+  },
+  "Portas, Fernando": {
+    "pozycja": "P",
+    "teamId": "128588"
+  },
+  "Arya, Tufan": {
+    "pozycja": "P",
+    "teamId": "128588"
+  },
+  "Karczewski, Józef": {
+    "pozycja": "P",
+    "teamId": "128588"
+  },
+  "Schabowicz, Miron": {
+    "pozycja": "P",
+    "teamId": "128588"
+  },
+  "Hartwig, Egon": {
+    "pozycja": "P",
+    "teamId": "128588"
+  },
+  "Çolpan, Tahir": {
+    "pozycja": "S",
+    "teamId": "128588"
+  },
+  "Łysiak, Maciej": {
+    "pozycja": "S",
+    "teamId": "128588"
+  },
+  "Stróżewski, Miron": {
+    "pozycja": "S",
+    "teamId": "128588"
+  },
+  "Janicki, Witold": {
+    "pozycja": "Ś",
+    "teamId": "128588"
+  },
+  "Staszewski, Maciej": {
+    "pozycja": "Ś",
+    "teamId": "128588"
+  },
+  "Williams, Stefan": {
+    "pozycja": "Ś",
+    "teamId": "128588"
+  },
+  "Nędza, Rafał": {
+    "pozycja": "Ś",
+    "teamId": "128588"
+  },
+  "Benoist, Niklas": {
+    "pozycja": "Ś",
+    "teamId": "128588"
+  },
+  "Hamı, Erkut": {
+    "pozycja": "Ś",
+    "teamId": "128588"
+  },
+  "Maalismaa, Ossi": {
+    "pozycja": "Ś",
+    "teamId": "128588"
+  },
+  "Kocic, Dimitrij": {
+    "pozycja": "O",
+    "teamId": "130854"
+  },
+  "Ziółek, Kacper": {
+    "pozycja": "L",
+    "teamId": "130854"
+  },
+  "Matei, Gheorghe": {
+    "pozycja": "L",
+    "teamId": "130854"
+  },
+  "Tošković, Aleksandar": {
+    "pozycja": "P",
+    "teamId": "130854"
+  },
+  "Lirca, Liviu": {
+    "pozycja": "P",
+    "teamId": "130854"
+  },
+  "Moder, Karol": {
+    "pozycja": "P",
+    "teamId": "130854"
+  },
+  "Kubiak, Tomasz": {
+    "pozycja": "S",
+    "teamId": "130854"
+  },
+  "Abbatangelo, Prospero": {
+    "pozycja": "S",
+    "teamId": "130854"
+  },
+  "Dziarmaga, Kacper": {
+    "pozycja": "Ś",
+    "teamId": "130854"
+  },
+  "Kulawiec, Marcin": {
+    "pozycja": "Ś",
+    "teamId": "130854"
+  },
+  "Pabjan, Zygmunt": {
+    "pozycja": "Ś",
+    "teamId": "130854"
+  },
+  "Brázda, Klement": {
+    "pozycja": "Ś",
+    "teamId": "130854"
+  },
+  "Palmgren, Valtteri": {
+    "pozycja": "Ś",
+    "teamId": "130854"
+  },
+  "Panský, Marto": {
+    "pozycja": "Ś",
+    "teamId": "130854"
+  },
+  "Grzebuła, Artur": {
+    "pozycja": "Ś",
+    "teamId": "130854"
+  },
+  "Cardell, Iván": {
+    "pozycja": "O",
+    "teamId": "130955"
+  },
+  "Xidis, Romaleos": {
+    "pozycja": "O",
+    "teamId": "130955"
+  },
+  "Pipczyński, Mateusz": {
+    "pozycja": "O",
+    "teamId": "130955"
+  },
+  "Milczyński, Dominik": {
+    "pozycja": "O",
+    "teamId": "130955"
+  },
+  "Domański, Bogusław": {
+    "pozycja": "L",
+    "teamId": "130955"
+  },
+  "Kostadinov, Dimitar": {
+    "pozycja": "L",
+    "teamId": "130955"
+  },
+  "Nepomuceno, Armando": {
+    "pozycja": "P",
+    "teamId": "130955"
+  },
+  "Yates, Lewis": {
+    "pozycja": "P",
+    "teamId": "130955"
+  },
+  "Raiciu, Fane": {
+    "pozycja": "P",
+    "teamId": "130955"
+  },
+  "Muñoz, Lolo": {
+    "pozycja": "P",
+    "teamId": "130955"
+  },
+  "Groff, Sylvain": {
+    "pozycja": "S",
+    "teamId": "130955"
+  },
+  "Rogóż, Michał": {
+    "pozycja": "S",
+    "teamId": "130955"
+  },
+  "Podlejski, Sebastian": {
+    "pozycja": "Ś",
+    "teamId": "130955"
+  },
+  "Zdolski, Sławomir": {
+    "pozycja": "Ś",
+    "teamId": "130955"
+  },
+  "Martyniak, Szczepan": {
+    "pozycja": "Ś",
+    "teamId": "130955"
+  },
+  "Koziak, Konrad": {
+    "pozycja": "O",
+    "teamId": "130915"
+  },
+  "Komisarczyk, Bartosz": {
+    "pozycja": "O",
+    "teamId": "130915"
+  },
+  "Olczak, Rafał": {
+    "pozycja": "L",
+    "teamId": "130915"
+  },
+  "Jankowski, Franciszek": {
+    "pozycja": "L",
+    "teamId": "130915"
+  },
+  "Malin, Vilho": {
+    "pozycja": "P",
+    "teamId": "130915"
+  },
+  "Kaczorowski, Tomasz": {
+    "pozycja": "P",
+    "teamId": "130915"
+  },
+  "Karubo, Tamasaburo": {
+    "pozycja": "P",
+    "teamId": "130915"
+  },
+  "Blanchard, Etienne": {
+    "pozycja": "S",
+    "teamId": "130915"
+  },
+  "Paige, Travis": {
+    "pozycja": "S",
+    "teamId": "130915"
+  },
+  "Meyer, Ludovic": {
+    "pozycja": "Ś",
+    "teamId": "130915"
+  },
+  "Timpanaro, Diego": {
+    "pozycja": "Ś",
+    "teamId": "130915"
+  },
+  "Ardito, Davide": {
+    "pozycja": "Ś",
+    "teamId": "130915"
+  },
+  "Walton, Joss": {
+    "pozycja": "Ś",
+    "teamId": "130915"
+  },
+  "Tacchi, Arnaldo": {
+    "pozycja": "Ś",
+    "teamId": "130915"
+  },
+  "Aliverti, Petrit": {
+    "pozycja": "Ś",
+    "teamId": "130915"
+  },
+  "Crespo, Miguel": {
+    "pozycja": "O",
+    "teamId": "128660"
+  },
+  "Tronconi, Sancho": {
+    "pozycja": "O",
+    "teamId": "128660"
+  },
+  "Haslinger, Oscar": {
+    "pozycja": "O",
+    "teamId": "128660"
+  },
+  "Wroniewicz, Bernard": {
+    "pozycja": "O",
+    "teamId": "128660"
+  },
+  "Ambroziak, Tomasz": {
+    "pozycja": "L",
+    "teamId": "128660"
+  },
+  "Nool, Märt": {
+    "pozycja": "L",
+    "teamId": "128660"
+  },
+  "Pierre, Guy": {
+    "pozycja": "L",
+    "teamId": "128660"
+  },
+  "Wycisk, Jerzy": {
+    "pozycja": "P",
+    "teamId": "128660"
+  },
+  "Czach, Kacper": {
+    "pozycja": "P",
+    "teamId": "128660"
+  },
+  "Bartos, Dariusz": {
+    "pozycja": "P",
+    "teamId": "128660"
+  },
+  "Kubik, Dariusz": {
+    "pozycja": "P",
+    "teamId": "128660"
+  },
+  "Guzowski, Sławomir": {
+    "pozycja": "S",
+    "teamId": "128660"
+  },
+  "Łukowicz, Dawid": {
+    "pozycja": "S",
+    "teamId": "128660"
+  },
+  "Bastos, Gian": {
+    "pozycja": "Ś",
+    "teamId": "128660"
+  },
+  "Jaworski, Mateusz": {
+    "pozycja": "Ś",
+    "teamId": "128660"
+  },
+  "Zdunek, Mikołaj": {
+    "pozycja": "Ś",
+    "teamId": "128660"
+  },
+  "Niedźwiecki, Andrzej": {
+    "pozycja": "Ś",
+    "teamId": "128660"
+  },
+  "Ściebura, Jeremiasz": {
+    "pozycja": "Ś",
+    "teamId": "128660"
+  },
+  "Bodin, Philippe": {
+    "pozycja": "O",
+    "teamId": "130959"
+  },
+  "Puzio, Dominik": {
+    "pozycja": "O",
+    "teamId": "130959"
+  },
+  "Mildner, Dawid": {
+    "pozycja": "L",
+    "teamId": "130959"
+  },
+  "Branzanti, Lapo": {
+    "pozycja": "L",
+    "teamId": "130959"
+  },
+  "Brzęcki, Michał": {
+    "pozycja": "P",
+    "teamId": "130959"
+  },
+  "Anders, Eric": {
+    "pozycja": "P",
+    "teamId": "130959"
+  },
+  "Pavlović, Veselin": {
+    "pozycja": "P",
+    "teamId": "130959"
+  },
+  "Porzucek, Jacek": {
+    "pozycja": "S",
+    "teamId": "130959"
+  },
+  "Saramati, Žiga": {
+    "pozycja": "S",
+    "teamId": "130959"
+  },
+  "Łopuch, Wiktor": {
+    "pozycja": "Ś",
+    "teamId": "130959"
+  },
+  "Ageladaris, Anaximandros": {
+    "pozycja": "Ś",
+    "teamId": "130959"
+  },
+  "Yanev, Yoto": {
+    "pozycja": "Ś",
+    "teamId": "130959"
+  },
+  "Ormenisan, Gheorghe": {
+    "pozycja": "Ś",
+    "teamId": "130959"
+  },
+  "Lusini, Baldassarre": {
+    "pozycja": "Ś",
+    "teamId": "130959"
+  },
+  "Nijpels, Raymond": {
+    "pozycja": "Ś",
+    "teamId": "130959"
+  },
+  "Urbański, Kamil": {
+    "pozycja": "Ś",
+    "teamId": "130959"
+  },
+  "Bleecker, Tomas": {
+    "pozycja": "Ś",
+    "teamId": "130959"
+  },
+  "Wydrzyński, Mikołaj": {
+    "pozycja": "Ś",
+    "teamId": "130959"
+  },
+  "Sochaj, Michał": {
+    "pozycja": "Ś",
+    "teamId": "130959"
+  },
+  "Kuchta, Jakub": {
+    "pozycja": "O",
+    "teamId": "130972"
+  },
+  "Tianxian, Jingbo": {
+    "pozycja": "O",
+    "teamId": "130972"
+  },
+  "Bellini, Raoni": {
+    "pozycja": "O",
+    "teamId": "130972"
+  },
+  "Kaku, Shinsuke": {
+    "pozycja": "L",
+    "teamId": "130972"
+  },
+  "Mezzera, Lapo": {
+    "pozycja": "L",
+    "teamId": "130972"
+  },
+  "Maltoni, Alessio": {
+    "pozycja": "L",
+    "teamId": "130972"
+  },
+  "Kaszubowski, Piotr": {
+    "pozycja": "L",
+    "teamId": "130972"
+  },
+  "Macanović, Eldin": {
+    "pozycja": "L",
+    "teamId": "130972"
+  },
+  "Jurcević, Almir": {
+    "pozycja": "L",
+    "teamId": "130972"
+  },
+  "Quanzhi, Yong": {
+    "pozycja": "P",
+    "teamId": "130972"
+  },
+  "Jianwen, Sun": {
+    "pozycja": "P",
+    "teamId": "130972"
+  },
+  "Szyszkowski, Jerzy": {
+    "pozycja": "P",
+    "teamId": "130972"
+  },
+  "Chufang, Keyi": {
+    "pozycja": "P",
+    "teamId": "130972"
+  },
+  "Cheung, Pornchai": {
+    "pozycja": "P",
+    "teamId": "130972"
+  },
+  "Krawczyk, Piotr": {
+    "pozycja": "P",
+    "teamId": "130972"
+  },
+  "Buszyński, Piotr": {
+    "pozycja": "S",
+    "teamId": "130972"
+  },
+  "Gan, Tesshô": {
+    "pozycja": "S",
+    "teamId": "130972"
+  },
+  "Bécot, Raphaël": {
+    "pozycja": "S",
+    "teamId": "130972"
+  },
+  "Jaroszyński, Jan": {
+    "pozycja": "Ś",
+    "teamId": "130972"
+  },
+  "Lianting, Xin-Gang": {
+    "pozycja": "Ś",
+    "teamId": "130972"
+  },
+  "Mimura, Ryoji": {
+    "pozycja": "Ś",
+    "teamId": "130972"
+  },
+  "Kremenović, Bilal": {
+    "pozycja": "O",
+    "teamId": "128751"
+  },
+  "Kędzierski, Czesław": {
+    "pozycja": "O",
+    "teamId": "128751"
+  },
+  "Mołda, Teodor": {
+    "pozycja": "L",
+    "teamId": "128751"
+  },
+  "Wilkerson, Steve": {
+    "pozycja": "L",
+    "teamId": "128751"
+  },
+  "Amaral, Altino": {
+    "pozycja": "L",
+    "teamId": "128751"
+  },
+  "Brzeziński, Jarosław": {
+    "pozycja": "P",
+    "teamId": "128751"
+  },
+  "Mrowiec, Iwo": {
+    "pozycja": "P",
+    "teamId": "128751"
+  },
+  "Santos, Américo": {
+    "pozycja": "P",
+    "teamId": "128751"
+  },
+  "Lázaro, Flávio": {
+    "pozycja": "S",
+    "teamId": "128751"
+  },
+  "Estevão, Luciano": {
+    "pozycja": "S",
+    "teamId": "128751"
+  },
+  "Deć, Wojciech": {
+    "pozycja": "S",
+    "teamId": "128751"
+  },
+  "Lehepuu, Kurni": {
+    "pozycja": "Ś",
+    "teamId": "128751"
+  },
+  "Rocławski, Władysław": {
+    "pozycja": "Ś",
+    "teamId": "128751"
+  },
+  "Hella, Donald": {
+    "pozycja": "Ś",
+    "teamId": "128751"
+  },
+  "Wijsmans, Gabriel": {
+    "pozycja": "Ś",
+    "teamId": "128751"
+  },
+  "Roels, Ghislain": {
+    "pozycja": "Ś",
+    "teamId": "128751"
+  },
+  "Cooreman, Guillaume": {
+    "pozycja": "Ś",
+    "teamId": "128751"
+  },
+  "Janković, Radoslav": {
+    "pozycja": "Ś",
+    "teamId": "128751"
+  },
+  "Drąg, Marek": {
+    "pozycja": "O",
+    "teamId": "128686"
+  },
+  "Kosakowski, Zygmunt": {
+    "pozycja": "O",
+    "teamId": "128686"
+  },
+  "Stencel, Szymon": {
+    "pozycja": "O",
+    "teamId": "128686"
+  },
+  "Krabec, Dudek": {
+    "pozycja": "O",
+    "teamId": "128686"
+  },
+  "Velho, Mateus": {
+    "pozycja": "L",
+    "teamId": "128686"
+  },
+  "Nichols, Charles": {
+    "pozycja": "L",
+    "teamId": "128686"
+  },
+  "Stijnen, Axel": {
+    "pozycja": "L",
+    "teamId": "128686"
+  },
+  "Mizieliński, Michał": {
+    "pozycja": "P",
+    "teamId": "128686"
+  },
+  "Głąb, Marcin": {
+    "pozycja": "P",
+    "teamId": "128686"
+  },
+  "Drozd, Przemysław": {
+    "pozycja": "P",
+    "teamId": "128686"
+  },
+  "da Mata, Leandro": {
+    "pozycja": "S",
+    "teamId": "128686"
+  },
+  "Garriga, Jean-Paul": {
+    "pozycja": "S",
+    "teamId": "128686"
+  },
+  "Pałasz, Jakub": {
+    "pozycja": "Ś",
+    "teamId": "128686"
+  },
+  "Hilla, Tarsaci": {
+    "pozycja": "Ś",
+    "teamId": "128686"
+  },
+  "Hoogzaad, Jules": {
+    "pozycja": "Ś",
+    "teamId": "128686"
+  },
+  "Andrzejewski, Igor": {
+    "pozycja": "Ś",
+    "teamId": "128686"
+  },
+  "Neves, Damião": {
+    "pozycja": "O",
+    "teamId": "130891"
+  },
+  "Bozhinov, Vasil": {
+    "pozycja": "O",
+    "teamId": "130891"
+  },
+  "Vavasseur, Christophe": {
+    "pozycja": "L",
+    "teamId": "130891"
+  },
+  "Álvares, Aparício": {
+    "pozycja": "L",
+    "teamId": "130891"
+  },
+  "Burzyński, Jakub": {
+    "pozycja": "P",
+    "teamId": "130891"
+  },
+  "Roskar, Sebastijan": {
+    "pozycja": "P",
+    "teamId": "130891"
+  },
+  "Turowski, Stanisław": {
+    "pozycja": "P",
+    "teamId": "130891"
+  },
+  "Imamura, Golgo": {
+    "pozycja": "P",
+    "teamId": "130891"
+  },
+  "Kacperski, Marcin": {
+    "pozycja": "S",
+    "teamId": "130891"
+  },
+  "Alvarenga, Abelardo": {
+    "pozycja": "S",
+    "teamId": "130891"
+  },
+  "Foglia, Pierre": {
+    "pozycja": "Ś",
+    "teamId": "130891"
+  },
+  "Arsov, Mihail": {
+    "pozycja": "Ś",
+    "teamId": "130891"
+  },
+  "Knap, Wiesław": {
+    "pozycja": "Ś",
+    "teamId": "130891"
+  },
+  "Giczewski, Piotr": {
+    "pozycja": "O",
+    "teamId": "128799"
+  },
+  "Joubert, Adrien": {
+    "pozycja": "O",
+    "teamId": "128799"
+  },
+  "Snoek, Hubert": {
+    "pozycja": "L",
+    "teamId": "128799"
+  },
+  "Gérôme, Prodromos": {
+    "pozycja": "L",
+    "teamId": "128799"
+  },
+  "Kaiserslautern, Reinert": {
+    "pozycja": "P",
+    "teamId": "128799"
+  },
+  "Cotte, Jean-Michel": {
+    "pozycja": "P",
+    "teamId": "128799"
+  },
+  "Kabengele, Guido": {
+    "pozycja": "P",
+    "teamId": "128799"
+  },
+  "Müürsepp, Efim": {
+    "pozycja": "P",
+    "teamId": "128799"
+  },
+  "Koźbiał, Leon": {
+    "pozycja": "S",
+    "teamId": "128799"
+  },
+  "Nedyalkov, Angel": {
+    "pozycja": "S",
+    "teamId": "128799"
+  },
+  "Lassalle, Dylan": {
+    "pozycja": "Ś",
+    "teamId": "128799"
+  },
+  "Zieliński, Piotr": {
+    "pozycja": "Ś",
+    "teamId": "128799"
+  },
+  "Bruno, Christophe": {
+    "pozycja": "Ś",
+    "teamId": "128799"
+  },
+  "Lewczuk, Jarosław": {
+    "pozycja": "O",
+    "teamId": "128613"
+  },
+  "Buczkowski, Krystian": {
+    "pozycja": "O",
+    "teamId": "128613"
+  },
+  "Różański, Marcin": {
+    "pozycja": "L",
+    "teamId": "128613"
+  },
+  "Rakić, Srdjan": {
+    "pozycja": "L",
+    "teamId": "128613"
+  },
+  "Korpysa, Tadeusz": {
+    "pozycja": "P",
+    "teamId": "128613"
+  },
+  "Wojciechowski, Dawid": {
+    "pozycja": "P",
+    "teamId": "128613"
+  },
+  "Dobiasz, Wojciech": {
+    "pozycja": "P",
+    "teamId": "128613"
+  },
+  "Fumagalli, Mauro": {
+    "pozycja": "P",
+    "teamId": "128613"
+  },
+  "Etheridge, Nate": {
+    "pozycja": "S",
+    "teamId": "128613"
+  },
+  "Wolfe, Edgar": {
+    "pozycja": "S",
+    "teamId": "128613"
+  },
+  "Bont, Boy": {
+    "pozycja": "Ś",
+    "teamId": "128613"
+  },
+  "Rosener, Rolf": {
+    "pozycja": "Ś",
+    "teamId": "128613"
+  },
+  "Dresselhuys, Rolf": {
+    "pozycja": "Ś",
+    "teamId": "128613"
+  },
+  "Werner, Bartłomiej": {
+    "pozycja": "O",
+    "teamId": "128772"
+  },
+  "Temperini, Norberto": {
+    "pozycja": "O",
+    "teamId": "128772"
+  },
+  "Jowitt, Sean": {
+    "pozycja": "L",
+    "teamId": "128772"
+  },
+  "Zachciał, Arkadiusz": {
+    "pozycja": "L",
+    "teamId": "128772"
+  },
+  "Bulik, Maciej": {
+    "pozycja": "P",
+    "teamId": "128772"
+  },
+  "Sakowski, Maciej": {
+    "pozycja": "P",
+    "teamId": "128772"
+  },
+  "Jaganjac, Emil": {
+    "pozycja": "P",
+    "teamId": "128772"
+  },
+  "Przytuła, Adam": {
+    "pozycja": "P",
+    "teamId": "128772"
+  },
+  "Michalski, Bolesław": {
+    "pozycja": "S",
+    "teamId": "128772"
+  },
+  "Foulon, Allan": {
+    "pozycja": "S",
+    "teamId": "128772"
+  },
+  "Terrasson, Jérôme": {
+    "pozycja": "Ś",
+    "teamId": "128772"
+  },
+  "Sznajder, Mikołaj": {
+    "pozycja": "Ś",
+    "teamId": "128772"
+  },
+  "Resende, Tito": {
+    "pozycja": "Ś",
+    "teamId": "128772"
+  },
+  "Rasała, Jakub": {
+    "pozycja": "O",
+    "teamId": "128786"
+  },
+  "Reinthaller, Bohumil": {
+    "pozycja": "O",
+    "teamId": "128786"
+  },
+  "Zając, Bogdan": {
+    "pozycja": "L",
+    "teamId": "128786"
+  },
+  "Tomalik, Antoni": {
+    "pozycja": "L",
+    "teamId": "128786"
+  },
+  "Strobl, Clemens": {
+    "pozycja": "P",
+    "teamId": "128786"
+  },
+  "Venturini, Taumaturgo": {
+    "pozycja": "P",
+    "teamId": "128786"
+  },
+  "Barišić, Arnes": {
+    "pozycja": "P",
+    "teamId": "128786"
+  },
+  "Bolgarov, Martin": {
+    "pozycja": "P",
+    "teamId": "128786"
+  },
+  "Smid, Wouter": {
+    "pozycja": "P",
+    "teamId": "128786"
+  },
+  "İrem, Kudret": {
+    "pozycja": "P",
+    "teamId": "128786"
+  },
+  "Marino, Gianni": {
+    "pozycja": "S",
+    "teamId": "128786"
+  },
+  "Pelev, Petar": {
+    "pozycja": "S",
+    "teamId": "128786"
+  },
+  "Wasil, Paweł": {
+    "pozycja": "Ś",
+    "teamId": "128786"
+  },
+  "Żelichowski, Damian": {
+    "pozycja": "Ś",
+    "teamId": "128786"
+  },
+  "Štohl, Boris": {
+    "pozycja": "Ś",
+    "teamId": "128786"
+  },
+  "Deniel, Frédéric": {
+    "pozycja": "O",
+    "teamId": "128659"
+  },
+  "Cook, Drew": {
+    "pozycja": "O",
+    "teamId": "128659"
+  },
+  "Şahsene, Görkem": {
+    "pozycja": "L",
+    "teamId": "128659"
+  },
+  "Corvucci, Giancarlo": {
+    "pozycja": "L",
+    "teamId": "128659"
+  },
+  "Nestorowicz, Marcel": {
+    "pozycja": "P",
+    "teamId": "128659"
+  },
+  "Hernik, Andrzej": {
+    "pozycja": "P",
+    "teamId": "128659"
+  },
+  "Evangelista, Robinson": {
+    "pozycja": "P",
+    "teamId": "128659"
+  },
+  "Lis, Konrad": {
+    "pozycja": "P",
+    "teamId": "128659"
+  },
+  "Serafiński, Andrzej": {
+    "pozycja": "S",
+    "teamId": "128659"
+  },
+  "Perrari, Bruno": {
+    "pozycja": "S",
+    "teamId": "128659"
+  },
+  "Gouze, François": {
+    "pozycja": "Ś",
+    "teamId": "128659"
+  },
+  "Angelov, Yordan": {
+    "pozycja": "Ś",
+    "teamId": "128659"
+  },
+  "Ławski, Mikołaj": {
+    "pozycja": "Ś",
+    "teamId": "128659"
+  },
+  "Malato, Tozé": {
+    "pozycja": "Ś",
+    "teamId": "128659"
+  },
+  "Klocker, Julian": {
+    "pozycja": "Ś",
+    "teamId": "128659"
+  },
+  "Sacriste, Christophe": {
+    "pozycja": "O",
+    "teamId": "128756"
+  },
+  "Nesım, Kerim": {
+    "pozycja": "O",
+    "teamId": "128756"
+  },
+  "Grajczyk, Edward": {
+    "pozycja": "L",
+    "teamId": "128756"
+  },
+  "Niesłuchowski, Przemysław": {
+    "pozycja": "L",
+    "teamId": "128756"
+  },
+  "Pasek, Jan": {
+    "pozycja": "P",
+    "teamId": "128756"
+  },
+  "Paśkiewicz, Igor": {
+    "pozycja": "P",
+    "teamId": "128756"
+  },
+  "Pěnkava, František": {
+    "pozycja": "P",
+    "teamId": "128756"
+  },
+  "Avelino, Otaviano": {
+    "pozycja": "P",
+    "teamId": "128756"
+  },
+  "Aleksić, Siniša": {
+    "pozycja": "P",
+    "teamId": "128756"
+  },
+  "Kwiecień, Henryk": {
+    "pozycja": "S",
+    "teamId": "128756"
+  },
+  "Leone, Clodoaldo": {
+    "pozycja": "S",
+    "teamId": "128756"
+  },
+  "Boczula, Krzysztof": {
+    "pozycja": "Ś",
+    "teamId": "128756"
+  },
+  "Quadros, Fabrício": {
+    "pozycja": "Ś",
+    "teamId": "128756"
+  },
+  "Reina, Franck": {
+    "pozycja": "O",
+    "teamId": "128809"
+  },
+  "Šuler, Damjan": {
+    "pozycja": "O",
+    "teamId": "128809"
+  },
+  "Djurdjić, Mahir": {
+    "pozycja": "L",
+    "teamId": "128809"
+  },
+  "Stavrović, Bojan": {
+    "pozycja": "L",
+    "teamId": "128809"
+  },
+  "Bilski, Jakub": {
+    "pozycja": "P",
+    "teamId": "128809"
+  },
+  "Gofron, Tomasz": {
+    "pozycja": "P",
+    "teamId": "128809"
+  },
+  "Blažić, Cvetko": {
+    "pozycja": "P",
+    "teamId": "128809"
+  },
+  "Guy, Jon": {
+    "pozycja": "S",
+    "teamId": "128809"
+  },
+  "Fleuret, Laurent": {
+    "pozycja": "S",
+    "teamId": "128809"
+  },
+  "Crnčić, Franjo": {
+    "pozycja": "Ś",
+    "teamId": "128809"
+  },
+  "Alac, Matija": {
+    "pozycja": "Ś",
+    "teamId": "128809"
+  },
+  "Northwood, Patrick": {
+    "pozycja": "Ś",
+    "teamId": "128809"
+  },
+  "Ono, Mikihisa": {
+    "pozycja": "Ś",
+    "teamId": "128809"
+  },
+  "Akanishi, Ramo": {
+    "pozycja": "Ś",
+    "teamId": "128809"
+  },
+  "de Almeida, Edgar": {
+    "pozycja": "Ś",
+    "teamId": "128809"
+  },
+  "Malouhos, Koulis": {
+    "pozycja": "Ś",
+    "teamId": "128809"
+  },
+  "Elizalde, Álvaro": {
+    "pozycja": "Ś",
+    "teamId": "128809"
+  },
+  "Gallucci, Serafino": {
+    "pozycja": "Ś",
+    "teamId": "128809"
+  },
+  "Miziołek, Łukasz": {
+    "pozycja": "O",
+    "teamId": "128631"
+  },
+  "Krzyżanowski, Kamil": {
+    "pozycja": "O",
+    "teamId": "128631"
+  },
+  "Kania, Michał": {
+    "pozycja": "L",
+    "teamId": "128631"
+  },
+  "Versari, Gennaro": {
+    "pozycja": "L",
+    "teamId": "128631"
+  },
+  "Bujnowski, Piotr": {
+    "pozycja": "P",
+    "teamId": "128631"
+  },
+  "Mioduszewski, Kacper": {
+    "pozycja": "P",
+    "teamId": "128631"
+  },
+  "Rolnik, Karol": {
+    "pozycja": "P",
+    "teamId": "128631"
+  },
+  "Balev, Milcho": {
+    "pozycja": "S",
+    "teamId": "128631"
+  },
+  "Harizanov, Dragomir": {
+    "pozycja": "S",
+    "teamId": "128631"
+  },
+  "Podgórski, Kamil": {
+    "pozycja": "Ś",
+    "teamId": "128631"
+  },
+  "Łakoma, Juliusz": {
+    "pozycja": "Ś",
+    "teamId": "128631"
+  },
+  "Olewnik, Janusz": {
+    "pozycja": "Ś",
+    "teamId": "128631"
+  },
+  "Wyszecki, Piotr": {
+    "pozycja": "O",
+    "teamId": "128781"
+  },
+  "Chachulski, Henryk": {
+    "pozycja": "O",
+    "teamId": "128781"
+  },
+  "Lichota, Sebastian": {
+    "pozycja": "O",
+    "teamId": "128781"
+  },
+  "Macedo, Leopoldo": {
+    "pozycja": "L",
+    "teamId": "128781"
+  },
+  "Galassi, Valerio": {
+    "pozycja": "L",
+    "teamId": "128781"
+  },
+  "Himes, Daniel": {
+    "pozycja": "L",
+    "teamId": "128781"
+  },
+  "Murawski, Aleksander": {
+    "pozycja": "L",
+    "teamId": "128781"
+  },
+  "Karamatić, Amar": {
+    "pozycja": "P",
+    "teamId": "128781"
+  },
+  "Rybka, Paweł": {
+    "pozycja": "P",
+    "teamId": "128781"
+  },
+  "Vávra, Roman": {
+    "pozycja": "P",
+    "teamId": "128781"
+  },
+  "Canales, Silvino": {
+    "pozycja": "P",
+    "teamId": "128781"
+  },
+  "Szczypiorski, Kacper": {
+    "pozycja": "P",
+    "teamId": "128781"
+  },
+  "Zawadzki, Marcin": {
+    "pozycja": "P",
+    "teamId": "128781"
+  },
+  "Idanha, Gregório": {
+    "pozycja": "S",
+    "teamId": "128781"
+  },
+  "Petrić, Svetislav": {
+    "pozycja": "S",
+    "teamId": "128781"
+  },
+  "Budziszewski, Marek": {
+    "pozycja": "Ś",
+    "teamId": "128781"
+  },
+  "Bekić, Sanjin": {
+    "pozycja": "Ś",
+    "teamId": "128781"
+  },
+  "Silajdžić, Sulejman": {
+    "pozycja": "Ś",
+    "teamId": "128781"
+  },
+  "Sommer, Alf": {
+    "pozycja": "O",
+    "teamId": "130911"
+  },
+  "Późniak, Bartosz": {
+    "pozycja": "O",
+    "teamId": "130911"
+  },
+  "Morelli, Hugo": {
+    "pozycja": "L",
+    "teamId": "130911"
+  },
+  "Filek, Wiktor": {
+    "pozycja": "L",
+    "teamId": "130911"
+  },
+  "Hassa, Franciszek": {
+    "pozycja": "P",
+    "teamId": "130911"
+  },
+  "Vulić, Dragoslav": {
+    "pozycja": "P",
+    "teamId": "130911"
+  },
+  "Venkov, Dimitar": {
+    "pozycja": "P",
+    "teamId": "130911"
+  },
+  "Serrano, Everaldo": {
+    "pozycja": "P",
+    "teamId": "130911"
+  },
+  "Gao, Fei": {
+    "pozycja": "S",
+    "teamId": "130911"
+  },
+  "Brandão, João": {
+    "pozycja": "S",
+    "teamId": "130911"
+  },
+  "Żołądkowski, Juliusz": {
+    "pozycja": "S",
+    "teamId": "130911"
+  },
+  "Ashton, Jacob": {
+    "pozycja": "Ś",
+    "teamId": "130911"
+  },
+  "Kłos, Tomasz": {
+    "pozycja": "Ś",
+    "teamId": "130911"
+  },
+  "Mochizuki, Yuuharu": {
+    "pozycja": "Ś",
+    "teamId": "130911"
+  },
+  "Travers, Paddy": {
+    "pozycja": "Ś",
+    "teamId": "130911"
+  },
+  "Olaerts, Neo": {
+    "pozycja": "Ś",
+    "teamId": "130911"
+  },
+  "Carrillo, Michael": {
+    "pozycja": "Ś",
+    "teamId": "130911"
+  },
+  "Augustyniak, Andrzej": {
+    "pozycja": "Ś",
+    "teamId": "130911"
+  },
+  "Oleś, Michał": {
+    "pozycja": "O",
+    "teamId": "131179"
+  },
+  "Daimer, Edgar": {
+    "pozycja": "O",
+    "teamId": "131179"
+  },
+  "Marchisio, Anselmo": {
+    "pozycja": "O",
+    "teamId": "131179"
+  },
+  "Specker, Gotthelf": {
+    "pozycja": "L",
+    "teamId": "131179"
+  },
+  "Rotthal, Arian": {
+    "pozycja": "L",
+    "teamId": "131179"
+  },
+  "Czapla, Igor": {
+    "pozycja": "P",
+    "teamId": "131179"
+  },
+  "Nobili, Gustavo": {
+    "pozycja": "P",
+    "teamId": "131179"
+  },
+  "Asenov, Dimitar": {
+    "pozycja": "P",
+    "teamId": "131179"
+  },
+  "Hartmann, Dorian": {
+    "pozycja": "P",
+    "teamId": "131179"
+  },
+  "Ricci, Waldir": {
+    "pozycja": "S",
+    "teamId": "131179"
+  },
+  "Angelov, Dragomir": {
+    "pozycja": "S",
+    "teamId": "131179"
+  },
+  "Orro, Väino": {
+    "pozycja": "Ś",
+    "teamId": "131179"
+  },
+  "Abrhám, Igor": {
+    "pozycja": "Ś",
+    "teamId": "131179"
+  },
+  "Graovac, Mak": {
+    "pozycja": "Ś",
+    "teamId": "131179"
+  },
+  "Gyudurov, Vladimir": {
+    "pozycja": "Ś",
+    "teamId": "131179"
+  },
+  "Zagórski, Adam": {
+    "pozycja": "O",
+    "teamId": "130582"
+  },
+  "Szczerbiński, Paweł": {
+    "pozycja": "O",
+    "teamId": "130582"
+  },
+  "Diković, Benjamin": {
+    "pozycja": "O",
+    "teamId": "130582"
+  },
+  "Silvério, Wilson": {
+    "pozycja": "L",
+    "teamId": "130582"
+  },
+  "Skerlić, Filip": {
+    "pozycja": "L",
+    "teamId": "130582"
+  },
+  "Prim, Thierry": {
+    "pozycja": "L",
+    "teamId": "130582"
+  },
+  "Wójcik, Radosław": {
+    "pozycja": "P",
+    "teamId": "130582"
+  },
+  "Snoek, Dimitri": {
+    "pozycja": "P",
+    "teamId": "130582"
+  },
+  "Lima, Hércules": {
+    "pozycja": "P",
+    "teamId": "130582"
+  },
+  "Stefanov, Vasil": {
+    "pozycja": "P",
+    "teamId": "130582"
+  },
+  "Benedito, Leandro": {
+    "pozycja": "P",
+    "teamId": "130582"
+  },
+  "Nawrocki, Robert": {
+    "pozycja": "S",
+    "teamId": "130582"
+  },
+  "Hałaczkiewicz, Jakub": {
+    "pozycja": "S",
+    "teamId": "130582"
+  },
+  "Czwakiel, Leszek": {
+    "pozycja": "Ś",
+    "teamId": "130582"
+  },
+  "Czarny, Marek": {
+    "pozycja": "Ś",
+    "teamId": "130582"
+  },
+  "Uryga, Zygfryd": {
+    "pozycja": "Ś",
+    "teamId": "130582"
+  },
+  "Idziak, Jakub": {
+    "pozycja": "O",
+    "teamId": "128816"
+  },
+  "Sławiński, Tomasz": {
+    "pozycja": "O",
+    "teamId": "128816"
+  },
+  "Kwietniewski, Igor": {
+    "pozycja": "L",
+    "teamId": "128816"
+  },
+  "Olszowy, Seweryn": {
+    "pozycja": "L",
+    "teamId": "128816"
+  },
+  "Rippe, Philippe": {
+    "pozycja": "P",
+    "teamId": "128816"
+  },
+  "Ziaja, Dominik": {
+    "pozycja": "P",
+    "teamId": "128816"
+  },
+  "Magela, Cássio": {
+    "pozycja": "P",
+    "teamId": "128816"
+  },
+  "Głodowski, Jakub": {
+    "pozycja": "S",
+    "teamId": "128816"
+  },
+  "Varadinov, Ivan": {
+    "pozycja": "S",
+    "teamId": "128816"
+  },
+  "Antov, Vasil": {
+    "pozycja": "Ś",
+    "teamId": "128816"
+  },
+  "Paraskov, Angel": {
+    "pozycja": "Ś",
+    "teamId": "128816"
+  },
+  "Marcinek, Michał": {
+    "pozycja": "Ś",
+    "teamId": "128816"
+  },
+  "Krzyżak, Piotr": {
+    "pozycja": "Ś",
+    "teamId": "128816"
+  },
+  "Tyrka, Krzysztof": {
+    "pozycja": "O",
+    "teamId": "128629"
+  },
+  "Mečiar, Gašpar": {
+    "pozycja": "O",
+    "teamId": "128629"
+  },
+  "Nurselı, Tümer": {
+    "pozycja": "L",
+    "teamId": "128629"
+  },
+  "De Martínez, Héctor": {
+    "pozycja": "L",
+    "teamId": "128629"
+  },
+  "Hrusínský, Toman": {
+    "pozycja": "P",
+    "teamId": "128629"
+  },
+  "Gamboa, Emanuel": {
+    "pozycja": "P",
+    "teamId": "128629"
+  },
+  "Klimkiewicz, Igor": {
+    "pozycja": "P",
+    "teamId": "128629"
+  },
+  "Moracchini, Anthony": {
+    "pozycja": "S",
+    "teamId": "128629"
+  },
+  "Smiljanić, Darko": {
+    "pozycja": "S",
+    "teamId": "128629"
+  },
+  "Kotliński, Jakub": {
+    "pozycja": "Ś",
+    "teamId": "128629"
+  },
+  "Bienias, Miłosz": {
+    "pozycja": "Ś",
+    "teamId": "128629"
+  },
+  "Pulst, Knudt": {
+    "pozycja": "Ś",
+    "teamId": "128629"
+  },
+  "Circolo, Arnaldo": {
+    "pozycja": "Ś",
+    "teamId": "128629"
+  },
+  "Massias, Korbyn": {
+    "pozycja": "O",
+    "teamId": "131709"
+  },
+  "Del Piero, Pellegrino": {
+    "pozycja": "O",
+    "teamId": "131709"
+  },
+  "Salustiano, Elísio": {
+    "pozycja": "O",
+    "teamId": "131709"
+  },
+  "Czyżewski, Piotr": {
+    "pozycja": "L",
+    "teamId": "131709"
+  },
+  "Berkecan, Fikret": {
+    "pozycja": "L",
+    "teamId": "131709"
+  },
+  "Budzyński, Krzysztof": {
+    "pozycja": "P",
+    "teamId": "131709"
+  },
+  "Mendes, Agenor": {
+    "pozycja": "P",
+    "teamId": "131709"
+  },
+  "Palpacelli, Vittorio": {
+    "pozycja": "P",
+    "teamId": "131709"
+  },
+  "Dąbrowski, Aleksander": {
+    "pozycja": "S",
+    "teamId": "131709"
+  },
+  "Remonato, Patrizio": {
+    "pozycja": "S",
+    "teamId": "131709"
+  },
+  "Berberov, Tzvetan": {
+    "pozycja": "Ś",
+    "teamId": "131709"
+  },
+  "Pawlak, Tomasz": {
+    "pozycja": "Ś",
+    "teamId": "131709"
+  },
+  "Cian, Ivano": {
+    "pozycja": "Ś",
+    "teamId": "131709"
+  },
+  "Magela, Ruy": {
+    "pozycja": "O",
+    "teamId": "128616"
+  },
+  "Tavolaro, Bruno": {
+    "pozycja": "O",
+    "teamId": "128616"
+  },
+  "Yotov, Svetoslav": {
+    "pozycja": "L",
+    "teamId": "128616"
+  },
+  "Pietrzak, Sebastian": {
+    "pozycja": "L",
+    "teamId": "128616"
+  },
+  "Heller, Gilvan": {
+    "pozycja": "P",
+    "teamId": "128616"
+  },
+  "Lanhoso, António": {
+    "pozycja": "P",
+    "teamId": "128616"
+  },
+  "Hajrović, Tarik": {
+    "pozycja": "P",
+    "teamId": "128616"
+  },
+  "Amaro, Selésio": {
+    "pozycja": "P",
+    "teamId": "128616"
+  },
+  "Eller-Eberstein, Markus": {
+    "pozycja": "P",
+    "teamId": "128616"
+  },
+  "Dąbrowski, Marcin": {
+    "pozycja": "S",
+    "teamId": "128616"
+  },
+  "Dutra, Dalton": {
+    "pozycja": "S",
+    "teamId": "128616"
+  },
+  "Wolski, Adam": {
+    "pozycja": "Ś",
+    "teamId": "128616"
+  },
+  "Mrzygłód, Filip": {
+    "pozycja": "Ś",
+    "teamId": "128616"
+  },
+  "Cierpka, Krzysztof": {
+    "pozycja": "Ś",
+    "teamId": "128616"
+  },
+  "Bosić, Vuk": {
+    "pozycja": "Ś",
+    "teamId": "128616"
+  },
+  "Mirchev, Stefan": {
+    "pozycja": "Ś",
+    "teamId": "128616"
+  },
+  "Kronauer, Marc": {
+    "pozycja": "Ś",
+    "teamId": "128616"
+  },
+  "Kotarski, Franciszek": {
+    "pozycja": "O",
+    "teamId": "130549"
+  },
+  "Ména, Mathieu": {
+    "pozycja": "O",
+    "teamId": "130549"
+  },
+  "Szczepański, Roman": {
+    "pozycja": "L",
+    "teamId": "130549"
+  },
+  "Merinero, Francisco": {
+    "pozycja": "L",
+    "teamId": "130549"
+  },
+  "Michałowicz, Marcel": {
+    "pozycja": "P",
+    "teamId": "130549"
+  },
+  "Diaz, Jeremy": {
+    "pozycja": "P",
+    "teamId": "130549"
+  },
+  "Wicher, Waldemar": {
+    "pozycja": "P",
+    "teamId": "130549"
+  },
+  "Latovlevici, Dracul": {
+    "pozycja": "S",
+    "teamId": "130549"
+  },
+  "Espinha, Ilídio": {
+    "pozycja": "S",
+    "teamId": "130549"
+  },
+  "Roma, Dario": {
+    "pozycja": "Ś",
+    "teamId": "130549"
+  },
+  "Mizon, Sébastien": {
+    "pozycja": "Ś",
+    "teamId": "130549"
+  },
+  "Kamiński, Marcin": {
+    "pozycja": "Ś",
+    "teamId": "130549"
+  },
+  "Rumianowski, Michał": {
+    "pozycja": "Ś",
+    "teamId": "130549"
+  },
+  "Lolo, Dariusz": {
+    "pozycja": "Ś",
+    "teamId": "130549"
+  },
+  "Bartolomé, Pedro": {
+    "pozycja": "Ś",
+    "teamId": "130549"
+  },
+  "Aboim, Félix": {
+    "pozycja": "O",
+    "teamId": "130939"
+  },
+  "Bealer, Francisco": {
+    "pozycja": "O",
+    "teamId": "130939"
+  },
+  "Kosiński, Radosław": {
+    "pozycja": "L",
+    "teamId": "130939"
+  },
+  "Sochacki, Leszek": {
+    "pozycja": "L",
+    "teamId": "130939"
+  },
+  "Wrzesiński, Jeremi": {
+    "pozycja": "P",
+    "teamId": "130939"
+  },
+  "Henderson, Austin": {
+    "pozycja": "P",
+    "teamId": "130939"
+  },
+  "Wal, Wiktor": {
+    "pozycja": "P",
+    "teamId": "130939"
+  },
+  "Joguet, Romain": {
+    "pozycja": "S",
+    "teamId": "130939"
+  },
+  "Drąg, Michał": {
+    "pozycja": "S",
+    "teamId": "130939"
+  },
+  "Rzymski, Krystian": {
+    "pozycja": "Ś",
+    "teamId": "130939"
+  },
+  "Krawiec, Michał": {
+    "pozycja": "Ś",
+    "teamId": "130939"
+  },
+  "Hyla, Tomasz": {
+    "pozycja": "Ś",
+    "teamId": "130939"
+  },
+  "Świacki, Bartłomiej": {
+    "pozycja": "Ś",
+    "teamId": "130939"
+  },
+  "Kowalski, Wojciech": {
+    "pozycja": "Ś",
+    "teamId": "130939"
+  },
+  "Kaczmarek, Ernest": {
+    "pozycja": "Ś",
+    "teamId": "130939"
+  },
+  "Andrzejewski, Radosław": {
+    "pozycja": "O",
+    "teamId": "130574"
+  },
+  "Mladenov, Ivan": {
+    "pozycja": "O",
+    "teamId": "130574"
+  },
+  "Declerck, Bernard": {
+    "pozycja": "O",
+    "teamId": "130574"
+  },
+  "Bello, Léo": {
+    "pozycja": "L",
+    "teamId": "130574"
+  },
+  "Cabral, Bebeto": {
+    "pozycja": "L",
+    "teamId": "130574"
+  },
+  "Dimitreiescu, Neculai": {
+    "pozycja": "P",
+    "teamId": "130574"
+  },
+  "Branzanti, Enrico": {
+    "pozycja": "P",
+    "teamId": "130574"
+  },
+  "Gomes, Rogério": {
+    "pozycja": "P",
+    "teamId": "130574"
+  },
+  "Sügis, Evald": {
+    "pozycja": "P",
+    "teamId": "130574"
+  },
+  "Blaß, Alex": {
+    "pozycja": "P",
+    "teamId": "130574"
+  },
+  "Meissnitzer, Niclas": {
+    "pozycja": "P",
+    "teamId": "130574"
+  },
+  "Radliński, Andrzej": {
+    "pozycja": "S",
+    "teamId": "130574"
+  },
+  "Rafelsberger, Wolfgang": {
+    "pozycja": "S",
+    "teamId": "130574"
+  },
+  "Gryza, Adam": {
+    "pozycja": "Ś",
+    "teamId": "130574"
+  },
+  "Seunke, Tygo": {
+    "pozycja": "Ś",
+    "teamId": "130574"
+  },
+  "Henriksson, Yrjö": {
+    "pozycja": "Ś",
+    "teamId": "130574"
+  },
+  "Sarasvuo, Ari": {
+    "pozycja": "Ś",
+    "teamId": "130574"
+  },
+  "Larsen, Dan": {
+    "pozycja": "Ś",
+    "teamId": "130574"
+  },
+  "Fádlik, Alexej": {
+    "pozycja": "Ś",
+    "teamId": "130574"
+  },
+  "Shterev, Lyubomir": {
+    "pozycja": "O",
+    "teamId": "130954"
+  },
+  "Bartoli, Serafino": {
+    "pozycja": "L",
+    "teamId": "130954"
+  },
+  "Chakúrski, Valentin": {
+    "pozycja": "P",
+    "teamId": "130954"
+  },
+  "Kubik, Damian": {
+    "pozycja": "P",
+    "teamId": "130954"
+  },
+  "Piętka, Piotr": {
+    "pozycja": "S",
+    "teamId": "130954"
+  },
+  "Uzarski, Maciej": {
+    "pozycja": "Ś",
+    "teamId": "130954"
+  },
+  "Kozyra, Wojciech": {
+    "pozycja": "Ś",
+    "teamId": "130954"
+  },
+  "Jaroszek, Przemysław": {
+    "pozycja": "Ś",
+    "teamId": "130954"
+  },
+  "Vintém, Rodolfo": {
+    "pozycja": "Ś",
+    "teamId": "130954"
+  },
+  "Valdinoci, Fabiano": {
+    "pozycja": "Ś",
+    "teamId": "130954"
+  },
+  "Mallat, Gabriel": {
+    "pozycja": "Ś",
+    "teamId": "130954"
+  },
+  "Mihočko, Bruno": {
+    "pozycja": "Ś",
+    "teamId": "130954"
+  },
+  "Aldemır, Alkan": {
+    "pozycja": "Ś",
+    "teamId": "130954"
+  },
+  "Bakuła, Jakub": {
+    "pozycja": "Ś",
+    "teamId": "130954"
+  },
+  "Andruszków, Łukasz": {
+    "pozycja": "O",
+    "teamId": "131164"
+  },
+  "Ostrowski, Tadeusz": {
+    "pozycja": "O",
+    "teamId": "131164"
+  },
+  "Hayal, Orhan": {
+    "pozycja": "L",
+    "teamId": "131164"
+  },
+  "Kapetanakis, Mimis": {
+    "pozycja": "L",
+    "teamId": "131164"
+  },
+  "Rocchio, Pete": {
+    "pozycja": "L",
+    "teamId": "131164"
+  },
+  "Kaczmarski, Michał": {
+    "pozycja": "L",
+    "teamId": "131164"
+  },
+  "Chrzanowski, Andrzej": {
+    "pozycja": "L",
+    "teamId": "131164"
+  },
+  "Wysocki, Marek": {
+    "pozycja": "P",
+    "teamId": "131164"
+  },
+  "Tampier, Waldemar": {
+    "pozycja": "P",
+    "teamId": "131164"
+  },
+  "Jurkiewicz, Olaf": {
+    "pozycja": "P",
+    "teamId": "131164"
+  },
+  "Mroczkowski, Piotr": {
+    "pozycja": "S",
+    "teamId": "131164"
+  },
+  "Kurbiel, Ryszard": {
+    "pozycja": "S",
+    "teamId": "131164"
+  },
+  "Szmajdziński, Szymon": {
+    "pozycja": "Ś",
+    "teamId": "131164"
+  },
+  "Chagas, Genilson": {
+    "pozycja": "Ś",
+    "teamId": "131164"
+  },
+  "Siepe, Jan-Christian": {
+    "pozycja": "Ś",
+    "teamId": "131164"
+  },
+  "Wiśniewski, Tomasz": {
+    "pozycja": "O",
+    "teamId": "128717"
+  },
+  "Cunningham, Josh": {
+    "pozycja": "O",
+    "teamId": "128717"
+  },
+  "Godinez, Jason": {
+    "pozycja": "O",
+    "teamId": "128717"
+  },
+  "Cholpanov, Georgi": {
+    "pozycja": "L",
+    "teamId": "128717"
+  },
+  "Kosikowski, Tomasz": {
+    "pozycja": "L",
+    "teamId": "128717"
+  },
+  "Moura, Erasmo": {
+    "pozycja": "P",
+    "teamId": "128717"
+  },
+  "Morice, Owen": {
+    "pozycja": "P",
+    "teamId": "128717"
+  },
+  "Leone, Teodoro": {
+    "pozycja": "P",
+    "teamId": "128717"
+  },
+  "Czajkowski, Tomasz": {
+    "pozycja": "P",
+    "teamId": "128717"
+  },
+  "Omenazzo, Remo": {
+    "pozycja": "P",
+    "teamId": "128717"
+  },
+  "Kwaśny, Bartosz": {
+    "pozycja": "P",
+    "teamId": "128717"
+  },
+  "Baron, Dawid": {
+    "pozycja": "P",
+    "teamId": "128717"
+  },
+  "Świderski, Jakub": {
+    "pozycja": "P",
+    "teamId": "128717"
+  },
+  "Maciejak, Piotr": {
+    "pozycja": "S",
+    "teamId": "128717"
+  },
+  "Maciejewski, Jan": {
+    "pozycja": "S",
+    "teamId": "128717"
+  },
+  "Siudaj, Daniel": {
+    "pozycja": "S",
+    "teamId": "128717"
+  },
+  "Zdaniewicz, Piotr": {
+    "pozycja": "Ś",
+    "teamId": "128717"
+  },
+  "Tomaszewski, Michał": {
+    "pozycja": "Ś",
+    "teamId": "128717"
+  },
+  "Michta, Tomasz": {
+    "pozycja": "Ś",
+    "teamId": "128717"
+  },
+  "Woźniak, Adam": {
+    "pozycja": "O",
+    "teamId": "128603"
+  },
+  "Malinowski, Wiktor": {
+    "pozycja": "O",
+    "teamId": "128603"
+  },
+  "Gatti, Silo": {
+    "pozycja": "O",
+    "teamId": "128603"
+  },
+  "Gorzkiewicz, Jakub": {
+    "pozycja": "L",
+    "teamId": "128603"
+  },
+  "Reichholf, David": {
+    "pozycja": "L",
+    "teamId": "128603"
+  },
+  "Campello, Bira": {
+    "pozycja": "P",
+    "teamId": "128603"
+  },
+  "Zieliński, Zbigniew": {
+    "pozycja": "P",
+    "teamId": "128603"
+  },
+  "Todorović, Jasmin": {
+    "pozycja": "P",
+    "teamId": "128603"
+  },
+  "Dujković, Hamza": {
+    "pozycja": "P",
+    "teamId": "128603"
+  },
+  "Ubiparip, Alem": {
+    "pozycja": "P",
+    "teamId": "128603"
+  },
+  "Bednarek, Dariusz": {
+    "pozycja": "P",
+    "teamId": "128603"
+  },
+  "Dmoch, Dawid": {
+    "pozycja": "S",
+    "teamId": "128603"
+  },
+  "Juraszek, Mateusz": {
+    "pozycja": "S",
+    "teamId": "128603"
+  },
+  "Owsianna, Oliwier": {
+    "pozycja": "Ś",
+    "teamId": "128603"
+  },
+  "Wilczewski, Karol": {
+    "pozycja": "Ś",
+    "teamId": "128603"
+  },
+  "Mądra, Oliwier": {
+    "pozycja": "Ś",
+    "teamId": "128603"
+  },
+  "Rosiński, Jan": {
+    "pozycja": "O",
+    "teamId": "128657"
+  },
+  "Pławecki, Tomasz": {
+    "pozycja": "O",
+    "teamId": "128657"
+  },
+  "Gądek, Ignacy": {
+    "pozycja": "O",
+    "teamId": "128657"
+  },
+  "Rocchi, Geppino": {
+    "pozycja": "O",
+    "teamId": "128657"
+  },
+  "Belchev, Presiyan": {
+    "pozycja": "L",
+    "teamId": "128657"
+  },
+  "Formenti, Norberto": {
+    "pozycja": "L",
+    "teamId": "128657"
+  },
+  "Rutkowski, Daniel": {
+    "pozycja": "P",
+    "teamId": "128657"
+  },
+  "Fernandes, Antenor": {
+    "pozycja": "P",
+    "teamId": "128657"
+  },
+  "Flajs, Miklavž": {
+    "pozycja": "P",
+    "teamId": "128657"
+  },
+  "Gobec, Matevž": {
+    "pozycja": "P",
+    "teamId": "128657"
+  },
+  "Onohara, Kiiton": {
+    "pozycja": "S",
+    "teamId": "128657"
+  },
+  "Brischoux, Dorian": {
+    "pozycja": "S",
+    "teamId": "128657"
+  },
+  "Bajda, Ksawery": {
+    "pozycja": "Ś",
+    "teamId": "128657"
+  },
+  "Dudek, Marcin": {
+    "pozycja": "Ś",
+    "teamId": "128657"
+  },
+  "Sarecki, Kajetan": {
+    "pozycja": "Ś",
+    "teamId": "128657"
+  },
+  "Barone, Juarez": {
+    "pozycja": "Ś",
+    "teamId": "128657"
+  },
+  "Cambet, Guillermo": {
+    "pozycja": "Ś",
+    "teamId": "128657"
+  },
+  "Valverde, Edvar": {
+    "pozycja": "O",
+    "teamId": "130945"
+  },
+  "Fılız, Adnan": {
+    "pozycja": "O",
+    "teamId": "130945"
+  },
+  "Malik, Filip": {
+    "pozycja": "L",
+    "teamId": "130945"
+  },
+  "Sawczuk, Piotr": {
+    "pozycja": "L",
+    "teamId": "130945"
+  },
+  "Bukowski, Marcin": {
+    "pozycja": "P",
+    "teamId": "130945"
+  },
+  "Carnaghi, Fabrizio": {
+    "pozycja": "P",
+    "teamId": "130945"
+  },
+  "Koter, Jakub": {
+    "pozycja": "P",
+    "teamId": "130945"
+  },
+  "Corsini, Vittorio": {
+    "pozycja": "S",
+    "teamId": "130945"
+  },
+  "de Andrade, Juliano": {
+    "pozycja": "S",
+    "teamId": "130945"
+  },
+  "Georgelin, Noël": {
+    "pozycja": "Ś",
+    "teamId": "130945"
+  },
+  "Godbert, Michel": {
+    "pozycja": "Ś",
+    "teamId": "130945"
+  },
+  "Lerat, Lucas": {
+    "pozycja": "Ś",
+    "teamId": "130945"
+  },
+  "Znamenák, Oldrich": {
+    "pozycja": "O",
+    "teamId": "131724"
+  },
+  "Chilewski, Maciej": {
+    "pozycja": "O",
+    "teamId": "131724"
+  },
+  "Patrashkov, Vasil": {
+    "pozycja": "O",
+    "teamId": "131724"
+  },
+  "Ganzulić, Vinko": {
+    "pozycja": "L",
+    "teamId": "131724"
+  },
+  "Marichael, Javier": {
+    "pozycja": "L",
+    "teamId": "131724"
+  },
+  "Di Gregorio, Orestes": {
+    "pozycja": "L",
+    "teamId": "131724"
+  },
+  "Hugo, Carlos": {
+    "pozycja": "P",
+    "teamId": "131724"
+  },
+  "Cabrita, Camilo": {
+    "pozycja": "P",
+    "teamId": "131724"
+  },
+  "Landriscina, Santiago": {
+    "pozycja": "P",
+    "teamId": "131724"
+  },
+  "Pietrzak, Michał": {
+    "pozycja": "P",
+    "teamId": "131724"
+  },
+  "Smolec, Tycjan": {
+    "pozycja": "S",
+    "teamId": "131724"
+  },
+  "Charoupas, Andreas": {
+    "pozycja": "S",
+    "teamId": "131724"
+  },
+  "Hutton, Des": {
+    "pozycja": "S",
+    "teamId": "131724"
+  },
+  "Urbla, Sepo": {
+    "pozycja": "S",
+    "teamId": "131724"
+  },
+  "Draper, Jo": {
+    "pozycja": "S",
+    "teamId": "131724"
+  },
+  "Gonzalez, Harley": {
+    "pozycja": "Ś",
+    "teamId": "131724"
+  },
+  "Matracki, Wiktor": {
+    "pozycja": "Ś",
+    "teamId": "131724"
+  },
+  "Kaczorek, Dariusz": {
+    "pozycja": "Ś",
+    "teamId": "131724"
+  },
+  "Antunes, Osvaldo": {
+    "pozycja": "O",
+    "teamId": "131293"
+  },
+  "Weber, Stanisław": {
+    "pozycja": "O",
+    "teamId": "131293"
+  },
+  "Zieliński, Rafał": {
+    "pozycja": "L",
+    "teamId": "131293"
+  },
+  "Bertani, Mino": {
+    "pozycja": "L",
+    "teamId": "131293"
+  },
+  "Kocur, Dominik": {
+    "pozycja": "P",
+    "teamId": "131293"
+  },
+  "Kołodziejski, Mateusz": {
+    "pozycja": "P",
+    "teamId": "131293"
+  },
+  "Merlin, Daniel": {
+    "pozycja": "P",
+    "teamId": "131293"
+  },
+  "Janiak, Andrzej": {
+    "pozycja": "S",
+    "teamId": "131293"
+  },
+  "Tempsch, Markus": {
+    "pozycja": "S",
+    "teamId": "131293"
+  },
+  "Szczypta, Wiktor": {
+    "pozycja": "Ś",
+    "teamId": "131293"
+  },
+  "Koziatek, Michał": {
+    "pozycja": "Ś",
+    "teamId": "131293"
+  },
+  "Palacios, Alfonso": {
+    "pozycja": "Ś",
+    "teamId": "131293"
+  },
+  "Mannara, Ruben": {
+    "pozycja": "Ś",
+    "teamId": "131293"
+  },
+  "Ueda, Kantarou": {
+    "pozycja": "O",
+    "teamId": "131086"
+  },
+  "Jałowiecki, Leonard": {
+    "pozycja": "O",
+    "teamId": "131086"
+  },
+  "Kowalczyk, Piotr": {
+    "pozycja": "L",
+    "teamId": "131086"
+  },
+  "McClelland, Rodney": {
+    "pozycja": "L",
+    "teamId": "131086"
+  },
+  "Bednarczyk, Ireneusz": {
+    "pozycja": "P",
+    "teamId": "131086"
+  },
+  "Wójcik, Paweł": {
+    "pozycja": "P",
+    "teamId": "131086"
+  },
+  "Aikawa, Tsumasaburo": {
+    "pozycja": "P",
+    "teamId": "131086"
+  },
+  "Wall, Mike": {
+    "pozycja": "S",
+    "teamId": "131086"
+  },
+  "Skibiński, Aleks": {
+    "pozycja": "S",
+    "teamId": "131086"
+  },
+  "Sawicki, Dariusz": {
+    "pozycja": "Ś",
+    "teamId": "131086"
+  },
+  "Penksa, Gejza": {
+    "pozycja": "Ś",
+    "teamId": "131086"
+  },
+  "Morishige, Nobuyoshi": {
+    "pozycja": "Ś",
+    "teamId": "131086"
+  },
+  "Renier, Pol": {
+    "pozycja": "Ś",
+    "teamId": "131086"
+  },
+  "Bajrić, Nikolaj": {
+    "pozycja": "Ś",
+    "teamId": "131086"
+  },
+  "Plešec, Alojz": {
+    "pozycja": "Ś",
+    "teamId": "131086"
+  },
+  "Entwistle, Freddie": {
+    "pozycja": "Ś",
+    "teamId": "131086"
+  },
+  "Kavalekas, Orfeas": {
+    "pozycja": "Ś",
+    "teamId": "131086"
+  },
+  "Bergers, Spencer": {
+    "pozycja": "Ś",
+    "teamId": "131086"
+  },
+  "Onofre, Marques": {
+    "pozycja": "Ś",
+    "teamId": "131086"
+  },
+  "Bannerman, David": {
+    "pozycja": "Ś",
+    "teamId": "131086"
+  },
+  "Gillet, Yann": {
+    "pozycja": "O",
+    "teamId": "128636"
+  },
+  "Drent, Robertus": {
+    "pozycja": "O",
+    "teamId": "128636"
+  },
+  "Plasterk, Jernst": {
+    "pozycja": "O",
+    "teamId": "128636"
+  },
+  "Kipouros, Traianos": {
+    "pozycja": "L",
+    "teamId": "128636"
+  },
+  "Albescu, Valentini": {
+    "pozycja": "L",
+    "teamId": "128636"
+  },
+  "Simov, Vladko": {
+    "pozycja": "P",
+    "teamId": "128636"
+  },
+  "Reinbusch, Aare": {
+    "pozycja": "P",
+    "teamId": "128636"
+  },
+  "Noormägi, Ludvig": {
+    "pozycja": "P",
+    "teamId": "128636"
+  },
+  "Cambet, Osvaldo": {
+    "pozycja": "P",
+    "teamId": "128636"
+  },
+  "Kłosek, Kacper": {
+    "pozycja": "P",
+    "teamId": "128636"
+  },
+  "Tomaszewski, Hubert": {
+    "pozycja": "S",
+    "teamId": "128636"
+  },
+  "Iorga, Anton": {
+    "pozycja": "Ś",
+    "teamId": "128636"
+  },
+  "Roméro, Alexandre": {
+    "pozycja": "Ś",
+    "teamId": "128636"
+  },
+  "Barboianu, Cedric": {
+    "pozycja": "Ś",
+    "teamId": "128636"
+  },
+  "Stav, Marco": {
+    "pozycja": "Ś",
+    "teamId": "128636"
+  },
+  "Fotopoulos, Phedon": {
+    "pozycja": "Ś",
+    "teamId": "128636"
+  },
+  "Lima, Patricio": {
+    "pozycja": "Ś",
+    "teamId": "128636"
+  },
+  "Janiec, Hubert": {
+    "pozycja": "O",
+    "teamId": "128644"
+  },
+  "Jeszke, Wojciech": {
+    "pozycja": "O",
+    "teamId": "128644"
+  },
+  "Salatino, Adriano": {
+    "pozycja": "L",
+    "teamId": "128644"
+  },
+  "Vitanov, Boris": {
+    "pozycja": "L",
+    "teamId": "128644"
+  },
+  "Niedośpiał, Władysław": {
+    "pozycja": "L",
+    "teamId": "128644"
+  },
+  "Czubak, Dawid": {
+    "pozycja": "L",
+    "teamId": "128644"
+  },
+  "Capron, Stéphane": {
+    "pozycja": "P",
+    "teamId": "128644"
+  },
+  "Stąpór, Piotr": {
+    "pozycja": "P",
+    "teamId": "128644"
+  },
+  "Adamczyk, Waldemar": {
+    "pozycja": "P",
+    "teamId": "128644"
+  },
+  "Barge, Pascal": {
+    "pozycja": "S",
+    "teamId": "128644"
+  },
+  "Gibaud, Nicolas": {
+    "pozycja": "S",
+    "teamId": "128644"
+  },
+  "Sicaud, Damien": {
+    "pozycja": "Ś",
+    "teamId": "128644"
+  },
+  "Knaust, Fons": {
+    "pozycja": "Ś",
+    "teamId": "128644"
+  },
+  "Wichłacz, Zbigniew": {
+    "pozycja": "Ś",
+    "teamId": "128644"
+  },
+  "Jenkins, Maurice": {
+    "pozycja": "Ś",
+    "teamId": "128644"
+  },
+  "Ronchetti, Donatello": {
+    "pozycja": "O",
+    "teamId": "130595"
+  },
+  "Geraci, Donatello": {
+    "pozycja": "O",
+    "teamId": "130595"
+  },
+  "Filipiuk, Mateusz": {
+    "pozycja": "L",
+    "teamId": "130595"
+  },
+  "Mitev, Milcho": {
+    "pozycja": "L",
+    "teamId": "130595"
+  },
+  "Lins, Pablo": {
+    "pozycja": "P",
+    "teamId": "130595"
+  },
+  "Rawski, Jakub": {
+    "pozycja": "P",
+    "teamId": "130595"
+  },
+  "Smoła, Michał": {
+    "pozycja": "P",
+    "teamId": "130595"
+  },
+  "Prokopiak, Konrad": {
+    "pozycja": "S",
+    "teamId": "130595"
+  },
+  "Dadok, Jacek": {
+    "pozycja": "S",
+    "teamId": "130595"
+  },
+  "Wygoda, Franciszek": {
+    "pozycja": "S",
+    "teamId": "130595"
+  },
+  "Ratajski, Alan": {
+    "pozycja": "S",
+    "teamId": "130595"
+  },
+  "Nowak, Mariusz": {
+    "pozycja": "Ś",
+    "teamId": "130595"
+  },
+  "Marzec, Grzegorz": {
+    "pozycja": "Ś",
+    "teamId": "130595"
+  },
+  "Silvares, Marcelo": {
+    "pozycja": "Ś",
+    "teamId": "130595"
+  },
+  "Niedbała, Lesław": {
+    "pozycja": "O",
+    "teamId": "130507"
+  },
+  "Siedlecki, Mikołaj": {
+    "pozycja": "O",
+    "teamId": "130507"
+  },
+  "Rak, Rafał": {
+    "pozycja": "L",
+    "teamId": "130507"
+  },
+  "Gadzała, Wiktor": {
+    "pozycja": "L",
+    "teamId": "130507"
+  },
+  "Gwóźdź, Piotr": {
+    "pozycja": "P",
+    "teamId": "130507"
+  },
+  "Jastrzębski, Aleks": {
+    "pozycja": "P",
+    "teamId": "130507"
+  },
+  "Szmaja, Jan": {
+    "pozycja": "P",
+    "teamId": "130507"
+  },
+  "Slavica, Oliver": {
+    "pozycja": "P",
+    "teamId": "130507"
+  },
+  "Tabaka, Marcin": {
+    "pozycja": "S",
+    "teamId": "130507"
+  },
+  "Orczykowski, Mateusz": {
+    "pozycja": "S",
+    "teamId": "130507"
+  },
+  "Myczkowski, Korneliusz": {
+    "pozycja": "Ś",
+    "teamId": "130507"
+  },
+  "Mossa, Camillo": {
+    "pozycja": "Ś",
+    "teamId": "130507"
+  },
+  "Darvas, Palo": {
+    "pozycja": "Ś",
+    "teamId": "130507"
+  },
+  "Stolarski, Jakub": {
+    "pozycja": "Ś",
+    "teamId": "130507"
+  },
+  "Kreuzmair, Isbert": {
+    "pozycja": "O",
+    "teamId": "131747"
+  },
+  "Adamczak, Michał": {
+    "pozycja": "O",
+    "teamId": "131747"
+  },
+  "Czajkowski, Krzysztof": {
+    "pozycja": "L",
+    "teamId": "131747"
+  },
+  "Siriwiboon, Kuan-chung": {
+    "pozycja": "L",
+    "teamId": "131747"
+  },
+  "Drąg, Marcin": {
+    "pozycja": "P",
+    "teamId": "131747"
+  },
+  "Kapcia, Janusz": {
+    "pozycja": "P",
+    "teamId": "131747"
+  },
+  "Brus, Bartłomiej": {
+    "pozycja": "P",
+    "teamId": "131747"
+  },
+  "Nerka, Krystian": {
+    "pozycja": "S",
+    "teamId": "131747"
+  },
+  "Rignault, Patrick": {
+    "pozycja": "S",
+    "teamId": "131747"
+  },
+  "Dudziak, Marian": {
+    "pozycja": "Ś",
+    "teamId": "131747"
+  },
+  "Sobczak, Zenon": {
+    "pozycja": "Ś",
+    "teamId": "131747"
+  },
+  "Witteveen, Peter": {
+    "pozycja": "Ś",
+    "teamId": "131747"
+  },
+  "Bont, Cor": {
+    "pozycja": "Ś",
+    "teamId": "131747"
+  },
+  "Piekarz, Bartosz": {
+    "pozycja": "Ś",
+    "teamId": "131747"
+  },
+  "Maciołek, Jan": {
+    "pozycja": "Ś",
+    "teamId": "131747"
+  },
+  "Viana, Lincoln": {
+    "pozycja": "O",
+    "teamId": "131147"
+  },
+  "Furmanek, Dawid": {
+    "pozycja": "O",
+    "teamId": "131147"
+  },
+  "Peake, Robert": {
+    "pozycja": "O",
+    "teamId": "131147"
+  },
+  "Kotlarski, Krzysztof": {
+    "pozycja": "L",
+    "teamId": "131147"
+  },
+  "Rahşan, Alptekin": {
+    "pozycja": "P",
+    "teamId": "131147"
+  },
+  "Pessegueiro, Urbino": {
+    "pozycja": "P",
+    "teamId": "131147"
+  },
+  "Şeyma, Turhan": {
+    "pozycja": "P",
+    "teamId": "131147"
+  },
+  "Śliwa, Zdzisław": {
+    "pozycja": "P",
+    "teamId": "131147"
+  },
+  "Srbić, Boško": {
+    "pozycja": "S",
+    "teamId": "131147"
+  },
+  "Celmer, Wojciech": {
+    "pozycja": "S",
+    "teamId": "131147"
+  },
+  "Espinheira, Óscar": {
+    "pozycja": "Ś",
+    "teamId": "131147"
+  },
+  "Lachowski, Dawid": {
+    "pozycja": "Ś",
+    "teamId": "131147"
+  },
+  "Medeiros, João": {
+    "pozycja": "Ś",
+    "teamId": "131147"
+  },
+  "Przewoźniak, Kamil": {
+    "pozycja": "Ś",
+    "teamId": "131147"
+  },
+  "Viira, Nazar": {
+    "pozycja": "Ś",
+    "teamId": "131147"
+  },
+  "Manarte, Altino": {
+    "pozycja": "Ś",
+    "teamId": "131147"
+  },
+  "Garbarino, Arcangelo": {
+    "pozycja": "Ś",
+    "teamId": "131147"
+  },
+  "Swat, Bartłomiej": {
+    "pozycja": "O",
+    "teamId": "131734"
+  },
+  "Bukowiecki, Stanisław": {
+    "pozycja": "O",
+    "teamId": "131734"
+  },
+  "Bienert, Hubert": {
+    "pozycja": "L",
+    "teamId": "131734"
+  },
+  "Wiśniewski, Grzegorz": {
+    "pozycja": "L",
+    "teamId": "131734"
+  },
+  "Zaleski, Filip": {
+    "pozycja": "L",
+    "teamId": "131734"
+  },
+  "Biernacki, Józef": {
+    "pozycja": "P",
+    "teamId": "131734"
+  },
+  "Paixão, Jonathan": {
+    "pozycja": "P",
+    "teamId": "131734"
+  },
+  "Wiśnios, Norbert": {
+    "pozycja": "P",
+    "teamId": "131734"
+  },
+  "Gyurov, Viktor": {
+    "pozycja": "S",
+    "teamId": "131734"
+  },
+  "Baldi, Giancarlo": {
+    "pozycja": "S",
+    "teamId": "131734"
+  },
+  "Cornaggia, Mario": {
+    "pozycja": "S",
+    "teamId": "131734"
+  },
+  "Kulbicki, Jerzy": {
+    "pozycja": "S",
+    "teamId": "131734"
+  },
+  "Bałaban, Andrzej": {
+    "pozycja": "Ś",
+    "teamId": "131734"
+  },
+  "Köpp, Hinrich": {
+    "pozycja": "Ś",
+    "teamId": "131734"
+  },
+  "Bratek, Jakub": {
+    "pozycja": "Ś",
+    "teamId": "131734"
+  },
+  "Ziarko, Jan": {
+    "pozycja": "O",
+    "teamId": "128794"
+  },
+  "Ivanov, Todor": {
+    "pozycja": "O",
+    "teamId": "128794"
+  },
+  "Abucewicz, Marcin": {
+    "pozycja": "L",
+    "teamId": "128794"
+  },
+  "Govedariča, Denis": {
+    "pozycja": "L",
+    "teamId": "128794"
+  },
+  "Sobczak, Daniel": {
+    "pozycja": "L",
+    "teamId": "128794"
+  },
+  "Teixeira, Evair": {
+    "pozycja": "L",
+    "teamId": "128794"
+  },
+  "Gębal, Ryszard": {
+    "pozycja": "P",
+    "teamId": "128794"
+  },
+  "Oglecevac, Faruk": {
+    "pozycja": "P",
+    "teamId": "128794"
+  },
+  "Bosch, Jesse": {
+    "pozycja": "P",
+    "teamId": "128794"
+  },
+  "Kiiskilä, Dajan": {
+    "pozycja": "P",
+    "teamId": "128794"
+  },
+  "Skrzypczak, Oskar": {
+    "pozycja": "P",
+    "teamId": "128794"
+  },
+  "Bırgen, Hurşit": {
+    "pozycja": "P",
+    "teamId": "128794"
+  },
+  "Kovacević, Luka": {
+    "pozycja": "P",
+    "teamId": "128794"
+  },
+  "Kołkowski, Błażej": {
+    "pozycja": "S",
+    "teamId": "128794"
+  },
+  "Wojciechowski, Dominik": {
+    "pozycja": "S",
+    "teamId": "128794"
+  },
+  "Kršmanović, Kerim": {
+    "pozycja": "Ś",
+    "teamId": "128794"
+  },
+  "Kraus, Tadeusz": {
+    "pozycja": "Ś",
+    "teamId": "128794"
+  },
+  "Bukowiński, Maciej": {
+    "pozycja": "Ś",
+    "teamId": "128794"
+  },
+  "Todorović, Damir": {
+    "pozycja": "Ś",
+    "teamId": "128794"
+  },
+  "Wójtowicz, Radosław": {
+    "pozycja": "O",
+    "teamId": "128655"
+  },
+  "Ramires, Kaio": {
+    "pozycja": "O",
+    "teamId": "128655"
+  },
+  "Telles, Gregório": {
+    "pozycja": "L",
+    "teamId": "128655"
+  },
+  "Markowski, Filip": {
+    "pozycja": "L",
+    "teamId": "128655"
+  },
+  "Klamecki, Marek": {
+    "pozycja": "P",
+    "teamId": "128655"
+  },
+  "Maszkowski, Tomasz": {
+    "pozycja": "P",
+    "teamId": "128655"
+  },
+  "Liszkowski, Mateusz": {
+    "pozycja": "P",
+    "teamId": "128655"
+  },
+  "Miranda, Sérgio": {
+    "pozycja": "P",
+    "teamId": "128655"
+  },
+  "Janowski, Tymon": {
+    "pozycja": "P",
+    "teamId": "128655"
+  },
+  "Nowiński, Zbigniew": {
+    "pozycja": "P",
+    "teamId": "128655"
+  },
+  "Pestana, Hamilton": {
+    "pozycja": "S",
+    "teamId": "128655"
+  },
+  "Emerton, Gilbert": {
+    "pozycja": "S",
+    "teamId": "128655"
+  },
+  "Gliszczyński, Zbigniew": {
+    "pozycja": "Ś",
+    "teamId": "128655"
+  },
+  "Kasprzyk, Grzegorz": {
+    "pozycja": "Ś",
+    "teamId": "128655"
+  },
+  "Murawski, Kamil": {
+    "pozycja": "Ś",
+    "teamId": "128655"
+  },
+  "Nowak, Michał": {
+    "pozycja": "Ś",
+    "teamId": "144745"
+  },
+  "West, Gabe": {
+    "pozycja": "O",
+    "teamId": "128606"
+  },
+  "Kotzev, Angel": {
+    "pozycja": "O",
+    "teamId": "128606"
+  },
+  "Théry, David": {
+    "pozycja": "L",
+    "teamId": "128606"
+  },
+  "Mitov, Grigor": {
+    "pozycja": "L",
+    "teamId": "128606"
+  },
+  "Piętka, Daniel": {
+    "pozycja": "L",
+    "teamId": "128606"
+  },
+  "Shiroyama, Nobuyoshi": {
+    "pozycja": "P",
+    "teamId": "128606"
+  },
+  "Buczek, Jakub": {
+    "pozycja": "P",
+    "teamId": "128606"
+  },
+  "Neuville, Jean-Bernard": {
+    "pozycja": "P",
+    "teamId": "128606"
+  },
+  "Malinov, Ivan": {
+    "pozycja": "S",
+    "teamId": "128606"
+  },
+  "Psiuk, Jakub": {
+    "pozycja": "S",
+    "teamId": "128606"
+  },
+  "Brzuski, Mieczysław": {
+    "pozycja": "Ś",
+    "teamId": "128606"
+  },
+  "Cis, Zbigniew": {
+    "pozycja": "Ś",
+    "teamId": "128606"
+  },
+  "Mello, Ayrton": {
+    "pozycja": "Ś",
+    "teamId": "128606"
+  },
+  "Fumega, Ilídio": {
+    "pozycja": "Ś",
+    "teamId": "128606"
+  },
+  "Duk, Konstanty": {
+    "pozycja": "Ś",
+    "teamId": "128606"
+  },
+  "Golisz, Kazimierz": {
+    "pozycja": "Ś",
+    "teamId": "128606"
+  },
+  "Muratović, Nedim": {
+    "pozycja": "Ś",
+    "teamId": "128606"
+  },
+  "Brzozowski, Jacek": {
+    "pozycja": "Ś",
+    "teamId": "128606"
+  },
+  "Mello, Ademir": {
+    "pozycja": "Ś",
+    "teamId": "128606"
+  },
+  "Sobczak, Zbigniew": {
+    "pozycja": "O",
+    "teamId": "130535"
+  },
+  "Wiencek, Jan": {
+    "pozycja": "O",
+    "teamId": "130535"
+  },
+  "Żaczek, Andrzej": {
+    "pozycja": "O",
+    "teamId": "130535"
+  },
+  "Lech, Mariusz": {
+    "pozycja": "O",
+    "teamId": "130535"
+  },
+  "Tokarski, Leszek": {
+    "pozycja": "L",
+    "teamId": "130535"
+  },
+  "Lopez, Jean": {
+    "pozycja": "L",
+    "teamId": "130535"
+  },
+  "Prašnikar, Žiga": {
+    "pozycja": "P",
+    "teamId": "130535"
+  },
+  "Jadanowski, Wojciech": {
+    "pozycja": "P",
+    "teamId": "130535"
+  },
+  "Özgül, Alan": {
+    "pozycja": "P",
+    "teamId": "130535"
+  },
+  "Capoferri, Ubaldo": {
+    "pozycja": "S",
+    "teamId": "130535"
+  },
+  "Jovanović, Faris": {
+    "pozycja": "S",
+    "teamId": "130535"
+  },
+  "Włosowicz, Jakub": {
+    "pozycja": "Ś",
+    "teamId": "130535"
+  },
+  "Rodrigues, Edgar": {
+    "pozycja": "Ś",
+    "teamId": "130535"
+  },
+  "Woroniecki, Dariusz": {
+    "pozycja": "Ś",
+    "teamId": "130535"
+  },
+  "Skrobek, Krzysztof": {
+    "pozycja": "Ś",
+    "teamId": "130535"
+  },
+  "Ilcewicz, Dariusz": {
+    "pozycja": "Ś",
+    "teamId": "130535"
+  },
+  "Krzemiński, Rafał": {
+    "pozycja": "O",
+    "teamId": "128597"
+  },
+  "Gonzaga, Gilberto": {
+    "pozycja": "O",
+    "teamId": "128597"
+  },
+  "Haddad, Pablo": {
+    "pozycja": "L",
+    "teamId": "128597"
+  },
+  "Lozada, Kenny": {
+    "pozycja": "P",
+    "teamId": "128597"
+  },
+  "Kałas, Eryk": {
+    "pozycja": "P",
+    "teamId": "128597"
+  },
+  "Kowalczyk, Marcin": {
+    "pozycja": "P",
+    "teamId": "128597"
+  },
+  "Arantes, Venceslau": {
+    "pozycja": "S",
+    "teamId": "128597"
+  },
+  "Grygoruk, Dawid": {
+    "pozycja": "Ś",
+    "teamId": "128597"
+  },
+  "Rudzik, Aleksander": {
+    "pozycja": "Ś",
+    "teamId": "128597"
+  },
+  "Alberzoni, Christian": {
+    "pozycja": "Ś",
+    "teamId": "128597"
+  },
+  "Tijanic, Sava": {
+    "pozycja": "Ś",
+    "teamId": "128597"
+  },
+  "Zych, Jacek": {
+    "pozycja": "O",
+    "teamId": "130905"
+  },
+  "Brabec, Matěj": {
+    "pozycja": "O",
+    "teamId": "130905"
+  },
+  "Simon, Mike": {
+    "pozycja": "L",
+    "teamId": "130905"
+  },
+  "Płuciennik, Damian": {
+    "pozycja": "P",
+    "teamId": "130905"
+  },
+  "Purdy, Steve": {
+    "pozycja": "P",
+    "teamId": "130905"
+  },
+  "Jażdżyk, Dariusz": {
+    "pozycja": "P",
+    "teamId": "130905"
+  },
+  "Prabucki, Krzysztof": {
+    "pozycja": "P",
+    "teamId": "130905"
+  },
+  "Hristov, Dimitar": {
+    "pozycja": "S",
+    "teamId": "130905"
+  },
+  "Zenan, Ata": {
+    "pozycja": "S",
+    "teamId": "130905"
+  },
+  "Dermendzhiev, Hristo": {
+    "pozycja": "Ś",
+    "teamId": "130905"
+  },
+  "Golec, Piotr": {
+    "pozycja": "Ś",
+    "teamId": "130905"
+  },
+  "Gręda, Konrad": {
+    "pozycja": "Ś",
+    "teamId": "130905"
+  },
+  "Otts, Jason": {
+    "pozycja": "Ś",
+    "teamId": "130905"
+  },
+  "Woźniak, Stanisław": {
+    "pozycja": "O",
+    "teamId": "130560"
+  },
+  "Mikołajczak, Aleksander": {
+    "pozycja": "O",
+    "teamId": "130560"
+  },
+  "Frappi, Duccio": {
+    "pozycja": "L",
+    "teamId": "130560"
+  },
+  "Mulik, Mikołaj": {
+    "pozycja": "L",
+    "teamId": "130560"
+  },
+  "Woś, Ireneusz": {
+    "pozycja": "P",
+    "teamId": "130560"
+  },
+  "Bugajny, Dawid": {
+    "pozycja": "P",
+    "teamId": "130560"
+  },
+  "Omasta, Alan": {
+    "pozycja": "P",
+    "teamId": "130560"
+  },
+  "Gołębiewski, Jakub": {
+    "pozycja": "S",
+    "teamId": "130560"
+  },
+  "Gentry, Patrick": {
+    "pozycja": "S",
+    "teamId": "130560"
+  },
+  "Siekiera, Leonard": {
+    "pozycja": "Ś",
+    "teamId": "130560"
+  },
+  "Cebula, Maksymilian": {
+    "pozycja": "Ś",
+    "teamId": "130560"
+  },
+  "Mangabeira, Givanildo": {
+    "pozycja": "Ś",
+    "teamId": "130560"
+  },
+  "Kulesza, Oliwier": {
+    "pozycja": "O",
+    "teamId": "137421"
+  },
+  "Ossowski, Zygmunt": {
+    "pozycja": "O",
+    "teamId": "137421"
+  },
+  "Mrozowski, Jan": {
+    "pozycja": "L",
+    "teamId": "137421"
+  },
+  "Rachwał, Marek": {
+    "pozycja": "L",
+    "teamId": "137421"
+  },
+  "Seta, Mateusz": {
+    "pozycja": "P",
+    "teamId": "137421"
+  },
+  "Gonçalves, Magno": {
+    "pozycja": "P",
+    "teamId": "137421"
+  },
+  "Cavalcante, Everton": {
+    "pozycja": "P",
+    "teamId": "137421"
+  },
+  "Pellegrino, Giorgio": {
+    "pozycja": "S",
+    "teamId": "137421"
+  },
+  "Smorawski, Karol": {
+    "pozycja": "S",
+    "teamId": "137421"
+  },
+  "Kłopotowski, Jeremi": {
+    "pozycja": "Ś",
+    "teamId": "137421"
+  },
+  "Van Den Eynde, Ngagne": {
+    "pozycja": "Ś",
+    "teamId": "137421"
+  },
+  "Wiśniewski, Krzysztof": {
+    "pozycja": "Ś",
+    "teamId": "137421"
+  },
+  "Żebrak, Jan": {
+    "pozycja": "Ś",
+    "teamId": "137421"
+  },
+  "Guihai, Mu": {
+    "pozycja": "Ś",
+    "teamId": "137421"
+  },
+  "Michalski, Krzysztof": {
+    "pozycja": "Ś",
+    "teamId": "137421"
+  },
+  "Gaubert, Idriss": {
+    "pozycja": "O",
+    "teamId": "131093"
+  },
+  "Dettlaff, Gabriel": {
+    "pozycja": "O",
+    "teamId": "131093"
+  },
+  "Cornell, John": {
+    "pozycja": "L",
+    "teamId": "131093"
+  },
+  "Paluch, Łukasz": {
+    "pozycja": "L",
+    "teamId": "131093"
+  },
+  "Barczak, Roman": {
+    "pozycja": "P",
+    "teamId": "131093"
+  },
+  "Espinosa, Eñaut": {
+    "pozycja": "P",
+    "teamId": "131093"
+  },
+  "Hans, Jared": {
+    "pozycja": "P",
+    "teamId": "131093"
+  },
+  "Wilczewski, Jakub": {
+    "pozycja": "P",
+    "teamId": "131093"
+  },
+  "Niedzwiedz, Krzysztof": {
+    "pozycja": "P",
+    "teamId": "131093"
+  },
+  "Jankowski, Bogumił": {
+    "pozycja": "S",
+    "teamId": "131093"
+  },
+  "Kowal, Wojciech": {
+    "pozycja": "S",
+    "teamId": "131093"
+  },
+  "Lühr, Bernd": {
+    "pozycja": "S",
+    "teamId": "131093"
+  },
+  "Dąbrowski, Adam": {
+    "pozycja": "Ś",
+    "teamId": "131093"
+  },
+  "Rajczak, Kajetan": {
+    "pozycja": "Ś",
+    "teamId": "131093"
+  },
+  "Maddox, Andrew": {
+    "pozycja": "Ś",
+    "teamId": "131093"
+  },
+  "Çağın, Efkan": {
+    "pozycja": "O",
+    "teamId": "131020"
+  },
+  "Donnelly, Robert": {
+    "pozycja": "O",
+    "teamId": "131020"
+  },
+  "Kohlegger, Edgar": {
+    "pozycja": "O",
+    "teamId": "131020"
+  },
+  "Uchiyama, Yunzhong": {
+    "pozycja": "L",
+    "teamId": "131020"
+  },
+  "Kristl, Jaksa": {
+    "pozycja": "L",
+    "teamId": "131020"
+  },
+  "Lanckacker, Auke": {
+    "pozycja": "L",
+    "teamId": "131020"
+  },
+  "Taxiarhis, Apollon": {
+    "pozycja": "L",
+    "teamId": "131020"
+  },
+  "Kaczmarczyk, Krystian": {
+    "pozycja": "L",
+    "teamId": "131020"
+  },
+  "Antoni, Giovanni": {
+    "pozycja": "P",
+    "teamId": "131020"
+  },
+  "Schinwald, Rafael": {
+    "pozycja": "P",
+    "teamId": "131020"
+  },
+  "Gałczyński, Marek": {
+    "pozycja": "P",
+    "teamId": "131020"
+  },
+  "Cristiano, Oronzo": {
+    "pozycja": "P",
+    "teamId": "131020"
+  },
+  "Martín, Urbano": {
+    "pozycja": "P",
+    "teamId": "131020"
+  },
+  "Mello, Sandro": {
+    "pozycja": "P",
+    "teamId": "131020"
+  },
+  "Barilari, Sebastião": {
+    "pozycja": "P",
+    "teamId": "131020"
+  },
+  "Antinos, Pavlos": {
+    "pozycja": "P",
+    "teamId": "131020"
+  },
+  "Garotti, Luciano": {
+    "pozycja": "P",
+    "teamId": "131020"
+  },
+  "Jovičić, Slavko": {
+    "pozycja": "S",
+    "teamId": "131020"
+  },
+  "Vance, Nick": {
+    "pozycja": "S",
+    "teamId": "131020"
+  },
+  "Changwei, Yao": {
+    "pozycja": "Ś",
+    "teamId": "131020"
+  },
+  "Bard, Quentin": {
+    "pozycja": "Ś",
+    "teamId": "131020"
+  },
+  "Venianakis, Labros": {
+    "pozycja": "Ś",
+    "teamId": "131020"
+  },
+  "de Holanda, Mauro": {
+    "pozycja": "Ś",
+    "teamId": "131020"
+  },
+  "Gomide, Caio": {
+    "pozycja": "O",
+    "teamId": "131194"
+  },
+  "Stoilov, Gencho": {
+    "pozycja": "O",
+    "teamId": "131194"
+  },
+  "Tomczyk, Michał": {
+    "pozycja": "L",
+    "teamId": "131194"
+  },
+  "Fabiszewski, Jarosław": {
+    "pozycja": "P",
+    "teamId": "131194"
+  },
+  "Dzida, Wiesław": {
+    "pozycja": "P",
+    "teamId": "131194"
+  },
+  "Zgódka, Zbigniew": {
+    "pozycja": "P",
+    "teamId": "131194"
+  },
+  "Zimmermann, Heleno": {
+    "pozycja": "P",
+    "teamId": "131194"
+  },
+  "Koziołek, Kacper": {
+    "pozycja": "S",
+    "teamId": "131194"
+  },
+  "Plebanek, Bartłomiej": {
+    "pozycja": "S",
+    "teamId": "131194"
+  },
+  "Bobowicz, Krzysztof": {
+    "pozycja": "S",
+    "teamId": "131194"
+  },
+  "Wesołowski, Szymon": {
+    "pozycja": "Ś",
+    "teamId": "131194"
+  },
+  "Błażejowski, Robert": {
+    "pozycja": "Ś",
+    "teamId": "131194"
+  },
+  "Urbański, Andrzej": {
+    "pozycja": "Ś",
+    "teamId": "131194"
+  },
+  "Łukaszek, Jerzy": {
+    "pozycja": "Ś",
+    "teamId": "131194"
+  },
+  "Stortoni, Duilio": {
+    "pozycja": "Ś",
+    "teamId": "131194"
+  },
+  "Falcão, Ênio": {
+    "pozycja": "O",
+    "teamId": "128803"
+  },
+  "Bugaj, Antoni": {
+    "pozycja": "O",
+    "teamId": "128803"
+  },
+  "Picchi, David": {
+    "pozycja": "L",
+    "teamId": "128803"
+  },
+  "Grigorov, Ivan": {
+    "pozycja": "L",
+    "teamId": "128803"
+  },
+  "Aleksandrowicz, Jerzy": {
+    "pozycja": "P",
+    "teamId": "128803"
+  },
+  "Carr, Willie": {
+    "pozycja": "P",
+    "teamId": "128803"
+  },
+  "Ziarek, Igor": {
+    "pozycja": "P",
+    "teamId": "128803"
+  },
+  "Jendrysik, Jerzy": {
+    "pozycja": "P",
+    "teamId": "128803"
+  },
+  "Mucci, Mario": {
+    "pozycja": "S",
+    "teamId": "128803"
+  },
+  "Dannat, Karsten": {
+    "pozycja": "S",
+    "teamId": "128803"
+  },
+  "Cherechanski, Vladislav": {
+    "pozycja": "Ś",
+    "teamId": "128803"
+  },
+  "Fontana, Gianfranco": {
+    "pozycja": "Ś",
+    "teamId": "128803"
+  },
+  "Hochwälder, Silvester": {
+    "pozycja": "Ś",
+    "teamId": "128803"
+  },
+  "Faivre, Benoît": {
+    "pozycja": "O",
+    "teamId": "128672"
+  },
+  "Radko, Mikołaj": {
+    "pozycja": "O",
+    "teamId": "128672"
+  },
+  "Kvarnryd, Lars-Henrik": {
+    "pozycja": "L",
+    "teamId": "128672"
+  },
+  "Romanowski, Jan": {
+    "pozycja": "L",
+    "teamId": "128672"
+  },
+  "Chotkowski, Apoloniusz": {
+    "pozycja": "P",
+    "teamId": "128672"
+  },
+  "Rybak, Michał": {
+    "pozycja": "P",
+    "teamId": "128672"
+  },
+  "Hoffmann, Marcin": {
+    "pozycja": "P",
+    "teamId": "128672"
+  },
+  "Barszcz, Marcel": {
+    "pozycja": "S",
+    "teamId": "128672"
+  },
+  "Ptak, Aleksander": {
+    "pozycja": "S",
+    "teamId": "128672"
+  },
+  "Kobielski, Paweł": {
+    "pozycja": "S",
+    "teamId": "128672"
+  },
+  "Czerwiec, Łukasz": {
+    "pozycja": "Ś",
+    "teamId": "128672"
+  },
+  "Misiewicz, Kajetan": {
+    "pozycja": "Ś",
+    "teamId": "128672"
+  },
+  "Janicki, Andrzej": {
+    "pozycja": "Ś",
+    "teamId": "128672"
+  },
+  "Alperen, Cengiz": {
+    "pozycja": "O",
+    "teamId": "130503"
+  },
+  "Kochańczyk, Oliwier": {
+    "pozycja": "L",
+    "teamId": "130503"
+  },
+  "Shopov, Ivan": {
+    "pozycja": "P",
+    "teamId": "130503"
+  },
+  "Piórkowski, Marek": {
+    "pozycja": "P",
+    "teamId": "130503"
+  },
+  "Kamiński, Karol": {
+    "pozycja": "P",
+    "teamId": "130503"
+  },
+  "Jazgović, Armin": {
+    "pozycja": "S",
+    "teamId": "130503"
+  },
+  "Szczepański, Tomasz": {
+    "pozycja": "Ś",
+    "teamId": "130503"
+  },
+  "Rzemieniecki, Dariusz": {
+    "pozycja": "Ś",
+    "teamId": "130503"
+  },
+  "Kaczmarek, Włodzimierz": {
+    "pozycja": "Ś",
+    "teamId": "130503"
+  },
+  "Parra, Nicasio": {
+    "pozycja": "O",
+    "teamId": "130908"
+  },
+  "Kamiński, Ernest": {
+    "pozycja": "O",
+    "teamId": "130908"
+  },
+  "Brenneman, Kristopher": {
+    "pozycja": "L",
+    "teamId": "130908"
+  },
+  "Turati, Juri": {
+    "pozycja": "L",
+    "teamId": "130908"
+  },
+  "Czerwiński, Paweł": {
+    "pozycja": "L",
+    "teamId": "130908"
+  },
+  "Sulg, Jaagop": {
+    "pozycja": "P",
+    "teamId": "130908"
+  },
+  "Brzeski, Karol": {
+    "pozycja": "P",
+    "teamId": "130908"
+  },
+  "Bösel, Jan-Felix": {
+    "pozycja": "S",
+    "teamId": "130908"
+  },
+  "Frużyński, Jakub": {
+    "pozycja": "Ś",
+    "teamId": "130908"
+  },
+  "Racinowski, Igor": {
+    "pozycja": "Ś",
+    "teamId": "130908"
+  },
+  "Radic, Ivica": {
+    "pozycja": "O",
+    "teamId": "131016"
+  },
+  "Flores, Chris": {
+    "pozycja": "O",
+    "teamId": "131016"
+  },
+  "Dudziak, Grzegorz": {
+    "pozycja": "L",
+    "teamId": "131016"
+  },
+  "de Albuquerque, Nivaldo": {
+    "pozycja": "L",
+    "teamId": "131016"
+  },
+  "Wozniak, Serge": {
+    "pozycja": "L",
+    "teamId": "131016"
+  },
+  "Blisio, Orazio": {
+    "pozycja": "P",
+    "teamId": "131016"
+  },
+  "Sinagra, Gian": {
+    "pozycja": "P",
+    "teamId": "131016"
+  },
+  "Makieła, Miłosz": {
+    "pozycja": "P",
+    "teamId": "131016"
+  },
+  "Avesio, Fernando": {
+    "pozycja": "S",
+    "teamId": "131016"
+  },
+  "Dorożyński, Tymon": {
+    "pozycja": "S",
+    "teamId": "131016"
+  },
+  "Sabała, Grzegorz": {
+    "pozycja": "P",
+    "teamId": "140968"
+  },
+  "Radev, Dimitar": {
+    "pozycja": "Ś",
+    "teamId": "131016"
+  },
+  "Natário, Leonel": {
+    "pozycja": "Ś",
+    "teamId": "131016"
+  },
+  "Serra, Levindo": {
+    "pozycja": "O",
+    "teamId": "144745"
+  },
+  "Nowak, Paweł": {
+    "pozycja": "O",
+    "teamId": "144745"
+  },
+  "Trybuś, Bartosz": {
+    "pozycja": "L",
+    "teamId": "144745"
+  },
+  "Kędzierski, Jacek": {
+    "pozycja": "L",
+    "teamId": "144745"
+  },
+  "Ohana, Clodoaldo": {
+    "pozycja": "L",
+    "teamId": "144745"
+  },
+  "Giraudeau, Pierre": {
+    "pozycja": "L",
+    "teamId": "144745"
+  },
+  "Rudaś, Beniamin": {
+    "pozycja": "P",
+    "teamId": "144745"
+  },
+  "Lipiński, Szymon": {
+    "pozycja": "P",
+    "teamId": "144745"
+  },
+  "Lyons, Jack": {
+    "pozycja": "P",
+    "teamId": "144745"
+  },
+  "Nötzold, Torben": {
+    "pozycja": "S",
+    "teamId": "144745"
+  },
+  "Mascarenhas, Everton": {
+    "pozycja": "S",
+    "teamId": "144745"
+  },
+  "Besson, Anthony": {
+    "pozycja": "Ś",
+    "teamId": "144745"
+  },
+  "Łasek, Mateusz": {
+    "pozycja": "Ś",
+    "teamId": "144745"
+  },
+  "Gajdecki, Maciej": {
+    "pozycja": "Ś",
+    "teamId": "144745"
+  },
+  "Dopierała, Tomasz": {
+    "pozycja": "O",
+    "teamId": "131174"
+  },
+  "Todea, Gheorghe": {
+    "pozycja": "O",
+    "teamId": "131174"
+  },
+  "Bogucki, Szymon": {
+    "pozycja": "O",
+    "teamId": "131174"
+  },
+  "Girotto, Juri": {
+    "pozycja": "O",
+    "teamId": "131174"
+  },
+  "Di Leo, Enrico": {
+    "pozycja": "O",
+    "teamId": "131174"
+  },
+  "Kuboszek, Kleofas": {
+    "pozycja": "L",
+    "teamId": "131174"
+  },
+  "Cornaggia, Umberto": {
+    "pozycja": "L",
+    "teamId": "131174"
+  },
+  "Liszewski, Ireneusz": {
+    "pozycja": "P",
+    "teamId": "131174"
+  },
+  "Grisoli, Ruggero": {
+    "pozycja": "P",
+    "teamId": "131174"
+  },
+  "Czyżewski, Patryk": {
+    "pozycja": "P",
+    "teamId": "131174"
+  },
+  "Mołdoch, Kacper": {
+    "pozycja": "P",
+    "teamId": "131174"
+  },
+  "Mantelini, Eugenio": {
+    "pozycja": "P",
+    "teamId": "131174"
+  },
+  "Ramız, Asil": {
+    "pozycja": "P",
+    "teamId": "131174"
+  },
+  "Nowak, Eryk": {
+    "pozycja": "S",
+    "teamId": "131174"
+  },
+  "Segato, Filippo": {
+    "pozycja": "S",
+    "teamId": "131174"
+  },
+  "Szczupakowski, Michał": {
+    "pozycja": "S",
+    "teamId": "131174"
+  },
+  "Menaballi, Sante": {
+    "pozycja": "S",
+    "teamId": "131174"
+  },
+  "Nowicki, Stanisław": {
+    "pozycja": "S",
+    "teamId": "131174"
+  },
+  "Grzegrzółka, Paweł": {
+    "pozycja": "S",
+    "teamId": "131174"
+  },
+  "Filipkowski, Oskar": {
+    "pozycja": "Ś",
+    "teamId": "131174"
+  },
+  "Resende, Lourenço": {
+    "pozycja": "Ś",
+    "teamId": "131174"
+  },
+  "Luraschi, Paolo": {
+    "pozycja": "Ś",
+    "teamId": "131174"
+  },
+  "Daniszewski, Maciej": {
+    "pozycja": "O",
+    "teamId": "128679"
+  },
+  "Drąg, Grzegorz": {
+    "pozycja": "O",
+    "teamId": "128679"
+  },
+  "Ukleja, Ryszard": {
+    "pozycja": "L",
+    "teamId": "128679"
+  },
+  "Hayat, Fahrettin": {
+    "pozycja": "L",
+    "teamId": "128679"
+  },
+  "Kaczmarek, Andrzej": {
+    "pozycja": "P",
+    "teamId": "128679"
+  },
+  "Bujok, Arkadiusz": {
+    "pozycja": "P",
+    "teamId": "128679"
+  },
+  "Wright, Ethan": {
+    "pozycja": "P",
+    "teamId": "128679"
+  },
+  "Filipe, Cristovão": {
+    "pozycja": "S",
+    "teamId": "128679"
+  },
+  "Lucas, Vincent": {
+    "pozycja": "S",
+    "teamId": "128679"
+  },
+  "Zych, Jerzy": {
+    "pozycja": "Ś",
+    "teamId": "128679"
+  },
+  "Makuch, Damian": {
+    "pozycja": "Ś",
+    "teamId": "128679"
+  },
+  "Literski, Maksymilian": {
+    "pozycja": "O",
+    "teamId": "128715"
+  },
+  "Budziak, Daniel": {
+    "pozycja": "O",
+    "teamId": "128715"
+  },
+  "Waśko, Ryszard": {
+    "pozycja": "L",
+    "teamId": "128715"
+  },
+  "Szymczak, Kacper": {
+    "pozycja": "L",
+    "teamId": "128715"
+  },
+  "Grzybowski, Wojciech": {
+    "pozycja": "P",
+    "teamId": "128715"
+  },
+  "Macura, Paweł": {
+    "pozycja": "P",
+    "teamId": "128715"
+  },
+  "Jędrzejczyk, Piotr": {
+    "pozycja": "Ś",
+    "teamId": "130935"
+  },
+  "Węglewski, Tomasz": {
+    "pozycja": "P",
+    "teamId": "128715"
+  },
+  "Gil, Andrzej": {
+    "pozycja": "P",
+    "teamId": "128715"
+  },
+  "Skorupa, Piotr": {
+    "pozycja": "S",
+    "teamId": "128715"
+  },
+  "Frąckowiak, Oliwier": {
+    "pozycja": "S",
+    "teamId": "128715"
+  },
+  "Aksamit, Tadeusz": {
+    "pozycja": "Ś",
+    "teamId": "128715"
+  },
+  "Siama, Bronisław": {
+    "pozycja": "Ś",
+    "teamId": "128715"
+  },
+  "Mikołajczak, Maciej": {
+    "pozycja": "Ś",
+    "teamId": "128715"
+  },
+  "Dınç, Çelik": {
+    "pozycja": "O",
+    "teamId": "130781"
+  },
+  "Lewandowski, Tomasz": {
+    "pozycja": "L",
+    "teamId": "130781"
+  },
+  "Meneghesso, Fausto": {
+    "pozycja": "P",
+    "teamId": "130781"
+  },
+  "Młynarczyk, Karol": {
+    "pozycja": "P",
+    "teamId": "130781"
+  },
+  "Borowczak, Cezariusz": {
+    "pozycja": "S",
+    "teamId": "130781"
+  },
+  "Montigny, Gabriel": {
+    "pozycja": "S",
+    "teamId": "130781"
+  },
+  "Novev, Vasil": {
+    "pozycja": "Ś",
+    "teamId": "130781"
+  },
+  "Filoni, Zaccaria": {
+    "pozycja": "Ś",
+    "teamId": "130781"
+  },
+  "Lenc, Jan": {
+    "pozycja": "O",
+    "teamId": "130797"
+  },
+  "Janowski, Damian": {
+    "pozycja": "O",
+    "teamId": "130797"
+  },
+  "Fournel, Olivier": {
+    "pozycja": "L",
+    "teamId": "130797"
+  },
+  "Griffis, Leon": {
+    "pozycja": "L",
+    "teamId": "130797"
+  },
+  "Ramalho, Filipe": {
+    "pozycja": "P",
+    "teamId": "130797"
+  },
+  "Leszczewicz, Marcin": {
+    "pozycja": "P",
+    "teamId": "130797"
+  },
+  "Karolczyk, Nikodem": {
+    "pozycja": "S",
+    "teamId": "130797"
+  },
+  "Solano, Ruben": {
+    "pozycja": "S",
+    "teamId": "130797"
+  },
+  "Malinowski, Mariusz": {
+    "pozycja": "Ś",
+    "teamId": "130797"
+  },
+  "Krawczyk, Ignacy": {
+    "pozycja": "Ś",
+    "teamId": "130797"
+  },
+  "Gostomczyk, Patryk": {
+    "pozycja": "Ś",
+    "teamId": "130797"
+  },
+  "Grądzki, Ryszard": {
+    "pozycja": "Ś",
+    "teamId": "130797"
+  },
+  "Pernin, Franck": {
+    "pozycja": "O",
+    "teamId": "128667"
+  },
+  "Młyński, Janusz": {
+    "pozycja": "O",
+    "teamId": "128667"
+  },
+  "Tori, Ruggero": {
+    "pozycja": "O",
+    "teamId": "128667"
+  },
+  "Majewski, Szymon": {
+    "pozycja": "L",
+    "teamId": "128667"
+  },
+  "Babicz, Dawid": {
+    "pozycja": "P",
+    "teamId": "128667"
+  },
+  "Mesquita, Anderson": {
+    "pozycja": "P",
+    "teamId": "128667"
+  },
+  "Velimirović, Svetislav": {
+    "pozycja": "P",
+    "teamId": "128667"
+  },
+  "Hongyang, Shichang": {
+    "pozycja": "P",
+    "teamId": "128667"
+  },
+  "Wieczorkiewicz, Franciszek": {
+    "pozycja": "P",
+    "teamId": "128667"
+  },
+  "Nowak, Antoni": {
+    "pozycja": "S",
+    "teamId": "128667"
+  },
+  "Wolski, Sławomir": {
+    "pozycja": "S",
+    "teamId": "128667"
+  },
+  "Fąfara, Ryszard": {
+    "pozycja": "S",
+    "teamId": "128667"
+  },
+  "Wojciechowski, Marcin": {
+    "pozycja": "S",
+    "teamId": "128667"
+  },
+  "Jaśkiewicz, Norbert": {
+    "pozycja": "S",
+    "teamId": "128667"
+  },
+  "Filiński, Aleks": {
+    "pozycja": "Ś",
+    "teamId": "128667"
+  },
+  "Franks, Anthony": {
+    "pozycja": "Ś",
+    "teamId": "128667"
+  },
+  "Jabłoński, Robert": {
+    "pozycja": "Ś",
+    "teamId": "128667"
+  },
+  "Bukowski, Paweł": {
+    "pozycja": "Ś",
+    "teamId": "128667"
+  },
+  "Gil, Leôncio": {
+    "pozycja": "O",
+    "teamId": "140968"
+  },
+  "Hipólito, Álvaro": {
+    "pozycja": "O",
+    "teamId": "140968"
+  },
+  "Sidorkiewicz, Nikodem": {
+    "pozycja": "O",
+    "teamId": "140968"
+  },
+  "Marchewka, Jacek": {
+    "pozycja": "O",
+    "teamId": "140968"
+  },
+  "Lewandowski, Maciej": {
+    "pozycja": "O",
+    "teamId": "140968"
+  },
+  "Małek, Józef": {
+    "pozycja": "L",
+    "teamId": "140968"
+  },
+  "Kobylarz, Kacper": {
+    "pozycja": "L",
+    "teamId": "140968"
+  },
+  "Corvucci, Piersandro": {
+    "pozycja": "L",
+    "teamId": "140968"
+  },
+  "Mazur, Marcin": {
+    "pozycja": "L",
+    "teamId": "140968"
+  },
+  "Bienias, Kamil": {
+    "pozycja": "P",
+    "teamId": "140968"
+  },
+  "Di Lorenzo, Dimitris": {
+    "pozycja": "P",
+    "teamId": "140968"
+  },
+  "Comparini, Pellegrino": {
+    "pozycja": "P",
+    "teamId": "140968"
+  },
+  "Corsetti, Angelo": {
+    "pozycja": "P",
+    "teamId": "140968"
+  },
+  "Dobrzeniecki, Szymon": {
+    "pozycja": "P",
+    "teamId": "140968"
+  },
+  "Woźny, Błażej": {
+    "pozycja": "P",
+    "teamId": "140968"
+  },
+  "Prado, Aderbal": {
+    "pozycja": "P",
+    "teamId": "140968"
+  },
+  "Rybczyński, Patryk": {
+    "pozycja": "P",
+    "teamId": "140968"
+  },
+  "Kaszyński, Marcel": {
+    "pozycja": "S",
+    "teamId": "140968"
+  },
+  "Lantz, Tyler": {
+    "pozycja": "S",
+    "teamId": "140968"
+  },
+  "Chêne, Claude": {
+    "pozycja": "S",
+    "teamId": "140968"
+  },
+  "Lanez, Florian": {
+    "pozycja": "Ś",
+    "teamId": "140968"
+  },
+  "Przesmycki, Maciej": {
+    "pozycja": "Ś",
+    "teamId": "140968"
+  },
+  "Orlando, Axel": {
+    "pozycja": "Ś",
+    "teamId": "140968"
+  },
+  "Yosifov, Petar": {
+    "pozycja": "Ś",
+    "teamId": "140968"
+  },
+  "Rosik, Edward": {
+    "pozycja": "Ś",
+    "teamId": "140968"
+  },
+  "Tarnowski, Piotr": {
+    "pozycja": "Ś",
+    "teamId": "140968"
+  },
+  "Mazik, Michał": {
+    "pozycja": "O",
+    "teamId": "128622"
+  },
+  "Maciejczyk, Aleks": {
+    "pozycja": "O",
+    "teamId": "128622"
+  },
+  "Boczarski, Tadeusz": {
+    "pozycja": "O",
+    "teamId": "128622"
+  },
+  "Ivanov, Stanyo": {
+    "pozycja": "O",
+    "teamId": "128622"
+  },
+  "Janiak, Teodor": {
+    "pozycja": "L",
+    "teamId": "128622"
+  },
+  "Milito, Ariel": {
+    "pozycja": "L",
+    "teamId": "128622"
+  },
+  "Salzer, Dominik": {
+    "pozycja": "L",
+    "teamId": "128622"
+  },
+  "Toshev, Atanas": {
+    "pozycja": "L",
+    "teamId": "128622"
+  },
+  "Švikruha, Miroslav": {
+    "pozycja": "L",
+    "teamId": "128622"
+  },
+  "Güzay, Utku": {
+    "pozycja": "P",
+    "teamId": "128622"
+  },
+  "Dutoit, Gilles": {
+    "pozycja": "P",
+    "teamId": "128622"
+  },
+  "Bratkowski, Kacper": {
+    "pozycja": "P",
+    "teamId": "128622"
+  },
+  "Simeonov, Trifon": {
+    "pozycja": "P",
+    "teamId": "128622"
+  },
+  "Kuryło, Michał": {
+    "pozycja": "P",
+    "teamId": "128622"
+  },
+  "Kowalczuk, Jerzy": {
+    "pozycja": "P",
+    "teamId": "128622"
+  },
+  "Sowiński, Alan": {
+    "pozycja": "S",
+    "teamId": "128622"
+  },
+  "Szmaja, Oliwier": {
+    "pozycja": "S",
+    "teamId": "128622"
+  },
+  "Vivić, Bojan": {
+    "pozycja": "Ś",
+    "teamId": "128622"
+  },
+  "Anuszkiewicz, Krystian": {
+    "pozycja": "Ś",
+    "teamId": "128622"
+  },
+  "Wosik, Michał": {
+    "pozycja": "Ś",
+    "teamId": "128622"
+  },
+  "Lilov, Nikolay": {
+    "pozycja": "O",
+    "teamId": "130516"
+  },
+  "Gavazov, Hristo": {
+    "pozycja": "O",
+    "teamId": "130516"
+  },
+  "Quanwei, Guo": {
+    "pozycja": "L",
+    "teamId": "130516"
+  },
+  "Piccolo, Gianni": {
+    "pozycja": "L",
+    "teamId": "130516"
+  },
+  "Aleksandrowicz, Przemysław": {
+    "pozycja": "P",
+    "teamId": "130516"
+  },
+  "Gautier, Alain": {
+    "pozycja": "P",
+    "teamId": "130516"
+  },
+  "de Oliveira, Enéas": {
+    "pozycja": "P",
+    "teamId": "130516"
+  },
+  "Andreev, Galin": {
+    "pozycja": "S",
+    "teamId": "130516"
+  },
+  "Usseglio, Leonardo": {
+    "pozycja": "S",
+    "teamId": "130516"
+  },
+  "Fogaça, Vicente": {
+    "pozycja": "Ś",
+    "teamId": "130516"
+  },
+  "Anatólio, Edilson": {
+    "pozycja": "Ś",
+    "teamId": "130516"
+  },
+  "Żak, Sebastian": {
+    "pozycja": "Ś",
+    "teamId": "130516"
+  },
+  "Yosifov, Veselin": {
+    "pozycja": "O",
+    "teamId": "130500"
+  },
+  "Calhoun, Davis": {
+    "pozycja": "O",
+    "teamId": "130500"
+  },
+  "Lamparski, Adam": {
+    "pozycja": "L",
+    "teamId": "130500"
+  },
+  "Szymiczek, Filip": {
+    "pozycja": "P",
+    "teamId": "130500"
+  },
+  "Tomaszewski, Łukasz": {
+    "pozycja": "Ś",
+    "teamId": "131248"
+  },
+  "de Paiva, Valter": {
+    "pozycja": "P",
+    "teamId": "130500"
+  },
+  "Gierej, Przemysław": {
+    "pozycja": "P",
+    "teamId": "130500"
+  },
+  "Adam, Christophe": {
+    "pozycja": "S",
+    "teamId": "130500"
+  },
+  "Leks, Jakub": {
+    "pozycja": "Ś",
+    "teamId": "130500"
+  },
+  "Martinie, Julien": {
+    "pozycja": "Ś",
+    "teamId": "130500"
+  },
+  "Rönk, Bert": {
+    "pozycja": "O",
+    "teamId": "144788"
+  },
+  "Sobieszczański, Paweł": {
+    "pozycja": "O",
+    "teamId": "144788"
+  },
+  "Piotrowski, Jacek": {
+    "pozycja": "L",
+    "teamId": "144788"
+  },
+  "Pater, Tomasz": {
+    "pozycja": "L",
+    "teamId": "144788"
+  },
+  "Styrna, Piotr": {
+    "pozycja": "P",
+    "teamId": "144788"
+  },
+  "Mitev, Kiril": {
+    "pozycja": "P",
+    "teamId": "144788"
+  },
+  "Matula, Władysław": {
+    "pozycja": "P",
+    "teamId": "144788"
+  },
+  "Snell, Jonathan": {
+    "pozycja": "P",
+    "teamId": "144788"
+  },
+  "Odifreddi, Antonio": {
+    "pozycja": "P",
+    "teamId": "144788"
+  },
+  "Zawadowicz, Marcin": {
+    "pozycja": "P",
+    "teamId": "144788"
+  },
+  "Brown, Cody": {
+    "pozycja": "S",
+    "teamId": "144788"
+  },
+  "Kozub, Grzegorz": {
+    "pozycja": "S",
+    "teamId": "144788"
+  },
+  "Kotlewski, Mariusz": {
+    "pozycja": "Ś",
+    "teamId": "144788"
+  },
+  "Aubert, Joey": {
+    "pozycja": "Ś",
+    "teamId": "144788"
+  },
+  "Pavlov, Petar": {
+    "pozycja": "Ś",
+    "teamId": "144788"
+  },
+  "Kalil, Célio": {
+    "pozycja": "Ś",
+    "teamId": "144788"
+  },
+  "Tonev, Mihail": {
+    "pozycja": "O",
+    "teamId": "130561"
+  },
+  "Suzuki, Ryôsuke": {
+    "pozycja": "O",
+    "teamId": "130561"
+  },
+  "Roczniak, Wiktor": {
+    "pozycja": "O",
+    "teamId": "130561"
+  },
+  "Derôme, Hervé": {
+    "pozycja": "L",
+    "teamId": "130561"
+  },
+  "Hampel, Wojciech": {
+    "pozycja": "L",
+    "teamId": "130561"
+  },
+  "Lopes, Jandir": {
+    "pozycja": "P",
+    "teamId": "130561"
+  },
+  "Aruhan, Ümıt": {
+    "pozycja": "P",
+    "teamId": "130561"
+  },
+  "Kuśmierczyk, Igor": {
+    "pozycja": "P",
+    "teamId": "130561"
+  },
+  "Kot, Tomasz": {
+    "pozycja": "P",
+    "teamId": "130561"
+  },
+  "Peekel, Robbert": {
+    "pozycja": "P",
+    "teamId": "130561"
+  },
+  "Bajde, Mihail": {
+    "pozycja": "P",
+    "teamId": "130561"
+  },
+  "Bragone, Orazio": {
+    "pozycja": "S",
+    "teamId": "130561"
+  },
+  "Pan, Zhenqing": {
+    "pozycja": "S",
+    "teamId": "130561"
+  },
+  "Göksel, Bora": {
+    "pozycja": "Ś",
+    "teamId": "130561"
+  },
+  "Demare, Gilles": {
+    "pozycja": "Ś",
+    "teamId": "130561"
+  },
+  "Emaldi, Ezequiel": {
+    "pozycja": "Ś",
+    "teamId": "130561"
+  },
+  "Vintém, Hélio": {
+    "pozycja": "O",
+    "teamId": "131014"
+  },
+  "Buonfantino, Giangiacomo": {
+    "pozycja": "L",
+    "teamId": "131014"
+  },
+  "Owsianny, Paweł": {
+    "pozycja": "P",
+    "teamId": "131014"
+  },
+  "Leite, Gilberto": {
+    "pozycja": "P",
+    "teamId": "131014"
+  },
+  "Rolfini, Angelo": {
+    "pozycja": "P",
+    "teamId": "131014"
+  },
+  "Pedone, Lapo": {
+    "pozycja": "P",
+    "teamId": "131014"
+  },
+  "Simonin, Charles": {
+    "pozycja": "S",
+    "teamId": "131014"
+  },
+  "Pudełko, Julian": {
+    "pozycja": "Ś",
+    "teamId": "131014"
+  },
+  "Paszek, Rafał": {
+    "pozycja": "Ś",
+    "teamId": "131014"
+  },
+  "Wasilewski, Ryszard": {
+    "pozycja": "Ś",
+    "teamId": "131014"
+  },
+  "Bord, Al": {
+    "pozycja": "O",
+    "teamId": "140981"
+  },
+  "Larchevêque, André": {
+    "pozycja": "O",
+    "teamId": "140981"
+  },
+  "Dzwonkowski, Janusz": {
+    "pozycja": "L",
+    "teamId": "140981"
+  },
+  "Nierychło, Piotr": {
+    "pozycja": "P",
+    "teamId": "140981"
+  },
+  "Martin, Claude": {
+    "pozycja": "P",
+    "teamId": "140981"
+  },
+  "Wieliczko, Fryderyk": {
+    "pozycja": "P",
+    "teamId": "140981"
+  },
+  "Sołtys, Adrian": {
+    "pozycja": "P",
+    "teamId": "140981"
+  },
+  "Kądziołka, Krzysztof": {
+    "pozycja": "S",
+    "teamId": "140981"
+  },
+  "Lemancel, Jérôme": {
+    "pozycja": "S",
+    "teamId": "140981"
+  },
+  "Brown, Todd": {
+    "pozycja": "S",
+    "teamId": "140981"
+  },
+  "Poprawa, Tymoteusz": {
+    "pozycja": "Ś",
+    "teamId": "140981"
+  },
+  "Atacan, Hakan": {
+    "pozycja": "Ś",
+    "teamId": "140981"
+  },
+  "Smith, Jason": {
+    "pozycja": "Ś",
+    "teamId": "140981"
+  },
+  "Ziewiec, Adam": {
+    "pozycja": "O",
+    "teamId": "131265"
+  },
+  "Barreto, Osvaldo": {
+    "pozycja": "L",
+    "teamId": "131265"
+  },
+  "Wawrzyniecki, Olaf": {
+    "pozycja": "L",
+    "teamId": "131265"
+  },
+  "Idźkowski, Mateusz": {
+    "pozycja": "P",
+    "teamId": "131265"
+  },
+  "Szwanke, Dawid": {
+    "pozycja": "P",
+    "teamId": "131265"
+  },
+  "Crespo, Juarez": {
+    "pozycja": "P",
+    "teamId": "131265"
+  },
+  "Garbacz, Jerzy": {
+    "pozycja": "P",
+    "teamId": "131265"
+  },
+  "Löwgren, Pär-Olof": {
+    "pozycja": "S",
+    "teamId": "131265"
+  },
+  "Rusek, Paweł": {
+    "pozycja": "S",
+    "teamId": "131265"
+  },
+  "Tatkowski, Damian": {
+    "pozycja": "Ś",
+    "teamId": "131265"
+  },
+  "Modzelewski, Kamil": {
+    "pozycja": "Ś",
+    "teamId": "131265"
+  },
+  "Miłek, Łukasz": {
+    "pozycja": "Ś",
+    "teamId": "131265"
+  },
+  "Contant, Arnaud": {
+    "pozycja": "O",
+    "teamId": "141082"
+  },
+  "Taubitz, Ingolf": {
+    "pozycja": "O",
+    "teamId": "141082"
+  },
+  "Ibatici, Federico": {
+    "pozycja": "L",
+    "teamId": "141082"
+  },
+  "Castellini, Jefferson": {
+    "pozycja": "L",
+    "teamId": "141082"
+  },
+  "Chisari, Aldo": {
+    "pozycja": "P",
+    "teamId": "141082"
+  },
+  "Garnier, Bertrand": {
+    "pozycja": "P",
+    "teamId": "141082"
+  },
+  "Clin, Albert": {
+    "pozycja": "P",
+    "teamId": "141082"
+  },
+  "Wiesbauer, Ulrich": {
+    "pozycja": "S",
+    "teamId": "141082"
+  },
+  "Frankiewicz, Jerzy": {
+    "pozycja": "S",
+    "teamId": "141082"
+  },
+  "Szypuła, Filip": {
+    "pozycja": "S",
+    "teamId": "141082"
+  },
+  "Wójcikowski, Jacek": {
+    "pozycja": "Ś",
+    "teamId": "141082"
+  },
+  "Di Giacomo, Pantaleo": {
+    "pozycja": "Ś",
+    "teamId": "141082"
+  },
+  "Zerrın, Rıza": {
+    "pozycja": "Ś",
+    "teamId": "141082"
+  },
+  "Bany, Franciszek": {
+    "pozycja": "Ś",
+    "teamId": "141082"
+  },
+  "Venerando, Rodolfo": {
+    "pozycja": "Ś",
+    "teamId": "141082"
+  },
+  "Ganso, Abílio": {
+    "pozycja": "Ś",
+    "teamId": "141082"
+  },
+  "Wadas, Adrian": {
+    "pozycja": "O",
+    "teamId": "128658"
+  },
+  "Nowak, Mikołaj": {
+    "pozycja": "O",
+    "teamId": "128658"
+  },
+  "Mikita, Bruno": {
+    "pozycja": "L",
+    "teamId": "128658"
+  },
+  "Bieroński, Szymon": {
+    "pozycja": "L",
+    "teamId": "128658"
+  },
+  "Chwalba, Patryk": {
+    "pozycja": "P",
+    "teamId": "128658"
+  },
+  "Potapczuk, Gabriel": {
+    "pozycja": "P",
+    "teamId": "128658"
+  },
+  "Chyliński, Wiesław": {
+    "pozycja": "P",
+    "teamId": "128658"
+  },
+  "Kołodziej, Adrian": {
+    "pozycja": "P",
+    "teamId": "128658"
+  },
+  "Koralewski, Tomasz": {
+    "pozycja": "S",
+    "teamId": "128658"
+  },
+  "Miech, Robert": {
+    "pozycja": "S",
+    "teamId": "128658"
+  },
+  "Janda, Franciszek": {
+    "pozycja": "S",
+    "teamId": "128658"
+  },
+  "Szlaga, Maciej": {
+    "pozycja": "S",
+    "teamId": "128658"
+  },
+  "Świerczyński, Leopold": {
+    "pozycja": "S",
+    "teamId": "128658"
+  },
+  "Kloc, Jacek": {
+    "pozycja": "Ś",
+    "teamId": "128658"
+  },
+  "Malinowski, Wojciech": {
+    "pozycja": "Ś",
+    "teamId": "128658"
+  },
+  "Skrzyniarz, Leszek": {
+    "pozycja": "Ś",
+    "teamId": "128658"
+  },
+  "Płuciennik, Kacper": {
+    "pozycja": "O",
+    "teamId": "137342"
+  },
+  "Gdaniec, Adrian": {
+    "pozycja": "O",
+    "teamId": "137342"
+  },
+  "Turati, Ottavio": {
+    "pozycja": "L",
+    "teamId": "137342"
+  },
+  "Stralsund, Klaus-Michael": {
+    "pozycja": "L",
+    "teamId": "137342"
+  },
+  "Bolda, Wiktor": {
+    "pozycja": "P",
+    "teamId": "137342"
+  },
+  "Pęcak, Aleksy": {
+    "pozycja": "P",
+    "teamId": "137342"
+  },
+  "Kopiec, Franciszek": {
+    "pozycja": "P",
+    "teamId": "137342"
+  },
+  "Kalicki, Edward": {
+    "pozycja": "P",
+    "teamId": "137342"
+  },
+  "Gawlik, Maksymilian": {
+    "pozycja": "S",
+    "teamId": "137342"
+  },
+  "Sawka, Maksymilian": {
+    "pozycja": "S",
+    "teamId": "137342"
+  },
+  "Fornoni, Ottavio": {
+    "pozycja": "Ś",
+    "teamId": "137342"
+  },
+  "Nowak, Mateusz": {
+    "pozycja": "Ś",
+    "teamId": "137342"
+  },
+  "Andrejczuk, Arkadiusz": {
+    "pozycja": "Ś",
+    "teamId": "137342"
+  },
+  "Fila, Dawid": {
+    "pozycja": "Ś",
+    "teamId": "137342"
+  },
+  "Grabarczyk, Antoni": {
+    "pozycja": "Ś",
+    "teamId": "137342"
+  },
+  "Popov, Mihail": {
+    "pozycja": "Ś",
+    "teamId": "137342"
+  },
+  "Camboias, Mário": {
+    "pozycja": "Ś",
+    "teamId": "137342"
+  },
+  "Kapała, Paweł": {
+    "pozycja": "Ś",
+    "teamId": "137342"
+  },
+  "Perdigão, Max": {
+    "pozycja": "O",
+    "teamId": "137376"
+  },
+  "Szreder, Paweł": {
+    "pozycja": "O",
+    "teamId": "137376"
+  },
+  "Tasev, Alexander": {
+    "pozycja": "L",
+    "teamId": "137376"
+  },
+  "Corvucci, Umberto": {
+    "pozycja": "L",
+    "teamId": "137376"
+  },
+  "Pagliuca, Marcello": {
+    "pozycja": "L",
+    "teamId": "137376"
+  },
+  "Venanzi, Quinto": {
+    "pozycja": "L",
+    "teamId": "137376"
+  },
+  "Katzman, Frank": {
+    "pozycja": "P",
+    "teamId": "137376"
+  },
+  "Pinheiro, Ismael": {
+    "pozycja": "P",
+    "teamId": "137376"
+  },
+  "Rispoli, Dante": {
+    "pozycja": "P",
+    "teamId": "137376"
+  },
+  "Dima, Knut": {
+    "pozycja": "P",
+    "teamId": "137376"
+  },
+  "Abdala, Giovane": {
+    "pozycja": "S",
+    "teamId": "137376"
+  },
+  "Grolleau, Bruno": {
+    "pozycja": "S",
+    "teamId": "137376"
+  },
+  "Gozdek, Marek": {
+    "pozycja": "Ś",
+    "teamId": "137376"
+  },
+  "Joseph, Gary": {
+    "pozycja": "Ś",
+    "teamId": "137376"
+  },
+  "Kasprzyk, Piotr": {
+    "pozycja": "Ś",
+    "teamId": "137376"
+  },
+  "Neumann, Eryk": {
+    "pozycja": "O",
+    "teamId": "128733"
+  },
+  "Mativet, Gilles": {
+    "pozycja": "O",
+    "teamId": "128733"
+  },
+  "Żukowski, Władysław": {
+    "pozycja": "L",
+    "teamId": "128733"
+  },
+  "Mazurek, Antoni": {
+    "pozycja": "L",
+    "teamId": "128733"
+  },
+  "Jarek, Jacek": {
+    "pozycja": "P",
+    "teamId": "128733"
+  },
+  "Priebe, Jacek": {
+    "pozycja": "P",
+    "teamId": "128733"
+  },
+  "Ciołek, Tomasz": {
+    "pozycja": "P",
+    "teamId": "128733"
+  },
+  "Zagrajek, Marek": {
+    "pozycja": "P",
+    "teamId": "128733"
+  },
+  "Macudziński, Hubert": {
+    "pozycja": "P",
+    "teamId": "128733"
+  },
+  "Pyrka, Krzysztof": {
+    "pozycja": "P",
+    "teamId": "128733"
+  },
+  "Meszyński, Dariusz": {
+    "pozycja": "P",
+    "teamId": "128733"
+  },
+  "Godlewski, Zbigniew": {
+    "pozycja": "S",
+    "teamId": "128733"
+  },
+  "Antonik, Mikołaj": {
+    "pozycja": "S",
+    "teamId": "128733"
+  },
+  "Wilkins, Dorian": {
+    "pozycja": "Ś",
+    "teamId": "128733"
+  },
+  "Kolev, Nasko": {
+    "pozycja": "Ś",
+    "teamId": "128733"
+  },
+  "Zetti, Luca": {
+    "pozycja": "Ś",
+    "teamId": "128733"
+  },
+  "Szkudelski, Piotr": {
+    "pozycja": "O",
+    "teamId": "131717"
+  },
+  "Shiotani, Jushin": {
+    "pozycja": "O",
+    "teamId": "131717"
+  },
+  "Souglakos, Athan": {
+    "pozycja": "O",
+    "teamId": "131717"
+  },
+  "Bąk, Jan": {
+    "pozycja": "L",
+    "teamId": "131717"
+  },
+  "Osborn, Jimmy": {
+    "pozycja": "L",
+    "teamId": "131717"
+  },
+  "Dreja, Zenon": {
+    "pozycja": "P",
+    "teamId": "131717"
+  },
+  "Chernichenko, Rolf": {
+    "pozycja": "P",
+    "teamId": "131717"
+  },
+  "Garagnani, Antonello": {
+    "pozycja": "P",
+    "teamId": "131717"
+  },
+  "Gamboa, Adalberto": {
+    "pozycja": "P",
+    "teamId": "131717"
+  },
+  "Poulet, François": {
+    "pozycja": "P",
+    "teamId": "131717"
+  },
+  "Lopilato, Ferruccio": {
+    "pozycja": "S",
+    "teamId": "131717"
+  },
+  "Escuteiro, Aldonio": {
+    "pozycja": "S",
+    "teamId": "131717"
+  },
+  "Plieren, Volkart": {
+    "pozycja": "Ś",
+    "teamId": "131717"
+  },
+  "Pakkasvirta, Nils": {
+    "pozycja": "Ś",
+    "teamId": "131717"
+  },
+  "Fagerström, Einojuhani": {
+    "pozycja": "Ś",
+    "teamId": "131717"
+  },
+  "Diktonius, Eugen": {
+    "pozycja": "Ś",
+    "teamId": "131717"
+  },
+  "Sheng, Nariyuki": {
+    "pozycja": "Ś",
+    "teamId": "131717"
+  },
+  "Schuddinck, Ulu": {
+    "pozycja": "Ś",
+    "teamId": "131717"
+  },
+  "Girouard, Leonard": {
+    "pozycja": "Ś",
+    "teamId": "131717"
+  },
+  "Lo, Jianong": {
+    "pozycja": "Ś",
+    "teamId": "131717"
+  },
+  "Jędrzejczyk, Hubert": {
+    "pozycja": "Ś",
+    "teamId": "131717"
+  },
+  "Gurtowski, Jarosław": {
+    "pozycja": "Ś",
+    "teamId": "131717"
+  },
+  "Berthet, Lorenzo": {
+    "pozycja": "O",
+    "teamId": "130769"
+  },
+  "Ulbrich, Mariusz": {
+    "pozycja": "O",
+    "teamId": "130769"
+  },
+  "Nowak, Wojciech": {
+    "pozycja": "O",
+    "teamId": "130769"
+  },
+  "Kuczek, Krzysztof": {
+    "pozycja": "O",
+    "teamId": "130769"
+  },
+  "Zlatarski, Todor": {
+    "pozycja": "L",
+    "teamId": "130769"
+  },
+  "Ryznar, Romuald": {
+    "pozycja": "L",
+    "teamId": "130769"
+  },
+  "Wadowski, Kajetan": {
+    "pozycja": "P",
+    "teamId": "130769"
+  },
+  "Sunazuka, Kogan": {
+    "pozycja": "P",
+    "teamId": "130769"
+  },
+  "Kowaliszyn, Krzysztof": {
+    "pozycja": "P",
+    "teamId": "130769"
+  },
+  "Przekwas, Witold": {
+    "pozycja": "P",
+    "teamId": "130769"
+  },
+  "Mielle, Laurent": {
+    "pozycja": "S",
+    "teamId": "130769"
+  },
+  "Bukowiec, Andrzej": {
+    "pozycja": "S",
+    "teamId": "130769"
+  },
+  "Wandas, Bolesław": {
+    "pozycja": "Ś",
+    "teamId": "130769"
+  },
+  "Ichimura, Takashi": {
+    "pozycja": "Ś",
+    "teamId": "130769"
+  },
+  "Maimik, Raikko": {
+    "pozycja": "Ś",
+    "teamId": "130769"
+  },
+  "Andrès, Alexandre": {
+    "pozycja": "Ś",
+    "teamId": "130769"
+  },
+  "Ivanov, Iliyan": {
+    "pozycja": "Ś",
+    "teamId": "130769"
+  },
+  "Royer, Marc": {
+    "pozycja": "Ś",
+    "teamId": "130769"
+  },
+  "Pająk, Mateusz": {
+    "pozycja": "O",
+    "teamId": "128674"
+  },
+  "Brillante, Dario": {
+    "pozycja": "O",
+    "teamId": "128674"
+  },
+  "Wojtczak, Jakub": {
+    "pozycja": "L",
+    "teamId": "128674"
+  },
+  "Szpakowski, Włodzimierz": {
+    "pozycja": "L",
+    "teamId": "128674"
+  },
+  "Pawłowski, Bruno": {
+    "pozycja": "P",
+    "teamId": "128674"
+  },
+  "Sławiński, Robert": {
+    "pozycja": "P",
+    "teamId": "128674"
+  },
+  "Guzman, Michał": {
+    "pozycja": "P",
+    "teamId": "128674"
+  },
+  "Bouvier, Michel": {
+    "pozycja": "S",
+    "teamId": "128674"
+  },
+  "Celal, Samet": {
+    "pozycja": "S",
+    "teamId": "128674"
+  },
+  "Życzyński, Hieronim": {
+    "pozycja": "Ś",
+    "teamId": "128674"
+  },
+  "Stoynov, Petko": {
+    "pozycja": "Ś",
+    "teamId": "128674"
+  },
+  "Kaczorowski, Mariusz": {
+    "pozycja": "Ś",
+    "teamId": "128674"
+  },
+  "Stefanoni, Oddone": {
+    "pozycja": "Ś",
+    "teamId": "128674"
+  },
+  "Fijołek, Dariusz": {
+    "pozycja": "O",
+    "teamId": "140923"
+  },
+  "Hristov, Emil": {
+    "pozycja": "L",
+    "teamId": "140923"
+  },
+  "Bijak, Jan": {
+    "pozycja": "P",
+    "teamId": "140923"
+  },
+  "Pélat, Jean-Claude": {
+    "pozycja": "P",
+    "teamId": "140923"
+  },
+  "Lehmann, Michał": {
+    "pozycja": "S",
+    "teamId": "140923"
+  },
+  "Krzysztofik, Radosław": {
+    "pozycja": "Ś",
+    "teamId": "140923"
+  },
+  "Bernat, Krzysztof": {
+    "pozycja": "Ś",
+    "teamId": "140923"
+  },
+  "Mewes, Bernd": {
+    "pozycja": "O",
+    "teamId": "140749"
+  },
+  "Perrari, Manfredi": {
+    "pozycja": "O",
+    "teamId": "140749"
+  },
+  "Specker, Cedric": {
+    "pozycja": "L",
+    "teamId": "140749"
+  },
+  "Turała, Marcel": {
+    "pozycja": "L",
+    "teamId": "140749"
+  },
+  "Bednarczyk, Wojciech": {
+    "pozycja": "L",
+    "teamId": "140749"
+  },
+  "Griva, Ignazio": {
+    "pozycja": "P",
+    "teamId": "140749"
+  },
+  "Mantovani, Placido": {
+    "pozycja": "P",
+    "teamId": "140749"
+  },
+  "Horta, Gumercindo": {
+    "pozycja": "P",
+    "teamId": "140749"
+  },
+  "Puig, Maximo": {
+    "pozycja": "P",
+    "teamId": "140749"
+  },
+  "Hałat, Łukasz": {
+    "pozycja": "P",
+    "teamId": "140749"
+  },
+  "Irino, Takanobu": {
+    "pozycja": "S",
+    "teamId": "140749"
+  },
+  "Marciszewski, Stanisław": {
+    "pozycja": "S",
+    "teamId": "140749"
+  },
+  "Laurenzio, Matteo": {
+    "pozycja": "Ś",
+    "teamId": "140749"
+  },
+  "Musiał, Daniel": {
+    "pozycja": "Ś",
+    "teamId": "140749"
+  },
+  "Sanz, Fávila": {
+    "pozycja": "Ś",
+    "teamId": "140749"
+  },
+  "Walewski, Marek": {
+    "pozycja": "O",
+    "teamId": "140767"
+  },
+  "Peychev, Nikolay": {
+    "pozycja": "L",
+    "teamId": "140767"
+  },
+  "Zanini, Josivaldo": {
+    "pozycja": "L",
+    "teamId": "140767"
+  },
+  "Bertran, Kévin": {
+    "pozycja": "P",
+    "teamId": "140767"
+  },
+  "Guillot, Guy": {
+    "pozycja": "P",
+    "teamId": "140767"
+  },
+  "Crispolti, Mimmo": {
+    "pozycja": "P",
+    "teamId": "140767"
+  },
+  "Maibaum, Edgar": {
+    "pozycja": "P",
+    "teamId": "140767"
+  },
+  "Idzi, Mikołaj": {
+    "pozycja": "S",
+    "teamId": "140767"
+  },
+  "Barber, Jason": {
+    "pozycja": "S",
+    "teamId": "140767"
+  },
+  "Żukowski, Paweł": {
+    "pozycja": "Ś",
+    "teamId": "140767"
+  },
+  "Quintavalla, Antonello": {
+    "pozycja": "Ś",
+    "teamId": "140767"
+  },
+  "Kaluža, Damijan": {
+    "pozycja": "Ś",
+    "teamId": "140767"
+  },
+  "Guarnieri, Tó": {
+    "pozycja": "O",
+    "teamId": "131290"
+  },
+  "Valadares, Baltazar": {
+    "pozycja": "O",
+    "teamId": "131290"
+  },
+  "Puchała, Franciszek": {
+    "pozycja": "L",
+    "teamId": "131290"
+  },
+  "Hürrem, Veli": {
+    "pozycja": "L",
+    "teamId": "131290"
+  },
+  "Kornet, Michał": {
+    "pozycja": "P",
+    "teamId": "131290"
+  },
+  "Benoit, Marc": {
+    "pozycja": "P",
+    "teamId": "131290"
+  },
+  "Klein, Patrick": {
+    "pozycja": "P",
+    "teamId": "131290"
+  },
+  "Sobański, Oliwier": {
+    "pozycja": "P",
+    "teamId": "131290"
+  },
+  "Rönk, Karl": {
+    "pozycja": "S",
+    "teamId": "131290"
+  },
+  "Gajewski, Kacper": {
+    "pozycja": "S",
+    "teamId": "131290"
+  },
+  "Tomšík, Karl": {
+    "pozycja": "Ś",
+    "teamId": "131290"
+  },
+  "Escobar, Cássio": {
+    "pozycja": "Ś",
+    "teamId": "131290"
+  },
+  "Juarez, Walter": {
+    "pozycja": "Ś",
+    "teamId": "131290"
+  },
+  "Ferrante, Crispim": {
+    "pozycja": "Ś",
+    "teamId": "131290"
+  },
+  "Barreau, Grégory": {
+    "pozycja": "O",
+    "teamId": "140952"
+  },
+  "Singer, Daniel": {
+    "pozycja": "O",
+    "teamId": "140952"
+  },
+  "Merenda, Camillo": {
+    "pozycja": "L",
+    "teamId": "140952"
+  },
+  "Di Baldo, Giorgio": {
+    "pozycja": "L",
+    "teamId": "140952"
+  },
+  "da Rocha, Juan": {
+    "pozycja": "P",
+    "teamId": "140952"
+  },
+  "Gołębowski, Jacek": {
+    "pozycja": "P",
+    "teamId": "140952"
+  },
+  "Wajszczyk, Michał": {
+    "pozycja": "P",
+    "teamId": "140952"
+  },
+  "Esın, Kamer": {
+    "pozycja": "P",
+    "teamId": "140952"
+  },
+  "Bukała, Marcin": {
+    "pozycja": "S",
+    "teamId": "140952"
+  },
+  "Błażewicz, Kacper": {
+    "pozycja": "S",
+    "teamId": "140952"
+  },
+  "Redondo, André": {
+    "pozycja": "Ś",
+    "teamId": "140952"
+  },
+  "Barabasz, Marcin": {
+    "pozycja": "Ś",
+    "teamId": "140952"
+  },
+  "Coroado, Orlando": {
+    "pozycja": "Ś",
+    "teamId": "140952"
+  },
+  "Guillén, Warly": {
+    "pozycja": "O",
+    "teamId": "130541"
+  },
+  "Greczkowski, Jan": {
+    "pozycja": "O",
+    "teamId": "130541"
+  },
+  "Kruk, Daniel": {
+    "pozycja": "O",
+    "teamId": "130541"
+  },
+  "Brady, Aiden": {
+    "pozycja": "L",
+    "teamId": "130541"
+  },
+  "Fira, Jan": {
+    "pozycja": "L",
+    "teamId": "130541"
+  },
+  "Borek, Maciej": {
+    "pozycja": "P",
+    "teamId": "130541"
+  },
+  "Osowski, Paweł": {
+    "pozycja": "P",
+    "teamId": "130541"
+  },
+  "Miśkiewicz, Grzegorz": {
+    "pozycja": "P",
+    "teamId": "130541"
+  },
+  "Dominik, Rafał": {
+    "pozycja": "S",
+    "teamId": "130541"
+  },
+  "Markov, Rumen": {
+    "pozycja": "S",
+    "teamId": "130541"
+  },
+  "Grzegrzółka, Mateusz": {
+    "pozycja": "Ś",
+    "teamId": "130541"
+  },
+  "Constantino, Igor": {
+    "pozycja": "Ś",
+    "teamId": "130541"
+  },
+  "Drzewicki, Henryk": {
+    "pozycja": "Ś",
+    "teamId": "130541"
+  },
+  "Lomba, Perdigão": {
+    "pozycja": "Ś",
+    "teamId": "130541"
+  },
+  "Micheuz, Jürnjochen": {
+    "pozycja": "Ś",
+    "teamId": "130541"
+  },
+  "Lorenz, Heribert": {
+    "pozycja": "O",
+    "teamId": "131712"
+  },
+  "Bafaloukos, Constantine": {
+    "pozycja": "O",
+    "teamId": "131712"
+  },
+  "Prokopov, Angel": {
+    "pozycja": "O",
+    "teamId": "131712"
+  },
+  "Sertap, Artun": {
+    "pozycja": "O",
+    "teamId": "131712"
+  },
+  "Rosko, Alojz": {
+    "pozycja": "O",
+    "teamId": "131712"
+  },
+  "Żurek, Paweł": {
+    "pozycja": "L",
+    "teamId": "131712"
+  },
+  "Paštrović, Gašpar": {
+    "pozycja": "L",
+    "teamId": "131712"
+  },
+  "Mucciarelli, Edoardo": {
+    "pozycja": "L",
+    "teamId": "131712"
+  },
+  "Bumbák, Milan": {
+    "pozycja": "L",
+    "teamId": "131712"
+  },
+  "Vilaragut, Antonio": {
+    "pozycja": "L",
+    "teamId": "131712"
+  },
+  "Flămânzeanu, Eduard": {
+    "pozycja": "P",
+    "teamId": "131712"
+  },
+  "Sala, Răducu": {
+    "pozycja": "P",
+    "teamId": "131712"
+  },
+  "Zink, Caleb": {
+    "pozycja": "P",
+    "teamId": "131712"
+  },
+  "Stolarek, Radosław": {
+    "pozycja": "P",
+    "teamId": "131712"
+  },
+  "Dubašák, Bohdan": {
+    "pozycja": "P",
+    "teamId": "131712"
+  },
+  "Milosavljević, Stevan": {
+    "pozycja": "P",
+    "teamId": "131712"
+  },
+  "Kouropoulos, Odisseas": {
+    "pozycja": "P",
+    "teamId": "131712"
+  },
+  "Mikulášik, Danylo": {
+    "pozycja": "P",
+    "teamId": "131712"
+  },
+  "Kafar, Igor": {
+    "pozycja": "S",
+    "teamId": "131712"
+  },
+  "Wierzbicki, Eugeniusz": {
+    "pozycja": "S",
+    "teamId": "131712"
+  },
+  "Tarkowski, Kamil": {
+    "pozycja": "Ś",
+    "teamId": "131712"
+  },
+  "Guillon, Yannick": {
+    "pozycja": "Ś",
+    "teamId": "131712"
+  },
+  "Bakas, Raoul": {
+    "pozycja": "Ś",
+    "teamId": "131712"
+  },
+  "Gallinari, Ottorino": {
+    "pozycja": "O",
+    "teamId": "144727"
+  },
+  "Florek, Grzegorz": {
+    "pozycja": "O",
+    "teamId": "144727"
+  },
+  "Nandzik, Witold": {
+    "pozycja": "L",
+    "teamId": "144727"
+  },
+  "Mertcan, Tugay": {
+    "pozycja": "L",
+    "teamId": "144727"
+  },
+  "Dumont, Marcel": {
+    "pozycja": "P",
+    "teamId": "144727"
+  },
+  "Trajano, Enéas": {
+    "pozycja": "P",
+    "teamId": "144727"
+  },
+  "Wróż, Adrian": {
+    "pozycja": "P",
+    "teamId": "144727"
+  },
+  "Interdonato, Massimo": {
+    "pozycja": "S",
+    "teamId": "144727"
+  },
+  "Mercadante, Juca": {
+    "pozycja": "S",
+    "teamId": "144727"
+  },
+  "Caranfa, Luciano": {
+    "pozycja": "S",
+    "teamId": "144727"
+  },
+  "Banaszak, Jan": {
+    "pozycja": "S",
+    "teamId": "144727"
+  },
+  "Róg, Daniel": {
+    "pozycja": "S",
+    "teamId": "144727"
+  },
+  "Kopel, Oskar": {
+    "pozycja": "Ś",
+    "teamId": "144727"
+  },
+  "Mazurek, Adam": {
+    "pozycja": "Ś",
+    "teamId": "144727"
+  },
+  "Kowalewski, Adam": {
+    "pozycja": "Ś",
+    "teamId": "144727"
+  },
+  "Ikonomov, Alexander": {
+    "pozycja": "Ś",
+    "teamId": "144727"
+  },
+  "Navarrini, Davide": {
+    "pozycja": "O",
+    "teamId": "141099"
+  },
+  "Farinha, Valdemar": {
+    "pozycja": "O",
+    "teamId": "141099"
+  },
+  "Dupuis, Sylvain": {
+    "pozycja": "L",
+    "teamId": "141099"
+  },
+  "Caredda, Danilo": {
+    "pozycja": "L",
+    "teamId": "141099"
+  },
+  "Del Piero, Tito": {
+    "pozycja": "P",
+    "teamId": "141099"
+  },
+  "Pilch, Jan": {
+    "pozycja": "P",
+    "teamId": "141099"
+  },
+  "Ganchovski, Vladimir": {
+    "pozycja": "P",
+    "teamId": "141099"
+  },
+  "Santos, Ronald": {
+    "pozycja": "S",
+    "teamId": "141099"
+  },
+  "Carlier, Patrick": {
+    "pozycja": "S",
+    "teamId": "141099"
+  },
+  "Świderski, Krzysztof": {
+    "pozycja": "Ś",
+    "teamId": "141099"
+  },
+  "Terroso, Sócrates": {
+    "pozycja": "Ś",
+    "teamId": "141099"
+  },
+  "Alper, Arcan": {
+    "pozycja": "Ś",
+    "teamId": "141099"
+  },
+  "Pinto, Saturnino": {
+    "pozycja": "O",
+    "teamId": "144777"
+  },
+  "Amberg, Hartmut": {
+    "pozycja": "O",
+    "teamId": "144777"
+  },
+  "Toscano, Aldo": {
+    "pozycja": "L",
+    "teamId": "144777"
+  },
+  "Akutagawa, Taizo": {
+    "pozycja": "L",
+    "teamId": "144777"
+  },
+  "Gancarz, Bogusław": {
+    "pozycja": "P",
+    "teamId": "144777"
+  },
+  "Goranov, Vasil": {
+    "pozycja": "P",
+    "teamId": "144777"
+  },
+  "Penev, Nikolay": {
+    "pozycja": "P",
+    "teamId": "144777"
+  },
+  "Emre, Ercan": {
+    "pozycja": "S",
+    "teamId": "144777"
+  },
+  "Brößler, Dominik": {
+    "pozycja": "S",
+    "teamId": "144777"
+  },
+  "Lumbroso, Rino": {
+    "pozycja": "Ś",
+    "teamId": "144777"
+  },
+  "Wdowiak, Jerzy": {
+    "pozycja": "Ś",
+    "teamId": "144777"
+  },
+  "Mendes, Raoni": {
+    "pozycja": "Ś",
+    "teamId": "144777"
+  },
+  "Benoist, Egidius": {
+    "pozycja": "O",
+    "teamId": "128735"
+  },
+  "Stolarczyk, Piotr": {
+    "pozycja": "O",
+    "teamId": "128735"
+  },
+  "Raj, Edmund": {
+    "pozycja": "L",
+    "teamId": "128735"
+  },
+  "Grzelak, Michał": {
+    "pozycja": "P",
+    "teamId": "128735"
+  },
+  "Muras, Łukasz": {
+    "pozycja": "P",
+    "teamId": "128735"
+  },
+  "Zaidi, Maxime": {
+    "pozycja": "P",
+    "teamId": "128735"
+  },
+  "Lewicki, Sławomir": {
+    "pozycja": "P",
+    "teamId": "128735"
+  },
+  "Camperio, Patrizio": {
+    "pozycja": "S",
+    "teamId": "128735"
+  },
+  "Lebas, Lucas": {
+    "pozycja": "S",
+    "teamId": "128735"
+  },
+  "Piasecki, Konrad": {
+    "pozycja": "Ś",
+    "teamId": "128735"
+  },
+  "Gonciarz, Tomasz": {
+    "pozycja": "Ś",
+    "teamId": "128735"
+  },
+  "Olszewski, Jerzy": {
+    "pozycja": "Ś",
+    "teamId": "128735"
+  },
+  "Branzanti, Carmelo": {
+    "pozycja": "Ś",
+    "teamId": "128735"
+  },
+  "Kozubek, Robert": {
+    "pozycja": "Ś",
+    "teamId": "128735"
+  },
+  "Barć, Krzysztof": {
+    "pozycja": "O",
+    "teamId": "130767"
+  },
+  "Staszewski, Piotr": {
+    "pozycja": "O",
+    "teamId": "130767"
+  },
+  "Umiński, Michał": {
+    "pozycja": "L",
+    "teamId": "130767"
+  },
+  "Krawczyk, Krzysztof": {
+    "pozycja": "L",
+    "teamId": "130767"
+  },
+  "Mostowy, Igor": {
+    "pozycja": "P",
+    "teamId": "130767"
+  },
+  "Marczak, Mateusz": {
+    "pozycja": "P",
+    "teamId": "130767"
+  },
+  "Zakrzewski, Jakub": {
+    "pozycja": "P",
+    "teamId": "130767"
+  },
+  "Kubasiak, Tadeusz": {
+    "pozycja": "P",
+    "teamId": "130767"
+  },
+  "Simeonov, Ivan": {
+    "pozycja": "S",
+    "teamId": "130767"
+  },
+  "İlkgüz, Ferhat": {
+    "pozycja": "S",
+    "teamId": "130767"
+  },
+  "Dolata, Ryszard": {
+    "pozycja": "Ś",
+    "teamId": "130767"
+  },
+  "Grothansen, Wilhelm": {
+    "pozycja": "Ś",
+    "teamId": "130767"
+  },
+  "Pillitteri, Norberto": {
+    "pozycja": "Ś",
+    "teamId": "130767"
+  },
+  "Mazur, Michał": {
+    "pozycja": "Ś",
+    "teamId": "130767"
+  },
+  "Pellecchia, Italo": {
+    "pozycja": "Ś",
+    "teamId": "130767"
+  },
+  "Drpić, Rudolf": {
+    "pozycja": "O",
+    "teamId": "128806"
+  },
+  "Okoń, Ignacy": {
+    "pozycja": "O",
+    "teamId": "128806"
+  },
+  "Puczyłowski, Łukasz": {
+    "pozycja": "L",
+    "teamId": "128806"
+  },
+  "Benson, Jon": {
+    "pozycja": "L",
+    "teamId": "128806"
+  },
+  "Simov, Rumen": {
+    "pozycja": "P",
+    "teamId": "128806"
+  },
+  "Michalski, Jakub": {
+    "pozycja": "P",
+    "teamId": "128806"
+  },
+  "Czerwiński, Rafał": {
+    "pozycja": "P",
+    "teamId": "128806"
+  },
+  "Zielecki, Remigiusz": {
+    "pozycja": "P",
+    "teamId": "128806"
+  },
+  "Michel, Jean-Pierre": {
+    "pozycja": "S",
+    "teamId": "128806"
+  },
+  "Postiglione, Juliano": {
+    "pozycja": "S",
+    "teamId": "128806"
+  },
+  "Rosini, Moreno": {
+    "pozycja": "Ś",
+    "teamId": "128806"
+  },
+  "Dziedzic, Kacper": {
+    "pozycja": "Ś",
+    "teamId": "128806"
+  },
+  "Brătu, Corneliu": {
+    "pozycja": "Ś",
+    "teamId": "128806"
+  },
+  "Rawski, Daniel": {
+    "pozycja": "Ś",
+    "teamId": "128806"
+  },
+  "Fornal, Stanisław": {
+    "pozycja": "Ś",
+    "teamId": "128806"
+  },
+  "Prokopiak, Andrzej": {
+    "pozycja": "O",
+    "teamId": "131248"
+  },
+  "Jankowiak, Kacper": {
+    "pozycja": "O",
+    "teamId": "131248"
+  },
+  "Młynarczyk, Rafał": {
+    "pozycja": "O",
+    "teamId": "131248"
+  },
+  "Bretas, Robson": {
+    "pozycja": "L",
+    "teamId": "131248"
+  },
+  "Makoś, Bartosz": {
+    "pozycja": "L",
+    "teamId": "131248"
+  },
+  "Alcaraz, Brandon": {
+    "pozycja": "P",
+    "teamId": "131248"
+  },
+  "Bagniuk, Jerzy": {
+    "pozycja": "P",
+    "teamId": "131248"
+  },
+  "Korzeniewski, Mateusz": {
+    "pozycja": "P",
+    "teamId": "131248"
+  },
+  "Witkowski, Jerzy": {
+    "pozycja": "P",
+    "teamId": "131248"
+  },
+  "Karnecki, Rafał": {
+    "pozycja": "P",
+    "teamId": "131248"
+  },
+  "Mularczyk, Artur": {
+    "pozycja": "S",
+    "teamId": "131248"
+  },
+  "Kaniak, Henryk": {
+    "pozycja": "S",
+    "teamId": "131248"
+  },
+  "Leśniak, Kamil": {
+    "pozycja": "S",
+    "teamId": "131248"
+  },
+  "Lipiński, Wojciech": {
+    "pozycja": "Ś",
+    "teamId": "131248"
+  },
+  "Raczkowski, Sebastian": {
+    "pozycja": "Ś",
+    "teamId": "131248"
+  },
+  "Kupka, Piotr": {
+    "pozycja": "Ś",
+    "teamId": "131248"
+  },
+  "Kotkowski, Mikołaj": {
+    "pozycja": "Ś",
+    "teamId": "131248"
+  },
+  "Różycki, Roman": {
+    "pozycja": "Ś",
+    "teamId": "131248"
+  },
+  "Wardziński, Mateusz": {
+    "pozycja": "Ś",
+    "teamId": "131248"
+  },
+  "Stobierski, Seweryn": {
+    "pozycja": "O",
+    "teamId": "128600"
+  },
+  "Majorkiewicz, Jaromir": {
+    "pozycja": "O",
+    "teamId": "128600"
+  },
+  "Kozłowski, Leszek": {
+    "pozycja": "O",
+    "teamId": "128600"
+  },
+  "Frys, Wilhelm": {
+    "pozycja": "L",
+    "teamId": "128600"
+  },
+  "Stadnik, Wiktor": {
+    "pozycja": "L",
+    "teamId": "128600"
+  },
+  "Maros, Alfred": {
+    "pozycja": "P",
+    "teamId": "128600"
+  },
+  "Chafes, Almeno": {
+    "pozycja": "P",
+    "teamId": "128600"
+  },
+  "Dobosz, Piotr": {
+    "pozycja": "P",
+    "teamId": "128600"
+  },
+  "Chmielewski, Julian": {
+    "pozycja": "S",
+    "teamId": "128600"
+  },
+  "Szulecki, Maciej": {
+    "pozycja": "S",
+    "teamId": "128600"
+  },
+  "Żaglewski, Eugeniusz": {
+    "pozycja": "Ś",
+    "teamId": "128600"
+  },
+  "Borejszo, Jan": {
+    "pozycja": "Ś",
+    "teamId": "128600"
+  },
+  "Brzeziński, Franciszek": {
+    "pozycja": "Ś",
+    "teamId": "128600"
+  },
+  "Lebuda, Mariusz": {
+    "pozycja": "Ś",
+    "teamId": "128600"
+  },
+  "Sobala, Wiktor": {
+    "pozycja": "O",
+    "teamId": "131196"
+  },
+  "Meirelles, Rodolfo": {
+    "pozycja": "O",
+    "teamId": "131196"
+  },
+  "Zembrzycki, Fryderyk": {
+    "pozycja": "L",
+    "teamId": "131196"
+  },
+  "Buller, Daniel": {
+    "pozycja": "L",
+    "teamId": "131196"
+  },
+  "Dekarz, Natan": {
+    "pozycja": "P",
+    "teamId": "131196"
+  },
+  "Wnuk, Maciej": {
+    "pozycja": "P",
+    "teamId": "131196"
+  },
+  "Fulong, Zhenghai": {
+    "pozycja": "P",
+    "teamId": "131196"
+  },
+  "Mesquita, Caio": {
+    "pozycja": "S",
+    "teamId": "131196"
+  },
+  "Długosz, Robert": {
+    "pozycja": "S",
+    "teamId": "131196"
+  },
+  "Nılüfer, Ersin": {
+    "pozycja": "Ś",
+    "teamId": "131196"
+  },
+  "Bouteloup, Jean": {
+    "pozycja": "Ś",
+    "teamId": "131196"
+  },
+  "Sinclair, Nick": {
+    "pozycja": "Ś",
+    "teamId": "131196"
+  },
+  "Nıgar, Alkan": {
+    "pozycja": "Ś",
+    "teamId": "131196"
+  },
+  "Kaźmierczak, Karol": {
+    "pozycja": "Ś",
+    "teamId": "131196"
+  },
+  "Słota, Jan": {
+    "pozycja": "Ś",
+    "teamId": "131196"
+  },
+  "Macedo, Lucas": {
+    "pozycja": "Ś",
+    "teamId": "131196"
+  },
+  "Gwizdała, Jakub": {
+    "pozycja": "O",
+    "teamId": "128628"
+  },
+  "Owczarek, Franciszek": {
+    "pozycja": "O",
+    "teamId": "128628"
+  },
+  "Snee, Sebastian": {
+    "pozycja": "L",
+    "teamId": "128628"
+  },
+  "Jelar, Tom": {
+    "pozycja": "L",
+    "teamId": "128628"
+  },
+  "Deptuła, Krzysztof": {
+    "pozycja": "P",
+    "teamId": "128628"
+  },
+  "Paskov, Tzvetelin": {
+    "pozycja": "P",
+    "teamId": "128628"
+  },
+  "Meunier, Anthony": {
+    "pozycja": "P",
+    "teamId": "128628"
+  },
+  "Morelli, Nicola": {
+    "pozycja": "P",
+    "teamId": "128628"
+  },
+  "Polok, Krzysztof": {
+    "pozycja": "P",
+    "teamId": "128628"
+  },
+  "Carella, Alfredo": {
+    "pozycja": "P",
+    "teamId": "128628"
+  },
+  "Changkai, Dai": {
+    "pozycja": "S",
+    "teamId": "128628"
+  },
+  "Fic, Adrian": {
+    "pozycja": "S",
+    "teamId": "128628"
+  },
+  "Madureira, Miguel": {
+    "pozycja": "Ś",
+    "teamId": "128628"
+  },
+  "Bonnet, Anthony": {
+    "pozycja": "Ś",
+    "teamId": "128628"
+  },
+  "Erickson, Hayden": {
+    "pozycja": "Ś",
+    "teamId": "128628"
+  },
+  "Nağme, Hamdi": {
+    "pozycja": "Ś",
+    "teamId": "128628"
+  },
+  "Madej, Karol": {
+    "pozycja": "Ś",
+    "teamId": "128628"
+  },
+  "Williams, Jeremy": {
+    "pozycja": "Ś",
+    "teamId": "128628"
+  },
+  "Lehr, Chris": {
+    "pozycja": "Ś",
+    "teamId": "128628"
+  },
+  "Canuto, Alberto": {
+    "pozycja": "O",
+    "teamId": "140853"
+  },
+  "Jouany, Frédéric": {
+    "pozycja": "O",
+    "teamId": "140853"
+  },
+  "Starzyk, Mieczysław": {
+    "pozycja": "L",
+    "teamId": "140853"
+  },
+  "Comins, Chris": {
+    "pozycja": "L",
+    "teamId": "140853"
+  },
+  "Nierodzik, Wojciech": {
+    "pozycja": "P",
+    "teamId": "140853"
+  },
+  "Urbaniec, Bartłomiej": {
+    "pozycja": "P",
+    "teamId": "140853"
+  },
+  "Kaiserslautern, Mathias": {
+    "pozycja": "P",
+    "teamId": "140853"
+  },
+  "Seylan, Atabek": {
+    "pozycja": "S",
+    "teamId": "140853"
+  },
+  "Hameury, Georges": {
+    "pozycja": "S",
+    "teamId": "140853"
+  },
+  "Herkt, Rafał": {
+    "pozycja": "Ś",
+    "teamId": "140853"
+  },
+  "Delgado, Pedro": {
+    "pozycja": "Ś",
+    "teamId": "140853"
+  },
+  "Pacan, Przemysław": {
+    "pozycja": "Ś",
+    "teamId": "140853"
+  },
+  "Zaborowski, Robert": {
+    "pozycja": "O",
+    "teamId": "128707"
+  },
+  "Walczak, Wojciech": {
+    "pozycja": "O",
+    "teamId": "128707"
+  },
+  "Matuszak, Jarosław": {
+    "pozycja": "L",
+    "teamId": "128707"
+  },
+  "Mazurek, Artur": {
+    "pozycja": "L",
+    "teamId": "128707"
+  },
+  "Piga, Lucas": {
+    "pozycja": "P",
+    "teamId": "128707"
+  },
+  "Pajer, Roland": {
+    "pozycja": "P",
+    "teamId": "128707"
+  },
+  "Barylski, Józef": {
+    "pozycja": "P",
+    "teamId": "128707"
+  },
+  "Enchao, Yuwu": {
+    "pozycja": "P",
+    "teamId": "128707"
+  },
+  "Chaves, Justino": {
+    "pozycja": "P",
+    "teamId": "128707"
+  },
+  "Rivarola, Saverio": {
+    "pozycja": "P",
+    "teamId": "128707"
+  },
+  "Babic, Svebor": {
+    "pozycja": "P",
+    "teamId": "128707"
+  },
+  "Jakubik, Stanisław": {
+    "pozycja": "P",
+    "teamId": "128707"
+  },
+  "Kachyna, Chval": {
+    "pozycja": "P",
+    "teamId": "128707"
+  },
+  "Marciński, Hubert": {
+    "pozycja": "S",
+    "teamId": "128707"
+  },
+  "Daguerre, Yves": {
+    "pozycja": "S",
+    "teamId": "128707"
+  },
+  "Kasperski, Wiesław": {
+    "pozycja": "Ś",
+    "teamId": "128707"
+  },
+  "Polanowski, Adam": {
+    "pozycja": "Ś",
+    "teamId": "128707"
+  },
+  "Berbeć, Fabian": {
+    "pozycja": "Ś",
+    "teamId": "128707"
+  },
+  "Klinkosz, Maksymilian": {
+    "pozycja": "O",
+    "teamId": "130775"
+  },
+  "Stalnaker, Spencer": {
+    "pozycja": "O",
+    "teamId": "130775"
+  },
+  "Wawrzyniak, Roman": {
+    "pozycja": "L",
+    "teamId": "130775"
+  },
+  "Sonnenfeld, Jacek": {
+    "pozycja": "L",
+    "teamId": "130775"
+  },
+  "Świętochowski, Henryk": {
+    "pozycja": "L",
+    "teamId": "130775"
+  },
+  "Ferrandis, Constantino": {
+    "pozycja": "P",
+    "teamId": "130775"
+  },
+  "Yunfa, Ti": {
+    "pozycja": "P",
+    "teamId": "130775"
+  },
+  "Deanda, James": {
+    "pozycja": "P",
+    "teamId": "130775"
+  },
+  "Dłubis, Dawid": {
+    "pozycja": "S",
+    "teamId": "130775"
+  },
+  "Budner, Zbigniew": {
+    "pozycja": "Ś",
+    "teamId": "130775"
+  },
+  "Margarit, Dominique": {
+    "pozycja": "Ś",
+    "teamId": "130775"
+  },
+  "Daimer, Henrik": {
+    "pozycja": "Ś",
+    "teamId": "130775"
+  },
+  "Widełka, Waldemar": {
+    "pozycja": "O",
+    "teamId": "128661"
+  },
+  "Tas, Michał": {
+    "pozycja": "O",
+    "teamId": "128661"
+  },
+  "Lefebvre, Robert": {
+    "pozycja": "O",
+    "teamId": "128661"
+  },
+  "Hare, David": {
+    "pozycja": "L",
+    "teamId": "128661"
+  },
+  "Górka, Andrzej": {
+    "pozycja": "L",
+    "teamId": "128661"
+  },
+  "Bosco, Hudson": {
+    "pozycja": "P",
+    "teamId": "128661"
+  },
+  "Blasco, Alberto": {
+    "pozycja": "P",
+    "teamId": "128661"
+  },
+  "Peevski, Georgi": {
+    "pozycja": "P",
+    "teamId": "128661"
+  },
+  "Kozłowicz, Mateusz": {
+    "pozycja": "P",
+    "teamId": "128661"
+  },
+  "Bılgın, Halil": {
+    "pozycja": "P",
+    "teamId": "128661"
+  },
+  "Schantl, Arnt": {
+    "pozycja": "P",
+    "teamId": "128661"
+  },
+  "Zawadzki, Piotr": {
+    "pozycja": "P",
+    "teamId": "128661"
+  },
+  "Grudzień, Jan": {
+    "pozycja": "P",
+    "teamId": "128661"
+  },
+  "Pleban, Łukasz": {
+    "pozycja": "S",
+    "teamId": "128661"
+  },
+  "Murathan, Ilhan": {
+    "pozycja": "S",
+    "teamId": "128661"
+  },
+  "Ostrowski, Damian": {
+    "pozycja": "S",
+    "teamId": "128661"
+  },
+  "Costa, Fred": {
+    "pozycja": "Ś",
+    "teamId": "128661"
+  },
+  "Duman, Cihan": {
+    "pozycja": "Ś",
+    "teamId": "128661"
+  },
+  "Niemczyk, Bartosz": {
+    "pozycja": "Ś",
+    "teamId": "128661"
+  },
+  "Dyjak, Bartosz": {
+    "pozycja": "Ś",
+    "teamId": "128661"
+  },
+  "Gensheimer, Marcus": {
+    "pozycja": "Ś",
+    "teamId": "128661"
+  },
+  "Kornek, Paweł": {
+    "pozycja": "Ś",
+    "teamId": "128661"
+  },
+  "Śliwiński, Jarosław": {
+    "pozycja": "O",
+    "teamId": "128673"
+  },
+  "Sikora, Krystian": {
+    "pozycja": "O",
+    "teamId": "128673"
+  },
+  "Witkowski, Maciej": {
+    "pozycja": "O",
+    "teamId": "128673"
+  },
+  "Kasjan, Piotr": {
+    "pozycja": "L",
+    "teamId": "128673"
+  },
+  "Cirurgião, Emílio": {
+    "pozycja": "L",
+    "teamId": "128673"
+  },
+  "Pater, Krzysztof": {
+    "pozycja": "L",
+    "teamId": "128673"
+  },
+  "Gyurov, Yulian": {
+    "pozycja": "P",
+    "teamId": "128673"
+  },
+  "Leeper, Josh": {
+    "pozycja": "P",
+    "teamId": "128673"
+  },
+  "Tzenov, Nikola": {
+    "pozycja": "P",
+    "teamId": "128673"
+  },
+  "Norta, Caj": {
+    "pozycja": "P",
+    "teamId": "128673"
+  },
+  "Santana, Ademar": {
+    "pozycja": "S",
+    "teamId": "128673"
+  },
+  "Skóra, Tadeusz": {
+    "pozycja": "S",
+    "teamId": "128673"
+  },
+  "Mijalski, Mateusz": {
+    "pozycja": "S",
+    "teamId": "128673"
+  },
+  "Joubaud, Brice": {
+    "pozycja": "Ś",
+    "teamId": "128673"
+  },
+  "Treille, Paul": {
+    "pozycja": "Ś",
+    "teamId": "128673"
+  },
+  "Hallaway, Brandon": {
+    "pozycja": "Ś",
+    "teamId": "128673"
+  },
+  "Langlois, Victor": {
+    "pozycja": "Ś",
+    "teamId": "128673"
+  },
+  "Fiorito, Cesarino": {
+    "pozycja": "O",
+    "teamId": "140831"
+  },
+  "Kasperek, Konrad": {
+    "pozycja": "L",
+    "teamId": "140831"
+  },
+  "Günhan, Kıvanç": {
+    "pozycja": "P",
+    "teamId": "140831"
+  },
+  "Lisboa, Célio": {
+    "pozycja": "P",
+    "teamId": "140831"
+  },
+  "Chisari, Ferruccio": {
+    "pozycja": "P",
+    "teamId": "140831"
+  },
+  "Alkan, Rahmi": {
+    "pozycja": "S",
+    "teamId": "140831"
+  },
+  "Witowski, Jerzy": {
+    "pozycja": "Ś",
+    "teamId": "140831"
+  },
+  "Świt, Wojciech": {
+    "pozycja": "Ś",
+    "teamId": "140831"
+  },
+  "Jarząbek, Piotr": {
+    "pozycja": "Ś",
+    "teamId": "140831"
+  },
+  "Mitov, Boris": {
+    "pozycja": "O",
+    "teamId": "128741"
+  },
+  "Palmeira, Ernesto": {
+    "pozycja": "O",
+    "teamId": "128741"
+  },
+  "Pawlak, Piotr": {
+    "pozycja": "L",
+    "teamId": "128741"
+  },
+  "Filipek, Michał": {
+    "pozycja": "L",
+    "teamId": "128741"
+  },
+  "Turek, Uwe": {
+    "pozycja": "P",
+    "teamId": "128741"
+  },
+  "Frickenhausen, Falko": {
+    "pozycja": "P",
+    "teamId": "128741"
+  },
+  "Barański, Józef": {
+    "pozycja": "P",
+    "teamId": "128741"
+  },
+  "Bozhilov, Dobri": {
+    "pozycja": "P",
+    "teamId": "128741"
+  },
+  "Rotthal, Ronald": {
+    "pozycja": "P",
+    "teamId": "128741"
+  },
+  "Duda, Paweł": {
+    "pozycja": "S",
+    "teamId": "128741"
+  },
+  "Siwek, Julian": {
+    "pozycja": "Ś",
+    "teamId": "128741"
+  },
+  "Durczewski, Ryszard": {
+    "pozycja": "Ś",
+    "teamId": "128741"
+  },
+  "Drozdowski, Antoni": {
+    "pozycja": "Ś",
+    "teamId": "128741"
+  },
+  "Strzelecki, Włodzimierz": {
+    "pozycja": "Ś",
+    "teamId": "128741"
+  },
+  "Skowroński, Łukasz": {
+    "pozycja": "O",
+    "teamId": "130518"
+  },
+  "Pilarek, Jakub": {
+    "pozycja": "O",
+    "teamId": "130518"
+  },
+  "Alpıke, Mehtap": {
+    "pozycja": "O",
+    "teamId": "130518"
+  },
+  "Filipiak, Michał": {
+    "pozycja": "L",
+    "teamId": "130518"
+  },
+  "Eaves, Matt": {
+    "pozycja": "L",
+    "teamId": "130518"
+  },
+  "Myśliński, Łukasz": {
+    "pozycja": "L",
+    "teamId": "130518"
+  },
+  "Wulczyński, Tomasz": {
+    "pozycja": "L",
+    "teamId": "130518"
+  },
+  "De Maria, Enzo": {
+    "pozycja": "P",
+    "teamId": "130518"
+  },
+  "Cicha, Aleksander": {
+    "pozycja": "P",
+    "teamId": "130518"
+  },
+  "Grela, Gustaw": {
+    "pozycja": "P",
+    "teamId": "130518"
+  },
+  "Mierzwa, Łucjan": {
+    "pozycja": "P",
+    "teamId": "130518"
+  },
+  "Bojarski, Paweł": {
+    "pozycja": "P",
+    "teamId": "130518"
+  },
+  "Trzeciak, Nikodem": {
+    "pozycja": "P",
+    "teamId": "130518"
+  },
+  "Marszelewski, Jan": {
+    "pozycja": "P",
+    "teamId": "130518"
+  },
+  "Kardynał, Sławomir": {
+    "pozycja": "P",
+    "teamId": "130518"
+  },
+  "Jankowski, Michał": {
+    "pozycja": "P",
+    "teamId": "130518"
+  },
+  "Cieślak, Adam": {
+    "pozycja": "S",
+    "teamId": "130518"
+  },
+  "Mosiński, Grzegorz": {
+    "pozycja": "S",
+    "teamId": "130518"
+  },
+  "Macheret, Jean-François": {
+    "pozycja": "Ś",
+    "teamId": "130518"
+  },
+  "Chłopik, Krzysztof": {
+    "pozycja": "Ś",
+    "teamId": "130518"
+  },
+  "Lafitte, Rodell": {
+    "pozycja": "Ś",
+    "teamId": "130518"
+  },
+  "Werner, Jakub": {
+    "pozycja": "O",
+    "teamId": "137368"
+  },
+  "Wrona, Marek": {
+    "pozycja": "O",
+    "teamId": "137368"
+  },
+  "Poleszak, Adam": {
+    "pozycja": "L",
+    "teamId": "137368"
+  },
+  "Kossak, Mateusz": {
+    "pozycja": "L",
+    "teamId": "137368"
+  },
+  "Klimek, Zenon": {
+    "pozycja": "L",
+    "teamId": "137368"
+  },
+  "Białous, Mateusz": {
+    "pozycja": "P",
+    "teamId": "137368"
+  },
+  "Karpowicz, Krzysztof": {
+    "pozycja": "P",
+    "teamId": "137368"
+  },
+  "Gates, Alan": {
+    "pozycja": "P",
+    "teamId": "137368"
+  },
+  "Szulc, Maciej": {
+    "pozycja": "S",
+    "teamId": "137368"
+  },
+  "Gołębiewski, Paweł": {
+    "pozycja": "S",
+    "teamId": "137368"
+  },
+  "Mazurkiewicz, Stanisław": {
+    "pozycja": "S",
+    "teamId": "137368"
+  },
+  "Klamann, Miłosz": {
+    "pozycja": "Ś",
+    "teamId": "137368"
+  },
+  "Krzak, Ryszard": {
+    "pozycja": "Ś",
+    "teamId": "137368"
+  },
+  "Davis, Clayton": {
+    "pozycja": "Ś",
+    "teamId": "137368"
+  },
+  "Prižmić, Dražen": {
+    "pozycja": "O",
+    "teamId": "128688"
+  },
+  "Erler, Albrecht": {
+    "pozycja": "O",
+    "teamId": "128688"
+  },
+  "Lupei, Aurel": {
+    "pozycja": "O",
+    "teamId": "128688"
+  },
+  "McCauley, Rodney": {
+    "pozycja": "O",
+    "teamId": "128688"
+  },
+  "Fokker, Robertus": {
+    "pozycja": "O",
+    "teamId": "128688"
+  },
+  "Soto, Beau": {
+    "pozycja": "O",
+    "teamId": "128688"
+  },
+  "Pogonowski, Szymon": {
+    "pozycja": "L",
+    "teamId": "128688"
+  },
+  "Korba, Jakub": {
+    "pozycja": "L",
+    "teamId": "128688"
+  },
+  "Maj, Sebastian": {
+    "pozycja": "P",
+    "teamId": "128688"
+  },
+  "Glavas, Jerko": {
+    "pozycja": "P",
+    "teamId": "128688"
+  },
+  "Baj, Kazimierz": {
+    "pozycja": "P",
+    "teamId": "128688"
+  },
+  "Kaczyński, Tomasz": {
+    "pozycja": "S",
+    "teamId": "128688"
+  },
+  "Różycki, Łukasz": {
+    "pozycja": "S",
+    "teamId": "128688"
+  },
+  "Święczkowski, Krzysztof": {
+    "pozycja": "Ś",
+    "teamId": "128688"
+  },
+  "Brilhante, Nuno": {
+    "pozycja": "Ś",
+    "teamId": "128688"
+  },
+  "Kaipainen, Cisse": {
+    "pozycja": "Ś",
+    "teamId": "128688"
+  },
+  "Laustela, Tommi": {
+    "pozycja": "Ś",
+    "teamId": "128688"
+  },
+  "Jarmułowicz, Gabriel": {
+    "pozycja": "Ś",
+    "teamId": "128688"
+  },
+  "Kozłowski, Oskar": {
+    "pozycja": "O",
+    "teamId": "131021"
+  },
+  "Lazić, Edvin": {
+    "pozycja": "O",
+    "teamId": "131021"
+  },
+  "Petrényi, Beňadik": {
+    "pozycja": "O",
+    "teamId": "131021"
+  },
+  "Nazlı, Kemal": {
+    "pozycja": "L",
+    "teamId": "131021"
+  },
+  "Szturc, Hubert": {
+    "pozycja": "L",
+    "teamId": "131021"
+  },
+  "Lozanov, Iliya": {
+    "pozycja": "P",
+    "teamId": "131021"
+  },
+  "Soveral, Jacinto": {
+    "pozycja": "P",
+    "teamId": "131021"
+  },
+  "Żywiecki, Łukasz": {
+    "pozycja": "P",
+    "teamId": "131021"
+  },
+  "Kaczmarek, Wojciech": {
+    "pozycja": "P",
+    "teamId": "131021"
+  },
+  "Mondose, Dirk": {
+    "pozycja": "P",
+    "teamId": "131021"
+  },
+  "Van Erum, Lucien": {
+    "pozycja": "P",
+    "teamId": "131021"
+  },
+  "Freed, Donald": {
+    "pozycja": "P",
+    "teamId": "131021"
+  },
+  "Dung, Frank": {
+    "pozycja": "P",
+    "teamId": "131021"
+  },
+  "Pietrzak, Oskar": {
+    "pozycja": "P",
+    "teamId": "131021"
+  },
+  "Pawłowski, Adam": {
+    "pozycja": "S",
+    "teamId": "131021"
+  },
+  "Kupś, Konstanty": {
+    "pozycja": "S",
+    "teamId": "131021"
+  },
+  "Książek, Tomasz": {
+    "pozycja": "S",
+    "teamId": "131021"
+  },
+  "Dudzinski, Marcel": {
+    "pozycja": "S",
+    "teamId": "131021"
+  },
+  "Kamiński, Szymon": {
+    "pozycja": "Ś",
+    "teamId": "131021"
+  },
+  "De Milato, Geppino": {
+    "pozycja": "Ś",
+    "teamId": "131021"
+  },
+  "Wolzogen, Jörg-Arne": {
+    "pozycja": "Ś",
+    "teamId": "131021"
+  },
+  "Dalidowicz, Andrzej": {
+    "pozycja": "Ś",
+    "teamId": "131021"
+  },
+  "Frisone, Damiano": {
+    "pozycja": "Ś",
+    "teamId": "131021"
+  },
+  "Volz, Kevin": {
+    "pozycja": "O",
+    "teamId": "128601"
+  },
+  "Marszałek, Artur": {
+    "pozycja": "O",
+    "teamId": "128601"
+  },
+  "Jonda, Bartosz": {
+    "pozycja": "L",
+    "teamId": "128601"
+  },
+  "Szczerba, Janusz": {
+    "pozycja": "L",
+    "teamId": "128601"
+  },
+  "Castellini, Roberval": {
+    "pozycja": "P",
+    "teamId": "128601"
+  },
+  "Durand, Pierre": {
+    "pozycja": "P",
+    "teamId": "128601"
+  },
+  "Léglise, Eric": {
+    "pozycja": "P",
+    "teamId": "128601"
+  },
+  "Kołek, Henryk": {
+    "pozycja": "S",
+    "teamId": "128601"
+  },
+  "Różycki, Hubert": {
+    "pozycja": "S",
+    "teamId": "128601"
+  },
+  "Gontarczyk, Grzegorz": {
+    "pozycja": "Ś",
+    "teamId": "128601"
+  },
+  "Wagner, Michał": {
+    "pozycja": "Ś",
+    "teamId": "128601"
+  },
+  "Bomba, Zenon": {
+    "pozycja": "Ś",
+    "teamId": "128601"
+  },
+  "Dzierżawski, Edward": {
+    "pozycja": "Ś",
+    "teamId": "128601"
+  },
+  "Dyś, Wiesław": {
+    "pozycja": "Ś",
+    "teamId": "128601"
+  },
+  "Kubiak, Juliusz": {
+    "pozycja": "Ś",
+    "teamId": "128601"
+  },
+  "Podgórski, Piotr": {
+    "pozycja": "Ś",
+    "teamId": "128601"
+  },
+  "Wawrzacz, Tomasz": {
+    "pozycja": "Ś",
+    "teamId": "128601"
+  },
+  "Savedra, Albertino": {
+    "pozycja": "Ś",
+    "teamId": "128601"
+  },
+  "Zarzecki, Cezary": {
+    "pozycja": "Ś",
+    "teamId": "128601"
+  },
+  "Pozzi, Carmelo": {
+    "pozycja": "O",
+    "teamId": "130933"
+  },
+  "Dimitrov, Yordan": {
+    "pozycja": "O",
+    "teamId": "130933"
+  },
+  "Misiewicz, Emil": {
+    "pozycja": "L",
+    "teamId": "130933"
+  },
+  "Kuligowski, Marcin": {
+    "pozycja": "L",
+    "teamId": "130933"
+  },
+  "Kowalik, Krzysztof": {
+    "pozycja": "P",
+    "teamId": "130933"
+  },
+  "Galant, Łukasz": {
+    "pozycja": "P",
+    "teamId": "130933"
+  },
+  "Burdzik, Mikołaj": {
+    "pozycja": "P",
+    "teamId": "130933"
+  },
+  "Szklarczyk, Jakub": {
+    "pozycja": "P",
+    "teamId": "130933"
+  },
+  "Tyrała, Mateusz": {
+    "pozycja": "S",
+    "teamId": "130933"
+  },
+  "Gmyr, Marek": {
+    "pozycja": "S",
+    "teamId": "130933"
+  },
+  "Williams, William": {
+    "pozycja": "Ś",
+    "teamId": "130933"
+  },
+  "Beydon, Damien": {
+    "pozycja": "Ś",
+    "teamId": "130933"
+  },
+  "Kupisz, Oskar": {
+    "pozycja": "Ś",
+    "teamId": "130933"
+  },
+  "Knysak, Władysław": {
+    "pozycja": "O",
+    "teamId": "131718"
+  },
+  "Kwieciński, Marek": {
+    "pozycja": "O",
+    "teamId": "131718"
+  },
+  "Sahra, Doğa": {
+    "pozycja": "L",
+    "teamId": "131718"
+  },
+  "Hürol, Harald-Peter": {
+    "pozycja": "L",
+    "teamId": "131718"
+  },
+  "Meireles, Custódio": {
+    "pozycja": "L",
+    "teamId": "131718"
+  },
+  "Laas, Eino": {
+    "pozycja": "L",
+    "teamId": "131718"
+  },
+  "Rumin, Marceli": {
+    "pozycja": "L",
+    "teamId": "131718"
+  },
+  "Dinsmore, John": {
+    "pozycja": "L",
+    "teamId": "131718"
+  },
+  "Burhan, Alpay": {
+    "pozycja": "P",
+    "teamId": "131718"
+  },
+  "Prieto, Herbert": {
+    "pozycja": "P",
+    "teamId": "131718"
+  },
+  "Hajduk, Patryk": {
+    "pozycja": "P",
+    "teamId": "131718"
+  },
+  "Kopeć, Franciszek": {
+    "pozycja": "P",
+    "teamId": "131718"
+  },
+  "Ciecierski, Michał": {
+    "pozycja": "S",
+    "teamId": "131718"
+  },
+  "Loomis, Danny": {
+    "pozycja": "S",
+    "teamId": "131718"
+  },
+  "Godart, Maxence": {
+    "pozycja": "S",
+    "teamId": "131718"
+  },
+  "Boroński, Piotr": {
+    "pozycja": "Ś",
+    "teamId": "131718"
+  },
+  "Gutmański, Dariusz": {
+    "pozycja": "Ś",
+    "teamId": "131718"
+  },
+  "Fabianowski, Kornel": {
+    "pozycja": "Ś",
+    "teamId": "131718"
+  },
+  "Ziółkowski, Michał": {
+    "pozycja": "O",
+    "teamId": "128771"
+  },
+  "Gajewski, Bogdan": {
+    "pozycja": "O",
+    "teamId": "128771"
+  },
+  "Tomala, Radosław": {
+    "pozycja": "L",
+    "teamId": "128771"
+  },
+  "Białek, Jarosław": {
+    "pozycja": "L",
+    "teamId": "128771"
+  },
+  "Urynowicz, Mikołaj": {
+    "pozycja": "L",
+    "teamId": "128771"
+  },
+  "Matoga, Wacław": {
+    "pozycja": "P",
+    "teamId": "128771"
+  },
+  "Sobota, Marcin": {
+    "pozycja": "P",
+    "teamId": "128771"
+  },
+  "Gronkiewicz, Jakub": {
+    "pozycja": "P",
+    "teamId": "128771"
+  },
+  "Durand, Warrane": {
+    "pozycja": "P",
+    "teamId": "128771"
+  },
+  "Hornick, Franz-Josef": {
+    "pozycja": "S",
+    "teamId": "128771"
+  },
+  "Hallmann, Wojciech": {
+    "pozycja": "S",
+    "teamId": "128771"
+  },
+  "Laskowski, Łukasz": {
+    "pozycja": "Ś",
+    "teamId": "128771"
+  },
+  "Jankowski, Jakub": {
+    "pozycja": "Ś",
+    "teamId": "128771"
+  },
+  "Bartosik, Grzegorz": {
+    "pozycja": "Ś",
+    "teamId": "128771"
+  },
+  "Manzanal, Galo": {
+    "pozycja": "O",
+    "teamId": "140884"
+  },
+  "De Pauw, Clif": {
+    "pozycja": "O",
+    "teamId": "140884"
+  },
+  "Bahrıye, Salım": {
+    "pozycja": "L",
+    "teamId": "140884"
+  },
+  "Čolaković, Lazar": {
+    "pozycja": "L",
+    "teamId": "140884"
+  },
+  "Zaremba, Leszek": {
+    "pozycja": "P",
+    "teamId": "140884"
+  },
+  "Martin, Grégory": {
+    "pozycja": "P",
+    "teamId": "140884"
+  },
+  "Błaszkiewicz, Mikołaj": {
+    "pozycja": "P",
+    "teamId": "140884"
+  },
+  "Pulst, Ingmar": {
+    "pozycja": "P",
+    "teamId": "140884"
+  },
+  "Andrisano, Arnaldo": {
+    "pozycja": "P",
+    "teamId": "140884"
+  },
+  "Balistreri, Gaudenzio": {
+    "pozycja": "S",
+    "teamId": "140884"
+  },
+  "Whatley, Kevin": {
+    "pozycja": "S",
+    "teamId": "140884"
+  },
+  "Cichewicz, Rafał": {
+    "pozycja": "Ś",
+    "teamId": "140884"
+  },
+  "Trobia, Maurizio": {
+    "pozycja": "Ś",
+    "teamId": "140884"
+  },
+  "Nowak, Sebastian": {
+    "pozycja": "Ś",
+    "teamId": "140884"
+  },
+  "Winand, Eike": {
+    "pozycja": "O",
+    "teamId": "128790"
+  },
+  "Cimek, Joachim": {
+    "pozycja": "O",
+    "teamId": "128790"
+  },
+  "Moskal, Andrzej": {
+    "pozycja": "O",
+    "teamId": "128790"
+  },
+  "Sobczyk, Zygmunt": {
+    "pozycja": "L",
+    "teamId": "128790"
+  },
+  "Brutti, Massimo": {
+    "pozycja": "P",
+    "teamId": "128790"
+  },
+  "Pytlowski, Stanisław": {
+    "pozycja": "P",
+    "teamId": "128790"
+  },
+  "Stevens, Thomas": {
+    "pozycja": "P",
+    "teamId": "128790"
+  },
+  "Chiariti, Ottorino": {
+    "pozycja": "P",
+    "teamId": "128790"
+  },
+  "Wiegel, Fritz": {
+    "pozycja": "S",
+    "teamId": "128790"
+  },
+  "Predyov, Bogomil": {
+    "pozycja": "S",
+    "teamId": "128790"
+  },
+  "Verfehrn, Bert": {
+    "pozycja": "Ś",
+    "teamId": "128790"
+  },
+  "Achat, Reinhardt": {
+    "pozycja": "Ś",
+    "teamId": "128790"
+  },
+  "Marescaux, Marcel": {
+    "pozycja": "Ś",
+    "teamId": "128790"
+  },
+  "Klimkiewicz, Michał": {
+    "pozycja": "O",
+    "teamId": "130935"
+  },
+  "Hongqi, Zhengqiu": {
+    "pozycja": "O",
+    "teamId": "130935"
+  },
+  "Noga, Krzysztof": {
+    "pozycja": "O",
+    "teamId": "130935"
+  },
+  "De Schrijver, Klaus": {
+    "pozycja": "L",
+    "teamId": "130935"
+  },
+  "Jınsal, Alpay": {
+    "pozycja": "L",
+    "teamId": "130935"
+  },
+  "Wistuba, Jerzy": {
+    "pozycja": "P",
+    "teamId": "130935"
+  },
+  "Sanz, Rafa": {
+    "pozycja": "P",
+    "teamId": "130935"
+  },
+  "Żak, Paweł": {
+    "pozycja": "P",
+    "teamId": "130935"
+  },
+  "Gwóźdź, Dawid": {
+    "pozycja": "P",
+    "teamId": "130935"
+  },
+  "Daszkiewicz, Szymon": {
+    "pozycja": "P",
+    "teamId": "130935"
+  },
+  "Mielcarek, Rudolf": {
+    "pozycja": "S",
+    "teamId": "130935"
+  },
+  "Domingues, Nicolau": {
+    "pozycja": "S",
+    "teamId": "130935"
+  },
+  "Kimbrough, Ty": {
+    "pozycja": "Ś",
+    "teamId": "130935"
+  },
+  "Bieńkowski, Józef": {
+    "pozycja": "Ś",
+    "teamId": "130935"
+  },
+  "Andruszkiewicz, Jerzy": {
+    "pozycja": "Ś",
+    "teamId": "130935"
+  },
+  "Malhomme, Philippe": {
+    "pozycja": "Ś",
+    "teamId": "130935"
+  },
+  "Soverini, Aristotele": {
+    "pozycja": "O",
+    "teamId": "128693"
+  },
+  "Klemczak, Kamil": {
+    "pozycja": "L",
+    "teamId": "128693"
+  },
+  "Dudek, Zygmunt": {
+    "pozycja": "P",
+    "teamId": "128693"
+  },
+  "Iwaniec, Jakub": {
+    "pozycja": "P",
+    "teamId": "128693"
+  },
+  "Liszewski, Maciej": {
+    "pozycja": "P",
+    "teamId": "128693"
+  },
+  "Vitale, Sandro": {
+    "pozycja": "P",
+    "teamId": "128693"
+  },
+  "Brillante, Giuliano": {
+    "pozycja": "P",
+    "teamId": "128693"
+  },
+  "Zaręba, Bartłomiej": {
+    "pozycja": "S",
+    "teamId": "128693"
+  },
+  "Jurkowski, Igor": {
+    "pozycja": "S",
+    "teamId": "128693"
+  },
+  "Sikorski, Wiktor": {
+    "pozycja": "Ś",
+    "teamId": "128693"
+  },
+  "Incerpi, Nunzio": {
+    "pozycja": "Ś",
+    "teamId": "128693"
+  },
+  "Hüner, Emrah": {
+    "pozycja": "O",
+    "teamId": "130745"
+  },
+  "Bonus, Igor": {
+    "pozycja": "O",
+    "teamId": "130745"
+  },
+  "Haba, Sosuke": {
+    "pozycja": "O",
+    "teamId": "130745"
+  },
+  "Jaroński, Maciej": {
+    "pozycja": "L",
+    "teamId": "130745"
+  },
+  "Sarmento, Iarley": {
+    "pozycja": "L",
+    "teamId": "130745"
+  },
+  "Kowol, Jakub": {
+    "pozycja": "P",
+    "teamId": "130745"
+  },
+  "Nazarko, Jarosław": {
+    "pozycja": "P",
+    "teamId": "130745"
+  },
+  "Stawowczyk, Adrian": {
+    "pozycja": "P",
+    "teamId": "130745"
+  },
+  "Kahn, Matt": {
+    "pozycja": "P",
+    "teamId": "130745"
+  },
+  "Wiśniewski, Ireneusz": {
+    "pozycja": "S",
+    "teamId": "130745"
+  },
+  "Fantozzi, Fortunato": {
+    "pozycja": "S",
+    "teamId": "130745"
+  },
+  "Janukowicz, Darek": {
+    "pozycja": "Ś",
+    "teamId": "130745"
+  },
+  "Franco, Leonardo": {
+    "pozycja": "Ś",
+    "teamId": "130745"
+  },
+  "Gardocki, Jakub": {
+    "pozycja": "Ś",
+    "teamId": "130745"
+  },
+  "Souza, Cristiano": {
+    "pozycja": "O",
+    "teamId": "140989"
+  },
+  "Mihnev, Dimitar": {
+    "pozycja": "O",
+    "teamId": "140989"
+  },
+  "Vidal, Raphaël": {
+    "pozycja": "L",
+    "teamId": "140989"
+  },
+  "De Meo, Mino": {
+    "pozycja": "L",
+    "teamId": "140989"
+  },
+  "Ehrmann, Kunter": {
+    "pozycja": "P",
+    "teamId": "140989"
+  },
+  "Labermeier, Karlludwig": {
+    "pozycja": "P",
+    "teamId": "140989"
+  },
+  "Filgueira, Baptista": {
+    "pozycja": "P",
+    "teamId": "140989"
+  },
+  "Roguski, Dawid": {
+    "pozycja": "S",
+    "teamId": "140989"
+  },
+  "Proença, Ziza": {
+    "pozycja": "S",
+    "teamId": "140989"
+  },
+  "Ziółkowski, Tomasz": {
+    "pozycja": "Ś",
+    "teamId": "140989"
+  },
+  "Alcântara, Ari": {
+    "pozycja": "Ś",
+    "teamId": "140989"
+  },
+  "Budzyński, Dariusz": {
+    "pozycja": "Ś",
+    "teamId": "140989"
+  },
+  "Leihe, Gotthold": {
+    "pozycja": "Ś",
+    "teamId": "140989"
+  },
+  "Howell, Jimmy": {
+    "pozycja": "O",
+    "teamId": "130661"
+  },
+  "Haraś, Kacper": {
+    "pozycja": "O",
+    "teamId": "130661"
+  },
+  "Jarosz, Kamil": {
+    "pozycja": "L",
+    "teamId": "130661"
+  },
+  "Sitek, Maciej": {
+    "pozycja": "L",
+    "teamId": "130661"
+  },
+  "Węglewski, Jan": {
+    "pozycja": "L",
+    "teamId": "130661"
+  },
+  "Malczyk, Maksymilian": {
+    "pozycja": "L",
+    "teamId": "130661"
+  },
+  "Kalemba, Krzysztof": {
+    "pozycja": "P",
+    "teamId": "130661"
+  },
+  "Brocki, Adam": {
+    "pozycja": "P",
+    "teamId": "130661"
+  },
+  "Kamiński, Łukasz": {
+    "pozycja": "P",
+    "teamId": "130661"
+  },
+  "Dędek, Szymon": {
+    "pozycja": "S",
+    "teamId": "130661"
+  },
+  "Kniat, Piotr": {
+    "pozycja": "S",
+    "teamId": "130661"
+  },
+  "Skrzypkowski, Andrzej": {
+    "pozycja": "Ś",
+    "teamId": "130661"
+  },
+  "Barszczak, Dawid": {
+    "pozycja": "Ś",
+    "teamId": "130661"
+  },
+  "Fedorowicz, Rafał": {
+    "pozycja": "Ś",
+    "teamId": "130661"
+  },
+  "Michalczyk, Bruno": {
+    "pozycja": "O",
+    "teamId": "131254"
+  },
+  "Sołtysik, Tomasz": {
+    "pozycja": "O",
+    "teamId": "131254"
+  },
+  "Rewers, Krzysztof": {
+    "pozycja": "L",
+    "teamId": "131254"
+  },
+  "Jabłoński, Franciszek": {
+    "pozycja": "L",
+    "teamId": "131254"
+  },
+  "Ołdak, Maciej": {
+    "pozycja": "P",
+    "teamId": "131254"
+  },
+  "Anfeng, Mien": {
+    "pozycja": "P",
+    "teamId": "131254"
+  },
+  "Domański, Marek": {
+    "pozycja": "P",
+    "teamId": "131254"
+  },
+  "Jankowski, Leszek": {
+    "pozycja": "P",
+    "teamId": "131254"
+  },
+  "Ushio, Katsuo": {
+    "pozycja": "P",
+    "teamId": "131254"
+  },
+  "Veronese, João": {
+    "pozycja": "S",
+    "teamId": "131254"
+  },
+  "Olejnik, Filip": {
+    "pozycja": "S",
+    "teamId": "131254"
+  },
+  "Molek, Aleks": {
+    "pozycja": "Ś",
+    "teamId": "131254"
+  },
+  "Gapski, Mateusz": {
+    "pozycja": "Ś",
+    "teamId": "131254"
+  },
+  "Słomczewski, Włodzimierz": {
+    "pozycja": "Ś",
+    "teamId": "131254"
+  },
+  "Pressler, Oleg": {
+    "pozycja": "O",
+    "teamId": "131156"
+  },
+  "Nazimek, Kamil": {
+    "pozycja": "O",
+    "teamId": "131156"
+  },
+  "Kwiatkowski, Michał": {
+    "pozycja": "O",
+    "teamId": "131156"
+  },
+  "Danecki, Wiktor": {
+    "pozycja": "O",
+    "teamId": "131156"
+  },
+  "Jakubiec, Gabriel": {
+    "pozycja": "O",
+    "teamId": "131156"
+  },
+  "Karpiński, Wojciech": {
+    "pozycja": "L",
+    "teamId": "131156"
+  },
+  "Bernard, Dawid": {
+    "pozycja": "L",
+    "teamId": "131156"
+  },
+  "Nowociński, Karol": {
+    "pozycja": "L",
+    "teamId": "131156"
+  },
+  "Fogaça, Edir": {
+    "pozycja": "P",
+    "teamId": "131156"
+  },
+  "Buczek, Maksymilian": {
+    "pozycja": "P",
+    "teamId": "131156"
+  },
+  "Aleixo, Djalma": {
+    "pozycja": "P",
+    "teamId": "131156"
+  },
+  "Śmigielski, Oskar": {
+    "pozycja": "S",
+    "teamId": "131156"
+  },
+  "Książek, Maciej": {
+    "pozycja": "S",
+    "teamId": "131156"
+  },
+  "Madejski, Janusz": {
+    "pozycja": "Ś",
+    "teamId": "131156"
+  },
+  "Wern, Benjamin": {
+    "pozycja": "Ś",
+    "teamId": "131156"
+  },
+  "Oskroba, Jan": {
+    "pozycja": "Ś",
+    "teamId": "131156"
+  },
+  "Zaremba, Alex": {
+    "pozycja": "Ś",
+    "teamId": "131156"
+  },
+  "Drozdowski, Marcin": {
+    "pozycja": "Ś",
+    "teamId": "131156"
+  },
+  "Mielke, Dittmar": {
+    "pozycja": "O",
+    "teamId": "141070"
+  },
+  "Becker, Mikołaj": {
+    "pozycja": "O",
+    "teamId": "141070"
+  },
+  "Jones, David": {
+    "pozycja": "O",
+    "teamId": "141070"
+  },
+  "Lewis, Xavier": {
+    "pozycja": "L",
+    "teamId": "141070"
+  },
+  "Dembiński, Michał": {
+    "pozycja": "L",
+    "teamId": "141070"
+  },
+  "Jullien, Samuel": {
+    "pozycja": "L",
+    "teamId": "141070"
+  },
+  "Kołpak, Ludwik": {
+    "pozycja": "L",
+    "teamId": "141070"
+  },
+  "Bryczkowski, Wiesław": {
+    "pozycja": "L",
+    "teamId": "141070"
+  },
+  "Hubert, Bruno": {
+    "pozycja": "L",
+    "teamId": "141070"
+  },
+  "Donnio, Benoît": {
+    "pozycja": "P",
+    "teamId": "141070"
+  },
+  "Kowalski, Mateusz": {
+    "pozycja": "P",
+    "teamId": "141070"
+  },
+  "Parisi, José": {
+    "pozycja": "P",
+    "teamId": "141070"
+  },
+  "Yialesakis, Koulis": {
+    "pozycja": "P",
+    "teamId": "141070"
+  },
+  "Kerl, Karlludwig": {
+    "pozycja": "S",
+    "teamId": "141070"
+  },
+  "Kicia, Tymoteusz": {
+    "pozycja": "S",
+    "teamId": "141070"
+  },
+  "Nitzov, Veselin": {
+    "pozycja": "S",
+    "teamId": "141070"
+  },
+  "Gutek, Seweryn": {
+    "pozycja": "S",
+    "teamId": "141070"
+  },
+  "Derecki, Mateusz": {
+    "pozycja": "Ś",
+    "teamId": "141070"
+  },
+  "Bednorz, Jacek": {
+    "pozycja": "Ś",
+    "teamId": "141070"
+  },
+  "Trimble, Nathanael": {
+    "pozycja": "Ś",
+    "teamId": "141070"
+  },
+  "Wojdylak, Michał": {
+    "pozycja": "Ś",
+    "teamId": "141070"
+  },
+  "Loomis, Mike": {
+    "pozycja": "Ś",
+    "teamId": "141070"
+  }
+}
