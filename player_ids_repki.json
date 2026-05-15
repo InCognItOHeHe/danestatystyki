@@ -1,0 +1,7394 @@
+{
+  "1681826": {
+    "playerId": "1681826",
+    "name": "Búrzashki, Ivan",
+    "firstName": "Ivan",
+    "lastName": "Búrzashki",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1681866": {
+    "playerId": "1681866",
+    "name": "Vladimirov, Boyko",
+    "firstName": "Boyko",
+    "lastName": "Vladimirov",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1685989": {
+    "playerId": "1685989",
+    "name": "Canuto, Alberto",
+    "firstName": "Alberto",
+    "lastName": "Canuto",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1686107": {
+    "playerId": "1686107",
+    "name": "Hürrem, Veli",
+    "firstName": "Veli",
+    "lastName": "Hürrem",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1709299": {
+    "playerId": "1709299",
+    "name": "Emerton, Gilbert",
+    "firstName": "Gilbert",
+    "lastName": "Emerton",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1709575": {
+    "playerId": "1709575",
+    "name": "Campello, Cristian",
+    "firstName": "Cristian",
+    "lastName": "Campello",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1709653": {
+    "playerId": "1709653",
+    "name": "Mucci, Mario",
+    "firstName": "Mario",
+    "lastName": "Mucci",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1709974": {
+    "playerId": "1709974",
+    "name": "Benek, Şahin",
+    "firstName": "Şahin",
+    "lastName": "Benek",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1709975": {
+    "playerId": "1709975",
+    "name": "Yücel, Gökben",
+    "firstName": "Gökben",
+    "lastName": "Yücel",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1724716": {
+    "playerId": "1724716",
+    "name": "Sofroniev, Teodor",
+    "firstName": "Teodor",
+    "lastName": "Sofroniev",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1724725": {
+    "playerId": "1724725",
+    "name": "Odar, Ragnar",
+    "firstName": "Ragnar",
+    "lastName": "Odar",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1724889": {
+    "playerId": "1724889",
+    "name": "Jareš, Tibor",
+    "firstName": "Tibor",
+    "lastName": "Jareš",
+    "teams": [
+      {
+        "teamId": "153606",
+        "teamName": "Czech Republic",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1724977": {
+    "playerId": "1724977",
+    "name": "Trifković, Adin",
+    "firstName": "Adin",
+    "lastName": "Trifković",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1724993": {
+    "playerId": "1724993",
+    "name": "Holguin, Calvin",
+    "firstName": "Calvin",
+    "lastName": "Holguin",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1725025": {
+    "playerId": "1725025",
+    "name": "Baeta, Joel",
+    "firstName": "Joel",
+    "lastName": "Baeta",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1725076": {
+    "playerId": "1725076",
+    "name": "Lazić, Mate",
+    "firstName": "Mate",
+    "lastName": "Lazić",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1725106": {
+    "playerId": "1725106",
+    "name": "Asuela, Öner",
+    "firstName": "Öner",
+    "lastName": "Asuela",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1725191": {
+    "playerId": "1725191",
+    "name": "Vuchelich, Lutz",
+    "firstName": "Lutz",
+    "lastName": "Vuchelich",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1725203": {
+    "playerId": "1725203",
+    "name": "Tronconi, Sancho",
+    "firstName": "Sancho",
+    "lastName": "Tronconi",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1725397": {
+    "playerId": "1725397",
+    "name": "Siimes, Petri",
+    "firstName": "Petri",
+    "lastName": "Siimes",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1744625": {
+    "playerId": "1744625",
+    "name": "Morais, Fábio",
+    "firstName": "Fábio",
+    "lastName": "Morais",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1744746": {
+    "playerId": "1744746",
+    "name": "Fohn, Hinrich",
+    "firstName": "Hinrich",
+    "lastName": "Fohn",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1744844": {
+    "playerId": "1744844",
+    "name": "Fasano, Ibsen",
+    "firstName": "Ibsen",
+    "lastName": "Fasano",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1744886": {
+    "playerId": "1744886",
+    "name": "Nunez, Jake",
+    "firstName": "Jake",
+    "lastName": "Nunez",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1745058": {
+    "playerId": "1745058",
+    "name": "Macron, Colin",
+    "firstName": "Colin",
+    "lastName": "Macron",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1745069": {
+    "playerId": "1745069",
+    "name": "Anrep, Marcus",
+    "firstName": "Marcus",
+    "lastName": "Anrep",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1745091": {
+    "playerId": "1745091",
+    "name": "Yau, Tat-wah",
+    "firstName": "Tat-wah",
+    "lastName": "Yau",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1745092": {
+    "playerId": "1745092",
+    "name": "Gavras, Elias",
+    "firstName": "Elias",
+    "lastName": "Gavras",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1745146": {
+    "playerId": "1745146",
+    "name": "Lyytinen, Petteri",
+    "firstName": "Petteri",
+    "lastName": "Lyytinen",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1745153": {
+    "playerId": "1745153",
+    "name": "Souza, Isidoro",
+    "firstName": "Isidoro",
+    "lastName": "Souza",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1745168": {
+    "playerId": "1745168",
+    "name": "Smustern, Christoffer",
+    "firstName": "Christoffer",
+    "lastName": "Smustern",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1745227": {
+    "playerId": "1745227",
+    "name": "Karamanis, Vlassis",
+    "firstName": "Vlassis",
+    "lastName": "Karamanis",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1745330": {
+    "playerId": "1745330",
+    "name": "Capeletti, Diamantino",
+    "firstName": "Diamantino",
+    "lastName": "Capeletti",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1745383": {
+    "playerId": "1745383",
+    "name": "Radan, Primož",
+    "firstName": "Primož",
+    "lastName": "Radan",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1745557": {
+    "playerId": "1745557",
+    "name": "Murawski, Bartosz",
+    "firstName": "Bartosz",
+    "lastName": "Murawski",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1767055": {
+    "playerId": "1767055",
+    "name": "Orro, Väino",
+    "firstName": "Väino",
+    "lastName": "Orro",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1767082": {
+    "playerId": "1767082",
+    "name": "Abecassis, Lino",
+    "firstName": "Lino",
+    "lastName": "Abecassis",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1767179": {
+    "playerId": "1767179",
+    "name": "Xuanren, Tat-wah",
+    "firstName": "Tat-wah",
+    "lastName": "Xuanren",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1767798": {
+    "playerId": "1767798",
+    "name": "Bogalho, Demétrio",
+    "firstName": "Demétrio",
+    "lastName": "Bogalho",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1767863": {
+    "playerId": "1767863",
+    "name": "Ďurica, László",
+    "firstName": "László",
+    "lastName": "Ďurica",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1767866": {
+    "playerId": "1767866",
+    "name": "Guarnieri, Tó",
+    "firstName": "Tó",
+    "lastName": "Guarnieri",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1767943": {
+    "playerId": "1767943",
+    "name": "Blazek, Zdislav",
+    "firstName": "Zdislav",
+    "lastName": "Blazek",
+    "teams": [
+      {
+        "teamId": "153606",
+        "teamName": "Czech Republic",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1767965": {
+    "playerId": "1767965",
+    "name": "Hozumi, Tomoaki",
+    "firstName": "Tomoaki",
+    "lastName": "Hozumi",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1864112": {
+    "playerId": "1864112",
+    "name": "Onohara, Kiiton",
+    "firstName": "Kiiton",
+    "lastName": "Onohara",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1864253": {
+    "playerId": "1864253",
+    "name": "Luchev, Stoyan",
+    "firstName": "Stoyan",
+    "lastName": "Luchev",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1864270": {
+    "playerId": "1864270",
+    "name": "Pastureau, René",
+    "firstName": "René",
+    "lastName": "Pastureau",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1864296": {
+    "playerId": "1864296",
+    "name": "Gnaś, Rafał",
+    "firstName": "Rafał",
+    "lastName": "Gnaś",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1864300": {
+    "playerId": "1864300",
+    "name": "Gavrilov, Orlin",
+    "firstName": "Orlin",
+    "lastName": "Gavrilov",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1864438": {
+    "playerId": "1864438",
+    "name": "Oizumi, Rokusaburo",
+    "firstName": "Rokusaburo",
+    "lastName": "Oizumi",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1864459": {
+    "playerId": "1864459",
+    "name": "Piscanu, Constantin",
+    "firstName": "Constantin",
+    "lastName": "Piscanu",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1864479": {
+    "playerId": "1864479",
+    "name": "Cristiano, Orlando",
+    "firstName": "Orlando",
+    "lastName": "Cristiano",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1864480": {
+    "playerId": "1864480",
+    "name": "Lima, Bebeto",
+    "firstName": "Bebeto",
+    "lastName": "Lima",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1864481": {
+    "playerId": "1864481",
+    "name": "Vojtechovsky, Robert",
+    "firstName": "Robert",
+    "lastName": "Vojtechovsky",
+    "teams": [
+      {
+        "teamId": "153606",
+        "teamName": "Czech Republic",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1864536": {
+    "playerId": "1864536",
+    "name": "Guet, Francis",
+    "firstName": "Francis",
+    "lastName": "Guet",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1864555": {
+    "playerId": "1864555",
+    "name": "Minguang, Wyott",
+    "firstName": "Wyott",
+    "lastName": "Minguang",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1864573": {
+    "playerId": "1864573",
+    "name": "Cigala, Fabiano",
+    "firstName": "Fabiano",
+    "lastName": "Cigala",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1864615": {
+    "playerId": "1864615",
+    "name": "Versari, Gennaro",
+    "firstName": "Gennaro",
+    "lastName": "Versari",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1864864": {
+    "playerId": "1864864",
+    "name": "Anrep, Gotthelf",
+    "firstName": "Gotthelf",
+    "lastName": "Anrep",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1864875": {
+    "playerId": "1864875",
+    "name": "Lehepuu, Kurni",
+    "firstName": "Kurni",
+    "lastName": "Lehepuu",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1864879": {
+    "playerId": "1864879",
+    "name": "Hicks, Louis",
+    "firstName": "Louis",
+    "lastName": "Hicks",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1864912": {
+    "playerId": "1864912",
+    "name": "Czudaj, Bartosz",
+    "firstName": "Bartosz",
+    "lastName": "Czudaj",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1864925": {
+    "playerId": "1864925",
+    "name": "Mourier, Florian",
+    "firstName": "Florian",
+    "lastName": "Mourier",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1864957": {
+    "playerId": "1864957",
+    "name": "Flajs, Domen",
+    "firstName": "Domen",
+    "lastName": "Flajs",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1864959": {
+    "playerId": "1864959",
+    "name": "Jovičić, Slavko",
+    "firstName": "Slavko",
+    "lastName": "Jovičić",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1864966": {
+    "playerId": "1864966",
+    "name": "Janvier, Philippe",
+    "firstName": "Philippe",
+    "lastName": "Janvier",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1865039": {
+    "playerId": "1865039",
+    "name": "Siedlecki, Mikołaj",
+    "firstName": "Mikołaj",
+    "lastName": "Siedlecki",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1865083": {
+    "playerId": "1865083",
+    "name": "Gillet, Yann",
+    "firstName": "Yann",
+    "lastName": "Gillet",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1865085": {
+    "playerId": "1865085",
+    "name": "Lecomte, Samuel",
+    "firstName": "Samuel",
+    "lastName": "Lecomte",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1865106": {
+    "playerId": "1865106",
+    "name": "Truglio, Danilo",
+    "firstName": "Danilo",
+    "lastName": "Truglio",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1865109": {
+    "playerId": "1865109",
+    "name": "Furlan, Thierry",
+    "firstName": "Thierry",
+    "lastName": "Furlan",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1865113": {
+    "playerId": "1865113",
+    "name": "Liveric, Nedjeljko",
+    "firstName": "Nedjeljko",
+    "lastName": "Liveric",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1865135": {
+    "playerId": "1865135",
+    "name": "Louzada, Harley",
+    "firstName": "Harley",
+    "lastName": "Louzada",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1865183": {
+    "playerId": "1865183",
+    "name": "Wiegel, Cornelius",
+    "firstName": "Cornelius",
+    "lastName": "Wiegel",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1865187": {
+    "playerId": "1865187",
+    "name": "Božovský, Eduard",
+    "firstName": "Eduard",
+    "lastName": "Božovský",
+    "teams": [
+      {
+        "teamId": "153606",
+        "teamName": "Czech Republic",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1865203": {
+    "playerId": "1865203",
+    "name": "Kocic, Dimitrij",
+    "firstName": "Dimitrij",
+    "lastName": "Kocic",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1865208": {
+    "playerId": "1865208",
+    "name": "Redondo, André",
+    "firstName": "André",
+    "lastName": "Redondo",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1865246": {
+    "playerId": "1865246",
+    "name": "Kovjenič, Lovro",
+    "firstName": "Lovro",
+    "lastName": "Kovjenič",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1865254": {
+    "playerId": "1865254",
+    "name": "Aikawa, Tsumasaburo",
+    "firstName": "Tsumasaburo",
+    "lastName": "Aikawa",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1865312": {
+    "playerId": "1865312",
+    "name": "Szóstek, Tomasz",
+    "firstName": "Tomasz",
+    "lastName": "Szóstek",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1865328": {
+    "playerId": "1865328",
+    "name": "Karadachki, Vasil",
+    "firstName": "Vasil",
+    "lastName": "Karadachki",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1865329": {
+    "playerId": "1865329",
+    "name": "Velichkov, Lyubomir",
+    "firstName": "Lyubomir",
+    "lastName": "Velichkov",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1865330": {
+    "playerId": "1865330",
+    "name": "Peychev, Alexander",
+    "firstName": "Alexander",
+    "lastName": "Peychev",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1865362": {
+    "playerId": "1865362",
+    "name": "Wenyu, Cai",
+    "firstName": "Cai",
+    "lastName": "Wenyu",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1865404": {
+    "playerId": "1865404",
+    "name": "Jovanović, Faris",
+    "firstName": "Faris",
+    "lastName": "Jovanović",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1865435": {
+    "playerId": "1865435",
+    "name": "Neves, Damião",
+    "firstName": "Damião",
+    "lastName": "Neves",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1865454": {
+    "playerId": "1865454",
+    "name": "Górski, Wojciech",
+    "firstName": "Wojciech",
+    "lastName": "Górski",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1865491": {
+    "playerId": "1865491",
+    "name": "Bifu, Takenori",
+    "firstName": "Takenori",
+    "lastName": "Bifu",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1865508": {
+    "playerId": "1865508",
+    "name": "Ritthaler, Tino",
+    "firstName": "Tino",
+    "lastName": "Ritthaler",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1865788": {
+    "playerId": "1865788",
+    "name": "Dick, Rafael",
+    "firstName": "Rafael",
+    "lastName": "Dick",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1865812": {
+    "playerId": "1865812",
+    "name": "Nelson, Jessie",
+    "firstName": "Jessie",
+    "lastName": "Nelson",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1865818": {
+    "playerId": "1865818",
+    "name": "Lupei, Aurel",
+    "firstName": "Aurel",
+    "lastName": "Lupei",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1903403": {
+    "playerId": "1903403",
+    "name": "Espinhel, Adriano",
+    "firstName": "Adriano",
+    "lastName": "Espinhel",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1903422": {
+    "playerId": "1903422",
+    "name": "Kazama, Ginzô",
+    "firstName": "Ginzô",
+    "lastName": "Kazama",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1903475": {
+    "playerId": "1903475",
+    "name": "Veikat, Bruno",
+    "firstName": "Bruno",
+    "lastName": "Veikat",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1903477": {
+    "playerId": "1903477",
+    "name": "Abel, Erkki",
+    "firstName": "Erkki",
+    "lastName": "Abel",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1903511": {
+    "playerId": "1903511",
+    "name": "Dimitreiescu, Neculai",
+    "firstName": "Neculai",
+    "lastName": "Dimitreiescu",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1903639": {
+    "playerId": "1903639",
+    "name": "Vretenička, Jaroslav",
+    "firstName": "Jaroslav",
+    "lastName": "Vretenička",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1903750": {
+    "playerId": "1903750",
+    "name": "Lanhoso, António",
+    "firstName": "António",
+    "lastName": "Lanhoso",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1903848": {
+    "playerId": "1903848",
+    "name": "Suzuki, Urara",
+    "firstName": "Urara",
+    "lastName": "Suzuki",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1903928": {
+    "playerId": "1903928",
+    "name": "Guillén, Warly",
+    "firstName": "Warly",
+    "lastName": "Guillén",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1903984": {
+    "playerId": "1903984",
+    "name": "Bernardo, Luciano",
+    "firstName": "Luciano",
+    "lastName": "Bernardo",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1903994": {
+    "playerId": "1903994",
+    "name": "Ostendorff, Andreas",
+    "firstName": "Andreas",
+    "lastName": "Ostendorff",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1904212": {
+    "playerId": "1904212",
+    "name": "Del Boca, Abel",
+    "firstName": "Abel",
+    "lastName": "Del Boca",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1904229": {
+    "playerId": "1904229",
+    "name": "Karamatić, Amar",
+    "firstName": "Amar",
+    "lastName": "Karamatić",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1904233": {
+    "playerId": "1904233",
+    "name": "Ümıt, Alpkan",
+    "firstName": "Alpkan",
+    "lastName": "Ümıt",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904269": {
+    "playerId": "1904269",
+    "name": "Leone, Fabrício",
+    "firstName": "Fabrício",
+    "lastName": "Leone",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1904311": {
+    "playerId": "1904311",
+    "name": "Nicasio, Mario",
+    "firstName": "Mario",
+    "lastName": "Nicasio",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904325": {
+    "playerId": "1904325",
+    "name": "Banu, Evrim",
+    "firstName": "Evrim",
+    "lastName": "Banu",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1904391": {
+    "playerId": "1904391",
+    "name": "Church, Bob",
+    "firstName": "Bob",
+    "lastName": "Church",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1904407": {
+    "playerId": "1904407",
+    "name": "Larsen, Dan",
+    "firstName": "Dan",
+    "lastName": "Larsen",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904420": {
+    "playerId": "1904420",
+    "name": "Johnson, Kevin",
+    "firstName": "Kevin",
+    "lastName": "Johnson",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904423": {
+    "playerId": "1904423",
+    "name": "Parikka, Ville",
+    "firstName": "Ville",
+    "lastName": "Parikka",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1904434": {
+    "playerId": "1904434",
+    "name": "Hansell, Noel",
+    "firstName": "Noel",
+    "lastName": "Hansell",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1904435": {
+    "playerId": "1904435",
+    "name": "Guy, Jon",
+    "firstName": "Jon",
+    "lastName": "Guy",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1904438": {
+    "playerId": "1904438",
+    "name": "Matoušek, Ernest",
+    "firstName": "Ernest",
+    "lastName": "Matoušek",
+    "teams": [
+      {
+        "teamId": "153606",
+        "teamName": "Czech Republic",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904441": {
+    "playerId": "1904441",
+    "name": "Malloy, Shad",
+    "firstName": "Shad",
+    "lastName": "Malloy",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1904499": {
+    "playerId": "1904499",
+    "name": "Hudziak, Sławomir",
+    "firstName": "Sławomir",
+    "lastName": "Hudziak",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904500": {
+    "playerId": "1904500",
+    "name": "Mimura, Ryoji",
+    "firstName": "Ryoji",
+    "lastName": "Mimura",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904528": {
+    "playerId": "1904528",
+    "name": "Admiraal, Gosse",
+    "firstName": "Gosse",
+    "lastName": "Admiraal",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1904536": {
+    "playerId": "1904536",
+    "name": "Srna, Zeljko",
+    "firstName": "Zeljko",
+    "lastName": "Srna",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1904542": {
+    "playerId": "1904542",
+    "name": "Luca, Toni",
+    "firstName": "Toni",
+    "lastName": "Luca",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1904565": {
+    "playerId": "1904565",
+    "name": "Vlaev, Iliya",
+    "firstName": "Iliya",
+    "lastName": "Vlaev",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904576": {
+    "playerId": "1904576",
+    "name": "Westenend, Arjen",
+    "firstName": "Arjen",
+    "lastName": "Westenend",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904598": {
+    "playerId": "1904598",
+    "name": "Brößler, Magnus",
+    "firstName": "Magnus",
+    "lastName": "Brößler",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904644": {
+    "playerId": "1904644",
+    "name": "Dedić, Belmin",
+    "firstName": "Belmin",
+    "lastName": "Dedić",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1904663": {
+    "playerId": "1904663",
+    "name": "Gobec, Tom",
+    "firstName": "Tom",
+    "lastName": "Gobec",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1904681": {
+    "playerId": "1904681",
+    "name": "Velichkov, Lachezar",
+    "firstName": "Lachezar",
+    "lastName": "Velichkov",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904713": {
+    "playerId": "1904713",
+    "name": "Hamuro, Atsunori",
+    "firstName": "Atsunori",
+    "lastName": "Hamuro",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1904742": {
+    "playerId": "1904742",
+    "name": "Tugnoli, Fiorenzo",
+    "firstName": "Fiorenzo",
+    "lastName": "Tugnoli",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1904752": {
+    "playerId": "1904752",
+    "name": "Foulon, Jean",
+    "firstName": "Jean",
+    "lastName": "Foulon",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1904771": {
+    "playerId": "1904771",
+    "name": "Spagnuolo, Sandro",
+    "firstName": "Sandro",
+    "lastName": "Spagnuolo",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904779": {
+    "playerId": "1904779",
+    "name": "Onetto, Roldán",
+    "firstName": "Roldán",
+    "lastName": "Onetto",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904811": {
+    "playerId": "1904811",
+    "name": "Valdinoci, Antonello",
+    "firstName": "Antonello",
+    "lastName": "Valdinoci",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1904823": {
+    "playerId": "1904823",
+    "name": "Härm, Niilo",
+    "firstName": "Niilo",
+    "lastName": "Härm",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1904825": {
+    "playerId": "1904825",
+    "name": "Dettori, Astolfo",
+    "firstName": "Astolfo",
+    "lastName": "Dettori",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904865": {
+    "playerId": "1904865",
+    "name": "Krska, Capek",
+    "firstName": "Capek",
+    "lastName": "Krska",
+    "teams": [
+      {
+        "teamId": "153606",
+        "teamName": "Czech Republic",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1904871": {
+    "playerId": "1904871",
+    "name": "Fetto, Mattia",
+    "firstName": "Mattia",
+    "lastName": "Fetto",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1904880": {
+    "playerId": "1904880",
+    "name": "Bahúl, Ferdinand",
+    "firstName": "Ferdinand",
+    "lastName": "Bahúl",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1904882": {
+    "playerId": "1904882",
+    "name": "Falceto, Xurxo",
+    "firstName": "Xurxo",
+    "lastName": "Falceto",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1904897": {
+    "playerId": "1904897",
+    "name": "Gallucci, Serafino",
+    "firstName": "Serafino",
+    "lastName": "Gallucci",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904898": {
+    "playerId": "1904898",
+    "name": "Blanchard, Ludovic",
+    "firstName": "Ludovic",
+    "lastName": "Blanchard",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904903": {
+    "playerId": "1904903",
+    "name": "Spencer, Tony",
+    "firstName": "Tony",
+    "lastName": "Spencer",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904907": {
+    "playerId": "1904907",
+    "name": "Terrell, Seth",
+    "firstName": "Seth",
+    "lastName": "Terrell",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1904937": {
+    "playerId": "1904937",
+    "name": "Silva, Mike",
+    "firstName": "Mike",
+    "lastName": "Silva",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1904942": {
+    "playerId": "1904942",
+    "name": "Arya, Tufan",
+    "firstName": "Tufan",
+    "lastName": "Arya",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1904944": {
+    "playerId": "1904944",
+    "name": "Maujean, Gérard",
+    "firstName": "Gérard",
+    "lastName": "Maujean",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904950": {
+    "playerId": "1904950",
+    "name": "Siriwiboon, Kuan-chung",
+    "firstName": "Kuan-chung",
+    "lastName": "Siriwiboon",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1904974": {
+    "playerId": "1904974",
+    "name": "Lambertini, Osvaldo",
+    "firstName": "Osvaldo",
+    "lastName": "Lambertini",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1904975": {
+    "playerId": "1904975",
+    "name": "Olsson, Antti-Jussi",
+    "firstName": "Antti-Jussi",
+    "lastName": "Olsson",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1904978": {
+    "playerId": "1904978",
+    "name": "Konieczny, Marcin",
+    "firstName": "Marcin",
+    "lastName": "Konieczny",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1904982": {
+    "playerId": "1904982",
+    "name": "Boczula, Krzysztof",
+    "firstName": "Krzysztof",
+    "lastName": "Boczula",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1904984": {
+    "playerId": "1904984",
+    "name": "Tauchnitz, Götz",
+    "firstName": "Götz",
+    "lastName": "Tauchnitz",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1905039": {
+    "playerId": "1905039",
+    "name": "De Martínez, Héctor",
+    "firstName": "Héctor",
+    "lastName": "De Martínez",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1905172": {
+    "playerId": "1905172",
+    "name": "Nagtglas, Winfried",
+    "firstName": "Winfried",
+    "lastName": "Nagtglas",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1905210": {
+    "playerId": "1905210",
+    "name": "Lambert, Nicolas",
+    "firstName": "Nicolas",
+    "lastName": "Lambert",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1905214": {
+    "playerId": "1905214",
+    "name": "Lianting, Xin-Gang",
+    "firstName": "Xin-Gang",
+    "lastName": "Lianting",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1905218": {
+    "playerId": "1905218",
+    "name": "Glenn, Michael",
+    "firstName": "Michael",
+    "lastName": "Glenn",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1905226": {
+    "playerId": "1905226",
+    "name": "Fernandes, Antenor",
+    "firstName": "Antenor",
+    "lastName": "Fernandes",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1905265": {
+    "playerId": "1905265",
+    "name": "Greiner, Kaspar",
+    "firstName": "Kaspar",
+    "lastName": "Greiner",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1905272": {
+    "playerId": "1905272",
+    "name": "Rada, Andrei",
+    "firstName": "Andrei",
+    "lastName": "Rada",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1905277": {
+    "playerId": "1905277",
+    "name": "Krcmar, Ajdin",
+    "firstName": "Ajdin",
+    "lastName": "Krcmar",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1905281": {
+    "playerId": "1905281",
+    "name": "Yosifov, Hristo",
+    "firstName": "Hristo",
+    "lastName": "Yosifov",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1905290": {
+    "playerId": "1905290",
+    "name": "Acosta, Riccardo",
+    "firstName": "Riccardo",
+    "lastName": "Acosta",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1905302": {
+    "playerId": "1905302",
+    "name": "Altera, Néstor",
+    "firstName": "Néstor",
+    "lastName": "Altera",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1905336": {
+    "playerId": "1905336",
+    "name": "Téllez, Guillermo",
+    "firstName": "Guillermo",
+    "lastName": "Téllez",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1905338": {
+    "playerId": "1905338",
+    "name": "Aerts, Jari",
+    "firstName": "Jari",
+    "lastName": "Aerts",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1905437": {
+    "playerId": "1905437",
+    "name": "Quadros, Fabrício",
+    "firstName": "Fabrício",
+    "lastName": "Quadros",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1905455": {
+    "playerId": "1905455",
+    "name": "Wiels, Sjarel",
+    "firstName": "Sjarel",
+    "lastName": "Wiels",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1905461": {
+    "playerId": "1905461",
+    "name": "Hrusínský, Toman",
+    "firstName": "Toman",
+    "lastName": "Hrusínský",
+    "teams": [
+      {
+        "teamId": "153606",
+        "teamName": "Czech Republic",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1905655": {
+    "playerId": "1905655",
+    "name": "Šuler, Damjan",
+    "firstName": "Damjan",
+    "lastName": "Šuler",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1905671": {
+    "playerId": "1905671",
+    "name": "Daniel, Giuseppino",
+    "firstName": "Giuseppino",
+    "lastName": "Daniel",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1905688": {
+    "playerId": "1905688",
+    "name": "Rafelsberger, Wolfgang",
+    "firstName": "Wolfgang",
+    "lastName": "Rafelsberger",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1905703": {
+    "playerId": "1905703",
+    "name": "de Noronha, Caio",
+    "firstName": "Caio",
+    "lastName": "de Noronha",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1905803": {
+    "playerId": "1905803",
+    "name": "Rivera, Scott",
+    "firstName": "Scott",
+    "lastName": "Rivera",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1905845": {
+    "playerId": "1905845",
+    "name": "Oese, Kurni",
+    "firstName": "Kurni",
+    "lastName": "Oese",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1905864": {
+    "playerId": "1905864",
+    "name": "Baudet, Sébastien",
+    "firstName": "Sébastien",
+    "lastName": "Baudet",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1905876": {
+    "playerId": "1905876",
+    "name": "Stanca, Iorghu",
+    "firstName": "Iorghu",
+    "lastName": "Stanca",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1905880": {
+    "playerId": "1905880",
+    "name": "Galtelli, Carlo",
+    "firstName": "Carlo",
+    "lastName": "Galtelli",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1905912": {
+    "playerId": "1905912",
+    "name": "Görke, Alkan",
+    "firstName": "Alkan",
+    "lastName": "Görke",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1926918": {
+    "playerId": "1926918",
+    "name": "Schüßler, Siegmar",
+    "firstName": "Siegmar",
+    "lastName": "Schüßler",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1926926": {
+    "playerId": "1926926",
+    "name": "Szymański, Olaf",
+    "firstName": "Olaf",
+    "lastName": "Szymański",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1926930": {
+    "playerId": "1926930",
+    "name": "Coaña, Roberto",
+    "firstName": "Roberto",
+    "lastName": "Coaña",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1926932": {
+    "playerId": "1926932",
+    "name": "Bisogno, Teo",
+    "firstName": "Teo",
+    "lastName": "Bisogno",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1926952": {
+    "playerId": "1926952",
+    "name": "Kabengele, Guido",
+    "firstName": "Guido",
+    "lastName": "Kabengele",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1926975": {
+    "playerId": "1926975",
+    "name": "Grozav, Stelian",
+    "firstName": "Stelian",
+    "lastName": "Grozav",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1927030": {
+    "playerId": "1927030",
+    "name": "Nepomuceno, Armando",
+    "firstName": "Armando",
+    "lastName": "Nepomuceno",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1927031": {
+    "playerId": "1927031",
+    "name": "Teixeira, Jefferson",
+    "firstName": "Jefferson",
+    "lastName": "Teixeira",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1927210": {
+    "playerId": "1927210",
+    "name": "de Almeida, Salvador",
+    "firstName": "Salvador",
+    "lastName": "de Almeida",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1927264": {
+    "playerId": "1927264",
+    "name": "Alcouffe, Marc",
+    "firstName": "Marc",
+    "lastName": "Alcouffe",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1927365": {
+    "playerId": "1927365",
+    "name": "Blažić, Cvetko",
+    "firstName": "Cvetko",
+    "lastName": "Blažić",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1927366": {
+    "playerId": "1927366",
+    "name": "Djurdjić, Mahir",
+    "firstName": "Mahir",
+    "lastName": "Djurdjić",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1927433": {
+    "playerId": "1927433",
+    "name": "Suslik, Freddi",
+    "firstName": "Freddi",
+    "lastName": "Suslik",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1927461": {
+    "playerId": "1927461",
+    "name": "Wiesbauer, Ivan",
+    "firstName": "Ivan",
+    "lastName": "Wiesbauer",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1927483": {
+    "playerId": "1927483",
+    "name": "Anders-Akinyemi, Henning",
+    "firstName": "Henning",
+    "lastName": "Anders-Akinyemi",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1927565": {
+    "playerId": "1927565",
+    "name": "Travnicek, Adam",
+    "firstName": "Adam",
+    "lastName": "Travnicek",
+    "teams": [
+      {
+        "teamId": "153606",
+        "teamName": "Czech Republic",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1927642": {
+    "playerId": "1927642",
+    "name": "Vulić, Dragoslav",
+    "firstName": "Dragoslav",
+    "lastName": "Vulić",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1927728": {
+    "playerId": "1927728",
+    "name": "Chunxian, Hu",
+    "firstName": "Hu",
+    "lastName": "Chunxian",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1927729": {
+    "playerId": "1927729",
+    "name": "Guangpeng, Guoqiang",
+    "firstName": "Guoqiang",
+    "lastName": "Guangpeng",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1927749": {
+    "playerId": "1927749",
+    "name": "Maehle, Matthias",
+    "firstName": "Matthias",
+    "lastName": "Maehle",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1927751": {
+    "playerId": "1927751",
+    "name": "Vukašinović, Bojan",
+    "firstName": "Bojan",
+    "lastName": "Vukašinović",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1927752": {
+    "playerId": "1927752",
+    "name": "Aguado, Sancho",
+    "firstName": "Sancho",
+    "lastName": "Aguado",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1927855": {
+    "playerId": "1927855",
+    "name": "Gusmão, Aventino",
+    "firstName": "Aventino",
+    "lastName": "Gusmão",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1927865": {
+    "playerId": "1927865",
+    "name": "Quiriti, Angelo",
+    "firstName": "Angelo",
+    "lastName": "Quiriti",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1927870": {
+    "playerId": "1927870",
+    "name": "Idanha, Gregório",
+    "firstName": "Gregório",
+    "lastName": "Idanha",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1927873": {
+    "playerId": "1927873",
+    "name": "Grabowski, Jarosław",
+    "firstName": "Jarosław",
+    "lastName": "Grabowski",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1927875": {
+    "playerId": "1927875",
+    "name": "Bardon, Jean",
+    "firstName": "Jean",
+    "lastName": "Bardon",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1927881": {
+    "playerId": "1927881",
+    "name": "Zaidi, Maxime",
+    "firstName": "Maxime",
+    "lastName": "Zaidi",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1927955": {
+    "playerId": "1927955",
+    "name": "Campello, Wanderson",
+    "firstName": "Wanderson",
+    "lastName": "Campello",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928029": {
+    "playerId": "1928029",
+    "name": "Okoński, Jan",
+    "firstName": "Jan",
+    "lastName": "Okoński",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928033": {
+    "playerId": "1928033",
+    "name": "Stoev, Angel",
+    "firstName": "Angel",
+    "lastName": "Stoev",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1928034": {
+    "playerId": "1928034",
+    "name": "Achat, Harald-Peter",
+    "firstName": "Harald-Peter",
+    "lastName": "Achat",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1928039": {
+    "playerId": "1928039",
+    "name": "Biegański, Adam",
+    "firstName": "Adam",
+    "lastName": "Biegański",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928058": {
+    "playerId": "1928058",
+    "name": "Šmrtnik, Danijel",
+    "firstName": "Danijel",
+    "lastName": "Šmrtnik",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928065": {
+    "playerId": "1928065",
+    "name": "Bekić, Sanjin",
+    "firstName": "Sanjin",
+    "lastName": "Bekić",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928107": {
+    "playerId": "1928107",
+    "name": "Ferrobeira, Sandro",
+    "firstName": "Sandro",
+    "lastName": "Ferrobeira",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1928130": {
+    "playerId": "1928130",
+    "name": "Önay, Furkan",
+    "firstName": "Furkan",
+    "lastName": "Önay",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928131": {
+    "playerId": "1928131",
+    "name": "Kokkonen, Esa-Pekka",
+    "firstName": "Esa-Pekka",
+    "lastName": "Kokkonen",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1928154": {
+    "playerId": "1928154",
+    "name": "Muhel, Margus",
+    "firstName": "Margus",
+    "lastName": "Muhel",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1928166": {
+    "playerId": "1928166",
+    "name": "Yates, Lewis",
+    "firstName": "Lewis",
+    "lastName": "Yates",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928192": {
+    "playerId": "1928192",
+    "name": "McClelland, Rodney",
+    "firstName": "Rodney",
+    "lastName": "McClelland",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1928196": {
+    "playerId": "1928196",
+    "name": "Latovlevici, Dracul",
+    "firstName": "Dracul",
+    "lastName": "Latovlevici",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1928197": {
+    "playerId": "1928197",
+    "name": "Shirota, Shun",
+    "firstName": "Shun",
+    "lastName": "Shirota",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1928234": {
+    "playerId": "1928234",
+    "name": "Halinen, Claes",
+    "firstName": "Claes",
+    "lastName": "Halinen",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928235": {
+    "playerId": "1928235",
+    "name": "Bottazzi, Federico",
+    "firstName": "Federico",
+    "lastName": "Bottazzi",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1928247": {
+    "playerId": "1928247",
+    "name": "Ferrandis, Constantino",
+    "firstName": "Constantino",
+    "lastName": "Ferrandis",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928252": {
+    "playerId": "1928252",
+    "name": "Penksa, Gejza",
+    "firstName": "Gejza",
+    "lastName": "Penksa",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928274": {
+    "playerId": "1928274",
+    "name": "Tavolaro, Gigi",
+    "firstName": "Gigi",
+    "lastName": "Tavolaro",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928276": {
+    "playerId": "1928276",
+    "name": "Żołądek, Daniel",
+    "firstName": "Daniel",
+    "lastName": "Żołądek",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928282": {
+    "playerId": "1928282",
+    "name": "Vlak, Lovro",
+    "firstName": "Lovro",
+    "lastName": "Vlak",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928285": {
+    "playerId": "1928285",
+    "name": "Terragni, Cesarino",
+    "firstName": "Cesarino",
+    "lastName": "Terragni",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928286": {
+    "playerId": "1928286",
+    "name": "Adar, Adnan",
+    "firstName": "Adnan",
+    "lastName": "Adar",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928290": {
+    "playerId": "1928290",
+    "name": "Noble, Trevor",
+    "firstName": "Trevor",
+    "lastName": "Noble",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928337": {
+    "playerId": "1928337",
+    "name": "de Sax, Alexei",
+    "firstName": "Alexei",
+    "lastName": "de Sax",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928342": {
+    "playerId": "1928342",
+    "name": "Seunke, Tygo",
+    "firstName": "Tygo",
+    "lastName": "Seunke",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928347": {
+    "playerId": "1928347",
+    "name": "Dochkov, Kiril",
+    "firstName": "Kiril",
+    "lastName": "Dochkov",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1928421": {
+    "playerId": "1928421",
+    "name": "Argenté, Gonzalo",
+    "firstName": "Gonzalo",
+    "lastName": "Argenté",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1928422": {
+    "playerId": "1928422",
+    "name": "Gvozdenović, Andrija",
+    "firstName": "Andrija",
+    "lastName": "Gvozdenović",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1928457": {
+    "playerId": "1928457",
+    "name": "Landriscina, Santiago",
+    "firstName": "Santiago",
+    "lastName": "Landriscina",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928473": {
+    "playerId": "1928473",
+    "name": "Majcher, Michał",
+    "firstName": "Michał",
+    "lastName": "Majcher",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1928476": {
+    "playerId": "1928476",
+    "name": "Hrzica, Relja",
+    "firstName": "Relja",
+    "lastName": "Hrzica",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1928496": {
+    "playerId": "1928496",
+    "name": "Hämäläinen, Carl-Adam",
+    "firstName": "Carl-Adam",
+    "lastName": "Hämäläinen",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928510": {
+    "playerId": "1928510",
+    "name": "Hellmich, Armin",
+    "firstName": "Armin",
+    "lastName": "Hellmich",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1928529": {
+    "playerId": "1928529",
+    "name": "Tôchika, Kazuhisa",
+    "firstName": "Kazuhisa",
+    "lastName": "Tôchika",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928531": {
+    "playerId": "1928531",
+    "name": "Smiljanić, Darko",
+    "firstName": "Darko",
+    "lastName": "Smiljanić",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1928550": {
+    "playerId": "1928550",
+    "name": "Anocic, Vlado",
+    "firstName": "Vlado",
+    "lastName": "Anocic",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928557": {
+    "playerId": "1928557",
+    "name": "Yuze, Moy",
+    "firstName": "Moy",
+    "lastName": "Yuze",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928583": {
+    "playerId": "1928583",
+    "name": "Kapor, Kristjan",
+    "firstName": "Kristjan",
+    "lastName": "Kapor",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1928588": {
+    "playerId": "1928588",
+    "name": "Mathioudakis, Lykourgos",
+    "firstName": "Lykourgos",
+    "lastName": "Mathioudakis",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928597": {
+    "playerId": "1928597",
+    "name": "Altenburg, Felix",
+    "firstName": "Felix",
+    "lastName": "Altenburg",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1928601": {
+    "playerId": "1928601",
+    "name": "Silajdžić, Sulejman",
+    "firstName": "Sulejman",
+    "lastName": "Silajdžić",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928667": {
+    "playerId": "1928667",
+    "name": "Mladenov, Tzvetan",
+    "firstName": "Tzvetan",
+    "lastName": "Mladenov",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928692": {
+    "playerId": "1928692",
+    "name": "Anchieta, Diego",
+    "firstName": "Diego",
+    "lastName": "Anchieta",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928726": {
+    "playerId": "1928726",
+    "name": "Kibuspuu, Ote",
+    "firstName": "Ote",
+    "lastName": "Kibuspuu",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1928798": {
+    "playerId": "1928798",
+    "name": "Davis, Grady",
+    "firstName": "Grady",
+    "lastName": "Davis",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928799": {
+    "playerId": "1928799",
+    "name": "Kirov, Petar",
+    "firstName": "Petar",
+    "lastName": "Kirov",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928800": {
+    "playerId": "1928800",
+    "name": "Wössner, Ramon",
+    "firstName": "Ramon",
+    "lastName": "Wössner",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928809": {
+    "playerId": "1928809",
+    "name": "Soler, Teo",
+    "firstName": "Teo",
+    "lastName": "Soler",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1928845": {
+    "playerId": "1928845",
+    "name": "Avramov, Georgi",
+    "firstName": "Georgi",
+    "lastName": "Avramov",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928847": {
+    "playerId": "1928847",
+    "name": "Starling, Sávio",
+    "firstName": "Sávio",
+    "lastName": "Starling",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928848": {
+    "playerId": "1928848",
+    "name": "dos Reis, Anderson",
+    "firstName": "Anderson",
+    "lastName": "dos Reis",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1928853": {
+    "playerId": "1928853",
+    "name": "Tsatsarelis, Thiseas",
+    "firstName": "Thiseas",
+    "lastName": "Tsatsarelis",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1928886": {
+    "playerId": "1928886",
+    "name": "Alfano, Juan",
+    "firstName": "Juan",
+    "lastName": "Alfano",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1928899": {
+    "playerId": "1928899",
+    "name": "Slavica, Oliver",
+    "firstName": "Oliver",
+    "lastName": "Slavica",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928909": {
+    "playerId": "1928909",
+    "name": "Gamboa, Emanuel",
+    "firstName": "Emanuel",
+    "lastName": "Gamboa",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928916": {
+    "playerId": "1928916",
+    "name": "Schimmer, Bernd",
+    "firstName": "Bernd",
+    "lastName": "Schimmer",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928917": {
+    "playerId": "1928917",
+    "name": "Salazar, Aldonio",
+    "firstName": "Aldonio",
+    "lastName": "Salazar",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1928939": {
+    "playerId": "1928939",
+    "name": "Inagaki, Tsumasaburo",
+    "firstName": "Tsumasaburo",
+    "lastName": "Inagaki",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928979": {
+    "playerId": "1928979",
+    "name": "Mechernich, Herbert",
+    "firstName": "Herbert",
+    "lastName": "Mechernich",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1928985": {
+    "playerId": "1928985",
+    "name": "Balkanski, Pavlin",
+    "firstName": "Pavlin",
+    "lastName": "Balkanski",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1928994": {
+    "playerId": "1928994",
+    "name": "Spompato, Piersandro",
+    "firstName": "Piersandro",
+    "lastName": "Spompato",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1929008": {
+    "playerId": "1929008",
+    "name": "Savio, Arcangelo",
+    "firstName": "Arcangelo",
+    "lastName": "Savio",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1929014": {
+    "playerId": "1929014",
+    "name": "Carvalho, Juan",
+    "firstName": "Juan",
+    "lastName": "Carvalho",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1929026": {
+    "playerId": "1929026",
+    "name": "Hurtt, Zach",
+    "firstName": "Zach",
+    "lastName": "Hurtt",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1929041": {
+    "playerId": "1929041",
+    "name": "Rabbering, Boy",
+    "firstName": "Boy",
+    "lastName": "Rabbering",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1929068": {
+    "playerId": "1929068",
+    "name": "Yates, Arthur",
+    "firstName": "Arthur",
+    "lastName": "Yates",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1929075": {
+    "playerId": "1929075",
+    "name": "Iorga, Anton",
+    "firstName": "Anton",
+    "lastName": "Iorga",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1929080": {
+    "playerId": "1929080",
+    "name": "Kaufman, Ken",
+    "firstName": "Ken",
+    "lastName": "Kaufman",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1929106": {
+    "playerId": "1929106",
+    "name": "Hongkai, Rongrong",
+    "firstName": "Rongrong",
+    "lastName": "Hongkai",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1929119": {
+    "playerId": "1929119",
+    "name": "Łukaszewski, Łukasz",
+    "firstName": "Łukasz",
+    "lastName": "Łukaszewski",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1929120": {
+    "playerId": "1929120",
+    "name": "Marola, Samuel",
+    "firstName": "Samuel",
+    "lastName": "Marola",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1929135": {
+    "playerId": "1929135",
+    "name": "Ashton, Jacob",
+    "firstName": "Jacob",
+    "lastName": "Ashton",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1929161": {
+    "playerId": "1929161",
+    "name": "Tadić, Zoran",
+    "firstName": "Zoran",
+    "lastName": "Tadić",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1929182": {
+    "playerId": "1929182",
+    "name": "Toniolo, Leone",
+    "firstName": "Leone",
+    "lastName": "Toniolo",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1929226": {
+    "playerId": "1929226",
+    "name": "Haslinger, Oscar",
+    "firstName": "Oscar",
+    "lastName": "Haslinger",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1929235": {
+    "playerId": "1929235",
+    "name": "Yurukov, Iliya",
+    "firstName": "Iliya",
+    "lastName": "Yurukov",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1929237": {
+    "playerId": "1929237",
+    "name": "Furkan, Devrim",
+    "firstName": "Devrim",
+    "lastName": "Furkan",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1929261": {
+    "playerId": "1929261",
+    "name": "Hongjian, Toshirô",
+    "firstName": "Toshirô",
+    "lastName": "Hongjian",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1929307": {
+    "playerId": "1929307",
+    "name": "Antinos, Pavlos",
+    "firstName": "Pavlos",
+    "lastName": "Antinos",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1929446": {
+    "playerId": "1929446",
+    "name": "Kapten, Ervin",
+    "firstName": "Ervin",
+    "lastName": "Kapten",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1929499": {
+    "playerId": "1929499",
+    "name": "Quataert, Siegfried",
+    "firstName": "Siegfried",
+    "lastName": "Quataert",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1929522": {
+    "playerId": "1929522",
+    "name": "Poeder, Lou",
+    "firstName": "Lou",
+    "lastName": "Poeder",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1929523": {
+    "playerId": "1929523",
+    "name": "Gálvez, Gerónimo",
+    "firstName": "Gerónimo",
+    "lastName": "Gálvez",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1929528": {
+    "playerId": "1929528",
+    "name": "Kršmanović, Kerim",
+    "firstName": "Kerim",
+    "lastName": "Kršmanović",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1929558": {
+    "playerId": "1929558",
+    "name": "Örsan, Ayberk",
+    "firstName": "Ayberk",
+    "lastName": "Örsan",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1929560": {
+    "playerId": "1929560",
+    "name": "Bettelheim, Gerald",
+    "firstName": "Gerald",
+    "lastName": "Bettelheim",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1929570": {
+    "playerId": "1929570",
+    "name": "Dubašák, Bohdan",
+    "firstName": "Bohdan",
+    "lastName": "Dubašák",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1929598": {
+    "playerId": "1929598",
+    "name": "Jauregui, Fernando",
+    "firstName": "Fernando",
+    "lastName": "Jauregui",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1929602": {
+    "playerId": "1929602",
+    "name": "Chernichenko, Rolf",
+    "firstName": "Rolf",
+    "lastName": "Chernichenko",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1948929": {
+    "playerId": "1948929",
+    "name": "Gobec, Matevž",
+    "firstName": "Matevž",
+    "lastName": "Gobec",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1948934": {
+    "playerId": "1948934",
+    "name": "Di Gregorio, Orestes",
+    "firstName": "Orestes",
+    "lastName": "Di Gregorio",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1948952": {
+    "playerId": "1948952",
+    "name": "Aykut, Baykal",
+    "firstName": "Baykal",
+    "lastName": "Aykut",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1948961": {
+    "playerId": "1948961",
+    "name": "Stokić, Nikola",
+    "firstName": "Nikola",
+    "lastName": "Stokić",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1948974": {
+    "playerId": "1948974",
+    "name": "Freed, Donald",
+    "firstName": "Donald",
+    "lastName": "Freed",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1949008": {
+    "playerId": "1949008",
+    "name": "Carnaghi, Fabrizio",
+    "firstName": "Fabrizio",
+    "lastName": "Carnaghi",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1949018": {
+    "playerId": "1949018",
+    "name": "Kozłowski, Zbigniew",
+    "firstName": "Zbigniew",
+    "lastName": "Kozłowski",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1949031": {
+    "playerId": "1949031",
+    "name": "Karubo, Tamasaburo",
+    "firstName": "Tamasaburo",
+    "lastName": "Karubo",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1949032": {
+    "playerId": "1949032",
+    "name": "Longueira, Oscar",
+    "firstName": "Oscar",
+    "lastName": "Longueira",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1949043": {
+    "playerId": "1949043",
+    "name": "Belkin, Villu",
+    "firstName": "Villu",
+    "lastName": "Belkin",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1949098": {
+    "playerId": "1949098",
+    "name": "Cristiano, Lorenzo",
+    "firstName": "Lorenzo",
+    "lastName": "Cristiano",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1949107": {
+    "playerId": "1949107",
+    "name": "Jordan, Louis",
+    "firstName": "Louis",
+    "lastName": "Jordan",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1949133": {
+    "playerId": "1949133",
+    "name": "Tošković, Aleksandar",
+    "firstName": "Aleksandar",
+    "lastName": "Tošković",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1949134": {
+    "playerId": "1949134",
+    "name": "Atik, Harm",
+    "firstName": "Harm",
+    "lastName": "Atik",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1949173": {
+    "playerId": "1949173",
+    "name": "Zorc, Mario",
+    "firstName": "Mario",
+    "lastName": "Zorc",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1949516": {
+    "playerId": "1949516",
+    "name": "Van Den Eynde, Ngagne",
+    "firstName": "Ngagne",
+    "lastName": "Van Den Eynde",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1949528": {
+    "playerId": "1949528",
+    "name": "Changkai, Dai",
+    "firstName": "Dai",
+    "lastName": "Changkai",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1949740": {
+    "playerId": "1949740",
+    "name": "Cammell, Peter",
+    "firstName": "Peter",
+    "lastName": "Cammell",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1949774": {
+    "playerId": "1949774",
+    "name": "Sejkora, Benes",
+    "firstName": "Benes",
+    "lastName": "Sejkora",
+    "teams": [
+      {
+        "teamId": "153606",
+        "teamName": "Czech Republic",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1949776": {
+    "playerId": "1949776",
+    "name": "Rakić, Srdjan",
+    "firstName": "Srdjan",
+    "lastName": "Rakić",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1949784": {
+    "playerId": "1949784",
+    "name": "Beaudoin, Pascal",
+    "firstName": "Pascal",
+    "lastName": "Beaudoin",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1949867": {
+    "playerId": "1949867",
+    "name": "Catão, Bruno",
+    "firstName": "Bruno",
+    "lastName": "Catão",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1949870": {
+    "playerId": "1949870",
+    "name": "Budimir, Ognjen",
+    "firstName": "Ognjen",
+    "lastName": "Budimir",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1949874": {
+    "playerId": "1949874",
+    "name": "Lirca, Liviu",
+    "firstName": "Liviu",
+    "lastName": "Lirca",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1949892": {
+    "playerId": "1949892",
+    "name": "Brilhante, Nuno",
+    "firstName": "Nuno",
+    "lastName": "Brilhante",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1949903": {
+    "playerId": "1949903",
+    "name": "Olcay, Baran",
+    "firstName": "Baran",
+    "lastName": "Olcay",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1950000": {
+    "playerId": "1950000",
+    "name": "Pita, Jacques",
+    "firstName": "Jacques",
+    "lastName": "Pita",
+    "teams": [
+      {
+        "teamId": "153601",
+        "teamName": "Brazil",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1950003": {
+    "playerId": "1950003",
+    "name": "Kaipainen, Cisse",
+    "firstName": "Cisse",
+    "lastName": "Kaipainen",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1950135": {
+    "playerId": "1950135",
+    "name": "Pawelczyk, Filip",
+    "firstName": "Filip",
+    "lastName": "Pawelczyk",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1950222": {
+    "playerId": "1950222",
+    "name": "Šoljić, Alem",
+    "firstName": "Alem",
+    "lastName": "Šoljić",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1950228": {
+    "playerId": "1950228",
+    "name": "Pękala, Robert",
+    "firstName": "Robert",
+    "lastName": "Pękala",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1950308": {
+    "playerId": "1950308",
+    "name": "Codromaž, Leo",
+    "firstName": "Leo",
+    "lastName": "Codromaž",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1950318": {
+    "playerId": "1950318",
+    "name": "Síkora, Radomil",
+    "firstName": "Radomil",
+    "lastName": "Síkora",
+    "teams": [
+      {
+        "teamId": "153606",
+        "teamName": "Czech Republic",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1950325": {
+    "playerId": "1950325",
+    "name": "Brenneman, Kristopher",
+    "firstName": "Kristopher",
+    "lastName": "Brenneman",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1950343": {
+    "playerId": "1950343",
+    "name": "Nool, Märt",
+    "firstName": "Märt",
+    "lastName": "Nool",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1950382": {
+    "playerId": "1950382",
+    "name": "Admiraal, Willem",
+    "firstName": "Willem",
+    "lastName": "Admiraal",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1950405": {
+    "playerId": "1950405",
+    "name": "Goncalves, Boudewijn",
+    "firstName": "Boudewijn",
+    "lastName": "Goncalves",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1950428": {
+    "playerId": "1950428",
+    "name": "Genty, Benoît",
+    "firstName": "Benoît",
+    "lastName": "Genty",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1950434": {
+    "playerId": "1950434",
+    "name": "Çağlayan, Olcayto",
+    "firstName": "Olcayto",
+    "lastName": "Çağlayan",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1950455": {
+    "playerId": "1950455",
+    "name": "Pearce, Kit",
+    "firstName": "Kit",
+    "lastName": "Pearce",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1950469": {
+    "playerId": "1950469",
+    "name": "Hannen, Jack",
+    "firstName": "Jack",
+    "lastName": "Hannen",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1950524": {
+    "playerId": "1950524",
+    "name": "Lindinger, Austin",
+    "firstName": "Austin",
+    "lastName": "Lindinger",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1950550": {
+    "playerId": "1950550",
+    "name": "Anghelina, Constantin",
+    "firstName": "Constantin",
+    "lastName": "Anghelina",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1950560": {
+    "playerId": "1950560",
+    "name": "Zorc, Tonček",
+    "firstName": "Tonček",
+    "lastName": "Zorc",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1950600": {
+    "playerId": "1950600",
+    "name": "Garcia, Andres",
+    "firstName": "Andres",
+    "lastName": "Garcia",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1950623": {
+    "playerId": "1950623",
+    "name": "Soto, Beau",
+    "firstName": "Beau",
+    "lastName": "Soto",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1950652": {
+    "playerId": "1950652",
+    "name": "Yingkai, Eijin",
+    "firstName": "Eijin",
+    "lastName": "Yingkai",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1950657": {
+    "playerId": "1950657",
+    "name": "Stavrović, Bojan",
+    "firstName": "Bojan",
+    "lastName": "Stavrović",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1950697": {
+    "playerId": "1950697",
+    "name": "Paunero, Miguel",
+    "firstName": "Miguel",
+    "lastName": "Paunero",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1950699": {
+    "playerId": "1950699",
+    "name": "Bakas, Raoul",
+    "firstName": "Raoul",
+    "lastName": "Bakas",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1950744": {
+    "playerId": "1950744",
+    "name": "Bont, Cor",
+    "firstName": "Cor",
+    "lastName": "Bont",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1950779": {
+    "playerId": "1950779",
+    "name": "Laas, Eino",
+    "firstName": "Eino",
+    "lastName": "Laas",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1950801": {
+    "playerId": "1950801",
+    "name": "Amaral, Altino",
+    "firstName": "Altino",
+    "lastName": "Amaral",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1950811": {
+    "playerId": "1950811",
+    "name": "Milovanović, Dejan",
+    "firstName": "Dejan",
+    "lastName": "Milovanović",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1950847": {
+    "playerId": "1950847",
+    "name": "Buchinger, Benedikt",
+    "firstName": "Benedikt",
+    "lastName": "Buchinger",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1950848": {
+    "playerId": "1950848",
+    "name": "Asel, Aslan",
+    "firstName": "Aslan",
+    "lastName": "Asel",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1950852": {
+    "playerId": "1950852",
+    "name": "Pavlović, Veselin",
+    "firstName": "Veselin",
+    "lastName": "Pavlović",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1950865": {
+    "playerId": "1950865",
+    "name": "Tamas, Ludovic",
+    "firstName": "Ludovic",
+    "lastName": "Tamas",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1950866": {
+    "playerId": "1950866",
+    "name": "Quagliotti, Fiorenzo",
+    "firstName": "Fiorenzo",
+    "lastName": "Quagliotti",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1950874": {
+    "playerId": "1950874",
+    "name": "Castant, Gabriel",
+    "firstName": "Gabriel",
+    "lastName": "Castant",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1950900": {
+    "playerId": "1950900",
+    "name": "Vatra, Kornel",
+    "firstName": "Kornel",
+    "lastName": "Vatra",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1950903": {
+    "playerId": "1950903",
+    "name": "Mráka, Ondřej",
+    "firstName": "Ondřej",
+    "lastName": "Mráka",
+    "teams": [
+      {
+        "teamId": "153606",
+        "teamName": "Czech Republic",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1950915": {
+    "playerId": "1950915",
+    "name": "Hella, Donald",
+    "firstName": "Donald",
+    "lastName": "Hella",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1950921": {
+    "playerId": "1950921",
+    "name": "Arachovitis, Charalampos",
+    "firstName": "Charalampos",
+    "lastName": "Arachovitis",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1951006": {
+    "playerId": "1951006",
+    "name": "Chufang, Keyi",
+    "firstName": "Keyi",
+    "lastName": "Chufang",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1951012": {
+    "playerId": "1951012",
+    "name": "Todorović, Damir",
+    "firstName": "Damir",
+    "lastName": "Todorović",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1951023": {
+    "playerId": "1951023",
+    "name": "Teixidó, Enrique",
+    "firstName": "Enrique",
+    "lastName": "Teixidó",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1951066": {
+    "playerId": "1951066",
+    "name": "Uluğ, Rıdvan",
+    "firstName": "Rıdvan",
+    "lastName": "Uluğ",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1951082": {
+    "playerId": "1951082",
+    "name": "Sommer, Alf",
+    "firstName": "Alf",
+    "lastName": "Sommer",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1951115": {
+    "playerId": "1951115",
+    "name": "Koemets, Ruut",
+    "firstName": "Ruut",
+    "lastName": "Koemets",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1951120": {
+    "playerId": "1951120",
+    "name": "van Enckhuyzen, Olly",
+    "firstName": "Olly",
+    "lastName": "van Enckhuyzen",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1951185": {
+    "playerId": "1951185",
+    "name": "Jirácek, Antonín",
+    "firstName": "Antonín",
+    "lastName": "Jirácek",
+    "teams": [
+      {
+        "teamId": "153606",
+        "teamName": "Czech Republic",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1951208": {
+    "playerId": "1951208",
+    "name": "Xia, Hua",
+    "firstName": "Hua",
+    "lastName": "Xia",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1951221": {
+    "playerId": "1951221",
+    "name": "Taxiarhis, Apollon",
+    "firstName": "Apollon",
+    "lastName": "Taxiarhis",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1951252": {
+    "playerId": "1951252",
+    "name": "Lanckacker, Auke",
+    "firstName": "Auke",
+    "lastName": "Lanckacker",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1951275": {
+    "playerId": "1951275",
+    "name": "Jelusic, Zvonimir",
+    "firstName": "Zvonimir",
+    "lastName": "Jelusic",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1951288": {
+    "playerId": "1951288",
+    "name": "Bosić, Vuk",
+    "firstName": "Vuk",
+    "lastName": "Bosić",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1951352": {
+    "playerId": "1951352",
+    "name": "Purece, Răzvan",
+    "firstName": "Răzvan",
+    "lastName": "Purece",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1951360": {
+    "playerId": "1951360",
+    "name": "Castex, Yves",
+    "firstName": "Yves",
+    "lastName": "Castex",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1951375": {
+    "playerId": "1951375",
+    "name": "Montenegro, Germán",
+    "firstName": "Germán",
+    "lastName": "Montenegro",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1951456": {
+    "playerId": "1951456",
+    "name": "Geitel, Jotaarkka",
+    "firstName": "Jotaarkka",
+    "lastName": "Geitel",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1974416": {
+    "playerId": "1974416",
+    "name": "Pardon, Daniel",
+    "firstName": "Daniel",
+    "lastName": "Pardon",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1974463": {
+    "playerId": "1974463",
+    "name": "Hilla, Tarsaci",
+    "firstName": "Tarsaci",
+    "lastName": "Hilla",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1974473": {
+    "playerId": "1974473",
+    "name": "Forystek, Michał",
+    "firstName": "Michał",
+    "lastName": "Forystek",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1974478": {
+    "playerId": "1974478",
+    "name": "Beta, Laurentiu",
+    "firstName": "Laurentiu",
+    "lastName": "Beta",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1974517": {
+    "playerId": "1974517",
+    "name": "Strobl, Clemens",
+    "firstName": "Clemens",
+    "lastName": "Strobl",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1974532": {
+    "playerId": "1974532",
+    "name": "Snoek, Dimitri",
+    "firstName": "Dimitri",
+    "lastName": "Snoek",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1974576": {
+    "playerId": "1974576",
+    "name": "Laustela, Tommi",
+    "firstName": "Tommi",
+    "lastName": "Laustela",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1974585": {
+    "playerId": "1974585",
+    "name": "Hoogzaad, Jules",
+    "firstName": "Jules",
+    "lastName": "Hoogzaad",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1974588": {
+    "playerId": "1974588",
+    "name": "Riley, Frank",
+    "firstName": "Frank",
+    "lastName": "Riley",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1974604": {
+    "playerId": "1974604",
+    "name": "Meissnitzer, Niclas",
+    "firstName": "Niclas",
+    "lastName": "Meissnitzer",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1974639": {
+    "playerId": "1974639",
+    "name": "Murko, Nikola",
+    "firstName": "Nikola",
+    "lastName": "Murko",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1974673": {
+    "playerId": "1974673",
+    "name": "Cerqueira, Gerardo",
+    "firstName": "Gerardo",
+    "lastName": "Cerqueira",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1974675": {
+    "playerId": "1974675",
+    "name": "Fraga, Robles",
+    "firstName": "Robles",
+    "lastName": "Fraga",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1975164": {
+    "playerId": "1975164",
+    "name": "Bullard, Ryan",
+    "firstName": "Ryan",
+    "lastName": "Bullard",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1975177": {
+    "playerId": "1975177",
+    "name": "Dalay, Gökberk",
+    "firstName": "Gökberk",
+    "lastName": "Dalay",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1975323": {
+    "playerId": "1975323",
+    "name": "Stijnen, Axel",
+    "firstName": "Axel",
+    "lastName": "Stijnen",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1975437": {
+    "playerId": "1975437",
+    "name": "Mochizuki, Yuuharu",
+    "firstName": "Yuuharu",
+    "lastName": "Mochizuki",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1975442": {
+    "playerId": "1975442",
+    "name": "Pelıt, Aras",
+    "firstName": "Aras",
+    "lastName": "Pelıt",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1975521": {
+    "playerId": "1975521",
+    "name": "Albescu, Valentini",
+    "firstName": "Valentini",
+    "lastName": "Albescu",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1975566": {
+    "playerId": "1975566",
+    "name": "White, Alex",
+    "firstName": "Alex",
+    "lastName": "White",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1975577": {
+    "playerId": "1975577",
+    "name": "Arnould, Luc-Henri",
+    "firstName": "Luc-Henri",
+    "lastName": "Arnould",
+    "teams": [
+      {
+        "teamId": "153595",
+        "teamName": "France",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1975616": {
+    "playerId": "1975616",
+    "name": "Cardell, Iván",
+    "firstName": "Iván",
+    "lastName": "Cardell",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1975617": {
+    "playerId": "1975617",
+    "name": "Grumezescu, Henri",
+    "firstName": "Henri",
+    "lastName": "Grumezescu",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1975653": {
+    "playerId": "1975653",
+    "name": "Gombrich, Viktor",
+    "firstName": "Viktor",
+    "lastName": "Gombrich",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1975683": {
+    "playerId": "1975683",
+    "name": "Kaurismäki, Kullervo",
+    "firstName": "Kullervo",
+    "lastName": "Kaurismäki",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1975694": {
+    "playerId": "1975694",
+    "name": "Tomita, Junichi",
+    "firstName": "Junichi",
+    "lastName": "Tomita",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1975696": {
+    "playerId": "1975696",
+    "name": "Pajares, Ioritz",
+    "firstName": "Ioritz",
+    "lastName": "Pajares",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1975729": {
+    "playerId": "1975729",
+    "name": "Travers, Paddy",
+    "firstName": "Paddy",
+    "lastName": "Travers",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1975736": {
+    "playerId": "1975736",
+    "name": "Fochler, Alf",
+    "firstName": "Alf",
+    "lastName": "Fochler",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1975742": {
+    "playerId": "1975742",
+    "name": "Hirschmann, Heino",
+    "firstName": "Heino",
+    "lastName": "Hirschmann",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1975747": {
+    "playerId": "1975747",
+    "name": "Salden, Lukas",
+    "firstName": "Lukas",
+    "lastName": "Salden",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1975780": {
+    "playerId": "1975780",
+    "name": "Haug, Aldis",
+    "firstName": "Aldis",
+    "lastName": "Haug",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1975815": {
+    "playerId": "1975815",
+    "name": "Walton, Joss",
+    "firstName": "Joss",
+    "lastName": "Walton",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1975836": {
+    "playerId": "1975836",
+    "name": "Kosev, Kiril",
+    "firstName": "Kiril",
+    "lastName": "Kosev",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1975858": {
+    "playerId": "1975858",
+    "name": "Papilias, Yiotis",
+    "firstName": "Yiotis",
+    "lastName": "Papilias",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1975877": {
+    "playerId": "1975877",
+    "name": "Cromer, Matthäus",
+    "firstName": "Matthäus",
+    "lastName": "Cromer",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1975878": {
+    "playerId": "1975878",
+    "name": "Wijsmans, Gabriel",
+    "firstName": "Gabriel",
+    "lastName": "Wijsmans",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1975894": {
+    "playerId": "1975894",
+    "name": "Işil, Semih",
+    "firstName": "Semih",
+    "lastName": "Işil",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1975956": {
+    "playerId": "1975956",
+    "name": "Mladić, Milutin",
+    "firstName": "Milutin",
+    "lastName": "Mladić",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1975967": {
+    "playerId": "1975967",
+    "name": "Lemnaru, Christian",
+    "firstName": "Christian",
+    "lastName": "Lemnaru",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1975989": {
+    "playerId": "1975989",
+    "name": "Gan, Tesshô",
+    "firstName": "Tesshô",
+    "lastName": "Gan",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1976031": {
+    "playerId": "1976031",
+    "name": "Kapetanakis, Mimis",
+    "firstName": "Mimis",
+    "lastName": "Kapetanakis",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1976037": {
+    "playerId": "1976037",
+    "name": "Melina, Urbano",
+    "firstName": "Urbano",
+    "lastName": "Melina",
+    "teams": [
+      {
+        "teamId": "153594",
+        "teamName": "Italy",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1976043": {
+    "playerId": "1976043",
+    "name": "Isidro, Ildeberto",
+    "firstName": "Ildeberto",
+    "lastName": "Isidro",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1976044": {
+    "playerId": "1976044",
+    "name": "Rocchio, Pete",
+    "firstName": "Pete",
+    "lastName": "Rocchio",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1976054": {
+    "playerId": "1976054",
+    "name": "Damjanović, Stanislav",
+    "firstName": "Stanislav",
+    "lastName": "Damjanović",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1976073": {
+    "playerId": "1976073",
+    "name": "Maksimović, Arman",
+    "firstName": "Arman",
+    "lastName": "Maksimović",
+    "teams": [
+      {
+        "teamId": "153618",
+        "teamName": "Bosnia-Herzegovina",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "1976080": {
+    "playerId": "1976080",
+    "name": "Cosentino, Palito",
+    "firstName": "Palito",
+    "lastName": "Cosentino",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1976172": {
+    "playerId": "1976172",
+    "name": "Mečiar, Gašpar",
+    "firstName": "Gašpar",
+    "lastName": "Mečiar",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1976194": {
+    "playerId": "1976194",
+    "name": "Jun, Kuang-chao",
+    "firstName": "Kuang-chao",
+    "lastName": "Jun",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1976214": {
+    "playerId": "1976214",
+    "name": "Renier, Pol",
+    "firstName": "Pol",
+    "lastName": "Renier",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1976260": {
+    "playerId": "1976260",
+    "name": "Popović, Dimitrije",
+    "firstName": "Dimitrije",
+    "lastName": "Popović",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1976292": {
+    "playerId": "1976292",
+    "name": "Tsarouchitis, Elias",
+    "firstName": "Elias",
+    "lastName": "Tsarouchitis",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1976327": {
+    "playerId": "1976327",
+    "name": "Charoupas, Andreas",
+    "firstName": "Andreas",
+    "lastName": "Charoupas",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1976332": {
+    "playerId": "1976332",
+    "name": "Zajc, Leo",
+    "firstName": "Leo",
+    "lastName": "Zajc",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1976356": {
+    "playerId": "1976356",
+    "name": "Olaerts, Neo",
+    "firstName": "Neo",
+    "lastName": "Olaerts",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1976374": {
+    "playerId": "1976374",
+    "name": "Drent, Robertus",
+    "firstName": "Robertus",
+    "lastName": "Drent",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1976375": {
+    "playerId": "1976375",
+    "name": "Plasterk, Jernst",
+    "firstName": "Jernst",
+    "lastName": "Plasterk",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1976388": {
+    "playerId": "1976388",
+    "name": "Holland, Anthony",
+    "firstName": "Anthony",
+    "lastName": "Holland",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1976391": {
+    "playerId": "1976391",
+    "name": "Garcia, Patrick",
+    "firstName": "Patrick",
+    "lastName": "Garcia",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1976410": {
+    "playerId": "1976410",
+    "name": "Jakubik, Stanisław",
+    "firstName": "Stanisław",
+    "lastName": "Jakubik",
+    "teams": [
+      {
+        "teamId": "153593",
+        "teamName": "Poland",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1976412": {
+    "playerId": "1976412",
+    "name": "Hartland, Rijk",
+    "firstName": "Rijk",
+    "lastName": "Hartland",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "1976500": {
+    "playerId": "1976500",
+    "name": "Zervos, Totis",
+    "firstName": "Totis",
+    "lastName": "Zervos",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1976557": {
+    "playerId": "1976557",
+    "name": "Steinert, Korkmaz",
+    "firstName": "Korkmaz",
+    "lastName": "Steinert",
+    "teams": [
+      {
+        "teamId": "153596",
+        "teamName": "Germany",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1976580": {
+    "playerId": "1976580",
+    "name": "Toledano, Robustiano",
+    "firstName": "Robustiano",
+    "lastName": "Toledano",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1976595": {
+    "playerId": "1976595",
+    "name": "Mutu, Marku",
+    "firstName": "Marku",
+    "lastName": "Mutu",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1976653": {
+    "playerId": "1976653",
+    "name": "Entwistle, Freddie",
+    "firstName": "Freddie",
+    "lastName": "Entwistle",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1976654": {
+    "playerId": "1976654",
+    "name": "Kavalekas, Orfeas",
+    "firstName": "Orfeas",
+    "lastName": "Kavalekas",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1976658": {
+    "playerId": "1976658",
+    "name": "Rolla, Miguel",
+    "firstName": "Miguel",
+    "lastName": "Rolla",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1976659": {
+    "playerId": "1976659",
+    "name": "Miranda, Nicolau",
+    "firstName": "Nicolau",
+    "lastName": "Miranda",
+    "teams": [
+      {
+        "teamId": "153613",
+        "teamName": "Portugal",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "1976740": {
+    "playerId": "1976740",
+    "name": "Ranisavljević, Marko",
+    "firstName": "Marko",
+    "lastName": "Ranisavljević",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "1976894": {
+    "playerId": "1976894",
+    "name": "Engelen, Richard",
+    "firstName": "Richard",
+    "lastName": "Engelen",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "1976913": {
+    "playerId": "1976913",
+    "name": "Nakadoi, Sho",
+    "firstName": "Sho",
+    "lastName": "Nakadoi",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2002290": {
+    "playerId": "2002290",
+    "name": "Ligtvoet, Dominique",
+    "firstName": "Dominique",
+    "lastName": "Ligtvoet",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2002291": {
+    "playerId": "2002291",
+    "name": "Babic, Svebor",
+    "firstName": "Svebor",
+    "lastName": "Babic",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2002316": {
+    "playerId": "2002316",
+    "name": "Palmu, Jaakko",
+    "firstName": "Jaakko",
+    "lastName": "Palmu",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "2002376": {
+    "playerId": "2002376",
+    "name": "Raiciu, Fane",
+    "firstName": "Fane",
+    "lastName": "Raiciu",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2002379": {
+    "playerId": "2002379",
+    "name": "Švikruha, Miroslav",
+    "firstName": "Miroslav",
+    "lastName": "Švikruha",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "2002408": {
+    "playerId": "2002408",
+    "name": "Järventie, Joosua",
+    "firstName": "Joosua",
+    "lastName": "Järventie",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2002548": {
+    "playerId": "2002548",
+    "name": "Brunner, Matthias",
+    "firstName": "Matthias",
+    "lastName": "Brunner",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2002549": {
+    "playerId": "2002549",
+    "name": "Udovčić, Renato",
+    "firstName": "Renato",
+    "lastName": "Udovčić",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2003054": {
+    "playerId": "2003054",
+    "name": "Kejklíček, Jakub",
+    "firstName": "Jakub",
+    "lastName": "Kejklíček",
+    "teams": [
+      {
+        "teamId": "153606",
+        "teamName": "Czech Republic",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "2003060": {
+    "playerId": "2003060",
+    "name": "Diković, Benjamin",
+    "firstName": "Benjamin",
+    "lastName": "Diković",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2003132": {
+    "playerId": "2003132",
+    "name": "Schrijver, Nout",
+    "firstName": "Nout",
+    "lastName": "Schrijver",
+    "teams": [
+      {
+        "teamId": "153600",
+        "teamName": "Netherlands",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2003172": {
+    "playerId": "2003172",
+    "name": "Fotopoulos, Aggelos",
+    "firstName": "Aggelos",
+    "lastName": "Fotopoulos",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "2003215": {
+    "playerId": "2003215",
+    "name": "Van Brussel, Rik",
+    "firstName": "Rik",
+    "lastName": "Van Brussel",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "2003328": {
+    "playerId": "2003328",
+    "name": "Kolacić, Žarko",
+    "firstName": "Žarko",
+    "lastName": "Kolacić",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2003360": {
+    "playerId": "2003360",
+    "name": "Bergers, Spencer",
+    "firstName": "Spencer",
+    "lastName": "Bergers",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2003386": {
+    "playerId": "2003386",
+    "name": "Gimeno, Albino",
+    "firstName": "Albino",
+    "lastName": "Gimeno",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2003464": {
+    "playerId": "2003464",
+    "name": "Muñoz, Lolo",
+    "firstName": "Lolo",
+    "lastName": "Muñoz",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2003473": {
+    "playerId": "2003473",
+    "name": "Svorník, Ladislav",
+    "firstName": "Ladislav",
+    "lastName": "Svorník",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2003481": {
+    "playerId": "2003481",
+    "name": "Espinosa, Ignacio",
+    "firstName": "Ignacio",
+    "lastName": "Espinosa",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "2003486": {
+    "playerId": "2003486",
+    "name": "Miyazaki, Kôjiro",
+    "firstName": "Kôjiro",
+    "lastName": "Miyazaki",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2003488": {
+    "playerId": "2003488",
+    "name": "Kapor, Denis",
+    "firstName": "Denis",
+    "lastName": "Kapor",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2003528": {
+    "playerId": "2003528",
+    "name": "Shihodo, Shirô",
+    "firstName": "Shirô",
+    "lastName": "Shihodo",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "2003566": {
+    "playerId": "2003566",
+    "name": "Yasui, Takashi",
+    "firstName": "Takashi",
+    "lastName": "Yasui",
+    "teams": [
+      {
+        "teamId": "153603",
+        "teamName": "Japan",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2003623": {
+    "playerId": "2003623",
+    "name": "Nájera, Carles",
+    "firstName": "Carles",
+    "lastName": "Nájera",
+    "teams": [
+      {
+        "teamId": "153598",
+        "teamName": "Spain",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "2003654": {
+    "playerId": "2003654",
+    "name": "Makulis, Achilleas",
+    "firstName": "Achilleas",
+    "lastName": "Makulis",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2003698": {
+    "playerId": "2003698",
+    "name": "Kaltenböck, Volkmar",
+    "firstName": "Volkmar",
+    "lastName": "Kaltenböck",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2003733": {
+    "playerId": "2003733",
+    "name": "Kipouros, Traianos",
+    "firstName": "Traianos",
+    "lastName": "Kipouros",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "2003766": {
+    "playerId": "2003766",
+    "name": "Mpaxevanos, Omiros",
+    "firstName": "Omiros",
+    "lastName": "Mpaxevanos",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2003797": {
+    "playerId": "2003797",
+    "name": "Žurej, Klemen",
+    "firstName": "Klemen",
+    "lastName": "Žurej",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2003854": {
+    "playerId": "2003854",
+    "name": "Adams, Mike",
+    "firstName": "Mike",
+    "lastName": "Adams",
+    "teams": [
+      {
+        "teamId": "153597",
+        "teamName": "USA",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2003866": {
+    "playerId": "2003866",
+    "name": "Northwood, Patrick",
+    "firstName": "Patrick",
+    "lastName": "Northwood",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2003877": {
+    "playerId": "2003877",
+    "name": "Fabuš, Radoslav",
+    "firstName": "Radoslav",
+    "lastName": "Fabuš",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2004013": {
+    "playerId": "2004013",
+    "name": "Griflík, Olivér",
+    "firstName": "Olivér",
+    "lastName": "Griflík",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2004047": {
+    "playerId": "2004047",
+    "name": "Salzer, Dominik",
+    "firstName": "Dominik",
+    "lastName": "Salzer",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "2004052": {
+    "playerId": "2004052",
+    "name": "Noormägi, Ludvig",
+    "firstName": "Ludvig",
+    "lastName": "Noormägi",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2004097": {
+    "playerId": "2004097",
+    "name": "Avelino, Otaviano",
+    "firstName": "Otaviano",
+    "lastName": "Avelino",
+    "teams": [
+      {
+        "teamId": "153617",
+        "teamName": "International",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2004110": {
+    "playerId": "2004110",
+    "name": "Hillebrand, Oliver",
+    "firstName": "Oliver",
+    "lastName": "Hillebrand",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2004131": {
+    "playerId": "2004131",
+    "name": "Srbović, Čedomir",
+    "firstName": "Čedomir",
+    "lastName": "Srbović",
+    "teams": [
+      {
+        "teamId": "153604",
+        "teamName": "Serbia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2004151": {
+    "playerId": "2004151",
+    "name": "Onzia, Stijn",
+    "firstName": "Stijn",
+    "lastName": "Onzia",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2004237": {
+    "playerId": "2004237",
+    "name": "Bumbák, Milan",
+    "firstName": "Milan",
+    "lastName": "Bumbák",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "2004265": {
+    "playerId": "2004265",
+    "name": "Xidis, Romaleos",
+    "firstName": "Romaleos",
+    "lastName": "Xidis",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2004272": {
+    "playerId": "2004272",
+    "name": "Niemistö, Jere",
+    "firstName": "Jere",
+    "lastName": "Niemistö",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "2004301": {
+    "playerId": "2004301",
+    "name": "Reinbusch, Aare",
+    "firstName": "Aare",
+    "lastName": "Reinbusch",
+    "teams": [
+      {
+        "teamId": "153612",
+        "teamName": "Estonia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2004467": {
+    "playerId": "2004467",
+    "name": "Valek, Obrad",
+    "firstName": "Obrad",
+    "lastName": "Valek",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2032122": {
+    "playerId": "2032122",
+    "name": "Piirainen, Thomas",
+    "firstName": "Thomas",
+    "lastName": "Piirainen",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2032351": {
+    "playerId": "2032351",
+    "name": "Demiris, Themistoklis",
+    "firstName": "Themistoklis",
+    "lastName": "Demiris",
+    "teams": [
+      {
+        "teamId": "153605",
+        "teamName": "Greece",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "2032376": {
+    "playerId": "2032376",
+    "name": "Serbedzija, Nediljko",
+    "firstName": "Nediljko",
+    "lastName": "Serbedzija",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "2032636": {
+    "playerId": "2032636",
+    "name": "Pršo, Borko",
+    "firstName": "Borko",
+    "lastName": "Pršo",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2032695": {
+    "playerId": "2032695",
+    "name": "Mamele, Ludovic",
+    "firstName": "Ludovic",
+    "lastName": "Mamele",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "2032822": {
+    "playerId": "2032822",
+    "name": "Chydenius, Pauli",
+    "firstName": "Pauli",
+    "lastName": "Chydenius",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2032878": {
+    "playerId": "2032878",
+    "name": "Alac, Matija",
+    "firstName": "Matija",
+    "lastName": "Alac",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2032910": {
+    "playerId": "2032910",
+    "name": "Hatz, Manfred",
+    "firstName": "Manfred",
+    "lastName": "Hatz",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2059902": {
+    "playerId": "2059902",
+    "name": "Rapčan, Ervín",
+    "firstName": "Ervín",
+    "lastName": "Rapčan",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2059908": {
+    "playerId": "2059908",
+    "name": "Cestnik, Tom",
+    "firstName": "Tom",
+    "lastName": "Cestnik",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2060034": {
+    "playerId": "2060034",
+    "name": "Sánchez, Silvestre",
+    "firstName": "Silvestre",
+    "lastName": "Sánchez",
+    "teams": [
+      {
+        "teamId": "153602",
+        "teamName": "Argentina",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "2060040": {
+    "playerId": "2060040",
+    "name": "Glavas, Jerko",
+    "firstName": "Jerko",
+    "lastName": "Glavas",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2060106": {
+    "playerId": "2060106",
+    "name": "Bozhilov, Elin",
+    "firstName": "Elin",
+    "lastName": "Bozhilov",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2060111": {
+    "playerId": "2060111",
+    "name": "Diković, Izidor",
+    "firstName": "Izidor",
+    "lastName": "Diković",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2060151": {
+    "playerId": "2060151",
+    "name": "Velkov, Kiril",
+    "firstName": "Kiril",
+    "lastName": "Velkov",
+    "teams": [
+      {
+        "teamId": "153599",
+        "teamName": "Bulgaria",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2060168": {
+    "playerId": "2060168",
+    "name": "Hamı, Erkut",
+    "firstName": "Erkut",
+    "lastName": "Hamı",
+    "teams": [
+      {
+        "teamId": "153611",
+        "teamName": "Turkey",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2060180": {
+    "playerId": "2060180",
+    "name": "Prim, Thierry",
+    "firstName": "Thierry",
+    "lastName": "Prim",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "2060263": {
+    "playerId": "2060263",
+    "name": "Maalismaa, Ossi",
+    "firstName": "Ossi",
+    "lastName": "Maalismaa",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2060395": {
+    "playerId": "2060395",
+    "name": "Edwards, Jeremy",
+    "firstName": "Jeremy",
+    "lastName": "Edwards",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2060450": {
+    "playerId": "2060450",
+    "name": "Jelar, Tom",
+    "firstName": "Tom",
+    "lastName": "Jelar",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "L",
+        "source": "national"
+      }
+    ]
+  },
+  "2060654": {
+    "playerId": "2060654",
+    "name": "Brunner, Robert",
+    "firstName": "Robert",
+    "lastName": "Brunner",
+    "teams": [
+      {
+        "teamId": "153607",
+        "teamName": "Austria",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2060676": {
+    "playerId": "2060676",
+    "name": "Mihočko, Bruno",
+    "firstName": "Bruno",
+    "lastName": "Mihočko",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2060722": {
+    "playerId": "2060722",
+    "name": "Ďumbala, Ľudovít",
+    "firstName": "Ľudovít",
+    "lastName": "Ďumbala",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2060885": {
+    "playerId": "2060885",
+    "name": "Tianxian, Jingbo",
+    "firstName": "Jingbo",
+    "lastName": "Tianxian",
+    "teams": [
+      {
+        "teamId": "153616",
+        "teamName": "China",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2087745": {
+    "playerId": "2087745",
+    "name": "Van Erum, Lucien",
+    "firstName": "Lucien",
+    "lastName": "Van Erum",
+    "teams": [
+      {
+        "teamId": "153610",
+        "teamName": "Belgium",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2088002": {
+    "playerId": "2088002",
+    "name": "Gray, Cameron",
+    "firstName": "Cameron",
+    "lastName": "Gray",
+    "teams": [
+      {
+        "teamId": "153614",
+        "teamName": "England",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2088031": {
+    "playerId": "2088031",
+    "name": "Uherík, Leonard",
+    "firstName": "Leonard",
+    "lastName": "Uherík",
+    "teams": [
+      {
+        "teamId": "153615",
+        "teamName": "Slovakia",
+        "position": "P",
+        "source": "national"
+      }
+    ]
+  },
+  "2088032": {
+    "playerId": "2088032",
+    "name": "Venter, Octavian",
+    "firstName": "Octavian",
+    "lastName": "Venter",
+    "teams": [
+      {
+        "teamId": "153619",
+        "teamName": "Romania",
+        "position": "O",
+        "source": "national"
+      }
+    ]
+  },
+  "2088133": {
+    "playerId": "2088133",
+    "name": "Crnčić, Franjo",
+    "firstName": "Franjo",
+    "lastName": "Crnčić",
+    "teams": [
+      {
+        "teamId": "153620",
+        "teamName": "Slovenia",
+        "position": "Ś",
+        "source": "national"
+      }
+    ]
+  },
+  "2088181": {
+    "playerId": "2088181",
+    "name": "Hegedusic, Zivko",
+    "firstName": "Zivko",
+    "lastName": "Hegedusic",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "2088182": {
+    "playerId": "2088182",
+    "name": "Pitkänen, Lauri",
+    "firstName": "Lauri",
+    "lastName": "Pitkänen",
+    "teams": [
+      {
+        "teamId": "153608",
+        "teamName": "Finland",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  },
+  "2088295": {
+    "playerId": "2088295",
+    "name": "Pajer, Vojko",
+    "firstName": "Vojko",
+    "lastName": "Pajer",
+    "teams": [
+      {
+        "teamId": "153609",
+        "teamName": "Croatia",
+        "position": "S",
+        "source": "national"
+      }
+    ]
+  }
+}

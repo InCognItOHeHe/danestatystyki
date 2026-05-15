@@ -1,2098 +1,3698 @@
 {
-  "Gillet, Yann|153595": {
-    "pozycja": "O",
-    "teamId": "153595"
-  },
-  "Pardon, Daniel|153595": {
-    "pozycja": "O",
-    "teamId": "153595"
-  },
-  "Foulon, Jean|153595": {
-    "pozycja": "O",
-    "teamId": "153595"
-  },
-  "Mourier, Florian|153595": {
-    "pozycja": "L",
-    "teamId": "153595"
-  },
-  "Castex, Yves|153595": {
-    "pozycja": "L",
-    "teamId": "153595"
-  },
-  "Genty, Benoît|153595": {
-    "pozycja": "L",
-    "teamId": "153595"
-  },
-  "Arnould, Luc-Henri|153595": {
-    "pozycja": "P",
-    "teamId": "153595"
-  },
-  "Guet, Francis|153595": {
-    "pozycja": "P",
-    "teamId": "153595"
-  },
-  "Castant, Gabriel|153595": {
-    "pozycja": "P",
-    "teamId": "153595"
-  },
-  "Lambert, Nicolas|153595": {
-    "pozycja": "P",
-    "teamId": "153595"
-  },
-  "Bardon, Jean|153595": {
-    "pozycja": "P",
-    "teamId": "153595"
-  },
-  "Beaudoin, Pascal|153595": {
-    "pozycja": "P",
-    "teamId": "153595"
-  },
-  "Janvier, Philippe|153595": {
-    "pozycja": "S",
-    "teamId": "153595"
-  },
-  "Lecomte, Samuel|153595": {
-    "pozycja": "S",
-    "teamId": "153595"
-  },
-  "Baudet, Sébastien|153595": {
-    "pozycja": "S",
-    "teamId": "153595"
-  },
-  "Maujean, Gérard|153595": {
+  "Abecassis, Lino|153613": {
     "pozycja": "Ś",
-    "teamId": "153595"
-  },
-  "Macron, Colin|153595": {
-    "pozycja": "Ś",
-    "teamId": "153595"
-  },
-  "Blanchard, Ludovic|153595": {
-    "pozycja": "Ś",
-    "teamId": "153595"
-  },
-  "Furlan, Thierry|153595": {
-    "pozycja": "Ś",
-    "teamId": "153595"
-  },
-  "Pastureau, René|153595": {
-    "pozycja": "Ś",
-    "teamId": "153595"
-  },
-  "Tronconi, Sancho|153602": {
-    "pozycja": "O",
-    "teamId": "153602"
-  },
-  "Guillén, Warly|153602": {
-    "pozycja": "O",
-    "teamId": "153602"
-  },
-  "Altera, Néstor|153602": {
-    "pozycja": "O",
-    "teamId": "153602"
-  },
-  "De Martínez, Héctor|153602": {
-    "pozycja": "L",
-    "teamId": "153602"
-  },
-  "Di Gregorio, Orestes|153602": {
-    "pozycja": "L",
-    "teamId": "153602"
-  },
-  "Landriscina, Santiago|153602": {
-    "pozycja": "P",
-    "teamId": "153602"
-  },
-  "Cosentino, Palito|153602": {
-    "pozycja": "P",
-    "teamId": "153602"
-  },
-  "Montenegro, Germán|153602": {
-    "pozycja": "P",
-    "teamId": "153602"
-  },
-  "Carnaghi, Fabrizio|153602": {
-    "pozycja": "P",
-    "teamId": "153602"
-  },
-  "Gamboa, Emanuel|153602": {
-    "pozycja": "P",
-    "teamId": "153602"
-  },
-  "Del Boca, Abel|153602": {
-    "pozycja": "P",
-    "teamId": "153602"
-  },
-  "Mucci, Mario|153602": {
-    "pozycja": "S",
-    "teamId": "153602"
-  },
-  "Alfano, Juan|153602": {
-    "pozycja": "S",
-    "teamId": "153602"
-  },
-  "Gálvez, Gerónimo|153602": {
-    "pozycja": "S",
-    "teamId": "153602"
-  },
-  "Sánchez, Silvestre|153602": {
-    "pozycja": "S",
-    "teamId": "153602"
-  },
-  "Daniel, Giuseppino|153602": {
-    "pozycja": "Ś",
-    "teamId": "153602"
-  },
-  "Acosta, Riccardo|153602": {
-    "pozycja": "Ś",
-    "teamId": "153602"
-  },
-  "Onetto, Roldán|153602": {
-    "pozycja": "Ś",
-    "teamId": "153602"
-  },
-  "Paunero, Miguel|153602": {
-    "pozycja": "Ś",
-    "teamId": "153602"
-  },
-  "Nicasio, Mario|153602": {
-    "pozycja": "Ś",
-    "teamId": "153602"
-  },
-  "Haslinger, Oscar|153607": {
-    "pozycja": "O",
-    "teamId": "153607"
-  },
-  "Bettelheim, Gerald|153607": {
-    "pozycja": "O",
-    "teamId": "153607"
-  },
-  "Kaltenböck, Volkmar|153607": {
-    "pozycja": "O",
-    "teamId": "153607"
-  },
-  "Sommer, Alf|153607": {
-    "pozycja": "O",
-    "teamId": "153607"
-  },
-  "Cromer, Matthäus|153607": {
-    "pozycja": "O",
-    "teamId": "153607"
-  },
-  "Hellmich, Armin|153607": {
-    "pozycja": "L",
-    "teamId": "153607"
-  },
-  "Salzer, Dominik|153607": {
-    "pozycja": "L",
-    "teamId": "153607"
-  },
-  "Greiner, Kaspar|153607": {
-    "pozycja": "P",
-    "teamId": "153607"
-  },
-  "Hillebrand, Oliver|153607": {
-    "pozycja": "P",
-    "teamId": "153607"
-  },
-  "Strobl, Clemens|153607": {
-    "pozycja": "P",
-    "teamId": "153607"
-  },
-  "Meissnitzer, Niclas|153607": {
-    "pozycja": "P",
-    "teamId": "153607"
-  },
-  "Fochler, Alf|153607": {
-    "pozycja": "P",
-    "teamId": "153607"
-  },
-  "Rafelsberger, Wolfgang|153607": {
-    "pozycja": "S",
-    "teamId": "153607"
-  },
-  "Hirschmann, Heino|153607": {
-    "pozycja": "Ś",
-    "teamId": "153607"
-  },
-  "Gombrich, Viktor|153607": {
-    "pozycja": "Ś",
-    "teamId": "153607"
-  },
-  "Buchinger, Benedikt|153607": {
-    "pozycja": "Ś",
-    "teamId": "153607"
-  },
-  "Lindinger, Austin|153607": {
-    "pozycja": "Ś",
-    "teamId": "153607"
-  },
-  "Wössner, Ramon|153607": {
-    "pozycja": "Ś",
-    "teamId": "153607"
-  },
-  "Brunner, Robert|153607": {
-    "pozycja": "Ś",
-    "teamId": "153607"
-  },
-  "Wiels, Sjarel|153610": {
-    "pozycja": "O",
-    "teamId": "153610"
-  },
-  "Onzia, Stijn|153610": {
-    "pozycja": "O",
-    "teamId": "153610"
-  },
-  "Prim, Thierry|153610": {
-    "pozycja": "L",
-    "teamId": "153610"
-  },
-  "Quataert, Siegfried|153610": {
-    "pozycja": "L",
-    "teamId": "153610"
-  },
-  "Stijnen, Axel|153610": {
-    "pozycja": "L",
-    "teamId": "153610"
-  },
-  "Lanckacker, Auke|153610": {
-    "pozycja": "L",
-    "teamId": "153610"
-  },
-  "Van Erum, Lucien|153610": {
-    "pozycja": "P",
-    "teamId": "153610"
-  },
-  "Snoek, Dimitri|153610": {
-    "pozycja": "P",
-    "teamId": "153610"
-  },
-  "Zaidi, Maxime|153610": {
-    "pozycja": "P",
-    "teamId": "153610"
-  },
-  "Kabengele, Guido|153610": {
-    "pozycja": "P",
-    "teamId": "153610"
-  },
-  "Engelen, Richard|153610": {
-    "pozycja": "S",
-    "teamId": "153610"
-  },
-  "Van Brussel, Rik|153610": {
-    "pozycja": "S",
-    "teamId": "153610"
-  },
-  "Hella, Donald|153610": {
-    "pozycja": "Ś",
-    "teamId": "153610"
-  },
-  "Van Den Eynde, Ngagne|153610": {
-    "pozycja": "Ś",
-    "teamId": "153610"
-  },
-  "Wijsmans, Gabriel|153610": {
-    "pozycja": "Ś",
-    "teamId": "153610"
-  },
-  "Renier, Pol|153610": {
-    "pozycja": "Ś",
-    "teamId": "153610"
-  },
-  "Olaerts, Neo|153610": {
-    "pozycja": "Ś",
-    "teamId": "153610"
-  },
-  "Bergers, Spencer|153610": {
-    "pozycja": "Ś",
-    "teamId": "153610"
-  },
-  "de Sax, Alexei|153610": {
-    "pozycja": "Ś",
-    "teamId": "153610"
-  },
-  "Krcmar, Ajdin|153618": {
-    "pozycja": "O",
-    "teamId": "153618"
-  },
-  "Stokić, Nikola|153618": {
-    "pozycja": "O",
-    "teamId": "153618"
-  },
-  "Djurdjić, Mahir|153618": {
-    "pozycja": "L",
-    "teamId": "153618"
-  },
-  "Maksimović, Arman|153618": {
-    "pozycja": "L",
-    "teamId": "153618"
-  },
-  "Lazić, Mate|153618": {
-    "pozycja": "P",
-    "teamId": "153618"
-  },
-  "Karamatić, Amar|153618": {
-    "pozycja": "P",
-    "teamId": "153618"
-  },
-  "Budimir, Ognjen|153618": {
-    "pozycja": "P",
-    "teamId": "153618"
-  },
-  "Šoljić, Alem|153618": {
-    "pozycja": "P",
-    "teamId": "153618"
-  },
-  "Jovanović, Faris|153618": {
-    "pozycja": "S",
-    "teamId": "153618"
-  },
-  "Dedić, Belmin|153618": {
-    "pozycja": "S",
-    "teamId": "153618"
-  },
-  "Trifković, Adin|153618": {
-    "pozycja": "Ś",
-    "teamId": "153618"
-  },
-  "Bekić, Sanjin|153618": {
-    "pozycja": "Ś",
-    "teamId": "153618"
-  },
-  "Silajdžić, Sulejman|153618": {
-    "pozycja": "Ś",
-    "teamId": "153618"
-  },
-  "Kršmanović, Kerim|153618": {
-    "pozycja": "Ś",
-    "teamId": "153618"
-  },
-  "Todorović, Damir|153618": {
-    "pozycja": "Ś",
-    "teamId": "153618"
-  },
-  "Canuto, Alberto|153601": {
-    "pozycja": "O",
-    "teamId": "153601"
-  },
-  "Fasano, Ibsen|153601": {
-    "pozycja": "O",
-    "teamId": "153601"
-  },
-  "Neves, Damião|153601": {
-    "pozycja": "O",
-    "teamId": "153601"
-  },
-  "Carvalho, Juan|153601": {
-    "pozycja": "L",
-    "teamId": "153601"
-  },
-  "Lambertini, Osvaldo|153601": {
-    "pozycja": "L",
-    "teamId": "153601"
-  },
-  "Campello, Wanderson|153601": {
-    "pozycja": "P",
-    "teamId": "153601"
-  },
-  "Louzada, Harley|153601": {
-    "pozycja": "P",
-    "teamId": "153601"
-  },
-  "Teixeira, Jefferson|153601": {
-    "pozycja": "P",
-    "teamId": "153601"
-  },
-  "Fernandes, Antenor|153601": {
-    "pozycja": "P",
-    "teamId": "153601"
-  },
-  "Nepomuceno, Armando|153601": {
-    "pozycja": "P",
-    "teamId": "153601"
-  },
-  "Pita, Jacques|153601": {
-    "pozycja": "S",
-    "teamId": "153601"
-  },
-  "Leone, Fabrício|153601": {
-    "pozycja": "S",
-    "teamId": "153601"
-  },
-  "Souza, Isidoro|153601": {
-    "pozycja": "S",
-    "teamId": "153601"
-  },
-  "Quadros, Fabrício|153601": {
-    "pozycja": "Ś",
-    "teamId": "153601"
-  },
-  "Anchieta, Diego|153601": {
-    "pozycja": "Ś",
-    "teamId": "153601"
-  },
-  "Starling, Sávio|153601": {
-    "pozycja": "Ś",
-    "teamId": "153601"
-  },
-  "dos Reis, Anderson|153601": {
-    "pozycja": "Ś",
-    "teamId": "153601"
-  },
-  "Morais, Fábio|153601": {
-    "pozycja": "Ś",
-    "teamId": "153601"
-  },
-  "Baeta, Joel|153601": {
-    "pozycja": "Ś",
-    "teamId": "153601"
-  },
-  "Kosev, Kiril|153599": {
-    "pozycja": "O",
-    "teamId": "153599"
-  },
-  "Stoev, Angel|153599": {
-    "pozycja": "O",
-    "teamId": "153599"
-  },
-  "Búrzashki, Ivan|153599": {
-    "pozycja": "L",
-    "teamId": "153599"
-  },
-  "Dochkov, Kiril|153599": {
-    "pozycja": "L",
-    "teamId": "153599"
-  },
-  "Alexiev, Plamen|153599": {
-    "pozycja": "P",
-    "teamId": "153599"
-  },
-  "Yurukov, Iliya|153599": {
-    "pozycja": "P",
-    "teamId": "153599"
-  },
-  "Balkanski, Pavlin|153599": {
-    "pozycja": "P",
-    "teamId": "153599"
-  },
-  "Avramov, Georgi|153599": {
-    "pozycja": "P",
-    "teamId": "153599"
-  },
-  "Kirov, Petar|153599": {
-    "pozycja": "P",
-    "teamId": "153599"
-  },
-  "Mladenov, Tzvetan|153599": {
-    "pozycja": "P",
-    "teamId": "153599"
-  },
-  "Luchev, Stoyan|153599": {
-    "pozycja": "P",
-    "teamId": "153599"
-  },
-  "Peychev, Alexander|153599": {
-    "pozycja": "S",
-    "teamId": "153599"
-  },
-  "Karadachki, Vasil|153599": {
-    "pozycja": "S",
-    "teamId": "153599"
-  },
-  "Yosifov, Hristo|153599": {
-    "pozycja": "Ś",
-    "teamId": "153599"
-  },
-  "Velichkov, Lachezar|153599": {
-    "pozycja": "Ś",
-    "teamId": "153599"
-  },
-  "Vlaev, Iliya|153599": {
-    "pozycja": "Ś",
-    "teamId": "153599"
-  },
-  "Gavrilov, Orlin|153599": {
-    "pozycja": "Ś",
-    "teamId": "153599"
-  },
-  "Bozhilov, Elin|153599": {
-    "pozycja": "Ś",
-    "teamId": "153599"
-  },
-  "Velkov, Kiril|153599": {
-    "pozycja": "Ś",
-    "teamId": "153599"
-  },
-  "Tianxian, Jingbo|153616": {
-    "pozycja": "O",
-    "teamId": "153616"
-  },
-  "Xia, Hua|153616": {
-    "pozycja": "O",
-    "teamId": "153616"
-  },
-  "Minguang, Wyott|153616": {
-    "pozycja": "L",
-    "teamId": "153616"
-  },
-  "Siriwiboon, Kuan-chung|153616": {
-    "pozycja": "L",
-    "teamId": "153616"
-  },
-  "Jun, Kuang-chao|153616": {
-    "pozycja": "P",
-    "teamId": "153616"
-  },
-  "Chunxian, Hu|153616": {
-    "pozycja": "P",
-    "teamId": "153616"
-  },
-  "Guangpeng, Guoqiang|153616": {
-    "pozycja": "P",
-    "teamId": "153616"
-  },
-  "Chufang, Keyi|153616": {
-    "pozycja": "P",
-    "teamId": "153616"
-  },
-  "Hongkai, Rongrong|153616": {
-    "pozycja": "P",
-    "teamId": "153616"
-  },
-  "Hongjian, Toshirô|153616": {
-    "pozycja": "P",
-    "teamId": "153616"
-  },
-  "Xuanren, Tat-wah|153616": {
-    "pozycja": "S",
-    "teamId": "153616"
-  },
-  "Changkai, Dai|153616": {
-    "pozycja": "S",
-    "teamId": "153616"
-  },
-  "Yau, Tat-wah|153616": {
-    "pozycja": "S",
-    "teamId": "153616"
-  },
-  "Yingkai, Eijin|153616": {
-    "pozycja": "Ś",
-    "teamId": "153616"
-  },
-  "Yuze, Moy|153616": {
-    "pozycja": "Ś",
-    "teamId": "153616"
-  },
-  "Lianting, Xin-Gang|153616": {
-    "pozycja": "Ś",
-    "teamId": "153616"
-  },
-  "Wenyu, Cai|153616": {
-    "pozycja": "Ś",
-    "teamId": "153616"
-  },
-  "Liveric, Nedjeljko|153609": {
-    "pozycja": "O",
-    "teamId": "153609"
-  },
-  "Diković, Izidor|153609": {
-    "pozycja": "O",
-    "teamId": "153609"
-  },
-  "Diković, Benjamin|153609": {
-    "pozycja": "O",
-    "teamId": "153609"
-  },
-  "Kapor, Denis|153609": {
-    "pozycja": "O",
-    "teamId": "153609"
-  },
-  "Hrzica, Relja|153609": {
-    "pozycja": "L",
-    "teamId": "153609"
-  },
-  "Kapor, Kristjan|153609": {
-    "pozycja": "L",
-    "teamId": "153609"
-  },
-  "Anocic, Vlado|153609": {
-    "pozycja": "P",
-    "teamId": "153609"
-  },
-  "Slavica, Oliver|153609": {
-    "pozycja": "P",
-    "teamId": "153609"
-  },
-  "Babic, Svebor|153609": {
-    "pozycja": "P",
-    "teamId": "153609"
-  },
-  "Udovčić, Renato|153609": {
-    "pozycja": "P",
-    "teamId": "153609"
-  },
-  "Valek, Obrad|153609": {
-    "pozycja": "P",
-    "teamId": "153609"
-  },
-  "Glavas, Jerko|153609": {
-    "pozycja": "P",
-    "teamId": "153609"
-  },
-  "Pajer, Vojko|153609": {
-    "pozycja": "S",
-    "teamId": "153609"
-  },
-  "Hegedusic, Zivko|153609": {
-    "pozycja": "S",
-    "teamId": "153609"
-  },
-  "Serbedzija, Nediljko|153609": {
-    "pozycja": "S",
-    "teamId": "153609"
-  },
-  "Srna, Zeljko|153609": {
-    "pozycja": "S",
-    "teamId": "153609"
-  },
-  "Pršo, Borko|153609": {
-    "pozycja": "Ś",
-    "teamId": "153609"
-  },
-  "Alac, Matija|153609": {
-    "pozycja": "Ś",
-    "teamId": "153609"
-  },
-  "Jelusic, Zvonimir|153609": {
-    "pozycja": "Ś",
-    "teamId": "153609"
-  },
-  "Vlak, Lovro|153609": {
-    "pozycja": "Ś",
-    "teamId": "153609"
-  },
-  "Blazek, Zdislav|153606": {
-    "pozycja": "O",
-    "teamId": "153606"
-  },
-  "Mráka, Ondřej|153606": {
-    "pozycja": "O",
-    "teamId": "153606"
-  },
-  "Jirácek, Antonín|153606": {
-    "pozycja": "O",
-    "teamId": "153606"
-  },
-  "Síkora, Radomil|153606": {
-    "pozycja": "L",
-    "teamId": "153606"
-  },
-  "Kejklíček, Jakub|153606": {
-    "pozycja": "L",
-    "teamId": "153606"
-  },
-  "Božovský, Eduard|153606": {
-    "pozycja": "P",
-    "teamId": "153606"
-  },
-  "Krska, Capek|153606": {
-    "pozycja": "P",
-    "teamId": "153606"
-  },
-  "Hrusínský, Toman|153606": {
-    "pozycja": "P",
-    "teamId": "153606"
-  },
-  "Travnicek, Adam|153606": {
-    "pozycja": "P",
-    "teamId": "153606"
-  },
-  "Vojtechovsky, Robert|153606": {
-    "pozycja": "S",
-    "teamId": "153606"
-  },
-  "Jareš, Tibor|153606": {
-    "pozycja": "Ś",
-    "teamId": "153606"
-  },
-  "Matoušek, Ernest|153606": {
-    "pozycja": "Ś",
-    "teamId": "153606"
-  },
-  "Sejkora, Benes|153606": {
-    "pozycja": "Ś",
-    "teamId": "153606"
-  },
-  "Hicks, Louis|153614": {
-    "pozycja": "O",
-    "teamId": "153614"
-  },
-  "Gray, Cameron|153614": {
-    "pozycja": "O",
-    "teamId": "153614"
-  },
-  "Edwards, Jeremy|153614": {
-    "pozycja": "O",
-    "teamId": "153614"
-  },
-  "Cammell, Peter|153614": {
-    "pozycja": "O",
-    "teamId": "153614"
-  },
-  "McClelland, Rodney|153614": {
-    "pozycja": "L",
-    "teamId": "153614"
-  },
-  "Church, Bob|153614": {
-    "pozycja": "L",
-    "teamId": "153614"
-  },
-  "Yates, Arthur|153614": {
-    "pozycja": "P",
-    "teamId": "153614"
-  },
-  "Kaufman, Ken|153614": {
-    "pozycja": "P",
-    "teamId": "153614"
-  },
-  "Jordan, Louis|153614": {
-    "pozycja": "P",
-    "teamId": "153614"
-  },
-  "Yates, Lewis|153614": {
-    "pozycja": "P",
-    "teamId": "153614"
-  },
-  "Hannen, Jack|153614": {
-    "pozycja": "P",
-    "teamId": "153614"
-  },
-  "Riley, Frank|153614": {
-    "pozycja": "S",
-    "teamId": "153614"
-  },
-  "Emerton, Gilbert|153614": {
-    "pozycja": "S",
-    "teamId": "153614"
-  },
-  "Ashton, Jacob|153614": {
-    "pozycja": "Ś",
-    "teamId": "153614"
-  },
-  "Pearce, Kit|153614": {
-    "pozycja": "Ś",
-    "teamId": "153614"
-  },
-  "Travers, Paddy|153614": {
-    "pozycja": "Ś",
-    "teamId": "153614"
-  },
-  "Walton, Joss|153614": {
-    "pozycja": "Ś",
-    "teamId": "153614"
-  },
-  "Holland, Anthony|153614": {
-    "pozycja": "Ś",
-    "teamId": "153614"
-  },
-  "Entwistle, Freddie|153614": {
-    "pozycja": "Ś",
-    "teamId": "153614"
-  },
-  "Northwood, Patrick|153614": {
-    "pozycja": "Ś",
-    "teamId": "153614"
-  },
-  "Härm, Niilo|153612": {
-    "pozycja": "O",
-    "teamId": "153612"
-  },
-  "Odar, Ragnar|153612": {
-    "pozycja": "O",
-    "teamId": "153612"
-  },
-  "Kapten, Ervin|153612": {
-    "pozycja": "O",
-    "teamId": "153612"
-  },
-  "Laas, Eino|153612": {
-    "pozycja": "L",
-    "teamId": "153612"
-  },
-  "Nool, Märt|153612": {
-    "pozycja": "L",
-    "teamId": "153612"
-  },
-  "Muhel, Margus|153612": {
-    "pozycja": "L",
-    "teamId": "153612"
-  },
-  "Reinbusch, Aare|153612": {
-    "pozycja": "P",
-    "teamId": "153612"
-  },
-  "Noormägi, Ludvig|153612": {
-    "pozycja": "P",
-    "teamId": "153612"
-  },
-  "Koemets, Ruut|153612": {
-    "pozycja": "P",
-    "teamId": "153612"
-  },
-  "Oese, Kurni|153612": {
-    "pozycja": "P",
-    "teamId": "153612"
-  },
-  "Chernichenko, Rolf|153612": {
-    "pozycja": "P",
-    "teamId": "153612"
-  },
-  "Kibuspuu, Ote|153612": {
-    "pozycja": "S",
-    "teamId": "153612"
+    "teamId": "153613",
+    "playerId": "1767082",
+    "teamName": "Portugal",
+    "source": "national"
   },
   "Abel, Erkki|153612": {
     "pozycja": "S",
-    "teamId": "153612"
-  },
-  "Veikat, Bruno|153612": {
-    "pozycja": "S",
-    "teamId": "153612"
-  },
-  "Belkin, Villu|153612": {
-    "pozycja": "Ś",
-    "teamId": "153612"
-  },
-  "Suslik, Freddi|153612": {
-    "pozycja": "Ś",
-    "teamId": "153612"
-  },
-  "Haug, Aldis|153612": {
-    "pozycja": "Ś",
-    "teamId": "153612"
-  },
-  "Lehepuu, Kurni|153612": {
-    "pozycja": "Ś",
-    "teamId": "153612"
-  },
-  "Orro, Väino|153612": {
-    "pozycja": "Ś",
-    "teamId": "153612"
-  },
-  "Lyytinen, Petteri|153608": {
-    "pozycja": "O",
-    "teamId": "153608"
-  },
-  "Kokkonen, Esa-Pekka|153608": {
-    "pozycja": "O",
-    "teamId": "153608"
-  },
-  "Piirainen, Thomas|153608": {
-    "pozycja": "O",
-    "teamId": "153608"
-  },
-  "Olsson, Antti-Jussi|153608": {
-    "pozycja": "L",
-    "teamId": "153608"
-  },
-  "Niemistö, Jere|153608": {
-    "pozycja": "L",
-    "teamId": "153608"
-  },
-  "Palmu, Jaakko|153608": {
-    "pozycja": "L",
-    "teamId": "153608"
-  },
-  "Parikka, Ville|153608": {
-    "pozycja": "P",
-    "teamId": "153608"
-  },
-  "Halinen, Claes|153608": {
-    "pozycja": "P",
-    "teamId": "153608"
-  },
-  "Chydenius, Pauli|153608": {
-    "pozycja": "P",
-    "teamId": "153608"
-  },
-  "Järventie, Joosua|153608": {
-    "pozycja": "P",
-    "teamId": "153608"
-  },
-  "Pitkänen, Lauri|153608": {
-    "pozycja": "S",
-    "teamId": "153608"
-  },
-  "Geitel, Jotaarkka|153608": {
-    "pozycja": "S",
-    "teamId": "153608"
-  },
-  "Kaurismäki, Kullervo|153608": {
-    "pozycja": "Ś",
-    "teamId": "153608"
-  },
-  "Laustela, Tommi|153608": {
-    "pozycja": "Ś",
-    "teamId": "153608"
-  },
-  "Kaipainen, Cisse|153608": {
-    "pozycja": "Ś",
-    "teamId": "153608"
-  },
-  "Hämäläinen, Carl-Adam|153608": {
-    "pozycja": "Ś",
-    "teamId": "153608"
-  },
-  "Maalismaa, Ossi|153608": {
-    "pozycja": "Ś",
-    "teamId": "153608"
-  },
-  "Siimes, Petri|153608": {
-    "pozycja": "Ś",
-    "teamId": "153608"
-  },
-  "Fohn, Hinrich|153596": {
-    "pozycja": "O",
-    "teamId": "153596"
-  },
-  "Wiegel, Cornelius|153596": {
-    "pozycja": "O",
-    "teamId": "153596"
+    "teamId": "153612",
+    "playerId": "1903477",
+    "teamName": "Estonia",
+    "source": "national"
   },
   "Achat, Harald-Peter|153596": {
     "pozycja": "O",
-    "teamId": "153596"
-  },
-  "Schüßler, Siegmar|153596": {
-    "pozycja": "O",
-    "teamId": "153596"
-  },
-  "Mechernich, Herbert|153596": {
-    "pozycja": "L",
-    "teamId": "153596"
-  },
-  "Maehle, Matthias|153596": {
-    "pozycja": "L",
-    "teamId": "153596"
-  },
-  "Anrep, Marcus|153596": {
-    "pozycja": "P",
-    "teamId": "153596"
-  },
-  "Schimmer, Bernd|153596": {
-    "pozycja": "P",
-    "teamId": "153596"
-  },
-  "Ritthaler, Tino|153596": {
-    "pozycja": "P",
-    "teamId": "153596"
-  },
-  "Anders-Akinyemi, Henning|153596": {
-    "pozycja": "P",
-    "teamId": "153596"
-  },
-  "Streisand, Leopold|153596": {
-    "pozycja": "P",
-    "teamId": "153596"
-  },
-  "Steinert, Korkmaz|153596": {
-    "pozycja": "S",
-    "teamId": "153596"
-  },
-  "Ostendorff, Andreas|153596": {
-    "pozycja": "S",
-    "teamId": "153596"
-  },
-  "Anrep, Gotthelf|153596": {
-    "pozycja": "S",
-    "teamId": "153596"
-  },
-  "Tauchnitz, Götz|153596": {
-    "pozycja": "Ś",
-    "teamId": "153596"
-  },
-  "Brößler, Magnus|153596": {
-    "pozycja": "Ś",
-    "teamId": "153596"
-  },
-  "Smustern, Christoffer|153596": {
-    "pozycja": "Ś",
-    "teamId": "153596"
-  },
-  "Vuchelich, Lutz|153596": {
-    "pozycja": "Ś",
-    "teamId": "153596"
-  },
-  "Xidis, Romaleos|153605": {
-    "pozycja": "O",
-    "teamId": "153605"
-  },
-  "Tsatsarelis, Thiseas|153605": {
-    "pozycja": "O",
-    "teamId": "153605"
-  },
-  "Tsarouchitis, Elias|153605": {
-    "pozycja": "O",
-    "teamId": "153605"
-  },
-  "Kipouros, Traianos|153605": {
-    "pozycja": "L",
-    "teamId": "153605"
-  },
-  "Kapetanakis, Mimis|153605": {
-    "pozycja": "L",
-    "teamId": "153605"
-  },
-  "Taxiarhis, Apollon|153605": {
-    "pozycja": "L",
-    "teamId": "153605"
-  },
-  "Karamanis, Vlassis|153605": {
-    "pozycja": "P",
-    "teamId": "153605"
-  },
-  "Makulis, Achilleas|153605": {
-    "pozycja": "P",
-    "teamId": "153605"
-  },
-  "Antinos, Pavlos|153605": {
-    "pozycja": "P",
-    "teamId": "153605"
-  },
-  "Mathioudakis, Lykourgos|153605": {
-    "pozycja": "P",
-    "teamId": "153605"
-  },
-  "Gavras, Elias|153605": {
-    "pozycja": "P",
-    "teamId": "153605"
-  },
-  "Charoupas, Andreas|153605": {
-    "pozycja": "S",
-    "teamId": "153605"
-  },
-  "Zervos, Totis|153605": {
-    "pozycja": "S",
-    "teamId": "153605"
-  },
-  "Fotopoulos, Aggelos|153605": {
-    "pozycja": "S",
-    "teamId": "153605"
-  },
-  "Demiris, Themistoklis|153605": {
-    "pozycja": "S",
-    "teamId": "153605"
-  },
-  "Papilias, Yiotis|153605": {
-    "pozycja": "Ś",
-    "teamId": "153605"
-  },
-  "Arachovitis, Charalampos|153605": {
-    "pozycja": "Ś",
-    "teamId": "153605"
-  },
-  "Bakas, Raoul|153605": {
-    "pozycja": "Ś",
-    "teamId": "153605"
-  },
-  "Kavalekas, Orfeas|153605": {
-    "pozycja": "Ś",
-    "teamId": "153605"
-  },
-  "Mpaxevanos, Omiros|153605": {
-    "pozycja": "Ś",
-    "teamId": "153605"
-  },
-  "Nunez, Jake|153617": {
-    "pozycja": "O",
-    "teamId": "153617"
-  },
-  "Forystek, Michał|153617": {
-    "pozycja": "O",
-    "teamId": "153617"
-  },
-  "Nelson, Jessie|153617": {
-    "pozycja": "O",
-    "teamId": "153617"
-  },
-  "Quiriti, Angelo|153617": {
-    "pozycja": "O",
-    "teamId": "153617"
-  },
-  "Rivera, Scott|153617": {
-    "pozycja": "O",
-    "teamId": "153617"
-  },
-  "Altenburg, Felix|153617": {
-    "pozycja": "L",
-    "teamId": "153617"
-  },
-  "Fetto, Mattia|153617": {
-    "pozycja": "L",
-    "teamId": "153617"
-  },
-  "Avelino, Otaviano|153617": {
-    "pozycja": "P",
-    "teamId": "153617"
-  },
-  "Sofroniev, Teodor|153617": {
-    "pozycja": "P",
-    "teamId": "153617"
-  },
-  "Rolla, Miguel|153617": {
-    "pozycja": "P",
-    "teamId": "153617"
-  },
-  "Lima, Bebeto|153617": {
-    "pozycja": "P",
-    "teamId": "153617"
-  },
-  "Cristiano, Orlando|153617": {
-    "pozycja": "P",
-    "teamId": "153617"
-  },
-  "Alcouffe, Marc|153617": {
-    "pozycja": "S",
-    "teamId": "153617"
-  },
-  "Garcia, Andres|153617": {
-    "pozycja": "S",
-    "teamId": "153617"
-  },
-  "Bogalho, Demétrio|153617": {
-    "pozycja": "S",
-    "teamId": "153617"
-  },
-  "Wiesbauer, Ivan|153617": {
-    "pozycja": "Ś",
-    "teamId": "153617"
-  },
-  "de Noronha, Caio|153617": {
-    "pozycja": "Ś",
-    "teamId": "153617"
-  },
-  "Terragni, Cesarino|153617": {
-    "pozycja": "Ś",
-    "teamId": "153617"
-  },
-  "Adar, Adnan|153617": {
-    "pozycja": "Ś",
-    "teamId": "153617"
-  },
-  "Johnson, Kevin|153617": {
-    "pozycja": "Ś",
-    "teamId": "153617"
-  },
-  "Toniolo, Leone|153594": {
-    "pozycja": "O",
-    "teamId": "153594"
-  },
-  "Spompato, Piersandro|153594": {
-    "pozycja": "O",
-    "teamId": "153594"
-  },
-  "Bottazzi, Federico|153594": {
-    "pozycja": "O",
-    "teamId": "153594"
-  },
-  "Quagliotti, Fiorenzo|153594": {
-    "pozycja": "L",
-    "teamId": "153594"
-  },
-  "Versari, Gennaro|153594": {
-    "pozycja": "L",
-    "teamId": "153594"
-  },
-  "Luca, Toni|153594": {
-    "pozycja": "L",
-    "teamId": "153594"
-  },
-  "Truglio, Danilo|153594": {
-    "pozycja": "P",
-    "teamId": "153594"
-  },
-  "Tugnoli, Fiorenzo|153594": {
-    "pozycja": "P",
-    "teamId": "153594"
-  },
-  "Cristiano, Lorenzo|153594": {
-    "pozycja": "P",
-    "teamId": "153594"
-  },
-  "Tavolaro, Gigi|153594": {
-    "pozycja": "P",
-    "teamId": "153594"
-  },
-  "Galtelli, Carlo|153594": {
-    "pozycja": "P",
-    "teamId": "153594"
-  },
-  "Bisogno, Teo|153594": {
-    "pozycja": "P",
-    "teamId": "153594"
-  },
-  "Melina, Urbano|153594": {
-    "pozycja": "S",
-    "teamId": "153594"
-  },
-  "Valdinoci, Antonello|153594": {
-    "pozycja": "S",
-    "teamId": "153594"
-  },
-  "Cigala, Fabiano|153594": {
-    "pozycja": "S",
-    "teamId": "153594"
-  },
-  "Gallucci, Serafino|153594": {
-    "pozycja": "Ś",
-    "teamId": "153594"
-  },
-  "Dettori, Astolfo|153594": {
-    "pozycja": "Ś",
-    "teamId": "153594"
-  },
-  "Savio, Arcangelo|153594": {
-    "pozycja": "Ś",
-    "teamId": "153594"
-  },
-  "Spagnuolo, Sandro|153594": {
-    "pozycja": "Ś",
-    "teamId": "153594"
-  },
-  "Lusini, Astolfo|153594": {
-    "pozycja": "Ś",
-    "teamId": "153594"
-  },
-  "Hozumi, Tomoaki|153603": {
-    "pozycja": "O",
-    "teamId": "153603"
-  },
-  "Suzuki, Urara|153603": {
-    "pozycja": "O",
-    "teamId": "153603"
-  },
-  "Shirota, Shun|153603": {
-    "pozycja": "O",
-    "teamId": "153603"
-  },
-  "Shihodo, Shirô|153603": {
-    "pozycja": "L",
-    "teamId": "153603"
-  },
-  "Hamuro, Atsunori|153603": {
-    "pozycja": "L",
-    "teamId": "153603"
-  },
-  "Tomita, Junichi|153603": {
-    "pozycja": "L",
-    "teamId": "153603"
-  },
-  "Oizumi, Rokusaburo|153603": {
-    "pozycja": "P",
-    "teamId": "153603"
-  },
-  "Aikawa, Tsumasaburo|153603": {
-    "pozycja": "P",
-    "teamId": "153603"
-  },
-  "Inagaki, Tsumasaburo|153603": {
-    "pozycja": "P",
-    "teamId": "153603"
-  },
-  "Karubo, Tamasaburo|153603": {
-    "pozycja": "P",
-    "teamId": "153603"
-  },
-  "Nakadoi, Sho|153603": {
-    "pozycja": "P",
-    "teamId": "153603"
-  },
-  "Onohara, Kiiton|153603": {
-    "pozycja": "S",
-    "teamId": "153603"
-  },
-  "Bifu, Takenori|153603": {
-    "pozycja": "S",
-    "teamId": "153603"
-  },
-  "Gan, Tesshô|153603": {
-    "pozycja": "S",
-    "teamId": "153603"
-  },
-  "Yasui, Takashi|153603": {
-    "pozycja": "Ś",
-    "teamId": "153603"
-  },
-  "Miyazaki, Kôjiro|153603": {
-    "pozycja": "Ś",
-    "teamId": "153603"
-  },
-  "Mochizuki, Yuuharu|153603": {
-    "pozycja": "Ś",
-    "teamId": "153603"
-  },
-  "Tôchika, Kazuhisa|153603": {
-    "pozycja": "Ś",
-    "teamId": "153603"
-  },
-  "Mimura, Ryoji|153603": {
-    "pozycja": "Ś",
-    "teamId": "153603"
-  },
-  "Kazama, Ginzô|153603": {
-    "pozycja": "Ś",
-    "teamId": "153603"
-  },
-  "Hartland, Rijk|153600": {
-    "pozycja": "O",
-    "teamId": "153600"
-  },
-  "Plasterk, Jernst|153600": {
-    "pozycja": "O",
-    "teamId": "153600"
-  },
-  "Drent, Robertus|153600": {
-    "pozycja": "O",
-    "teamId": "153600"
-  },
-  "Rabbering, Boy|153600": {
-    "pozycja": "L",
-    "teamId": "153600"
-  },
-  "Poeder, Lou|153600": {
-    "pozycja": "L",
-    "teamId": "153600"
-  },
-  "Schrijver, Nout|153600": {
-    "pozycja": "P",
-    "teamId": "153600"
-  },
-  "Brunner, Matthias|153600": {
-    "pozycja": "P",
-    "teamId": "153600"
-  },
-  "Atik, Harm|153600": {
-    "pozycja": "P",
-    "teamId": "153600"
-  },
-  "Admiraal, Willem|153600": {
-    "pozycja": "P",
-    "teamId": "153600"
-  },
-  "Admiraal, Gosse|153600": {
-    "pozycja": "P",
-    "teamId": "153600"
-  },
-  "van Enckhuyzen, Olly|153600": {
-    "pozycja": "P",
-    "teamId": "153600"
-  },
-  "Aerts, Jari|153600": {
-    "pozycja": "S",
-    "teamId": "153600"
-  },
-  "Goncalves, Boudewijn|153600": {
-    "pozycja": "S",
-    "teamId": "153600"
-  },
-  "Bont, Cor|153600": {
-    "pozycja": "Ś",
-    "teamId": "153600"
-  },
-  "Ligtvoet, Dominique|153600": {
-    "pozycja": "Ś",
-    "teamId": "153600"
-  },
-  "Salden, Lukas|153600": {
-    "pozycja": "Ś",
-    "teamId": "153600"
-  },
-  "Hoogzaad, Jules|153600": {
-    "pozycja": "Ś",
-    "teamId": "153600"
-  },
-  "Seunke, Tygo|153600": {
-    "pozycja": "Ś",
-    "teamId": "153600"
-  },
-  "Nagtglas, Winfried|153600": {
-    "pozycja": "Ś",
-    "teamId": "153600"
-  },
-  "Westenend, Arjen|153600": {
-    "pozycja": "Ś",
-    "teamId": "153600"
-  },
-  "Gnaś, Rafał|153593": {
-    "pozycja": "O",
-    "teamId": "153593"
-  },
-  "Siedlecki, Mikołaj|153593": {
-    "pozycja": "O",
-    "teamId": "153593"
-  },
-  "Majcher, Michał|153593": {
-    "pozycja": "O",
-    "teamId": "153593"
-  },
-  "Pękala, Robert|153593": {
-    "pozycja": "L",
-    "teamId": "153593"
-  },
-  "Szóstek, Tomasz|153593": {
-    "pozycja": "L",
-    "teamId": "153593"
-  },
-  "Jakubik, Stanisław|153593": {
-    "pozycja": "P",
-    "teamId": "153593"
-  },
-  "Kozłowski, Zbigniew|153593": {
-    "pozycja": "P",
-    "teamId": "153593"
-  },
-  "Okoński, Jan|153593": {
-    "pozycja": "P",
-    "teamId": "153593"
-  },
-  "Grabowski, Jarosław|153593": {
-    "pozycja": "P",
-    "teamId": "153593"
-  },
-  "Konieczny, Marcin|153593": {
-    "pozycja": "P",
-    "teamId": "153593"
-  },
-  "Szymański, Olaf|153593": {
-    "pozycja": "S",
-    "teamId": "153593"
-  },
-  "Górski, Wojciech|153593": {
-    "pozycja": "S",
-    "teamId": "153593"
-  },
-  "Boczula, Krzysztof|153593": {
-    "pozycja": "Ś",
-    "teamId": "153593"
-  },
-  "Biegański, Adam|153593": {
-    "pozycja": "Ś",
-    "teamId": "153593"
-  },
-  "Hudziak, Sławomir|153593": {
-    "pozycja": "Ś",
-    "teamId": "153593"
-  },
-  "Łukaszewski, Łukasz|153593": {
-    "pozycja": "Ś",
-    "teamId": "153593"
-  },
-  "Czudaj, Bartosz|153593": {
-    "pozycja": "Ś",
-    "teamId": "153593"
-  },
-  "Murawski, Bartosz|153593": {
-    "pozycja": "Ś",
-    "teamId": "153593"
-  },
-  "Guarnieri, Tó|153613": {
-    "pozycja": "O",
-    "teamId": "153613"
-  },
-  "Salazar, Aldonio|153613": {
-    "pozycja": "O",
-    "teamId": "153613"
-  },
-  "Catão, Bruno|153613": {
-    "pozycja": "O",
-    "teamId": "153613"
-  },
-  "Fraga, Robles|153613": {
-    "pozycja": "L",
-    "teamId": "153613"
-  },
-  "Capeletti, Diamantino|153613": {
-    "pozycja": "L",
-    "teamId": "153613"
-  },
-  "Amaral, Altino|153613": {
-    "pozycja": "L",
-    "teamId": "153613"
-  },
-  "Miranda, Nicolau|153613": {
-    "pozycja": "P",
-    "teamId": "153613"
-  },
-  "Garcia, Patrick|153613": {
-    "pozycja": "P",
-    "teamId": "153613"
-  },
-  "Espinhel, Adriano|153613": {
-    "pozycja": "P",
-    "teamId": "153613"
-  },
-  "Lanhoso, António|153613": {
-    "pozycja": "P",
-    "teamId": "153613"
-  },
-  "Bernardo, Luciano|153613": {
-    "pozycja": "P",
-    "teamId": "153613"
-  },
-  "Isidro, Ildeberto|153613": {
-    "pozycja": "P",
-    "teamId": "153613"
-  },
-  "Cerqueira, Gerardo|153613": {
-    "pozycja": "P",
-    "teamId": "153613"
-  },
-  "Ferrobeira, Sandro|153613": {
-    "pozycja": "S",
-    "teamId": "153613"
-  },
-  "Idanha, Gregório|153613": {
-    "pozycja": "S",
-    "teamId": "153613"
-  },
-  "de Almeida, Salvador|153613": {
-    "pozycja": "S",
-    "teamId": "153613"
-  },
-  "Brilhante, Nuno|153613": {
-    "pozycja": "Ś",
-    "teamId": "153613"
-  },
-  "Gusmão, Aventino|153613": {
-    "pozycja": "Ś",
-    "teamId": "153613"
-  },
-  "Redondo, André|153613": {
-    "pozycja": "Ś",
-    "teamId": "153613"
-  },
-  "Abecassis, Lino|153613": {
-    "pozycja": "Ś",
-    "teamId": "153613"
-  },
-  "Lupei, Aurel|153619": {
-    "pozycja": "O",
-    "teamId": "153619"
-  },
-  "Venter, Octavian|153619": {
-    "pozycja": "O",
-    "teamId": "153619"
-  },
-  "Stanca, Iorghu|153619": {
-    "pozycja": "O",
-    "teamId": "153619"
-  },
-  "Piscanu, Constantin|153619": {
-    "pozycja": "O",
-    "teamId": "153619"
-  },
-  "Lemnaru, Christian|153619": {
-    "pozycja": "L",
-    "teamId": "153619"
-  },
-  "Albescu, Valentini|153619": {
-    "pozycja": "L",
-    "teamId": "153619"
-  },
-  "Beta, Laurentiu|153619": {
-    "pozycja": "P",
-    "teamId": "153619"
-  },
-  "Nitu, Iancu|153619": {
-    "pozycja": "P",
-    "teamId": "153619"
-  },
-  "Raiciu, Fane|153619": {
-    "pozycja": "P",
-    "teamId": "153619"
-  },
-  "Lirca, Liviu|153619": {
-    "pozycja": "P",
-    "teamId": "153619"
-  },
-  "Grozav, Stelian|153619": {
-    "pozycja": "P",
-    "teamId": "153619"
-  },
-  "Dimitreiescu, Neculai|153619": {
-    "pozycja": "P",
-    "teamId": "153619"
-  },
-  "Mutu, Marku|153619": {
-    "pozycja": "S",
-    "teamId": "153619"
-  },
-  "Latovlevici, Dracul|153619": {
-    "pozycja": "S",
-    "teamId": "153619"
-  },
-  "Mamele, Ludovic|153619": {
-    "pozycja": "S",
-    "teamId": "153619"
-  },
-  "Anghelina, Constantin|153619": {
-    "pozycja": "Ś",
-    "teamId": "153619"
-  },
-  "Tamas, Ludovic|153619": {
-    "pozycja": "Ś",
-    "teamId": "153619"
-  },
-  "Rada, Andrei|153619": {
-    "pozycja": "Ś",
-    "teamId": "153619"
-  },
-  "Grumezescu, Henri|153619": {
-    "pozycja": "Ś",
-    "teamId": "153619"
-  },
-  "Iorga, Anton|153619": {
-    "pozycja": "Ś",
-    "teamId": "153619"
-  },
-  "Srbović, Čedomir|153604": {
-    "pozycja": "O",
-    "teamId": "153604"
-  },
-  "Damjanović, Stanislav|153604": {
-    "pozycja": "O",
-    "teamId": "153604"
-  },
-  "Stavrović, Bojan|153604": {
-    "pozycja": "L",
-    "teamId": "153604"
-  },
-  "Rakić, Srdjan|153604": {
-    "pozycja": "L",
-    "teamId": "153604"
-  },
-  "Milovanović, Dejan|153604": {
-    "pozycja": "P",
-    "teamId": "153604"
-  },
-  "Popović, Dimitrije|153604": {
-    "pozycja": "P",
-    "teamId": "153604"
-  },
-  "Pavlović, Veselin|153604": {
-    "pozycja": "P",
-    "teamId": "153604"
-  },
-  "Tošković, Aleksandar|153604": {
-    "pozycja": "P",
-    "teamId": "153604"
-  },
-  "Tadić, Zoran|153604": {
-    "pozycja": "P",
-    "teamId": "153604"
-  },
-  "Vulić, Dragoslav|153604": {
-    "pozycja": "P",
-    "teamId": "153604"
-  },
-  "Jovičić, Slavko|153604": {
-    "pozycja": "S",
-    "teamId": "153604"
-  },
-  "Smiljanić, Darko|153604": {
-    "pozycja": "S",
-    "teamId": "153604"
-  },
-  "Gvozdenović, Andrija|153604": {
-    "pozycja": "S",
-    "teamId": "153604"
-  },
-  "Bosić, Vuk|153604": {
-    "pozycja": "Ś",
-    "teamId": "153604"
-  },
-  "Mladić, Milutin|153604": {
-    "pozycja": "Ś",
-    "teamId": "153604"
-  },
-  "Vukašinović, Bojan|153604": {
-    "pozycja": "Ś",
-    "teamId": "153604"
-  },
-  "Ranisavljević, Marko|153604": {
-    "pozycja": "Ś",
-    "teamId": "153604"
-  },
-  "Kolacić, Žarko|153604": {
-    "pozycja": "Ś",
-    "teamId": "153604"
-  },
-  "Mečiar, Gašpar|153615": {
-    "pozycja": "O",
-    "teamId": "153615"
-  },
-  "Fabuš, Radoslav|153615": {
-    "pozycja": "O",
-    "teamId": "153615"
-  },
-  "Ďumbala, Ľudovít|153615": {
-    "pozycja": "O",
-    "teamId": "153615"
-  },
-  "Švikruha, Miroslav|153615": {
-    "pozycja": "L",
-    "teamId": "153615"
-  },
-  "Bumbák, Milan|153615": {
-    "pozycja": "L",
-    "teamId": "153615"
-  },
-  "Bahúl, Ferdinand|153615": {
-    "pozycja": "P",
-    "teamId": "153615"
-  },
-  "Dubašák, Bohdan|153615": {
-    "pozycja": "P",
-    "teamId": "153615"
-  },
-  "Svorník, Ladislav|153615": {
-    "pozycja": "P",
-    "teamId": "153615"
-  },
-  "Uherík, Leonard|153615": {
-    "pozycja": "P",
-    "teamId": "153615"
-  },
-  "Vatra, Kornel|153615": {
-    "pozycja": "S",
-    "teamId": "153615"
-  },
-  "Ďurica, László|153615": {
-    "pozycja": "Ś",
-    "teamId": "153615"
-  },
-  "Darvas, Palo|153615": {
-    "pozycja": "Ś",
-    "teamId": "153615"
-  },
-  "Penksa, Gejza|153615": {
-    "pozycja": "Ś",
-    "teamId": "153615"
-  },
-  "Štohl, Boris|153615": {
-    "pozycja": "Ś",
-    "teamId": "153615"
-  },
-  "Griflík, Olivér|153615": {
-    "pozycja": "Ś",
-    "teamId": "153615"
-  },
-  "Mihočko, Bruno|153615": {
-    "pozycja": "Ś",
-    "teamId": "153615"
-  },
-  "Kocic, Dimitrij|153620": {
-    "pozycja": "O",
-    "teamId": "153620"
-  },
-  "Cestnik, Tom|153620": {
-    "pozycja": "O",
-    "teamId": "153620"
-  },
-  "Šuler, Damjan|153620": {
-    "pozycja": "O",
-    "teamId": "153620"
-  },
-  "Radan, Primož|153620": {
-    "pozycja": "L",
-    "teamId": "153620"
-  },
-  "Jelar, Tom|153620": {
-    "pozycja": "L",
-    "teamId": "153620"
-  },
-  "Codromaž, Leo|153620": {
-    "pozycja": "L",
-    "teamId": "153620"
-  },
-  "Flajs, Domen|153620": {
-    "pozycja": "P",
-    "teamId": "153620"
-  },
-  "Gobec, Matevž|153620": {
-    "pozycja": "P",
-    "teamId": "153620"
-  },
-  "Blažić, Cvetko|153620": {
-    "pozycja": "P",
-    "teamId": "153620"
-  },
-  "Gobec, Tom|153620": {
-    "pozycja": "P",
-    "teamId": "153620"
-  },
-  "Zorc, Mario|153620": {
-    "pozycja": "S",
-    "teamId": "153620"
-  },
-  "Kovjenič, Lovro|153620": {
-    "pozycja": "S",
-    "teamId": "153620"
-  },
-  "Šmrtnik, Danijel|153620": {
-    "pozycja": "Ś",
-    "teamId": "153620"
-  },
-  "Zorc, Tonček|153620": {
-    "pozycja": "Ś",
-    "teamId": "153620"
-  },
-  "Murko, Nikola|153620": {
-    "pozycja": "Ś",
-    "teamId": "153620"
-  },
-  "Žurej, Klemen|153620": {
-    "pozycja": "Ś",
-    "teamId": "153620"
-  },
-  "Crnčić, Franjo|153620": {
-    "pozycja": "Ś",
-    "teamId": "153620"
-  },
-  "Gimeno, Albino|153598": {
-    "pozycja": "O",
-    "teamId": "153598"
-  },
-  "Soler, Teo|153598": {
-    "pozycja": "O",
-    "teamId": "153598"
-  },
-  "Cardell, Iván|153598": {
-    "pozycja": "O",
-    "teamId": "153598"
-  },
-  "Nájera, Carles|153598": {
-    "pozycja": "L",
-    "teamId": "153598"
-  },
-  "Espinosa, Ignacio|153598": {
-    "pozycja": "L",
-    "teamId": "153598"
-  },
-  "Falceto, Xurxo|153598": {
-    "pozycja": "L",
-    "teamId": "153598"
-  },
-  "Longueira, Oscar|153598": {
-    "pozycja": "P",
-    "teamId": "153598"
-  },
-  "Muñoz, Lolo|153598": {
-    "pozycja": "P",
-    "teamId": "153598"
-  },
-  "Pajares, Ioritz|153598": {
-    "pozycja": "P",
-    "teamId": "153598"
-  },
-  "Marola, Samuel|153598": {
-    "pozycja": "P",
-    "teamId": "153598"
-  },
-  "Ferrandis, Constantino|153598": {
-    "pozycja": "P",
-    "teamId": "153598"
-  },
-  "Argenté, Gonzalo|153598": {
-    "pozycja": "S",
-    "teamId": "153598"
-  },
-  "Coaña, Roberto|153598": {
-    "pozycja": "S",
-    "teamId": "153598"
-  },
-  "Téllez, Guillermo|153598": {
-    "pozycja": "S",
-    "teamId": "153598"
-  },
-  "Jauregui, Fernando|153598": {
-    "pozycja": "Ś",
-    "teamId": "153598"
-  },
-  "Teixidó, Enrique|153598": {
-    "pozycja": "Ś",
-    "teamId": "153598"
-  },
-  "Hilla, Tarsaci|153598": {
-    "pozycja": "Ś",
-    "teamId": "153598"
-  },
-  "Toledano, Robustiano|153598": {
-    "pozycja": "Ś",
-    "teamId": "153598"
-  },
-  "Aguado, Sancho|153598": {
-    "pozycja": "Ś",
-    "teamId": "153598"
-  },
-  "Banu, Evrim|153611": {
-    "pozycja": "O",
-    "teamId": "153611"
-  },
-  "Örsan, Ayberk|153611": {
-    "pozycja": "O",
-    "teamId": "153611"
-  },
-  "Aykut, Baykal|153611": {
-    "pozycja": "O",
-    "teamId": "153611"
-  },
-  "Hürrem, Veli|153611": {
-    "pozycja": "L",
-    "teamId": "153611"
-  },
-  "Ayşenur, Ilhami|153611": {
-    "pozycja": "L",
-    "teamId": "153611"
-  },
-  "Olcay, Baran|153611": {
-    "pozycja": "L",
-    "teamId": "153611"
-  },
-  "Asel, Aslan|153611": {
-    "pozycja": "L",
-    "teamId": "153611"
-  },
-  "Arya, Tufan|153611": {
-    "pozycja": "P",
-    "teamId": "153611"
-  },
-  "Görke, Alkan|153611": {
-    "pozycja": "P",
-    "teamId": "153611"
-  },
-  "Pelıt, Aras|153611": {
-    "pozycja": "P",
-    "teamId": "153611"
-  },
-  "Uluğ, Rıdvan|153611": {
-    "pozycja": "P",
-    "teamId": "153611"
-  },
-  "Çağlayan, Olcayto|153611": {
-    "pozycja": "P",
-    "teamId": "153611"
-  },
-  "Benek, Şahin|153611": {
-    "pozycja": "S",
-    "teamId": "153611"
-  },
-  "Yücel, Gökben|153611": {
-    "pozycja": "S",
-    "teamId": "153611"
-  },
-  "Hamı, Erkut|153611": {
-    "pozycja": "Ś",
-    "teamId": "153611"
-  },
-  "Işil, Semih|153611": {
-    "pozycja": "Ś",
-    "teamId": "153611"
-  },
-  "Furkan, Devrim|153611": {
-    "pozycja": "Ś",
-    "teamId": "153611"
-  },
-  "Önay, Furkan|153611": {
-    "pozycja": "Ś",
-    "teamId": "153611"
-  },
-  "Ümıt, Alpkan|153611": {
-    "pozycja": "Ś",
-    "teamId": "153611"
-  },
-  "Asuela, Öner|153611": {
-    "pozycja": "Ś",
-    "teamId": "153611"
+    "teamId": "153596",
+    "playerId": "1928034",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Acosta, Riccardo|153602": {
+    "pozycja": "Ś",
+    "teamId": "153602",
+    "playerId": "1905290",
+    "teamName": "Argentina",
+    "source": "national"
   },
   "Adams, Mike|153597": {
     "pozycja": "O",
-    "teamId": "153597"
+    "teamId": "153597",
+    "playerId": "2003854",
+    "teamName": "USA",
+    "source": "national"
   },
-  "Soto, Beau|153597": {
-    "pozycja": "O",
-    "teamId": "153597"
+  "Adar, Adnan|153617": {
+    "pozycja": "Ś",
+    "teamId": "153617",
+    "playerId": "1928286",
+    "teamName": "International",
+    "source": "national"
   },
-  "Hurtt, Zach|153597": {
-    "pozycja": "O",
-    "teamId": "153597"
+  "Admiraal, Gosse|153600": {
+    "pozycja": "P",
+    "teamId": "153600",
+    "playerId": "1904528",
+    "teamName": "Netherlands",
+    "source": "national"
   },
-  "Rocchio, Pete|153597": {
+  "Admiraal, Willem|153600": {
+    "pozycja": "P",
+    "teamId": "153600",
+    "playerId": "1950382",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Aerts, Jari|153600": {
+    "pozycja": "S",
+    "teamId": "153600",
+    "playerId": "1905338",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Aguado, Sancho|153598": {
+    "pozycja": "Ś",
+    "teamId": "153598",
+    "playerId": "1927752",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Aikawa, Tsumasaburo|153603": {
+    "pozycja": "P",
+    "teamId": "153603",
+    "playerId": "1865254",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Alac, Matija|153609": {
+    "pozycja": "Ś",
+    "teamId": "153609",
+    "playerId": "2032878",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Albescu, Valentini|153619": {
     "pozycja": "L",
-    "teamId": "153597"
+    "teamId": "153619",
+    "playerId": "1975521",
+    "teamName": "Romania",
+    "source": "national"
   },
-  "Bullard, Ryan|153597": {
+  "Alcouffe, Marc|153617": {
+    "pozycja": "S",
+    "teamId": "153617",
+    "playerId": "1927264",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Alfano, Juan|153602": {
+    "pozycja": "S",
+    "teamId": "153602",
+    "playerId": "1928886",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Altenburg, Felix|153617": {
     "pozycja": "L",
-    "teamId": "153597"
+    "teamId": "153617",
+    "playerId": "1928597",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Altera, Néstor|153602": {
+    "pozycja": "O",
+    "teamId": "153602",
+    "playerId": "1905302",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Amaral, Altino|153613": {
+    "pozycja": "L",
+    "teamId": "153613",
+    "playerId": "1950801",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Anchieta, Diego|153601": {
+    "pozycja": "Ś",
+    "teamId": "153601",
+    "playerId": "1928692",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Anders-Akinyemi, Henning|153596": {
+    "pozycja": "P",
+    "teamId": "153596",
+    "playerId": "1927483",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Anghelina, Constantin|153619": {
+    "pozycja": "Ś",
+    "teamId": "153619",
+    "playerId": "1950550",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Anocic, Vlado|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "1928550",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Anrep, Gotthelf|153596": {
+    "pozycja": "S",
+    "teamId": "153596",
+    "playerId": "1864864",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Anrep, Marcus|153596": {
+    "pozycja": "P",
+    "teamId": "153596",
+    "playerId": "1745069",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Antinos, Pavlos|153605": {
+    "pozycja": "P",
+    "teamId": "153605",
+    "playerId": "1929307",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Arachovitis, Charalampos|153605": {
+    "pozycja": "Ś",
+    "teamId": "153605",
+    "playerId": "1950921",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Argenté, Gonzalo|153598": {
+    "pozycja": "S",
+    "teamId": "153598",
+    "playerId": "1928421",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Arnould, Luc-Henri|153595": {
+    "pozycja": "P",
+    "teamId": "153595",
+    "playerId": "1975577",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Arya, Tufan|153611": {
+    "pozycja": "P",
+    "teamId": "153611",
+    "playerId": "1904942",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Asel, Aslan|153611": {
+    "pozycja": "L",
+    "teamId": "153611",
+    "playerId": "1950848",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Ashton, Jacob|153614": {
+    "pozycja": "Ś",
+    "teamId": "153614",
+    "playerId": "1929135",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Asuela, Öner|153611": {
+    "pozycja": "Ś",
+    "teamId": "153611",
+    "playerId": "1725106",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Atik, Harm|153600": {
+    "pozycja": "P",
+    "teamId": "153600",
+    "playerId": "1949134",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Avelino, Otaviano|153617": {
+    "pozycja": "P",
+    "teamId": "153617",
+    "playerId": "2004097",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Avramov, Georgi|153599": {
+    "pozycja": "P",
+    "teamId": "153599",
+    "playerId": "1928845",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Aykut, Baykal|153611": {
+    "pozycja": "O",
+    "teamId": "153611",
+    "playerId": "1948952",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Babic, Svebor|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "2002291",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Baeta, Joel|153601": {
+    "pozycja": "Ś",
+    "teamId": "153601",
+    "playerId": "1725025",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Bahúl, Ferdinand|153615": {
+    "pozycja": "P",
+    "teamId": "153615",
+    "playerId": "1904880",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Bakas, Raoul|153605": {
+    "pozycja": "Ś",
+    "teamId": "153605",
+    "playerId": "1950699",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Balkanski, Pavlin|153599": {
+    "pozycja": "P",
+    "teamId": "153599",
+    "playerId": "1928985",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Banu, Evrim|153611": {
+    "pozycja": "O",
+    "teamId": "153611",
+    "playerId": "1904325",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Bardon, Jean|153595": {
+    "pozycja": "P",
+    "teamId": "153595",
+    "playerId": "1927875",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Baudet, Sébastien|153595": {
+    "pozycja": "S",
+    "teamId": "153595",
+    "playerId": "1905864",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Beaudoin, Pascal|153595": {
+    "pozycja": "P",
+    "teamId": "153595",
+    "playerId": "1949784",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Bekić, Sanjin|153618": {
+    "pozycja": "Ś",
+    "teamId": "153618",
+    "playerId": "1928065",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Belkin, Villu|153612": {
+    "pozycja": "Ś",
+    "teamId": "153612",
+    "playerId": "1949043",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Benek, Şahin|153611": {
+    "pozycja": "S",
+    "teamId": "153611",
+    "playerId": "1709974",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Bergers, Spencer|153610": {
+    "pozycja": "Ś",
+    "teamId": "153610",
+    "playerId": "2003360",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Bernardo, Luciano|153613": {
+    "pozycja": "P",
+    "teamId": "153613",
+    "playerId": "1903984",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Beta, Laurentiu|153619": {
+    "pozycja": "P",
+    "teamId": "153619",
+    "playerId": "1974478",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Bettelheim, Gerald|153607": {
+    "pozycja": "O",
+    "teamId": "153607",
+    "playerId": "1929560",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Biegański, Adam|153593": {
+    "pozycja": "Ś",
+    "teamId": "153593",
+    "playerId": "1928039",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Bifu, Takenori|153603": {
+    "pozycja": "S",
+    "teamId": "153603",
+    "playerId": "1865491",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Bisogno, Teo|153594": {
+    "pozycja": "P",
+    "teamId": "153594",
+    "playerId": "1926932",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Blanchard, Ludovic|153595": {
+    "pozycja": "Ś",
+    "teamId": "153595",
+    "playerId": "1904898",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Blazek, Zdislav|153606": {
+    "pozycja": "O",
+    "teamId": "153606",
+    "playerId": "1767943",
+    "teamName": "Czech Republic",
+    "source": "national"
+  },
+  "Blažić, Cvetko|153620": {
+    "pozycja": "P",
+    "teamId": "153620",
+    "playerId": "1927365",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Boczula, Krzysztof|153593": {
+    "pozycja": "Ś",
+    "teamId": "153593",
+    "playerId": "1904982",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Bogalho, Demétrio|153617": {
+    "pozycja": "S",
+    "teamId": "153617",
+    "playerId": "1767798",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Bont, Cor|153600": {
+    "pozycja": "Ś",
+    "teamId": "153600",
+    "playerId": "1950744",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Bosić, Vuk|153604": {
+    "pozycja": "Ś",
+    "teamId": "153604",
+    "playerId": "1951288",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Bottazzi, Federico|153594": {
+    "pozycja": "O",
+    "teamId": "153594",
+    "playerId": "1928235",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Bozhilov, Elin|153599": {
+    "pozycja": "Ś",
+    "teamId": "153599",
+    "playerId": "2060106",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Božovský, Eduard|153606": {
+    "pozycja": "P",
+    "teamId": "153606",
+    "playerId": "1865187",
+    "teamName": "Czech Republic",
+    "source": "national"
   },
   "Brenneman, Kristopher|153597": {
     "pozycja": "L",
-    "teamId": "153597"
+    "teamId": "153597",
+    "playerId": "1950325",
+    "teamName": "USA",
+    "source": "national"
   },
-  "Malloy, Shad|153597": {
-    "pozycja": "P",
-    "teamId": "153597"
-  },
-  "White, Alex|153597": {
-    "pozycja": "P",
-    "teamId": "153597"
-  },
-  "Terrell, Seth|153597": {
-    "pozycja": "P",
-    "teamId": "153597"
-  },
-  "Silva, Mike|153597": {
-    "pozycja": "P",
-    "teamId": "153597"
-  },
-  "Freed, Donald|153597": {
-    "pozycja": "P",
-    "teamId": "153597"
-  },
-  "Hansell, Noel|153597": {
-    "pozycja": "S",
-    "teamId": "153597"
-  },
-  "Guy, Jon|153597": {
-    "pozycja": "S",
-    "teamId": "153597"
-  },
-  "Holguin, Calvin|153597": {
-    "pozycja": "S",
-    "teamId": "153597"
-  },
-  "Noble, Trevor|153597": {
+  "Brilhante, Nuno|153613": {
     "pozycja": "Ś",
-    "teamId": "153597"
+    "teamId": "153613",
+    "playerId": "1949892",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Brößler, Magnus|153596": {
+    "pozycja": "Ś",
+    "teamId": "153596",
+    "playerId": "1904598",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Brunner, Matthias|153600": {
+    "pozycja": "P",
+    "teamId": "153600",
+    "playerId": "2002548",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Brunner, Robert|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "2060654",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Buchinger, Benedikt|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "1950847",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Budimir, Ognjen|153618": {
+    "pozycja": "P",
+    "teamId": "153618",
+    "playerId": "1949870",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Bullard, Ryan|153597": {
+    "pozycja": "L",
+    "teamId": "153597",
+    "playerId": "1975164",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Bumbák, Milan|153615": {
+    "pozycja": "L",
+    "teamId": "153615",
+    "playerId": "2004237",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Búrzashki, Ivan|153599": {
+    "pozycja": "L",
+    "teamId": "153599",
+    "playerId": "1681826",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Çağlayan, Olcayto|153611": {
+    "pozycja": "P",
+    "teamId": "153611",
+    "playerId": "1950434",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Cammell, Peter|153614": {
+    "pozycja": "O",
+    "teamId": "153614",
+    "playerId": "1949740",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Campello, Cristian|153601": {
+    "pozycja": "P",
+    "teamId": "153601",
+    "playerId": "1709575",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Campello, Wanderson|153601": {
+    "pozycja": "P",
+    "teamId": "153601",
+    "playerId": "1927955",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Canuto, Alberto|153601": {
+    "pozycja": "O",
+    "teamId": "153601",
+    "playerId": "1685989",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Capeletti, Diamantino|153613": {
+    "pozycja": "L",
+    "teamId": "153613",
+    "playerId": "1745330",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Cardell, Iván|153598": {
+    "pozycja": "O",
+    "teamId": "153598",
+    "playerId": "1975616",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Carnaghi, Fabrizio|153602": {
+    "pozycja": "P",
+    "teamId": "153602",
+    "playerId": "1949008",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Carvalho, Juan|153601": {
+    "pozycja": "L",
+    "teamId": "153601",
+    "playerId": "1929014",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Castant, Gabriel|153595": {
+    "pozycja": "P",
+    "teamId": "153595",
+    "playerId": "1950874",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Castex, Yves|153595": {
+    "pozycja": "L",
+    "teamId": "153595",
+    "playerId": "1951360",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Catão, Bruno|153613": {
+    "pozycja": "O",
+    "teamId": "153613",
+    "playerId": "1949867",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Cerqueira, Gerardo|153613": {
+    "pozycja": "P",
+    "teamId": "153613",
+    "playerId": "1974673",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Cestnik, Tom|153620": {
+    "pozycja": "O",
+    "teamId": "153620",
+    "playerId": "2059908",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Changkai, Dai|153616": {
+    "pozycja": "S",
+    "teamId": "153616",
+    "playerId": "1949528",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Charoupas, Andreas|153605": {
+    "pozycja": "S",
+    "teamId": "153605",
+    "playerId": "1976327",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Chernichenko, Rolf|153612": {
+    "pozycja": "P",
+    "teamId": "153612",
+    "playerId": "1929602",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Chufang, Keyi|153616": {
+    "pozycja": "P",
+    "teamId": "153616",
+    "playerId": "1951006",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Chunxian, Hu|153616": {
+    "pozycja": "P",
+    "teamId": "153616",
+    "playerId": "1927728",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Church, Bob|153614": {
+    "pozycja": "L",
+    "teamId": "153614",
+    "playerId": "1904391",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Chydenius, Pauli|153608": {
+    "pozycja": "P",
+    "teamId": "153608",
+    "playerId": "2032822",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Cigala, Fabiano|153594": {
+    "pozycja": "S",
+    "teamId": "153594",
+    "playerId": "1864573",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Coaña, Roberto|153598": {
+    "pozycja": "S",
+    "teamId": "153598",
+    "playerId": "1926930",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Codromaž, Leo|153620": {
+    "pozycja": "L",
+    "teamId": "153620",
+    "playerId": "1950308",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Cosentino, Palito|153602": {
+    "pozycja": "P",
+    "teamId": "153602",
+    "playerId": "1976080",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Cristiano, Lorenzo|153594": {
+    "pozycja": "P",
+    "teamId": "153594",
+    "playerId": "1949098",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Cristiano, Orlando|153617": {
+    "pozycja": "P",
+    "teamId": "153617",
+    "playerId": "1864479",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Crnčić, Franjo|153620": {
+    "pozycja": "Ś",
+    "teamId": "153620",
+    "playerId": "2088133",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Cromer, Matthäus|153607": {
+    "pozycja": "O",
+    "teamId": "153607",
+    "playerId": "1975877",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Czudaj, Bartosz|153593": {
+    "pozycja": "Ś",
+    "teamId": "153593",
+    "playerId": "1864912",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Dalay, Gökberk|153611": {
+    "pozycja": "L",
+    "teamId": "153611",
+    "playerId": "1975177",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Damjanović, Stanislav|153604": {
+    "pozycja": "O",
+    "teamId": "153604",
+    "playerId": "1976054",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Daniel, Giuseppino|153602": {
+    "pozycja": "Ś",
+    "teamId": "153602",
+    "playerId": "1905671",
+    "teamName": "Argentina",
+    "source": "national"
   },
   "Davis, Grady|153597": {
     "pozycja": "Ś",
-    "teamId": "153597"
+    "teamId": "153597",
+    "playerId": "1928798",
+    "teamName": "USA",
+    "source": "national"
   },
-  "Glenn, Michael|153597": {
-    "pozycja": "Ś",
-    "teamId": "153597"
+  "de Almeida, Salvador|153613": {
+    "pozycja": "S",
+    "teamId": "153613",
+    "playerId": "1927210",
+    "teamName": "Portugal",
+    "source": "national"
   },
-  "Spencer, Tony|153597": {
-    "pozycja": "Ś",
-    "teamId": "153597"
+  "De Martínez, Héctor|153602": {
+    "pozycja": "L",
+    "teamId": "153602",
+    "playerId": "1905039",
+    "teamName": "Argentina",
+    "source": "national"
   },
-  "Larsen, Dan|153597": {
+  "de Noronha, Caio|153617": {
     "pozycja": "Ś",
-    "teamId": "153597"
+    "teamId": "153617",
+    "playerId": "1905703",
+    "teamName": "International",
+    "source": "national"
+  },
+  "de Sax, Alexei|153610": {
+    "pozycja": "Ś",
+    "teamId": "153610",
+    "playerId": "1928337",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Dedić, Belmin|153618": {
+    "pozycja": "S",
+    "teamId": "153618",
+    "playerId": "1904644",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Del Boca, Abel|153602": {
+    "pozycja": "P",
+    "teamId": "153602",
+    "playerId": "1904212",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Demiris, Themistoklis|153605": {
+    "pozycja": "S",
+    "teamId": "153605",
+    "playerId": "2032351",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Dettori, Astolfo|153594": {
+    "pozycja": "Ś",
+    "teamId": "153594",
+    "playerId": "1904825",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Di Gregorio, Orestes|153602": {
+    "pozycja": "L",
+    "teamId": "153602",
+    "playerId": "1948934",
+    "teamName": "Argentina",
+    "source": "national"
   },
   "Dick, Rafael|153597": {
     "pozycja": "Ś",
-    "teamId": "153597"
+    "teamId": "153597",
+    "playerId": "1865788",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Diković, Benjamin|153609": {
+    "pozycja": "O",
+    "teamId": "153609",
+    "playerId": "2003060",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Diković, Izidor|153609": {
+    "pozycja": "O",
+    "teamId": "153609",
+    "playerId": "2060111",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Dimitreiescu, Neculai|153619": {
+    "pozycja": "P",
+    "teamId": "153619",
+    "playerId": "1903511",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Djurdjić, Mahir|153618": {
+    "pozycja": "L",
+    "teamId": "153618",
+    "playerId": "1927366",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Dochkov, Kiril|153599": {
+    "pozycja": "L",
+    "teamId": "153599",
+    "playerId": "1928347",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "dos Reis, Anderson|153601": {
+    "pozycja": "Ś",
+    "teamId": "153601",
+    "playerId": "1928848",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Drent, Robertus|153600": {
+    "pozycja": "O",
+    "teamId": "153600",
+    "playerId": "1976374",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Dubašák, Bohdan|153615": {
+    "pozycja": "P",
+    "teamId": "153615",
+    "playerId": "1929570",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Ďumbala, Ľudovít|153615": {
+    "pozycja": "O",
+    "teamId": "153615",
+    "playerId": "2060722",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Ďurica, László|153615": {
+    "pozycja": "Ś",
+    "teamId": "153615",
+    "playerId": "1767863",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Edwards, Jeremy|153614": {
+    "pozycja": "O",
+    "teamId": "153614",
+    "playerId": "2060395",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Emerton, Gilbert|153614": {
+    "pozycja": "S",
+    "teamId": "153614",
+    "playerId": "1709299",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Engelen, Richard|153610": {
+    "pozycja": "S",
+    "teamId": "153610",
+    "playerId": "1976894",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Entwistle, Freddie|153614": {
+    "pozycja": "Ś",
+    "teamId": "153614",
+    "playerId": "1976653",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Espinhel, Adriano|153613": {
+    "pozycja": "P",
+    "teamId": "153613",
+    "playerId": "1903403",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Espinosa, Ignacio|153598": {
+    "pozycja": "L",
+    "teamId": "153598",
+    "playerId": "2003481",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Fabuš, Radoslav|153615": {
+    "pozycja": "O",
+    "teamId": "153615",
+    "playerId": "2003877",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Falceto, Xurxo|153598": {
+    "pozycja": "L",
+    "teamId": "153598",
+    "playerId": "1904882",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Fasano, Ibsen|153601": {
+    "pozycja": "O",
+    "teamId": "153601",
+    "playerId": "1744844",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Fernandes, Antenor|153601": {
+    "pozycja": "P",
+    "teamId": "153601",
+    "playerId": "1905226",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Ferrandis, Constantino|153598": {
+    "pozycja": "P",
+    "teamId": "153598",
+    "playerId": "1928247",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Ferrobeira, Sandro|153613": {
+    "pozycja": "S",
+    "teamId": "153613",
+    "playerId": "1928107",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Fetto, Mattia|153617": {
+    "pozycja": "L",
+    "teamId": "153617",
+    "playerId": "1904871",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Flajs, Domen|153620": {
+    "pozycja": "P",
+    "teamId": "153620",
+    "playerId": "1864957",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Fochler, Alf|153607": {
+    "pozycja": "P",
+    "teamId": "153607",
+    "playerId": "1975736",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Fohn, Hinrich|153596": {
+    "pozycja": "O",
+    "teamId": "153596",
+    "playerId": "1744746",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Forystek, Michał|153617": {
+    "pozycja": "O",
+    "teamId": "153617",
+    "playerId": "1974473",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Fotopoulos, Aggelos|153605": {
+    "pozycja": "S",
+    "teamId": "153605",
+    "playerId": "2003172",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Foulon, Jean|153595": {
+    "pozycja": "O",
+    "teamId": "153595",
+    "playerId": "1904752",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Fraga, Robles|153613": {
+    "pozycja": "L",
+    "teamId": "153613",
+    "playerId": "1974675",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Freed, Donald|153597": {
+    "pozycja": "P",
+    "teamId": "153597",
+    "playerId": "1948974",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Furkan, Devrim|153611": {
+    "pozycja": "Ś",
+    "teamId": "153611",
+    "playerId": "1929237",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Furlan, Thierry|153595": {
+    "pozycja": "Ś",
+    "teamId": "153595",
+    "playerId": "1865109",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Gallucci, Serafino|153594": {
+    "pozycja": "Ś",
+    "teamId": "153594",
+    "playerId": "1904897",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Galtelli, Carlo|153594": {
+    "pozycja": "P",
+    "teamId": "153594",
+    "playerId": "1905880",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Gálvez, Gerónimo|153602": {
+    "pozycja": "S",
+    "teamId": "153602",
+    "playerId": "1929523",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Gamboa, Emanuel|153602": {
+    "pozycja": "P",
+    "teamId": "153602",
+    "playerId": "1928909",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Gan, Tesshô|153603": {
+    "pozycja": "S",
+    "teamId": "153603",
+    "playerId": "1975989",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Garcia, Andres|153617": {
+    "pozycja": "S",
+    "teamId": "153617",
+    "playerId": "1950600",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Garcia, Patrick|153613": {
+    "pozycja": "P",
+    "teamId": "153613",
+    "playerId": "1976391",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Gavras, Elias|153605": {
+    "pozycja": "P",
+    "teamId": "153605",
+    "playerId": "1745092",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Gavrilov, Orlin|153599": {
+    "pozycja": "Ś",
+    "teamId": "153599",
+    "playerId": "1864300",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Geitel, Jotaarkka|153608": {
+    "pozycja": "S",
+    "teamId": "153608",
+    "playerId": "1951456",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Genty, Benoît|153595": {
+    "pozycja": "L",
+    "teamId": "153595",
+    "playerId": "1950428",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Gillet, Yann|153595": {
+    "pozycja": "O",
+    "teamId": "153595",
+    "playerId": "1865083",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Gimeno, Albino|153598": {
+    "pozycja": "O",
+    "teamId": "153598",
+    "playerId": "2003386",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Glavas, Jerko|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "2060040",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Glenn, Michael|153597": {
+    "pozycja": "Ś",
+    "teamId": "153597",
+    "playerId": "1905218",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Gnaś, Rafał|153593": {
+    "pozycja": "O",
+    "teamId": "153593",
+    "playerId": "1864296",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Gobec, Matevž|153620": {
+    "pozycja": "P",
+    "teamId": "153620",
+    "playerId": "1948929",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Gobec, Tom|153620": {
+    "pozycja": "P",
+    "teamId": "153620",
+    "playerId": "1904663",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Gombrich, Viktor|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "1975653",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Goncalves, Boudewijn|153600": {
+    "pozycja": "S",
+    "teamId": "153600",
+    "playerId": "1950405",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Görke, Alkan|153611": {
+    "pozycja": "P",
+    "teamId": "153611",
+    "playerId": "1905912",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Górski, Wojciech|153593": {
+    "pozycja": "S",
+    "teamId": "153593",
+    "playerId": "1865454",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Grabowski, Jarosław|153593": {
+    "pozycja": "P",
+    "teamId": "153593",
+    "playerId": "1927873",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Gray, Cameron|153614": {
+    "pozycja": "O",
+    "teamId": "153614",
+    "playerId": "2088002",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Greiner, Kaspar|153607": {
+    "pozycja": "P",
+    "teamId": "153607",
+    "playerId": "1905265",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Griflík, Olivér|153615": {
+    "pozycja": "Ś",
+    "teamId": "153615",
+    "playerId": "2004013",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Grozav, Stelian|153619": {
+    "pozycja": "P",
+    "teamId": "153619",
+    "playerId": "1926975",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Grumezescu, Henri|153619": {
+    "pozycja": "Ś",
+    "teamId": "153619",
+    "playerId": "1975617",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Guangpeng, Guoqiang|153616": {
+    "pozycja": "P",
+    "teamId": "153616",
+    "playerId": "1927729",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Guarnieri, Tó|153613": {
+    "pozycja": "O",
+    "teamId": "153613",
+    "playerId": "1767866",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Guet, Francis|153595": {
+    "pozycja": "P",
+    "teamId": "153595",
+    "playerId": "1864536",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Guillén, Warly|153602": {
+    "pozycja": "O",
+    "teamId": "153602",
+    "playerId": "1903928",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Gusmão, Aventino|153613": {
+    "pozycja": "Ś",
+    "teamId": "153613",
+    "playerId": "1927855",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Guy, Jon|153597": {
+    "pozycja": "S",
+    "teamId": "153597",
+    "playerId": "1904435",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Gvozdenović, Andrija|153604": {
+    "pozycja": "S",
+    "teamId": "153604",
+    "playerId": "1928422",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Halinen, Claes|153608": {
+    "pozycja": "P",
+    "teamId": "153608",
+    "playerId": "1928234",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Hämäläinen, Carl-Adam|153608": {
+    "pozycja": "Ś",
+    "teamId": "153608",
+    "playerId": "1928496",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Hamı, Erkut|153611": {
+    "pozycja": "Ś",
+    "teamId": "153611",
+    "playerId": "2060168",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Hamuro, Atsunori|153603": {
+    "pozycja": "L",
+    "teamId": "153603",
+    "playerId": "1904713",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Hannen, Jack|153614": {
+    "pozycja": "P",
+    "teamId": "153614",
+    "playerId": "1950469",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Hansell, Noel|153597": {
+    "pozycja": "S",
+    "teamId": "153597",
+    "playerId": "1904434",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Härm, Niilo|153612": {
+    "pozycja": "O",
+    "teamId": "153612",
+    "playerId": "1904823",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Hartland, Rijk|153600": {
+    "pozycja": "O",
+    "teamId": "153600",
+    "playerId": "1976412",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Haslinger, Oscar|153607": {
+    "pozycja": "O",
+    "teamId": "153607",
+    "playerId": "1929226",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Hatz, Manfred|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "2032910",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Haug, Aldis|153612": {
+    "pozycja": "Ś",
+    "teamId": "153612",
+    "playerId": "1975780",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Hegedusic, Zivko|153609": {
+    "pozycja": "S",
+    "teamId": "153609",
+    "playerId": "2088181",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Hella, Donald|153610": {
+    "pozycja": "Ś",
+    "teamId": "153610",
+    "playerId": "1950915",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Hellmich, Armin|153607": {
+    "pozycja": "L",
+    "teamId": "153607",
+    "playerId": "1928510",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Hicks, Louis|153614": {
+    "pozycja": "O",
+    "teamId": "153614",
+    "playerId": "1864879",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Hilla, Tarsaci|153598": {
+    "pozycja": "Ś",
+    "teamId": "153598",
+    "playerId": "1974463",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Hillebrand, Oliver|153607": {
+    "pozycja": "P",
+    "teamId": "153607",
+    "playerId": "2004110",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Hirschmann, Heino|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "1975742",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Holguin, Calvin|153597": {
+    "pozycja": "S",
+    "teamId": "153597",
+    "playerId": "1724993",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Holland, Anthony|153614": {
+    "pozycja": "Ś",
+    "teamId": "153614",
+    "playerId": "1976388",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Hongjian, Toshirô|153616": {
+    "pozycja": "P",
+    "teamId": "153616",
+    "playerId": "1929261",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Hongkai, Rongrong|153616": {
+    "pozycja": "P",
+    "teamId": "153616",
+    "playerId": "1929106",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Hoogzaad, Jules|153600": {
+    "pozycja": "Ś",
+    "teamId": "153600",
+    "playerId": "1974585",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Hozumi, Tomoaki|153603": {
+    "pozycja": "O",
+    "teamId": "153603",
+    "playerId": "1767965",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Hrusínský, Toman|153606": {
+    "pozycja": "P",
+    "teamId": "153606",
+    "playerId": "1905461",
+    "teamName": "Czech Republic",
+    "source": "national"
+  },
+  "Hrzica, Relja|153609": {
+    "pozycja": "L",
+    "teamId": "153609",
+    "playerId": "1928476",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Hudziak, Sławomir|153593": {
+    "pozycja": "Ś",
+    "teamId": "153593",
+    "playerId": "1904499",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Hürrem, Veli|153611": {
+    "pozycja": "L",
+    "teamId": "153611",
+    "playerId": "1686107",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Hurtt, Zach|153597": {
+    "pozycja": "O",
+    "teamId": "153597",
+    "playerId": "1929026",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Idanha, Gregório|153613": {
+    "pozycja": "S",
+    "teamId": "153613",
+    "playerId": "1927870",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Inagaki, Tsumasaburo|153603": {
+    "pozycja": "P",
+    "teamId": "153603",
+    "playerId": "1928939",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Iorga, Anton|153619": {
+    "pozycja": "Ś",
+    "teamId": "153619",
+    "playerId": "1929075",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Isidro, Ildeberto|153613": {
+    "pozycja": "P",
+    "teamId": "153613",
+    "playerId": "1976043",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Işil, Semih|153611": {
+    "pozycja": "Ś",
+    "teamId": "153611",
+    "playerId": "1975894",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Jakubik, Stanisław|153593": {
+    "pozycja": "P",
+    "teamId": "153593",
+    "playerId": "1976410",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Janvier, Philippe|153595": {
+    "pozycja": "S",
+    "teamId": "153595",
+    "playerId": "1864966",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Jareš, Tibor|153606": {
+    "pozycja": "Ś",
+    "teamId": "153606",
+    "playerId": "1724889",
+    "teamName": "Czech Republic",
+    "source": "national"
+  },
+  "Järventie, Joosua|153608": {
+    "pozycja": "P",
+    "teamId": "153608",
+    "playerId": "2002408",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Jauregui, Fernando|153598": {
+    "pozycja": "Ś",
+    "teamId": "153598",
+    "playerId": "1929598",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Jelar, Tom|153620": {
+    "pozycja": "L",
+    "teamId": "153620",
+    "playerId": "2060450",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Jelusic, Zvonimir|153609": {
+    "pozycja": "Ś",
+    "teamId": "153609",
+    "playerId": "1951275",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Jirácek, Antonín|153606": {
+    "pozycja": "O",
+    "teamId": "153606",
+    "playerId": "1951185",
+    "teamName": "Czech Republic",
+    "source": "national"
+  },
+  "Johnson, Kevin|153617": {
+    "pozycja": "Ś",
+    "teamId": "153617",
+    "playerId": "1904420",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Jordan, Louis|153614": {
+    "pozycja": "P",
+    "teamId": "153614",
+    "playerId": "1949107",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Jovanović, Faris|153618": {
+    "pozycja": "S",
+    "teamId": "153618",
+    "playerId": "1865404",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Jovičić, Slavko|153604": {
+    "pozycja": "S",
+    "teamId": "153604",
+    "playerId": "1864959",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Jun, Kuang-chao|153616": {
+    "pozycja": "P",
+    "teamId": "153616",
+    "playerId": "1976194",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Kabengele, Guido|153610": {
+    "pozycja": "P",
+    "teamId": "153610",
+    "playerId": "1926952",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Kaipainen, Cisse|153608": {
+    "pozycja": "Ś",
+    "teamId": "153608",
+    "playerId": "1950003",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Kaltenböck, Volkmar|153607": {
+    "pozycja": "O",
+    "teamId": "153607",
+    "playerId": "2003698",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Kapetanakis, Mimis|153605": {
+    "pozycja": "L",
+    "teamId": "153605",
+    "playerId": "1976031",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Kapor, Denis|153609": {
+    "pozycja": "O",
+    "teamId": "153609",
+    "playerId": "2003488",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Kapor, Kristjan|153609": {
+    "pozycja": "L",
+    "teamId": "153609",
+    "playerId": "1928583",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Kapten, Ervin|153612": {
+    "pozycja": "O",
+    "teamId": "153612",
+    "playerId": "1929446",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Karadachki, Vasil|153599": {
+    "pozycja": "S",
+    "teamId": "153599",
+    "playerId": "1865328",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Karamanis, Vlassis|153605": {
+    "pozycja": "P",
+    "teamId": "153605",
+    "playerId": "1745227",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Karamatić, Amar|153618": {
+    "pozycja": "P",
+    "teamId": "153618",
+    "playerId": "1904229",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Karubo, Tamasaburo|153603": {
+    "pozycja": "P",
+    "teamId": "153603",
+    "playerId": "1949031",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Kaufman, Ken|153614": {
+    "pozycja": "P",
+    "teamId": "153614",
+    "playerId": "1929080",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Kaurismäki, Kullervo|153608": {
+    "pozycja": "Ś",
+    "teamId": "153608",
+    "playerId": "1975683",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Kavalekas, Orfeas|153605": {
+    "pozycja": "Ś",
+    "teamId": "153605",
+    "playerId": "1976654",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Kazama, Ginzô|153603": {
+    "pozycja": "Ś",
+    "teamId": "153603",
+    "playerId": "1903422",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Kejklíček, Jakub|153606": {
+    "pozycja": "L",
+    "teamId": "153606",
+    "playerId": "2003054",
+    "teamName": "Czech Republic",
+    "source": "national"
+  },
+  "Kibuspuu, Ote|153612": {
+    "pozycja": "S",
+    "teamId": "153612",
+    "playerId": "1928726",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Kipouros, Traianos|153605": {
+    "pozycja": "L",
+    "teamId": "153605",
+    "playerId": "2003733",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Kirov, Petar|153599": {
+    "pozycja": "P",
+    "teamId": "153599",
+    "playerId": "1928799",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Kocic, Dimitrij|153620": {
+    "pozycja": "O",
+    "teamId": "153620",
+    "playerId": "1865203",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Koemets, Ruut|153612": {
+    "pozycja": "P",
+    "teamId": "153612",
+    "playerId": "1951115",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Kokkonen, Esa-Pekka|153608": {
+    "pozycja": "O",
+    "teamId": "153608",
+    "playerId": "1928131",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Kolacić, Žarko|153604": {
+    "pozycja": "Ś",
+    "teamId": "153604",
+    "playerId": "2003328",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Konieczny, Marcin|153593": {
+    "pozycja": "P",
+    "teamId": "153593",
+    "playerId": "1904978",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Kosev, Kiril|153599": {
+    "pozycja": "O",
+    "teamId": "153599",
+    "playerId": "1975836",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Kovjenič, Lovro|153620": {
+    "pozycja": "S",
+    "teamId": "153620",
+    "playerId": "1865246",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Kozłowski, Zbigniew|153593": {
+    "pozycja": "P",
+    "teamId": "153593",
+    "playerId": "1949018",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Krcmar, Ajdin|153618": {
+    "pozycja": "O",
+    "teamId": "153618",
+    "playerId": "1905277",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Krska, Capek|153606": {
+    "pozycja": "P",
+    "teamId": "153606",
+    "playerId": "1904865",
+    "teamName": "Czech Republic",
+    "source": "national"
+  },
+  "Kršmanović, Kerim|153618": {
+    "pozycja": "Ś",
+    "teamId": "153618",
+    "playerId": "1929528",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Laas, Eino|153612": {
+    "pozycja": "L",
+    "teamId": "153612",
+    "playerId": "1950779",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Lambert, Nicolas|153595": {
+    "pozycja": "P",
+    "teamId": "153595",
+    "playerId": "1905210",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Lambertini, Osvaldo|153601": {
+    "pozycja": "L",
+    "teamId": "153601",
+    "playerId": "1904974",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Lanckacker, Auke|153610": {
+    "pozycja": "L",
+    "teamId": "153610",
+    "playerId": "1951252",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Landriscina, Santiago|153602": {
+    "pozycja": "P",
+    "teamId": "153602",
+    "playerId": "1928457",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Lanhoso, António|153613": {
+    "pozycja": "P",
+    "teamId": "153613",
+    "playerId": "1903750",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Larsen, Dan|153597": {
+    "pozycja": "Ś",
+    "teamId": "153597",
+    "playerId": "1904407",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Latovlevici, Dracul|153619": {
+    "pozycja": "S",
+    "teamId": "153619",
+    "playerId": "1928196",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Laustela, Tommi|153608": {
+    "pozycja": "Ś",
+    "teamId": "153608",
+    "playerId": "1974576",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Lazić, Mate|153618": {
+    "pozycja": "P",
+    "teamId": "153618",
+    "playerId": "1725076",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Lecomte, Samuel|153595": {
+    "pozycja": "S",
+    "teamId": "153595",
+    "playerId": "1865085",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Lehepuu, Kurni|153612": {
+    "pozycja": "Ś",
+    "teamId": "153612",
+    "playerId": "1864875",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Lemnaru, Christian|153619": {
+    "pozycja": "L",
+    "teamId": "153619",
+    "playerId": "1975967",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Leone, Fabrício|153601": {
+    "pozycja": "S",
+    "teamId": "153601",
+    "playerId": "1904269",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Lianting, Xin-Gang|153616": {
+    "pozycja": "Ś",
+    "teamId": "153616",
+    "playerId": "1905214",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Ligtvoet, Dominique|153600": {
+    "pozycja": "Ś",
+    "teamId": "153600",
+    "playerId": "2002290",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Lima, Bebeto|153617": {
+    "pozycja": "P",
+    "teamId": "153617",
+    "playerId": "1864480",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Lindinger, Austin|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "1950524",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Lirca, Liviu|153619": {
+    "pozycja": "P",
+    "teamId": "153619",
+    "playerId": "1949874",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Liveric, Nedjeljko|153609": {
+    "pozycja": "O",
+    "teamId": "153609",
+    "playerId": "1865113",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Longueira, Oscar|153598": {
+    "pozycja": "P",
+    "teamId": "153598",
+    "playerId": "1949032",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Louzada, Harley|153601": {
+    "pozycja": "P",
+    "teamId": "153601",
+    "playerId": "1865135",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Luca, Toni|153594": {
+    "pozycja": "L",
+    "teamId": "153594",
+    "playerId": "1904542",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Luchev, Stoyan|153599": {
+    "pozycja": "P",
+    "teamId": "153599",
+    "playerId": "1864253",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Lupei, Aurel|153619": {
+    "pozycja": "O",
+    "teamId": "153619",
+    "playerId": "1865818",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Lyytinen, Petteri|153608": {
+    "pozycja": "O",
+    "teamId": "153608",
+    "playerId": "1745146",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Łukaszewski, Łukasz|153593": {
+    "pozycja": "Ś",
+    "teamId": "153593",
+    "playerId": "1929119",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Maalismaa, Ossi|153608": {
+    "pozycja": "Ś",
+    "teamId": "153608",
+    "playerId": "2060263",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Macron, Colin|153595": {
+    "pozycja": "Ś",
+    "teamId": "153595",
+    "playerId": "1745058",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Maehle, Matthias|153596": {
+    "pozycja": "L",
+    "teamId": "153596",
+    "playerId": "1927749",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Majcher, Michał|153593": {
+    "pozycja": "O",
+    "teamId": "153593",
+    "playerId": "1928473",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Maksimović, Arman|153618": {
+    "pozycja": "L",
+    "teamId": "153618",
+    "playerId": "1976073",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Makulis, Achilleas|153605": {
+    "pozycja": "P",
+    "teamId": "153605",
+    "playerId": "2003654",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Malloy, Shad|153597": {
+    "pozycja": "P",
+    "teamId": "153597",
+    "playerId": "1904441",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Mamele, Ludovic|153619": {
+    "pozycja": "S",
+    "teamId": "153619",
+    "playerId": "2032695",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Marola, Samuel|153598": {
+    "pozycja": "P",
+    "teamId": "153598",
+    "playerId": "1929120",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Mathioudakis, Lykourgos|153605": {
+    "pozycja": "P",
+    "teamId": "153605",
+    "playerId": "1928588",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Matoušek, Ernest|153606": {
+    "pozycja": "Ś",
+    "teamId": "153606",
+    "playerId": "1904438",
+    "teamName": "Czech Republic",
+    "source": "national"
+  },
+  "Maujean, Gérard|153595": {
+    "pozycja": "Ś",
+    "teamId": "153595",
+    "playerId": "1904944",
+    "teamName": "France",
+    "source": "national"
+  },
+  "McClelland, Rodney|153614": {
+    "pozycja": "L",
+    "teamId": "153614",
+    "playerId": "1928192",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Mechernich, Herbert|153596": {
+    "pozycja": "L",
+    "teamId": "153596",
+    "playerId": "1928979",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Mečiar, Gašpar|153615": {
+    "pozycja": "O",
+    "teamId": "153615",
+    "playerId": "1976172",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Meissnitzer, Niclas|153607": {
+    "pozycja": "P",
+    "teamId": "153607",
+    "playerId": "1974604",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Melina, Urbano|153594": {
+    "pozycja": "S",
+    "teamId": "153594",
+    "playerId": "1976037",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Mihočko, Bruno|153615": {
+    "pozycja": "Ś",
+    "teamId": "153615",
+    "playerId": "2060676",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Milovanović, Dejan|153604": {
+    "pozycja": "P",
+    "teamId": "153604",
+    "playerId": "1950811",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Mimura, Ryoji|153603": {
+    "pozycja": "Ś",
+    "teamId": "153603",
+    "playerId": "1904500",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Minguang, Wyott|153616": {
+    "pozycja": "L",
+    "teamId": "153616",
+    "playerId": "1864555",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Miranda, Nicolau|153613": {
+    "pozycja": "P",
+    "teamId": "153613",
+    "playerId": "1976659",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Miyazaki, Kôjiro|153603": {
+    "pozycja": "Ś",
+    "teamId": "153603",
+    "playerId": "2003486",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Mladenov, Tzvetan|153599": {
+    "pozycja": "P",
+    "teamId": "153599",
+    "playerId": "1928667",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Mladić, Milutin|153604": {
+    "pozycja": "Ś",
+    "teamId": "153604",
+    "playerId": "1975956",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Mochizuki, Yuuharu|153603": {
+    "pozycja": "Ś",
+    "teamId": "153603",
+    "playerId": "1975437",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Montenegro, Germán|153602": {
+    "pozycja": "P",
+    "teamId": "153602",
+    "playerId": "1951375",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Morais, Fábio|153601": {
+    "pozycja": "Ś",
+    "teamId": "153601",
+    "playerId": "1744625",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Mourier, Florian|153595": {
+    "pozycja": "L",
+    "teamId": "153595",
+    "playerId": "1864925",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Mpaxevanos, Omiros|153605": {
+    "pozycja": "Ś",
+    "teamId": "153605",
+    "playerId": "2003766",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Mráka, Ondřej|153606": {
+    "pozycja": "O",
+    "teamId": "153606",
+    "playerId": "1950903",
+    "teamName": "Czech Republic",
+    "source": "national"
+  },
+  "Mucci, Mario|153602": {
+    "pozycja": "S",
+    "teamId": "153602",
+    "playerId": "1709653",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Muhel, Margus|153612": {
+    "pozycja": "L",
+    "teamId": "153612",
+    "playerId": "1928154",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Muñoz, Lolo|153598": {
+    "pozycja": "P",
+    "teamId": "153598",
+    "playerId": "2003464",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Murawski, Bartosz|153593": {
+    "pozycja": "Ś",
+    "teamId": "153593",
+    "playerId": "1745557",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Murko, Nikola|153620": {
+    "pozycja": "Ś",
+    "teamId": "153620",
+    "playerId": "1974639",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Mutu, Marku|153619": {
+    "pozycja": "S",
+    "teamId": "153619",
+    "playerId": "1976595",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Nagtglas, Winfried|153600": {
+    "pozycja": "Ś",
+    "teamId": "153600",
+    "playerId": "1905172",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Nájera, Carles|153598": {
+    "pozycja": "L",
+    "teamId": "153598",
+    "playerId": "2003623",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Nakadoi, Sho|153603": {
+    "pozycja": "P",
+    "teamId": "153603",
+    "playerId": "1976913",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Nelson, Jessie|153617": {
+    "pozycja": "O",
+    "teamId": "153617",
+    "playerId": "1865812",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Nepomuceno, Armando|153601": {
+    "pozycja": "P",
+    "teamId": "153601",
+    "playerId": "1927030",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Neves, Damião|153601": {
+    "pozycja": "O",
+    "teamId": "153601",
+    "playerId": "1865435",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Nicasio, Mario|153602": {
+    "pozycja": "Ś",
+    "teamId": "153602",
+    "playerId": "1904311",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Niemistö, Jere|153608": {
+    "pozycja": "L",
+    "teamId": "153608",
+    "playerId": "2004272",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Noble, Trevor|153597": {
+    "pozycja": "Ś",
+    "teamId": "153597",
+    "playerId": "1928290",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Nool, Märt|153612": {
+    "pozycja": "L",
+    "teamId": "153612",
+    "playerId": "1950343",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Noormägi, Ludvig|153612": {
+    "pozycja": "P",
+    "teamId": "153612",
+    "playerId": "2004052",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Northwood, Patrick|153614": {
+    "pozycja": "Ś",
+    "teamId": "153614",
+    "playerId": "2003866",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Nunez, Jake|153617": {
+    "pozycja": "O",
+    "teamId": "153617",
+    "playerId": "1744886",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Odar, Ragnar|153612": {
+    "pozycja": "O",
+    "teamId": "153612",
+    "playerId": "1724725",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Oese, Kurni|153612": {
+    "pozycja": "P",
+    "teamId": "153612",
+    "playerId": "1905845",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Oizumi, Rokusaburo|153603": {
+    "pozycja": "P",
+    "teamId": "153603",
+    "playerId": "1864438",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Okoński, Jan|153593": {
+    "pozycja": "P",
+    "teamId": "153593",
+    "playerId": "1928029",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Olaerts, Neo|153610": {
+    "pozycja": "Ś",
+    "teamId": "153610",
+    "playerId": "1976356",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Olcay, Baran|153611": {
+    "pozycja": "L",
+    "teamId": "153611",
+    "playerId": "1949903",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Olsson, Antti-Jussi|153608": {
+    "pozycja": "L",
+    "teamId": "153608",
+    "playerId": "1904975",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Önay, Furkan|153611": {
+    "pozycja": "Ś",
+    "teamId": "153611",
+    "playerId": "1928130",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Onetto, Roldán|153602": {
+    "pozycja": "Ś",
+    "teamId": "153602",
+    "playerId": "1904779",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Onohara, Kiiton|153603": {
+    "pozycja": "S",
+    "teamId": "153603",
+    "playerId": "1864112",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Onzia, Stijn|153610": {
+    "pozycja": "O",
+    "teamId": "153610",
+    "playerId": "2004151",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Orro, Väino|153612": {
+    "pozycja": "Ś",
+    "teamId": "153612",
+    "playerId": "1767055",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Örsan, Ayberk|153611": {
+    "pozycja": "O",
+    "teamId": "153611",
+    "playerId": "1929558",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Ostendorff, Andreas|153596": {
+    "pozycja": "S",
+    "teamId": "153596",
+    "playerId": "1903994",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Pajares, Ioritz|153598": {
+    "pozycja": "P",
+    "teamId": "153598",
+    "playerId": "1975696",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Pajer, Vojko|153609": {
+    "pozycja": "S",
+    "teamId": "153609",
+    "playerId": "2088295",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Palmu, Jaakko|153608": {
+    "pozycja": "L",
+    "teamId": "153608",
+    "playerId": "2002316",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Papilias, Yiotis|153605": {
+    "pozycja": "Ś",
+    "teamId": "153605",
+    "playerId": "1975858",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Pardon, Daniel|153595": {
+    "pozycja": "O",
+    "teamId": "153595",
+    "playerId": "1974416",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Parikka, Ville|153608": {
+    "pozycja": "P",
+    "teamId": "153608",
+    "playerId": "1904423",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Pastureau, René|153595": {
+    "pozycja": "Ś",
+    "teamId": "153595",
+    "playerId": "1864270",
+    "teamName": "France",
+    "source": "national"
+  },
+  "Paunero, Miguel|153602": {
+    "pozycja": "Ś",
+    "teamId": "153602",
+    "playerId": "1950697",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Pavlović, Veselin|153604": {
+    "pozycja": "P",
+    "teamId": "153604",
+    "playerId": "1950852",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Pawelczyk, Filip|153593": {
+    "pozycja": "P",
+    "teamId": "153593",
+    "playerId": "1950135",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Pearce, Kit|153614": {
+    "pozycja": "Ś",
+    "teamId": "153614",
+    "playerId": "1950455",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Pelıt, Aras|153611": {
+    "pozycja": "P",
+    "teamId": "153611",
+    "playerId": "1975442",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Penksa, Gejza|153615": {
+    "pozycja": "Ś",
+    "teamId": "153615",
+    "playerId": "1928252",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Peychev, Alexander|153599": {
+    "pozycja": "S",
+    "teamId": "153599",
+    "playerId": "1865330",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Pękala, Robert|153593": {
+    "pozycja": "L",
+    "teamId": "153593",
+    "playerId": "1950228",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Piirainen, Thomas|153608": {
+    "pozycja": "O",
+    "teamId": "153608",
+    "playerId": "2032122",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Piscanu, Constantin|153619": {
+    "pozycja": "O",
+    "teamId": "153619",
+    "playerId": "1864459",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Pita, Jacques|153601": {
+    "pozycja": "S",
+    "teamId": "153601",
+    "playerId": "1950000",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Pitkänen, Lauri|153608": {
+    "pozycja": "S",
+    "teamId": "153608",
+    "playerId": "2088182",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Plasterk, Jernst|153600": {
+    "pozycja": "O",
+    "teamId": "153600",
+    "playerId": "1976375",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Poeder, Lou|153600": {
+    "pozycja": "L",
+    "teamId": "153600",
+    "playerId": "1929522",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Popović, Dimitrije|153604": {
+    "pozycja": "P",
+    "teamId": "153604",
+    "playerId": "1976260",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Prim, Thierry|153610": {
+    "pozycja": "L",
+    "teamId": "153610",
+    "playerId": "2060180",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Pršo, Borko|153609": {
+    "pozycja": "Ś",
+    "teamId": "153609",
+    "playerId": "2032636",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Purece, Răzvan|153619": {
+    "pozycja": "P",
+    "teamId": "153619",
+    "playerId": "1951352",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Quadros, Fabrício|153601": {
+    "pozycja": "Ś",
+    "teamId": "153601",
+    "playerId": "1905437",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Quagliotti, Fiorenzo|153594": {
+    "pozycja": "L",
+    "teamId": "153594",
+    "playerId": "1950866",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Quataert, Siegfried|153610": {
+    "pozycja": "L",
+    "teamId": "153610",
+    "playerId": "1929499",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Quiriti, Angelo|153617": {
+    "pozycja": "O",
+    "teamId": "153617",
+    "playerId": "1927865",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Rabbering, Boy|153600": {
+    "pozycja": "L",
+    "teamId": "153600",
+    "playerId": "1929041",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Rada, Andrei|153619": {
+    "pozycja": "Ś",
+    "teamId": "153619",
+    "playerId": "1905272",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Radan, Primož|153620": {
+    "pozycja": "L",
+    "teamId": "153620",
+    "playerId": "1745383",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Rafelsberger, Wolfgang|153607": {
+    "pozycja": "S",
+    "teamId": "153607",
+    "playerId": "1905688",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Raiciu, Fane|153619": {
+    "pozycja": "P",
+    "teamId": "153619",
+    "playerId": "2002376",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Rakić, Srdjan|153604": {
+    "pozycja": "L",
+    "teamId": "153604",
+    "playerId": "1949776",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Ranisavljević, Marko|153604": {
+    "pozycja": "Ś",
+    "teamId": "153604",
+    "playerId": "1976740",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Rapčan, Ervín|153615": {
+    "pozycja": "Ś",
+    "teamId": "153615",
+    "playerId": "2059902",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Redondo, André|153613": {
+    "pozycja": "Ś",
+    "teamId": "153613",
+    "playerId": "1865208",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Reinbusch, Aare|153612": {
+    "pozycja": "P",
+    "teamId": "153612",
+    "playerId": "2004301",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Renier, Pol|153610": {
+    "pozycja": "Ś",
+    "teamId": "153610",
+    "playerId": "1976214",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Riley, Frank|153614": {
+    "pozycja": "S",
+    "teamId": "153614",
+    "playerId": "1974588",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Ritthaler, Tino|153596": {
+    "pozycja": "P",
+    "teamId": "153596",
+    "playerId": "1865508",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Rivera, Scott|153617": {
+    "pozycja": "O",
+    "teamId": "153617",
+    "playerId": "1905803",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Rocchio, Pete|153597": {
+    "pozycja": "L",
+    "teamId": "153597",
+    "playerId": "1976044",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Rolla, Miguel|153617": {
+    "pozycja": "P",
+    "teamId": "153617",
+    "playerId": "1976658",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Salazar, Aldonio|153613": {
+    "pozycja": "O",
+    "teamId": "153613",
+    "playerId": "1928917",
+    "teamName": "Portugal",
+    "source": "national"
+  },
+  "Salden, Lukas|153600": {
+    "pozycja": "Ś",
+    "teamId": "153600",
+    "playerId": "1975747",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Salzer, Dominik|153607": {
+    "pozycja": "L",
+    "teamId": "153607",
+    "playerId": "2004047",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Sánchez, Silvestre|153602": {
+    "pozycja": "S",
+    "teamId": "153602",
+    "playerId": "2060034",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Savio, Arcangelo|153594": {
+    "pozycja": "Ś",
+    "teamId": "153594",
+    "playerId": "1929008",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Schimmer, Bernd|153596": {
+    "pozycja": "P",
+    "teamId": "153596",
+    "playerId": "1928916",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Schrijver, Nout|153600": {
+    "pozycja": "P",
+    "teamId": "153600",
+    "playerId": "2003132",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Schüßler, Siegmar|153596": {
+    "pozycja": "O",
+    "teamId": "153596",
+    "playerId": "1926918",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Sejkora, Benes|153606": {
+    "pozycja": "Ś",
+    "teamId": "153606",
+    "playerId": "1949774",
+    "teamName": "Czech Republic",
+    "source": "national"
+  },
+  "Serbedzija, Nediljko|153609": {
+    "pozycja": "S",
+    "teamId": "153609",
+    "playerId": "2032376",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Seunke, Tygo|153600": {
+    "pozycja": "Ś",
+    "teamId": "153600",
+    "playerId": "1928342",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Shihodo, Shirô|153603": {
+    "pozycja": "L",
+    "teamId": "153603",
+    "playerId": "2003528",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Shirota, Shun|153603": {
+    "pozycja": "O",
+    "teamId": "153603",
+    "playerId": "1928197",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Siedlecki, Mikołaj|153593": {
+    "pozycja": "O",
+    "teamId": "153593",
+    "playerId": "1865039",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Siimes, Petri|153608": {
+    "pozycja": "Ś",
+    "teamId": "153608",
+    "playerId": "1725397",
+    "teamName": "Finland",
+    "source": "national"
+  },
+  "Síkora, Radomil|153606": {
+    "pozycja": "L",
+    "teamId": "153606",
+    "playerId": "1950318",
+    "teamName": "Czech Republic",
+    "source": "national"
+  },
+  "Silajdžić, Sulejman|153618": {
+    "pozycja": "Ś",
+    "teamId": "153618",
+    "playerId": "1928601",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Silva, Mike|153597": {
+    "pozycja": "P",
+    "teamId": "153597",
+    "playerId": "1904937",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Siriwiboon, Kuan-chung|153616": {
+    "pozycja": "L",
+    "teamId": "153616",
+    "playerId": "1904950",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Slavica, Oliver|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "1928899",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Smiljanić, Darko|153604": {
+    "pozycja": "S",
+    "teamId": "153604",
+    "playerId": "1928531",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Šmrtnik, Danijel|153620": {
+    "pozycja": "Ś",
+    "teamId": "153620",
+    "playerId": "1928058",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Smustern, Christoffer|153596": {
+    "pozycja": "Ś",
+    "teamId": "153596",
+    "playerId": "1745168",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Snoek, Dimitri|153610": {
+    "pozycja": "P",
+    "teamId": "153610",
+    "playerId": "1974532",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Sofroniev, Teodor|153617": {
+    "pozycja": "P",
+    "teamId": "153617",
+    "playerId": "1724716",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Soler, Teo|153598": {
+    "pozycja": "O",
+    "teamId": "153598",
+    "playerId": "1928809",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Šoljić, Alem|153618": {
+    "pozycja": "P",
+    "teamId": "153618",
+    "playerId": "1950222",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Sommer, Alf|153607": {
+    "pozycja": "O",
+    "teamId": "153607",
+    "playerId": "1951082",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Soto, Beau|153597": {
+    "pozycja": "O",
+    "teamId": "153597",
+    "playerId": "1950623",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Souza, Isidoro|153601": {
+    "pozycja": "S",
+    "teamId": "153601",
+    "playerId": "1745153",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Spagnuolo, Sandro|153594": {
+    "pozycja": "Ś",
+    "teamId": "153594",
+    "playerId": "1904771",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Spencer, Tony|153597": {
+    "pozycja": "Ś",
+    "teamId": "153597",
+    "playerId": "1904903",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Spompato, Piersandro|153594": {
+    "pozycja": "O",
+    "teamId": "153594",
+    "playerId": "1928994",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Srbović, Čedomir|153604": {
+    "pozycja": "O",
+    "teamId": "153604",
+    "playerId": "2004131",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Srna, Zeljko|153609": {
+    "pozycja": "S",
+    "teamId": "153609",
+    "playerId": "1904536",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Stanca, Iorghu|153619": {
+    "pozycja": "O",
+    "teamId": "153619",
+    "playerId": "1905876",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Starling, Sávio|153601": {
+    "pozycja": "Ś",
+    "teamId": "153601",
+    "playerId": "1928847",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Stavrović, Bojan|153604": {
+    "pozycja": "L",
+    "teamId": "153604",
+    "playerId": "1950657",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Steinert, Korkmaz|153596": {
+    "pozycja": "S",
+    "teamId": "153596",
+    "playerId": "1976557",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Stijnen, Axel|153610": {
+    "pozycja": "L",
+    "teamId": "153610",
+    "playerId": "1975323",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Stoev, Angel|153599": {
+    "pozycja": "O",
+    "teamId": "153599",
+    "playerId": "1928033",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Stokić, Nikola|153618": {
+    "pozycja": "O",
+    "teamId": "153618",
+    "playerId": "1948961",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Strobl, Clemens|153607": {
+    "pozycja": "P",
+    "teamId": "153607",
+    "playerId": "1974517",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Šuler, Damjan|153620": {
+    "pozycja": "O",
+    "teamId": "153620",
+    "playerId": "1905655",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Suslik, Freddi|153612": {
+    "pozycja": "Ś",
+    "teamId": "153612",
+    "playerId": "1927433",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Suzuki, Urara|153603": {
+    "pozycja": "O",
+    "teamId": "153603",
+    "playerId": "1903848",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Švikruha, Miroslav|153615": {
+    "pozycja": "L",
+    "teamId": "153615",
+    "playerId": "2002379",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Svorník, Ladislav|153615": {
+    "pozycja": "P",
+    "teamId": "153615",
+    "playerId": "2003473",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Szóstek, Tomasz|153593": {
+    "pozycja": "L",
+    "teamId": "153593",
+    "playerId": "1865312",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Szymański, Olaf|153593": {
+    "pozycja": "S",
+    "teamId": "153593",
+    "playerId": "1926926",
+    "teamName": "Poland",
+    "source": "national"
+  },
+  "Tadić, Zoran|153604": {
+    "pozycja": "P",
+    "teamId": "153604",
+    "playerId": "1929161",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Tamas, Ludovic|153619": {
+    "pozycja": "Ś",
+    "teamId": "153619",
+    "playerId": "1950865",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Tauchnitz, Götz|153596": {
+    "pozycja": "Ś",
+    "teamId": "153596",
+    "playerId": "1904984",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Tavolaro, Gigi|153594": {
+    "pozycja": "P",
+    "teamId": "153594",
+    "playerId": "1928274",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Taxiarhis, Apollon|153605": {
+    "pozycja": "L",
+    "teamId": "153605",
+    "playerId": "1951221",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Teixeira, Jefferson|153601": {
+    "pozycja": "P",
+    "teamId": "153601",
+    "playerId": "1927031",
+    "teamName": "Brazil",
+    "source": "national"
+  },
+  "Teixidó, Enrique|153598": {
+    "pozycja": "Ś",
+    "teamId": "153598",
+    "playerId": "1951023",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Téllez, Guillermo|153598": {
+    "pozycja": "S",
+    "teamId": "153598",
+    "playerId": "1905336",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Terragni, Cesarino|153617": {
+    "pozycja": "Ś",
+    "teamId": "153617",
+    "playerId": "1928285",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Terrell, Seth|153597": {
+    "pozycja": "P",
+    "teamId": "153597",
+    "playerId": "1904907",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Tianxian, Jingbo|153616": {
+    "pozycja": "O",
+    "teamId": "153616",
+    "playerId": "2060885",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Tôchika, Kazuhisa|153603": {
+    "pozycja": "Ś",
+    "teamId": "153603",
+    "playerId": "1928529",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Todorović, Damir|153618": {
+    "pozycja": "Ś",
+    "teamId": "153618",
+    "playerId": "1951012",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Toledano, Robustiano|153598": {
+    "pozycja": "Ś",
+    "teamId": "153598",
+    "playerId": "1976580",
+    "teamName": "Spain",
+    "source": "national"
+  },
+  "Tomita, Junichi|153603": {
+    "pozycja": "L",
+    "teamId": "153603",
+    "playerId": "1975694",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Toniolo, Leone|153594": {
+    "pozycja": "O",
+    "teamId": "153594",
+    "playerId": "1929182",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Tošković, Aleksandar|153604": {
+    "pozycja": "P",
+    "teamId": "153604",
+    "playerId": "1949133",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Travers, Paddy|153614": {
+    "pozycja": "Ś",
+    "teamId": "153614",
+    "playerId": "1975729",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Travnicek, Adam|153606": {
+    "pozycja": "P",
+    "teamId": "153606",
+    "playerId": "1927565",
+    "teamName": "Czech Republic",
+    "source": "national"
+  },
+  "Trifković, Adin|153618": {
+    "pozycja": "Ś",
+    "teamId": "153618",
+    "playerId": "1724977",
+    "teamName": "Bosnia-Herzegovina",
+    "source": "national"
+  },
+  "Tronconi, Sancho|153602": {
+    "pozycja": "O",
+    "teamId": "153602",
+    "playerId": "1725203",
+    "teamName": "Argentina",
+    "source": "national"
+  },
+  "Truglio, Danilo|153594": {
+    "pozycja": "P",
+    "teamId": "153594",
+    "playerId": "1865106",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Tsarouchitis, Elias|153605": {
+    "pozycja": "O",
+    "teamId": "153605",
+    "playerId": "1976292",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Tsatsarelis, Thiseas|153605": {
+    "pozycja": "O",
+    "teamId": "153605",
+    "playerId": "1928853",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Tugnoli, Fiorenzo|153594": {
+    "pozycja": "P",
+    "teamId": "153594",
+    "playerId": "1904742",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Udovčić, Renato|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "2002549",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Uherík, Leonard|153615": {
+    "pozycja": "P",
+    "teamId": "153615",
+    "playerId": "2088031",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Uluğ, Rıdvan|153611": {
+    "pozycja": "P",
+    "teamId": "153611",
+    "playerId": "1951066",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Ümıt, Alpkan|153611": {
+    "pozycja": "Ś",
+    "teamId": "153611",
+    "playerId": "1904233",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Valdinoci, Antonello|153594": {
+    "pozycja": "S",
+    "teamId": "153594",
+    "playerId": "1904811",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Valek, Obrad|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "2004467",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Van Brussel, Rik|153610": {
+    "pozycja": "S",
+    "teamId": "153610",
+    "playerId": "2003215",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Van Den Eynde, Ngagne|153610": {
+    "pozycja": "Ś",
+    "teamId": "153610",
+    "playerId": "1949516",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "van Enckhuyzen, Olly|153600": {
+    "pozycja": "P",
+    "teamId": "153600",
+    "playerId": "1951120",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "Van Erum, Lucien|153610": {
+    "pozycja": "P",
+    "teamId": "153610",
+    "playerId": "2087745",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Vatra, Kornel|153615": {
+    "pozycja": "S",
+    "teamId": "153615",
+    "playerId": "1950900",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Veikat, Bruno|153612": {
+    "pozycja": "S",
+    "teamId": "153612",
+    "playerId": "1903475",
+    "teamName": "Estonia",
+    "source": "national"
+  },
+  "Velichkov, Lachezar|153599": {
+    "pozycja": "Ś",
+    "teamId": "153599",
+    "playerId": "1904681",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Velichkov, Lyubomir|153599": {
+    "pozycja": "S",
+    "teamId": "153599",
+    "playerId": "1865329",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Velkov, Kiril|153599": {
+    "pozycja": "Ś",
+    "teamId": "153599",
+    "playerId": "2060151",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Venter, Octavian|153619": {
+    "pozycja": "O",
+    "teamId": "153619",
+    "playerId": "2088032",
+    "teamName": "Romania",
+    "source": "national"
+  },
+  "Versari, Gennaro|153594": {
+    "pozycja": "L",
+    "teamId": "153594",
+    "playerId": "1864615",
+    "teamName": "Italy",
+    "source": "national"
+  },
+  "Vladimirov, Boyko|153599": {
+    "pozycja": "O",
+    "teamId": "153599",
+    "playerId": "1681866",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Vlaev, Iliya|153599": {
+    "pozycja": "Ś",
+    "teamId": "153599",
+    "playerId": "1904565",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Vlak, Lovro|153609": {
+    "pozycja": "Ś",
+    "teamId": "153609",
+    "playerId": "1928282",
+    "teamName": "Croatia",
+    "source": "national"
+  },
+  "Vojtechovsky, Robert|153606": {
+    "pozycja": "S",
+    "teamId": "153606",
+    "playerId": "1864481",
+    "teamName": "Czech Republic",
+    "source": "national"
+  },
+  "Vretenička, Jaroslav|153615": {
+    "pozycja": "O",
+    "teamId": "153615",
+    "playerId": "1903639",
+    "teamName": "Slovakia",
+    "source": "national"
+  },
+  "Vuchelich, Lutz|153596": {
+    "pozycja": "Ś",
+    "teamId": "153596",
+    "playerId": "1725191",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Vukašinović, Bojan|153604": {
+    "pozycja": "Ś",
+    "teamId": "153604",
+    "playerId": "1927751",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Vulić, Dragoslav|153604": {
+    "pozycja": "P",
+    "teamId": "153604",
+    "playerId": "1927642",
+    "teamName": "Serbia",
+    "source": "national"
+  },
+  "Walton, Joss|153614": {
+    "pozycja": "Ś",
+    "teamId": "153614",
+    "playerId": "1975815",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Wenyu, Cai|153616": {
+    "pozycja": "Ś",
+    "teamId": "153616",
+    "playerId": "1865362",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Westenend, Arjen|153600": {
+    "pozycja": "Ś",
+    "teamId": "153600",
+    "playerId": "1904576",
+    "teamName": "Netherlands",
+    "source": "national"
+  },
+  "White, Alex|153597": {
+    "pozycja": "P",
+    "teamId": "153597",
+    "playerId": "1975566",
+    "teamName": "USA",
+    "source": "national"
+  },
+  "Wiegel, Cornelius|153596": {
+    "pozycja": "O",
+    "teamId": "153596",
+    "playerId": "1865183",
+    "teamName": "Germany",
+    "source": "national"
+  },
+  "Wiels, Sjarel|153610": {
+    "pozycja": "O",
+    "teamId": "153610",
+    "playerId": "1905455",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Wiesbauer, Ivan|153617": {
+    "pozycja": "Ś",
+    "teamId": "153617",
+    "playerId": "1927461",
+    "teamName": "International",
+    "source": "national"
+  },
+  "Wijsmans, Gabriel|153610": {
+    "pozycja": "Ś",
+    "teamId": "153610",
+    "playerId": "1975878",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Wössner, Ramon|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "1928800",
+    "teamName": "Austria",
+    "source": "national"
+  },
+  "Xia, Hua|153616": {
+    "pozycja": "O",
+    "teamId": "153616",
+    "playerId": "1951208",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Xidis, Romaleos|153605": {
+    "pozycja": "O",
+    "teamId": "153605",
+    "playerId": "2004265",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Xuanren, Tat-wah|153616": {
+    "pozycja": "S",
+    "teamId": "153616",
+    "playerId": "1767179",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Yasui, Takashi|153603": {
+    "pozycja": "Ś",
+    "teamId": "153603",
+    "playerId": "2003566",
+    "teamName": "Japan",
+    "source": "national"
+  },
+  "Yates, Arthur|153614": {
+    "pozycja": "P",
+    "teamId": "153614",
+    "playerId": "1929068",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Yates, Lewis|153614": {
+    "pozycja": "P",
+    "teamId": "153614",
+    "playerId": "1928166",
+    "teamName": "England",
+    "source": "national"
+  },
+  "Yau, Tat-wah|153616": {
+    "pozycja": "S",
+    "teamId": "153616",
+    "playerId": "1745091",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Yingkai, Eijin|153616": {
+    "pozycja": "Ś",
+    "teamId": "153616",
+    "playerId": "1950652",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Yosifov, Hristo|153599": {
+    "pozycja": "Ś",
+    "teamId": "153599",
+    "playerId": "1905281",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Yücel, Gökben|153611": {
+    "pozycja": "S",
+    "teamId": "153611",
+    "playerId": "1709975",
+    "teamName": "Turkey",
+    "source": "national"
+  },
+  "Yurukov, Iliya|153599": {
+    "pozycja": "P",
+    "teamId": "153599",
+    "playerId": "1929235",
+    "teamName": "Bulgaria",
+    "source": "national"
+  },
+  "Yuze, Moy|153616": {
+    "pozycja": "Ś",
+    "teamId": "153616",
+    "playerId": "1928557",
+    "teamName": "China",
+    "source": "national"
+  },
+  "Zaidi, Maxime|153610": {
+    "pozycja": "P",
+    "teamId": "153610",
+    "playerId": "1927881",
+    "teamName": "Belgium",
+    "source": "national"
+  },
+  "Zajc, Leo|153620": {
+    "pozycja": "Ś",
+    "teamId": "153620",
+    "playerId": "1976332",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Zervos, Totis|153605": {
+    "pozycja": "S",
+    "teamId": "153605",
+    "playerId": "1976500",
+    "teamName": "Greece",
+    "source": "national"
+  },
+  "Zorc, Mario|153620": {
+    "pozycja": "S",
+    "teamId": "153620",
+    "playerId": "1949173",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Zorc, Tonček|153620": {
+    "pozycja": "Ś",
+    "teamId": "153620",
+    "playerId": "1950560",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Žurej, Klemen|153620": {
+    "pozycja": "Ś",
+    "teamId": "153620",
+    "playerId": "2003797",
+    "teamName": "Slovenia",
+    "source": "national"
+  },
+  "Żołądek, Daniel|153593": {
+    "pozycja": "P",
+    "teamId": "153593",
+    "playerId": "1928276",
+    "teamName": "Poland",
+    "source": "national"
   }
 }
