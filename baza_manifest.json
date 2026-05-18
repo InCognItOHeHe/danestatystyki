@@ -1,6 +1,6 @@
 ﻿{
   "version": "split-league-v1",
-  "generatedAt": "2026-05-17T20:04:37.061Z",
+  "generatedAt": "2026-05-18T17:29:34.726Z",
   "basePath": "./",
   "leagues": {
     "1.1": {
@@ -95,7 +95,7 @@
     },
     "3.14": {
       "file": "baza_3_14.csv",
-      "rows": 1732,
+      "rows": 1734,
       "kind": "league"
     },
     "3.15": {
