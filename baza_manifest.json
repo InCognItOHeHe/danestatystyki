@@ -1,116 +1,131 @@
 ﻿{
   "version": "split-league-v1",
-  "generatedAt": "2026-05-23T19:51:06.604Z",
+  "generatedAt": "2026-05-24T20:16:16.248Z",
   "basePath": "./",
   "leagues": {
     "1.1": {
       "file": "baza_1_1.csv",
-      "rows": 2819,
+      "rows": 3009,
       "kind": "league"
     },
     "2.1": {
       "file": "baza_2_1.csv",
-      "rows": 2734,
+      "rows": 2919,
       "kind": "league"
     },
     "2.2": {
       "file": "baza_2_2.csv",
-      "rows": 2601,
+      "rows": 2777,
       "kind": "league"
     },
     "2.3": {
       "file": "baza_2_3.csv",
-      "rows": 2665,
+      "rows": 2852,
       "kind": "league"
     },
     "2.4": {
       "file": "baza_2_4.csv",
-      "rows": 2692,
+      "rows": 2869,
       "kind": "league"
     },
     "3.1": {
       "file": "baza_3_1.csv",
-      "rows": 2537,
+      "rows": 2702,
       "kind": "league"
     },
     "3.2": {
       "file": "baza_3_2.csv",
-      "rows": 2244,
+      "rows": 2391,
       "kind": "league"
     },
     "3.3": {
       "file": "baza_3_3.csv",
-      "rows": 2232,
+      "rows": 2378,
       "kind": "league"
     },
     "3.4": {
       "file": "baza_3_4.csv",
-      "rows": 2160,
+      "rows": 2307,
       "kind": "league"
     },
     "3.5": {
       "file": "baza_3_5.csv",
-      "rows": 2194,
+      "rows": 2347,
       "kind": "league"
     },
     "3.6": {
       "file": "baza_3_6.csv",
-      "rows": 2514,
+      "rows": 2678,
       "kind": "league"
     },
     "3.7": {
       "file": "baza_3_7.csv",
-      "rows": 2322,
+      "rows": 2479,
       "kind": "league"
     },
     "3.8": {
       "file": "baza_3_8.csv",
-      "rows": 2304,
+      "rows": 2450,
       "kind": "league"
     },
     "3.9": {
       "file": "baza_3_9.csv",
-      "rows": 2321,
+      "rows": 2475,
       "kind": "league"
     },
     "3.10": {
       "file": "baza_3_10.csv",
-      "rows": 2230,
+      "rows": 2372,
       "kind": "league"
     },
     "3.11": {
       "file": "baza_3_11.csv",
-      "rows": 2222,
+      "rows": 2365,
       "kind": "league"
     },
     "3.12": {
       "file": "baza_3_12.csv",
-      "rows": 2273,
+      "rows": 2427,
       "kind": "league"
     },
     "3.13": {
       "file": "baza_3_13.csv",
-      "rows": 2377,
+      "rows": 2530,
       "kind": "league"
     },
     "3.14": {
       "file": "baza_3_14.csv",
-      "rows": 2152,
+      "rows": 2288,
       "kind": "league"
     },
     "3.15": {
       "file": "baza_3_15.csv",
-      "rows": 2050,
+      "rows": 2186,
       "kind": "league"
     },
     "3.16": {
       "file": "baza_3_16.csv",
-      "rows": 2207,
+      "rows": 2348,
       "kind": "league"
     },
     "reprezentacja_grupa1": {
       "file": "baza_reprezentacja_grupa1.csv",
-      "rows": 2,
+      "rows": 396,
+      "kind": "rep"
+    },
+    "reprezentacja_grupa2": {
+      "file": "baza_reprezentacja_grupa2.csv",
+      "rows": 417,
+      "kind": "rep"
+    },
+    "reprezentacja_grupa3": {
+      "file": "baza_reprezentacja_grupa3.csv",
+      "rows": 389,
+      "kind": "rep"
+    },
+    "reprezentacja_grupa4": {
+      "file": "baza_reprezentacja_grupa4.csv",
+      "rows": 381,
       "kind": "rep"
     }
   },
@@ -167,7 +182,10 @@
     ],
     "cups": [],
     "reps": [
-      "reprezentacja_grupa1"
+      "reprezentacja_grupa1",
+      "reprezentacja_grupa2",
+      "reprezentacja_grupa3",
+      "reprezentacja_grupa4"
     ],
     "other": []
   }
