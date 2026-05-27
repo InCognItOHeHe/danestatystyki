@@ -1,0 +1,433 @@
+{
+  "generatedAt": "2026-05-27T15:35:21",
+  "exporter": "cup-history-achievements-1.0",
+  "source": "CupHistory country=1",
+  "sourceUrl": "https://vm-manager.org/Ajax_handler.php?phpsite=view_body.php&action=CupHistory&country=1&bodyMenu=body_menu_2",
+  "finalsCount": 10,
+  "finals": [
+    {
+      "sourceOrder": 1,
+      "edition": "Puchar Polski — finał 1",
+      "winner": "Incognito Volley",
+      "winnerTeamId": "",
+      "runnerUp": "Kuźnia Byków",
+      "runnerUpTeamId": "",
+      "score": "3:1",
+      "sets": "( 20:25, 25:19, 25:17, 25:23 )"
+    },
+    {
+      "sourceOrder": 2,
+      "edition": "Puchar Polski — finał 2",
+      "winner": "Dano Dream Team",
+      "winnerTeamId": "",
+      "runnerUp": "Smerfy",
+      "runnerUpTeamId": "",
+      "score": "3:1",
+      "sets": "( 25:21, 21:25, 25:21, 25:20 )"
+    },
+    {
+      "sourceOrder": 3,
+      "edition": "Puchar Polski — finał 3",
+      "winner": "Kuźnia Byków",
+      "winnerTeamId": "",
+      "runnerUp": "kiczan team zduńska wola",
+      "runnerUpTeamId": "",
+      "score": "3:2",
+      "sets": "( 22:25, 17:25, 25:23, 25:15, 15:7 )"
+    },
+    {
+      "sourceOrder": 4,
+      "edition": "Puchar Polski — finał 4",
+      "winner": "DHARMA Initiative",
+      "winnerTeamId": "",
+      "runnerUp": "VC Kittens",
+      "runnerUpTeamId": "",
+      "score": "3:2",
+      "sets": "( 25:23, 23:25, 29:27, 17:25, 15:13 )"
+    },
+    {
+      "sourceOrder": 5,
+      "edition": "Puchar Polski — finał 5",
+      "winner": "kiczan team zduńska wola",
+      "winnerTeamId": "",
+      "runnerUp": "Volleyball Team Zduńska Wola",
+      "runnerUpTeamId": "",
+      "score": "3:0",
+      "sets": "( 25:21, 25:21, 25:20 )"
+    },
+    {
+      "sourceOrder": 6,
+      "edition": "Puchar Polski — finał 6",
+      "winner": "Incognito Volley",
+      "winnerTeamId": "",
+      "runnerUp": "Saracens",
+      "runnerUpTeamId": "",
+      "score": "3:0",
+      "sets": "( 25:23, 25:22, 25:17 )"
+    },
+    {
+      "sourceOrder": 7,
+      "edition": "Puchar Polski — finał 7",
+      "winner": "Dzikie Rumaxy",
+      "winnerTeamId": "",
+      "runnerUp": "Incognito Volley",
+      "runnerUpTeamId": "",
+      "score": "3:0",
+      "sets": "( 25:19, 25:17, 25:21 )"
+    },
+    {
+      "sourceOrder": 8,
+      "edition": "Puchar Polski — finał 8",
+      "winner": "Dzikie Rumaxy",
+      "winnerTeamId": "",
+      "runnerUp": "DHARMA Initiative",
+      "runnerUpTeamId": "",
+      "score": "3:2",
+      "sets": "( 25:21, 23:25, 20:25, 25:18, 15:12 )"
+    },
+    {
+      "sourceOrder": 9,
+      "edition": "Puchar Polski — finał 9",
+      "winner": "Kuźnia Byków",
+      "winnerTeamId": "",
+      "runnerUp": "Incognito Volley",
+      "runnerUpTeamId": "",
+      "score": "3:2",
+      "sets": "( 25:21, 25:15, 21:25, 21:25, 16:14 )"
+    },
+    {
+      "sourceOrder": 10,
+      "edition": "Puchar Polski — finał 10",
+      "winner": "Dzikie Rumaxy",
+      "winnerTeamId": "",
+      "runnerUp": "RKS",
+      "runnerUpTeamId": "",
+      "score": "3:2",
+      "sets": "( 25:23, 25:15, 20:25, 22:25, 15:8 )"
+    }
+  ],
+  "teams": {
+    "Dzikie Rumaxy": {
+      "teamName": "Dzikie Rumaxy",
+      "cups": 3,
+      "runnerUps": 0,
+      "finals": 3,
+      "bestPlace": 1,
+      "seasons": [
+        {
+          "edition": "Puchar Polski — finał 7",
+          "sourceOrder": 7,
+          "place": 1,
+          "opponent": "Incognito Volley",
+          "score": "3:0",
+          "sets": "( 25:19, 25:17, 25:21 )",
+          "result": "Triumfator",
+          "teamId": "",
+          "opponentTeamId": ""
+        },
+        {
+          "edition": "Puchar Polski — finał 8",
+          "sourceOrder": 8,
+          "place": 1,
+          "opponent": "DHARMA Initiative",
+          "score": "3:2",
+          "sets": "( 25:21, 23:25, 20:25, 25:18, 15:12 )",
+          "result": "Triumfator",
+          "teamId": "",
+          "opponentTeamId": ""
+        },
+        {
+          "edition": "Puchar Polski — finał 10",
+          "sourceOrder": 10,
+          "place": 1,
+          "opponent": "RKS",
+          "score": "3:2",
+          "sets": "( 25:23, 25:15, 20:25, 22:25, 15:8 )",
+          "result": "Triumfator",
+          "teamId": "",
+          "opponentTeamId": ""
+        }
+      ]
+    },
+    "Incognito Volley": {
+      "teamName": "Incognito Volley",
+      "cups": 2,
+      "runnerUps": 2,
+      "finals": 4,
+      "bestPlace": 1,
+      "seasons": [
+        {
+          "edition": "Puchar Polski — finał 1",
+          "sourceOrder": 1,
+          "place": 1,
+          "opponent": "Kuźnia Byków",
+          "score": "3:1",
+          "sets": "( 20:25, 25:19, 25:17, 25:23 )",
+          "result": "Triumfator",
+          "teamId": "",
+          "opponentTeamId": ""
+        },
+        {
+          "edition": "Puchar Polski — finał 6",
+          "sourceOrder": 6,
+          "place": 1,
+          "opponent": "Saracens",
+          "score": "3:0",
+          "sets": "( 25:23, 25:22, 25:17 )",
+          "result": "Triumfator",
+          "teamId": "",
+          "opponentTeamId": ""
+        },
+        {
+          "edition": "Puchar Polski — finał 7",
+          "sourceOrder": 7,
+          "place": 2,
+          "opponent": "Dzikie Rumaxy",
+          "score": "3:0",
+          "sets": "( 25:19, 25:17, 25:21 )",
+          "result": "Finalista",
+          "teamId": "",
+          "opponentTeamId": ""
+        },
+        {
+          "edition": "Puchar Polski — finał 9",
+          "sourceOrder": 9,
+          "place": 2,
+          "opponent": "Kuźnia Byków",
+          "score": "3:2",
+          "sets": "( 25:21, 25:15, 21:25, 21:25, 16:14 )",
+          "result": "Finalista",
+          "teamId": "",
+          "opponentTeamId": ""
+        }
+      ]
+    },
+    "Kuźnia Byków": {
+      "teamName": "Kuźnia Byków",
+      "cups": 2,
+      "runnerUps": 1,
+      "finals": 3,
+      "bestPlace": 1,
+      "seasons": [
+        {
+          "edition": "Puchar Polski — finał 1",
+          "sourceOrder": 1,
+          "place": 2,
+          "opponent": "Incognito Volley",
+          "score": "3:1",
+          "sets": "( 20:25, 25:19, 25:17, 25:23 )",
+          "result": "Finalista",
+          "teamId": "",
+          "opponentTeamId": ""
+        },
+        {
+          "edition": "Puchar Polski — finał 3",
+          "sourceOrder": 3,
+          "place": 1,
+          "opponent": "kiczan team zduńska wola",
+          "score": "3:2",
+          "sets": "( 22:25, 17:25, 25:23, 25:15, 15:7 )",
+          "result": "Triumfator",
+          "teamId": "",
+          "opponentTeamId": ""
+        },
+        {
+          "edition": "Puchar Polski — finał 9",
+          "sourceOrder": 9,
+          "place": 1,
+          "opponent": "Incognito Volley",
+          "score": "3:2",
+          "sets": "( 25:21, 25:15, 21:25, 21:25, 16:14 )",
+          "result": "Triumfator",
+          "teamId": "",
+          "opponentTeamId": ""
+        }
+      ]
+    },
+    "DHARMA Initiative": {
+      "teamName": "DHARMA Initiative",
+      "cups": 1,
+      "runnerUps": 1,
+      "finals": 2,
+      "bestPlace": 1,
+      "seasons": [
+        {
+          "edition": "Puchar Polski — finał 4",
+          "sourceOrder": 4,
+          "place": 1,
+          "opponent": "VC Kittens",
+          "score": "3:2",
+          "sets": "( 25:23, 23:25, 29:27, 17:25, 15:13 )",
+          "result": "Triumfator",
+          "teamId": "",
+          "opponentTeamId": ""
+        },
+        {
+          "edition": "Puchar Polski — finał 8",
+          "sourceOrder": 8,
+          "place": 2,
+          "opponent": "Dzikie Rumaxy",
+          "score": "3:2",
+          "sets": "( 25:21, 23:25, 20:25, 25:18, 15:12 )",
+          "result": "Finalista",
+          "teamId": "",
+          "opponentTeamId": ""
+        }
+      ]
+    },
+    "kiczan team zduńska wola": {
+      "teamName": "kiczan team zduńska wola",
+      "cups": 1,
+      "runnerUps": 1,
+      "finals": 2,
+      "bestPlace": 1,
+      "seasons": [
+        {
+          "edition": "Puchar Polski — finał 3",
+          "sourceOrder": 3,
+          "place": 2,
+          "opponent": "Kuźnia Byków",
+          "score": "3:2",
+          "sets": "( 22:25, 17:25, 25:23, 25:15, 15:7 )",
+          "result": "Finalista",
+          "teamId": "",
+          "opponentTeamId": ""
+        },
+        {
+          "edition": "Puchar Polski — finał 5",
+          "sourceOrder": 5,
+          "place": 1,
+          "opponent": "Volleyball Team Zduńska Wola",
+          "score": "3:0",
+          "sets": "( 25:21, 25:21, 25:20 )",
+          "result": "Triumfator",
+          "teamId": "",
+          "opponentTeamId": ""
+        }
+      ]
+    },
+    "Dano Dream Team": {
+      "teamName": "Dano Dream Team",
+      "cups": 1,
+      "runnerUps": 0,
+      "finals": 1,
+      "bestPlace": 1,
+      "seasons": [
+        {
+          "edition": "Puchar Polski — finał 2",
+          "sourceOrder": 2,
+          "place": 1,
+          "opponent": "Smerfy",
+          "score": "3:1",
+          "sets": "( 25:21, 21:25, 25:21, 25:20 )",
+          "result": "Triumfator",
+          "teamId": "",
+          "opponentTeamId": ""
+        }
+      ]
+    },
+    "RKS": {
+      "teamName": "RKS",
+      "cups": 0,
+      "runnerUps": 1,
+      "finals": 1,
+      "bestPlace": 2,
+      "seasons": [
+        {
+          "edition": "Puchar Polski — finał 10",
+          "sourceOrder": 10,
+          "place": 2,
+          "opponent": "Dzikie Rumaxy",
+          "score": "3:2",
+          "sets": "( 25:23, 25:15, 20:25, 22:25, 15:8 )",
+          "result": "Finalista",
+          "teamId": "",
+          "opponentTeamId": ""
+        }
+      ]
+    },
+    "Saracens": {
+      "teamName": "Saracens",
+      "cups": 0,
+      "runnerUps": 1,
+      "finals": 1,
+      "bestPlace": 2,
+      "seasons": [
+        {
+          "edition": "Puchar Polski — finał 6",
+          "sourceOrder": 6,
+          "place": 2,
+          "opponent": "Incognito Volley",
+          "score": "3:0",
+          "sets": "( 25:23, 25:22, 25:17 )",
+          "result": "Finalista",
+          "teamId": "",
+          "opponentTeamId": ""
+        }
+      ]
+    },
+    "Smerfy": {
+      "teamName": "Smerfy",
+      "cups": 0,
+      "runnerUps": 1,
+      "finals": 1,
+      "bestPlace": 2,
+      "seasons": [
+        {
+          "edition": "Puchar Polski — finał 2",
+          "sourceOrder": 2,
+          "place": 2,
+          "opponent": "Dano Dream Team",
+          "score": "3:1",
+          "sets": "( 25:21, 21:25, 25:21, 25:20 )",
+          "result": "Finalista",
+          "teamId": "",
+          "opponentTeamId": ""
+        }
+      ]
+    },
+    "VC Kittens": {
+      "teamName": "VC Kittens",
+      "cups": 0,
+      "runnerUps": 1,
+      "finals": 1,
+      "bestPlace": 2,
+      "seasons": [
+        {
+          "edition": "Puchar Polski — finał 4",
+          "sourceOrder": 4,
+          "place": 2,
+          "opponent": "DHARMA Initiative",
+          "score": "3:2",
+          "sets": "( 25:23, 23:25, 29:27, 17:25, 15:13 )",
+          "result": "Finalista",
+          "teamId": "",
+          "opponentTeamId": ""
+        }
+      ]
+    },
+    "Volleyball Team Zduńska Wola": {
+      "teamName": "Volleyball Team Zduńska Wola",
+      "cups": 0,
+      "runnerUps": 1,
+      "finals": 1,
+      "bestPlace": 2,
+      "seasons": [
+        {
+          "edition": "Puchar Polski — finał 5",
+          "sourceOrder": 5,
+          "place": 2,
+          "opponent": "kiczan team zduńska wola",
+          "score": "3:0",
+          "sets": "( 25:21, 25:21, 25:20 )",
+          "result": "Finalista",
+          "teamId": "",
+          "opponentTeamId": ""
+        }
+      ]
+    }
+  },
+  "aliases": {
+    "KAC TEAM": "Incognito Volley"
+  }
+}
