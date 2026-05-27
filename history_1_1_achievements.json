@@ -1,0 +1,428 @@
+{
+  "generatedAt": "2026-05-27T17:24:14",
+  "source": "historyczna 1.1 CSV",
+  "seasonFiles": [
+    {
+      "season": "Historyczna 1.1 — sezon 1",
+      "sourceFile": "baza_1_1_season3.csv",
+      "dateFrom": "2024-12-10",
+      "dateTo": "2025-01-30",
+      "rows": 5330
+    },
+    {
+      "season": "Historyczna 1.1 — sezon 2",
+      "sourceFile": "baza_1_1_season4.csv",
+      "dateFrom": "2025-02-11",
+      "dateTo": "2025-04-03",
+      "rows": 5538
+    },
+    {
+      "season": "Historyczna 1.1 — sezon 3",
+      "sourceFile": "baza_1_1_season5.csv",
+      "dateFrom": "2025-04-15",
+      "dateTo": "2025-06-05",
+      "rows": 5162
+    },
+    {
+      "season": "Historyczna 1.1 — sezon 4",
+      "sourceFile": "baza_1_1_season6.csv",
+      "dateFrom": "2025-06-17",
+      "dateTo": "2025-08-07",
+      "rows": 5454
+    },
+    {
+      "season": "Historyczna 1.1 — sezon 5",
+      "sourceFile": "baza_1_1_season7.csv",
+      "dateFrom": "2025-08-19",
+      "dateTo": "2025-10-09",
+      "rows": 5545
+    },
+    {
+      "season": "Historyczna 1.1 — sezon 6",
+      "sourceFile": "baza_1_1_season8.csv",
+      "dateFrom": "2025-10-21",
+      "dateTo": "2025-12-11",
+      "rows": 5510
+    },
+    {
+      "season": "Historyczna 1.1 — sezon 7",
+      "sourceFile": "baza_1_1_season9.csv",
+      "dateFrom": "2025-12-23",
+      "dateTo": "2026-02-12",
+      "rows": 5523
+    },
+    {
+      "season": "Historyczna 1.1 — sezon 8",
+      "sourceFile": "baza_1_1_season10.csv",
+      "dateFrom": "2026-02-24",
+      "dateTo": "2026-04-16",
+      "rows": 5397
+    }
+  ],
+  "teams": {
+    "Carplife 🇵🇱": {
+      "teamName": "Carplife 🇵🇱",
+      "championships": 0,
+      "secondPlaces": 0,
+      "thirdPlaces": 1,
+      "podiums": 1,
+      "bestPlace": 3,
+      "seasons": [
+        {
+          "season": "Historyczna 1.1 — sezon 7",
+          "sourceFile": "baza_1_1_season9.csv",
+          "place": 3,
+          "points": 61,
+          "matches": 30,
+          "sets": "70:45",
+          "smallPoints": "2420:2222",
+          "dateFrom": "2025-12-23",
+          "dateTo": "2026-02-12"
+        }
+      ]
+    },
+    "Dano Dream Team": {
+      "teamName": "Dano Dream Team",
+      "championships": 1,
+      "secondPlaces": 1,
+      "thirdPlaces": 1,
+      "podiums": 3,
+      "bestPlace": 1,
+      "seasons": [
+        {
+          "season": "Historyczna 1.1 — sezon 6",
+          "sourceFile": "baza_1_1_season8.csv",
+          "place": 3,
+          "points": 69,
+          "matches": 30,
+          "sets": "78:38",
+          "smallPoints": "2473:2139",
+          "dateFrom": "2025-10-21",
+          "dateTo": "2025-12-11"
+        },
+        {
+          "season": "Historyczna 1.1 — sezon 7",
+          "sourceFile": "baza_1_1_season9.csv",
+          "place": 1,
+          "points": 69,
+          "matches": 30,
+          "sets": "80:37",
+          "smallPoints": "2451:2111",
+          "dateFrom": "2025-12-23",
+          "dateTo": "2026-02-12"
+        },
+        {
+          "season": "Historyczna 1.1 — sezon 8",
+          "sourceFile": "baza_1_1_season10.csv",
+          "place": 2,
+          "points": 76,
+          "matches": 30,
+          "sets": "83:32",
+          "smallPoints": "2480:2097",
+          "dateFrom": "2026-02-24",
+          "dateTo": "2026-04-16"
+        }
+      ]
+    },
+    "DHARMA Initiative": {
+      "teamName": "DHARMA Initiative",
+      "championships": 1,
+      "secondPlaces": 2,
+      "thirdPlaces": 2,
+      "podiums": 5,
+      "bestPlace": 1,
+      "seasons": [
+        {
+          "season": "Historyczna 1.1 — sezon 1",
+          "sourceFile": "baza_1_1_season3.csv",
+          "place": 3,
+          "points": 70,
+          "matches": 30,
+          "sets": "79:31",
+          "smallPoints": "2269:1878",
+          "dateFrom": "2024-12-10",
+          "dateTo": "2025-01-30"
+        },
+        {
+          "season": "Historyczna 1.1 — sezon 2",
+          "sourceFile": "baza_1_1_season4.csv",
+          "place": 2,
+          "points": 76,
+          "matches": 30,
+          "sets": "83:26",
+          "smallPoints": "2330:1915",
+          "dateFrom": "2025-02-11",
+          "dateTo": "2025-04-03"
+        },
+        {
+          "season": "Historyczna 1.1 — sezon 3",
+          "sourceFile": "baza_1_1_season5.csv",
+          "place": 1,
+          "points": 69,
+          "matches": 30,
+          "sets": "81:42",
+          "smallPoints": "2554:2236",
+          "dateFrom": "2025-04-15",
+          "dateTo": "2025-06-05"
+        },
+        {
+          "season": "Historyczna 1.1 — sezon 5",
+          "sourceFile": "baza_1_1_season7.csv",
+          "place": 3,
+          "points": 63,
+          "matches": 30,
+          "sets": "72:42",
+          "smallPoints": "2322:2100",
+          "dateFrom": "2025-08-19",
+          "dateTo": "2025-10-09"
+        },
+        {
+          "season": "Historyczna 1.1 — sezon 6",
+          "sourceFile": "baza_1_1_season8.csv",
+          "place": 2,
+          "points": 69,
+          "matches": 30,
+          "sets": "79:38",
+          "smallPoints": "2423:2115",
+          "dateFrom": "2025-10-21",
+          "dateTo": "2025-12-11"
+        }
+      ]
+    },
+    "Dzikie Rumaxy": {
+      "teamName": "Dzikie Rumaxy",
+      "championships": 1,
+      "secondPlaces": 0,
+      "thirdPlaces": 1,
+      "podiums": 2,
+      "bestPlace": 1,
+      "seasons": [
+        {
+          "season": "Historyczna 1.1 — sezon 1",
+          "sourceFile": "baza_1_1_season3.csv",
+          "place": 1,
+          "points": 81,
+          "matches": 30,
+          "sets": "86:24",
+          "smallPoints": "2391:1864",
+          "dateFrom": "2024-12-10",
+          "dateTo": "2025-01-30"
+        },
+        {
+          "season": "Historyczna 1.1 — sezon 2",
+          "sourceFile": "baza_1_1_season4.csv",
+          "place": 3,
+          "points": 70,
+          "matches": 30,
+          "sets": "79:33",
+          "smallPoints": "2389:2067",
+          "dateFrom": "2025-02-11",
+          "dateTo": "2025-04-03"
+        }
+      ]
+    },
+    "Incognito Volley": {
+      "teamName": "Incognito Volley",
+      "championships": 1,
+      "secondPlaces": 2,
+      "thirdPlaces": 1,
+      "podiums": 4,
+      "bestPlace": 1,
+      "seasons": [
+        {
+          "season": "Historyczna 1.1 — sezon 1",
+          "sourceFile": "baza_1_1_season3.csv",
+          "place": 2,
+          "points": 77,
+          "matches": 30,
+          "sets": "86:27",
+          "smallPoints": "2421:1789",
+          "dateFrom": "2024-12-10",
+          "dateTo": "2025-01-30"
+        },
+        {
+          "season": "Historyczna 1.1 — sezon 2",
+          "sourceFile": "baza_1_1_season4.csv",
+          "place": 1,
+          "points": 79,
+          "matches": 30,
+          "sets": "83:23",
+          "smallPoints": "2332:1796",
+          "dateFrom": "2025-02-11",
+          "dateTo": "2025-04-03"
+        },
+        {
+          "season": "Historyczna 1.1 — sezon 4",
+          "sourceFile": "baza_1_1_season6.csv",
+          "place": 2,
+          "points": 64,
+          "matches": 30,
+          "sets": "74:43",
+          "smallPoints": "2497:2284",
+          "dateFrom": "2025-06-17",
+          "dateTo": "2025-08-07"
+        },
+        {
+          "season": "Historyczna 1.1 — sezon 8",
+          "sourceFile": "baza_1_1_season10.csv",
+          "place": 3,
+          "points": 67,
+          "matches": 30,
+          "sets": "75:36",
+          "smallPoints": "2392:2088",
+          "dateFrom": "2026-02-24",
+          "dateTo": "2026-04-16"
+        }
+      ]
+    },
+    "kiczan team zduńska wola": {
+      "teamName": "kiczan team zduńska wola",
+      "championships": 0,
+      "secondPlaces": 1,
+      "thirdPlaces": 0,
+      "podiums": 1,
+      "bestPlace": 2,
+      "seasons": [
+        {
+          "season": "Historyczna 1.1 — sezon 3",
+          "sourceFile": "baza_1_1_season5.csv",
+          "place": 2,
+          "points": 65,
+          "matches": 30,
+          "sets": "76:36",
+          "smallPoints": "2391:2156",
+          "dateFrom": "2025-04-15",
+          "dateTo": "2025-06-05"
+        }
+      ]
+    },
+    "Kuźnia Byków": {
+      "teamName": "Kuźnia Byków",
+      "championships": 1,
+      "secondPlaces": 1,
+      "thirdPlaces": 0,
+      "podiums": 2,
+      "bestPlace": 1,
+      "seasons": [
+        {
+          "season": "Historyczna 1.1 — sezon 5",
+          "sourceFile": "baza_1_1_season7.csv",
+          "place": 2,
+          "points": 65,
+          "matches": 30,
+          "sets": "70:37",
+          "smallPoints": "2233:2044",
+          "dateFrom": "2025-08-19",
+          "dateTo": "2025-10-09"
+        },
+        {
+          "season": "Historyczna 1.1 — sezon 6",
+          "sourceFile": "baza_1_1_season8.csv",
+          "place": 1,
+          "points": 73,
+          "matches": 30,
+          "sets": "82:34",
+          "smallPoints": "2446:2158",
+          "dateFrom": "2025-10-21",
+          "dateTo": "2025-12-11"
+        }
+      ]
+    },
+    "Saracens": {
+      "teamName": "Saracens",
+      "championships": 1,
+      "secondPlaces": 0,
+      "thirdPlaces": 1,
+      "podiums": 2,
+      "bestPlace": 1,
+      "seasons": [
+        {
+          "season": "Historyczna 1.1 — sezon 3",
+          "sourceFile": "baza_1_1_season5.csv",
+          "place": 3,
+          "points": 65,
+          "matches": 30,
+          "sets": "75:36",
+          "smallPoints": "2363:2020",
+          "dateFrom": "2025-04-15",
+          "dateTo": "2025-06-05"
+        },
+        {
+          "season": "Historyczna 1.1 — sezon 4",
+          "sourceFile": "baza_1_1_season6.csv",
+          "place": 1,
+          "points": 70,
+          "matches": 30,
+          "sets": "81:38",
+          "smallPoints": "2521:2190",
+          "dateFrom": "2025-06-17",
+          "dateTo": "2025-08-07"
+        }
+      ]
+    },
+    "Smerfy": {
+      "teamName": "Smerfy",
+      "championships": 0,
+      "secondPlaces": 1,
+      "thirdPlaces": 0,
+      "podiums": 1,
+      "bestPlace": 2,
+      "seasons": [
+        {
+          "season": "Historyczna 1.1 — sezon 7",
+          "sourceFile": "baza_1_1_season9.csv",
+          "place": 2,
+          "points": 61,
+          "matches": 30,
+          "sets": "75:42",
+          "smallPoints": "2503:2154",
+          "dateFrom": "2025-12-23",
+          "dateTo": "2026-02-12"
+        }
+      ]
+    },
+    "VC Kittens": {
+      "teamName": "VC Kittens",
+      "championships": 2,
+      "secondPlaces": 0,
+      "thirdPlaces": 1,
+      "podiums": 3,
+      "bestPlace": 1,
+      "seasons": [
+        {
+          "season": "Historyczna 1.1 — sezon 4",
+          "sourceFile": "baza_1_1_season6.csv",
+          "place": 3,
+          "points": 63,
+          "matches": 30,
+          "sets": "79:44",
+          "smallPoints": "2583:2277",
+          "dateFrom": "2025-06-17",
+          "dateTo": "2025-08-07"
+        },
+        {
+          "season": "Historyczna 1.1 — sezon 5",
+          "sourceFile": "baza_1_1_season7.csv",
+          "place": 1,
+          "points": 72,
+          "matches": 30,
+          "sets": "80:32",
+          "smallPoints": "2364:2022",
+          "dateFrom": "2025-08-19",
+          "dateTo": "2025-10-09"
+        },
+        {
+          "season": "Historyczna 1.1 — sezon 8",
+          "sourceFile": "baza_1_1_season10.csv",
+          "place": 1,
+          "points": 76,
+          "matches": 30,
+          "sets": "83:29",
+          "smallPoints": "2434:2117",
+          "dateFrom": "2026-02-24",
+          "dateTo": "2026-04-16"
+        }
+      ]
+    }
+  }
+}
