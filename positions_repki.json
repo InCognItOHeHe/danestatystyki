@@ -1,3698 +1,4772 @@
 {
-  "Abecassis, Lino|153613": {
-    "pozycja": "Ś",
-    "teamId": "153613",
-    "playerId": "1767082",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Abel, Erkki|153612": {
-    "pozycja": "S",
-    "teamId": "153612",
-    "playerId": "1903477",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Achat, Harald-Peter|153596": {
-    "pozycja": "O",
-    "teamId": "153596",
-    "playerId": "1928034",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Acosta, Riccardo|153602": {
-    "pozycja": "Ś",
-    "teamId": "153602",
-    "playerId": "1905290",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Adams, Mike|153597": {
-    "pozycja": "O",
-    "teamId": "153597",
-    "playerId": "2003854",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Adar, Adnan|153617": {
-    "pozycja": "Ś",
-    "teamId": "153617",
-    "playerId": "1928286",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Admiraal, Gosse|153600": {
-    "pozycja": "P",
-    "teamId": "153600",
-    "playerId": "1904528",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Admiraal, Willem|153600": {
-    "pozycja": "P",
-    "teamId": "153600",
-    "playerId": "1950382",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Aerts, Jari|153600": {
-    "pozycja": "S",
-    "teamId": "153600",
-    "playerId": "1905338",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Aguado, Sancho|153598": {
-    "pozycja": "Ś",
-    "teamId": "153598",
-    "playerId": "1927752",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Aikawa, Tsumasaburo|153603": {
-    "pozycja": "P",
-    "teamId": "153603",
-    "playerId": "1865254",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Alac, Matija|153609": {
-    "pozycja": "Ś",
-    "teamId": "153609",
-    "playerId": "2032878",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Albescu, Valentini|153619": {
-    "pozycja": "L",
-    "teamId": "153619",
-    "playerId": "1975521",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Alcouffe, Marc|153617": {
-    "pozycja": "S",
-    "teamId": "153617",
-    "playerId": "1927264",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Alfano, Juan|153602": {
-    "pozycja": "S",
-    "teamId": "153602",
-    "playerId": "1928886",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Altenburg, Felix|153617": {
-    "pozycja": "L",
-    "teamId": "153617",
-    "playerId": "1928597",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Altera, Néstor|153602": {
-    "pozycja": "O",
-    "teamId": "153602",
-    "playerId": "1905302",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Amaral, Altino|153613": {
-    "pozycja": "L",
-    "teamId": "153613",
-    "playerId": "1950801",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Anchieta, Diego|153601": {
-    "pozycja": "Ś",
-    "teamId": "153601",
-    "playerId": "1928692",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Anders-Akinyemi, Henning|153596": {
-    "pozycja": "P",
-    "teamId": "153596",
-    "playerId": "1927483",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Anghelina, Constantin|153619": {
-    "pozycja": "Ś",
-    "teamId": "153619",
-    "playerId": "1950550",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Anocic, Vlado|153609": {
-    "pozycja": "P",
-    "teamId": "153609",
-    "playerId": "1928550",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Anrep, Gotthelf|153596": {
-    "pozycja": "S",
-    "teamId": "153596",
-    "playerId": "1864864",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Anrep, Marcus|153596": {
-    "pozycja": "P",
-    "teamId": "153596",
-    "playerId": "1745069",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Antinos, Pavlos|153605": {
-    "pozycja": "P",
-    "teamId": "153605",
-    "playerId": "1929307",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Arachovitis, Charalampos|153605": {
-    "pozycja": "Ś",
-    "teamId": "153605",
-    "playerId": "1950921",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Argenté, Gonzalo|153598": {
-    "pozycja": "S",
-    "teamId": "153598",
-    "playerId": "1928421",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Arnould, Luc-Henri|153595": {
-    "pozycja": "P",
-    "teamId": "153595",
-    "playerId": "1975577",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Arya, Tufan|153611": {
-    "pozycja": "P",
-    "teamId": "153611",
-    "playerId": "1904942",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Asel, Aslan|153611": {
-    "pozycja": "L",
-    "teamId": "153611",
-    "playerId": "1950848",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Ashton, Jacob|153614": {
-    "pozycja": "Ś",
-    "teamId": "153614",
-    "playerId": "1929135",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Asuela, Öner|153611": {
-    "pozycja": "Ś",
-    "teamId": "153611",
-    "playerId": "1725106",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Atik, Harm|153600": {
-    "pozycja": "P",
-    "teamId": "153600",
-    "playerId": "1949134",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Avelino, Otaviano|153617": {
-    "pozycja": "P",
-    "teamId": "153617",
-    "playerId": "2004097",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Avramov, Georgi|153599": {
-    "pozycja": "P",
-    "teamId": "153599",
-    "playerId": "1928845",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Aykut, Baykal|153611": {
-    "pozycja": "O",
-    "teamId": "153611",
-    "playerId": "1948952",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Babic, Svebor|153609": {
-    "pozycja": "P",
-    "teamId": "153609",
-    "playerId": "2002291",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Baeta, Joel|153601": {
-    "pozycja": "Ś",
-    "teamId": "153601",
-    "playerId": "1725025",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Bahúl, Ferdinand|153615": {
-    "pozycja": "P",
-    "teamId": "153615",
-    "playerId": "1904880",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Bakas, Raoul|153605": {
-    "pozycja": "Ś",
-    "teamId": "153605",
-    "playerId": "1950699",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Balkanski, Pavlin|153599": {
-    "pozycja": "P",
-    "teamId": "153599",
-    "playerId": "1928985",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Banu, Evrim|153611": {
-    "pozycja": "O",
-    "teamId": "153611",
-    "playerId": "1904325",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Bardon, Jean|153595": {
-    "pozycja": "P",
-    "teamId": "153595",
-    "playerId": "1927875",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Baudet, Sébastien|153595": {
-    "pozycja": "S",
-    "teamId": "153595",
-    "playerId": "1905864",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Beaudoin, Pascal|153595": {
-    "pozycja": "P",
-    "teamId": "153595",
-    "playerId": "1949784",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Bekić, Sanjin|153618": {
-    "pozycja": "Ś",
-    "teamId": "153618",
-    "playerId": "1928065",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Belkin, Villu|153612": {
-    "pozycja": "Ś",
-    "teamId": "153612",
-    "playerId": "1949043",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Benek, Şahin|153611": {
-    "pozycja": "S",
-    "teamId": "153611",
-    "playerId": "1709974",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Bergers, Spencer|153610": {
-    "pozycja": "Ś",
-    "teamId": "153610",
-    "playerId": "2003360",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Bernardo, Luciano|153613": {
-    "pozycja": "P",
-    "teamId": "153613",
-    "playerId": "1903984",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Beta, Laurentiu|153619": {
-    "pozycja": "P",
-    "teamId": "153619",
-    "playerId": "1974478",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Bettelheim, Gerald|153607": {
-    "pozycja": "O",
-    "teamId": "153607",
-    "playerId": "1929560",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Biegański, Adam|153593": {
-    "pozycja": "Ś",
-    "teamId": "153593",
-    "playerId": "1928039",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Bifu, Takenori|153603": {
-    "pozycja": "S",
-    "teamId": "153603",
-    "playerId": "1865491",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Bisogno, Teo|153594": {
-    "pozycja": "P",
-    "teamId": "153594",
-    "playerId": "1926932",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Blanchard, Ludovic|153595": {
-    "pozycja": "Ś",
-    "teamId": "153595",
-    "playerId": "1904898",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Blazek, Zdislav|153606": {
-    "pozycja": "O",
-    "teamId": "153606",
-    "playerId": "1767943",
-    "teamName": "Czech Republic",
-    "source": "national"
-  },
-  "Blažić, Cvetko|153620": {
-    "pozycja": "P",
-    "teamId": "153620",
-    "playerId": "1927365",
-    "teamName": "Slovenia",
-    "source": "national"
-  },
-  "Boczula, Krzysztof|153593": {
-    "pozycja": "Ś",
-    "teamId": "153593",
-    "playerId": "1904982",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Bogalho, Demétrio|153617": {
-    "pozycja": "S",
-    "teamId": "153617",
-    "playerId": "1767798",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Bont, Cor|153600": {
-    "pozycja": "Ś",
-    "teamId": "153600",
-    "playerId": "1950744",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Bosić, Vuk|153604": {
-    "pozycja": "Ś",
-    "teamId": "153604",
-    "playerId": "1951288",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Bottazzi, Federico|153594": {
-    "pozycja": "O",
-    "teamId": "153594",
-    "playerId": "1928235",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Bozhilov, Elin|153599": {
-    "pozycja": "Ś",
-    "teamId": "153599",
-    "playerId": "2060106",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Božovský, Eduard|153606": {
-    "pozycja": "P",
-    "teamId": "153606",
-    "playerId": "1865187",
-    "teamName": "Czech Republic",
-    "source": "national"
-  },
-  "Brenneman, Kristopher|153597": {
-    "pozycja": "L",
-    "teamId": "153597",
-    "playerId": "1950325",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Brilhante, Nuno|153613": {
-    "pozycja": "Ś",
-    "teamId": "153613",
-    "playerId": "1949892",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Brößler, Magnus|153596": {
-    "pozycja": "Ś",
-    "teamId": "153596",
-    "playerId": "1904598",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Brunner, Matthias|153600": {
-    "pozycja": "P",
-    "teamId": "153600",
-    "playerId": "2002548",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Brunner, Robert|153607": {
-    "pozycja": "Ś",
-    "teamId": "153607",
-    "playerId": "2060654",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Buchinger, Benedikt|153607": {
-    "pozycja": "Ś",
-    "teamId": "153607",
-    "playerId": "1950847",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Budimir, Ognjen|153618": {
-    "pozycja": "P",
-    "teamId": "153618",
-    "playerId": "1949870",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Bullard, Ryan|153597": {
-    "pozycja": "L",
-    "teamId": "153597",
-    "playerId": "1975164",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Bumbák, Milan|153615": {
-    "pozycja": "L",
-    "teamId": "153615",
-    "playerId": "2004237",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Búrzashki, Ivan|153599": {
+  "1681826|153599": {
     "pozycja": "L",
     "teamId": "153599",
     "playerId": "1681826",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Çağlayan, Olcayto|153611": {
-    "pozycja": "P",
-    "teamId": "153611",
-    "playerId": "1950434",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Cammell, Peter|153614": {
-    "pozycja": "O",
-    "teamId": "153614",
-    "playerId": "1949740",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Campello, Cristian|153601": {
-    "pozycja": "P",
-    "teamId": "153601",
-    "playerId": "1709575",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Campello, Wanderson|153601": {
-    "pozycja": "P",
-    "teamId": "153601",
-    "playerId": "1927955",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Canuto, Alberto|153601": {
-    "pozycja": "O",
-    "teamId": "153601",
-    "playerId": "1685989",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Capeletti, Diamantino|153613": {
-    "pozycja": "L",
-    "teamId": "153613",
-    "playerId": "1745330",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Cardell, Iván|153598": {
-    "pozycja": "O",
-    "teamId": "153598",
-    "playerId": "1975616",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Carnaghi, Fabrizio|153602": {
-    "pozycja": "P",
-    "teamId": "153602",
-    "playerId": "1949008",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Carvalho, Juan|153601": {
-    "pozycja": "L",
-    "teamId": "153601",
-    "playerId": "1929014",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Castant, Gabriel|153595": {
-    "pozycja": "P",
-    "teamId": "153595",
-    "playerId": "1950874",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Castex, Yves|153595": {
-    "pozycja": "L",
-    "teamId": "153595",
-    "playerId": "1951360",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Catão, Bruno|153613": {
-    "pozycja": "O",
-    "teamId": "153613",
-    "playerId": "1949867",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Cerqueira, Gerardo|153613": {
-    "pozycja": "P",
-    "teamId": "153613",
-    "playerId": "1974673",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Cestnik, Tom|153620": {
-    "pozycja": "O",
-    "teamId": "153620",
-    "playerId": "2059908",
-    "teamName": "Slovenia",
-    "source": "national"
-  },
-  "Changkai, Dai|153616": {
-    "pozycja": "S",
-    "teamId": "153616",
-    "playerId": "1949528",
-    "teamName": "China",
-    "source": "national"
-  },
-  "Charoupas, Andreas|153605": {
-    "pozycja": "S",
-    "teamId": "153605",
-    "playerId": "1976327",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Chernichenko, Rolf|153612": {
-    "pozycja": "P",
-    "teamId": "153612",
-    "playerId": "1929602",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Chufang, Keyi|153616": {
-    "pozycja": "P",
-    "teamId": "153616",
-    "playerId": "1951006",
-    "teamName": "China",
-    "source": "national"
-  },
-  "Chunxian, Hu|153616": {
-    "pozycja": "P",
-    "teamId": "153616",
-    "playerId": "1927728",
-    "teamName": "China",
-    "source": "national"
-  },
-  "Church, Bob|153614": {
-    "pozycja": "L",
-    "teamId": "153614",
-    "playerId": "1904391",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Chydenius, Pauli|153608": {
-    "pozycja": "P",
-    "teamId": "153608",
-    "playerId": "2032822",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Cigala, Fabiano|153594": {
-    "pozycja": "S",
-    "teamId": "153594",
-    "playerId": "1864573",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Coaña, Roberto|153598": {
-    "pozycja": "S",
-    "teamId": "153598",
-    "playerId": "1926930",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Codromaž, Leo|153620": {
-    "pozycja": "L",
-    "teamId": "153620",
-    "playerId": "1950308",
-    "teamName": "Slovenia",
-    "source": "national"
-  },
-  "Cosentino, Palito|153602": {
-    "pozycja": "P",
-    "teamId": "153602",
-    "playerId": "1976080",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Cristiano, Lorenzo|153594": {
-    "pozycja": "P",
-    "teamId": "153594",
-    "playerId": "1949098",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Cristiano, Orlando|153617": {
-    "pozycja": "P",
-    "teamId": "153617",
-    "playerId": "1864479",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Crnčić, Franjo|153620": {
-    "pozycja": "Ś",
-    "teamId": "153620",
-    "playerId": "2088133",
-    "teamName": "Slovenia",
-    "source": "national"
-  },
-  "Cromer, Matthäus|153607": {
-    "pozycja": "O",
-    "teamId": "153607",
-    "playerId": "1975877",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Czudaj, Bartosz|153593": {
-    "pozycja": "Ś",
-    "teamId": "153593",
-    "playerId": "1864912",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Dalay, Gökberk|153611": {
-    "pozycja": "L",
-    "teamId": "153611",
-    "playerId": "1975177",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Damjanović, Stanislav|153604": {
-    "pozycja": "O",
-    "teamId": "153604",
-    "playerId": "1976054",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Daniel, Giuseppino|153602": {
-    "pozycja": "Ś",
-    "teamId": "153602",
-    "playerId": "1905671",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Davis, Grady|153597": {
-    "pozycja": "Ś",
-    "teamId": "153597",
-    "playerId": "1928798",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "de Almeida, Salvador|153613": {
-    "pozycja": "S",
-    "teamId": "153613",
-    "playerId": "1927210",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "De Martínez, Héctor|153602": {
-    "pozycja": "L",
-    "teamId": "153602",
-    "playerId": "1905039",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "de Noronha, Caio|153617": {
-    "pozycja": "Ś",
-    "teamId": "153617",
-    "playerId": "1905703",
-    "teamName": "International",
-    "source": "national"
-  },
-  "de Sax, Alexei|153610": {
-    "pozycja": "Ś",
-    "teamId": "153610",
-    "playerId": "1928337",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Dedić, Belmin|153618": {
-    "pozycja": "S",
-    "teamId": "153618",
-    "playerId": "1904644",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Del Boca, Abel|153602": {
-    "pozycja": "P",
-    "teamId": "153602",
-    "playerId": "1904212",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Demiris, Themistoklis|153605": {
-    "pozycja": "S",
-    "teamId": "153605",
-    "playerId": "2032351",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Dettori, Astolfo|153594": {
-    "pozycja": "Ś",
-    "teamId": "153594",
-    "playerId": "1904825",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Di Gregorio, Orestes|153602": {
-    "pozycja": "L",
-    "teamId": "153602",
-    "playerId": "1948934",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Dick, Rafael|153597": {
-    "pozycja": "Ś",
-    "teamId": "153597",
-    "playerId": "1865788",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Diković, Benjamin|153609": {
-    "pozycja": "O",
-    "teamId": "153609",
-    "playerId": "2003060",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Diković, Izidor|153609": {
-    "pozycja": "O",
-    "teamId": "153609",
-    "playerId": "2060111",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Dimitreiescu, Neculai|153619": {
-    "pozycja": "P",
-    "teamId": "153619",
-    "playerId": "1903511",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Djurdjić, Mahir|153618": {
-    "pozycja": "L",
-    "teamId": "153618",
-    "playerId": "1927366",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Dochkov, Kiril|153599": {
-    "pozycja": "L",
-    "teamId": "153599",
-    "playerId": "1928347",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "dos Reis, Anderson|153601": {
-    "pozycja": "Ś",
-    "teamId": "153601",
-    "playerId": "1928848",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Drent, Robertus|153600": {
-    "pozycja": "O",
-    "teamId": "153600",
-    "playerId": "1976374",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Dubašák, Bohdan|153615": {
-    "pozycja": "P",
-    "teamId": "153615",
-    "playerId": "1929570",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Ďumbala, Ľudovít|153615": {
-    "pozycja": "O",
-    "teamId": "153615",
-    "playerId": "2060722",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Ďurica, László|153615": {
-    "pozycja": "Ś",
-    "teamId": "153615",
-    "playerId": "1767863",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Edwards, Jeremy|153614": {
-    "pozycja": "O",
-    "teamId": "153614",
-    "playerId": "2060395",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Emerton, Gilbert|153614": {
-    "pozycja": "S",
-    "teamId": "153614",
-    "playerId": "1709299",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Engelen, Richard|153610": {
-    "pozycja": "S",
-    "teamId": "153610",
-    "playerId": "1976894",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Entwistle, Freddie|153614": {
-    "pozycja": "Ś",
-    "teamId": "153614",
-    "playerId": "1976653",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Espinhel, Adriano|153613": {
-    "pozycja": "P",
-    "teamId": "153613",
-    "playerId": "1903403",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Espinosa, Ignacio|153598": {
-    "pozycja": "L",
-    "teamId": "153598",
-    "playerId": "2003481",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Fabuš, Radoslav|153615": {
-    "pozycja": "O",
-    "teamId": "153615",
-    "playerId": "2003877",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Falceto, Xurxo|153598": {
-    "pozycja": "L",
-    "teamId": "153598",
-    "playerId": "1904882",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Fasano, Ibsen|153601": {
-    "pozycja": "O",
-    "teamId": "153601",
-    "playerId": "1744844",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Fernandes, Antenor|153601": {
-    "pozycja": "P",
-    "teamId": "153601",
-    "playerId": "1905226",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Ferrandis, Constantino|153598": {
-    "pozycja": "P",
-    "teamId": "153598",
-    "playerId": "1928247",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Ferrobeira, Sandro|153613": {
-    "pozycja": "S",
-    "teamId": "153613",
-    "playerId": "1928107",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Fetto, Mattia|153617": {
-    "pozycja": "L",
-    "teamId": "153617",
-    "playerId": "1904871",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Flajs, Domen|153620": {
-    "pozycja": "P",
-    "teamId": "153620",
-    "playerId": "1864957",
-    "teamName": "Slovenia",
-    "source": "national"
-  },
-  "Fochler, Alf|153607": {
-    "pozycja": "P",
-    "teamId": "153607",
-    "playerId": "1975736",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Fohn, Hinrich|153596": {
-    "pozycja": "O",
-    "teamId": "153596",
-    "playerId": "1744746",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Forystek, Michał|153617": {
-    "pozycja": "O",
-    "teamId": "153617",
-    "playerId": "1974473",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Fotopoulos, Aggelos|153605": {
-    "pozycja": "S",
-    "teamId": "153605",
-    "playerId": "2003172",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Foulon, Jean|153595": {
-    "pozycja": "O",
-    "teamId": "153595",
-    "playerId": "1904752",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Fraga, Robles|153613": {
-    "pozycja": "L",
-    "teamId": "153613",
-    "playerId": "1974675",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Freed, Donald|153597": {
-    "pozycja": "P",
-    "teamId": "153597",
-    "playerId": "1948974",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Furkan, Devrim|153611": {
-    "pozycja": "Ś",
-    "teamId": "153611",
-    "playerId": "1929237",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Furlan, Thierry|153595": {
-    "pozycja": "Ś",
-    "teamId": "153595",
-    "playerId": "1865109",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Gallucci, Serafino|153594": {
-    "pozycja": "Ś",
-    "teamId": "153594",
-    "playerId": "1904897",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Galtelli, Carlo|153594": {
-    "pozycja": "P",
-    "teamId": "153594",
-    "playerId": "1905880",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Gálvez, Gerónimo|153602": {
-    "pozycja": "S",
-    "teamId": "153602",
-    "playerId": "1929523",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Gamboa, Emanuel|153602": {
-    "pozycja": "P",
-    "teamId": "153602",
-    "playerId": "1928909",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Gan, Tesshô|153603": {
-    "pozycja": "S",
-    "teamId": "153603",
-    "playerId": "1975989",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Garcia, Andres|153617": {
-    "pozycja": "S",
-    "teamId": "153617",
-    "playerId": "1950600",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Garcia, Patrick|153613": {
-    "pozycja": "P",
-    "teamId": "153613",
-    "playerId": "1976391",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Gavras, Elias|153605": {
-    "pozycja": "P",
-    "teamId": "153605",
-    "playerId": "1745092",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Gavrilov, Orlin|153599": {
-    "pozycja": "Ś",
-    "teamId": "153599",
-    "playerId": "1864300",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Geitel, Jotaarkka|153608": {
-    "pozycja": "S",
-    "teamId": "153608",
-    "playerId": "1951456",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Genty, Benoît|153595": {
-    "pozycja": "L",
-    "teamId": "153595",
-    "playerId": "1950428",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Gillet, Yann|153595": {
-    "pozycja": "O",
-    "teamId": "153595",
-    "playerId": "1865083",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Gimeno, Albino|153598": {
-    "pozycja": "O",
-    "teamId": "153598",
-    "playerId": "2003386",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Glavas, Jerko|153609": {
-    "pozycja": "P",
-    "teamId": "153609",
-    "playerId": "2060040",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Glenn, Michael|153597": {
-    "pozycja": "Ś",
-    "teamId": "153597",
-    "playerId": "1905218",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Gnaś, Rafał|153593": {
-    "pozycja": "O",
-    "teamId": "153593",
-    "playerId": "1864296",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Gobec, Matevž|153620": {
-    "pozycja": "P",
-    "teamId": "153620",
-    "playerId": "1948929",
-    "teamName": "Slovenia",
-    "source": "national"
-  },
-  "Gobec, Tom|153620": {
-    "pozycja": "P",
-    "teamId": "153620",
-    "playerId": "1904663",
-    "teamName": "Slovenia",
-    "source": "national"
-  },
-  "Gombrich, Viktor|153607": {
-    "pozycja": "Ś",
-    "teamId": "153607",
-    "playerId": "1975653",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Goncalves, Boudewijn|153600": {
-    "pozycja": "S",
-    "teamId": "153600",
-    "playerId": "1950405",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Görke, Alkan|153611": {
-    "pozycja": "P",
-    "teamId": "153611",
-    "playerId": "1905912",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Górski, Wojciech|153593": {
-    "pozycja": "S",
-    "teamId": "153593",
-    "playerId": "1865454",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Grabowski, Jarosław|153593": {
-    "pozycja": "P",
-    "teamId": "153593",
-    "playerId": "1927873",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Gray, Cameron|153614": {
-    "pozycja": "O",
-    "teamId": "153614",
-    "playerId": "2088002",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Greiner, Kaspar|153607": {
-    "pozycja": "P",
-    "teamId": "153607",
-    "playerId": "1905265",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Griflík, Olivér|153615": {
-    "pozycja": "Ś",
-    "teamId": "153615",
-    "playerId": "2004013",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Grozav, Stelian|153619": {
-    "pozycja": "P",
-    "teamId": "153619",
-    "playerId": "1926975",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Grumezescu, Henri|153619": {
-    "pozycja": "Ś",
-    "teamId": "153619",
-    "playerId": "1975617",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Guangpeng, Guoqiang|153616": {
-    "pozycja": "P",
-    "teamId": "153616",
-    "playerId": "1927729",
-    "teamName": "China",
-    "source": "national"
-  },
-  "Guarnieri, Tó|153613": {
-    "pozycja": "O",
-    "teamId": "153613",
-    "playerId": "1767866",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Guet, Francis|153595": {
-    "pozycja": "P",
-    "teamId": "153595",
-    "playerId": "1864536",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Guillén, Warly|153602": {
-    "pozycja": "O",
-    "teamId": "153602",
-    "playerId": "1903928",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Gusmão, Aventino|153613": {
-    "pozycja": "Ś",
-    "teamId": "153613",
-    "playerId": "1927855",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Guy, Jon|153597": {
-    "pozycja": "S",
-    "teamId": "153597",
-    "playerId": "1904435",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Gvozdenović, Andrija|153604": {
-    "pozycja": "S",
-    "teamId": "153604",
-    "playerId": "1928422",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Halinen, Claes|153608": {
-    "pozycja": "P",
-    "teamId": "153608",
-    "playerId": "1928234",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Hämäläinen, Carl-Adam|153608": {
-    "pozycja": "Ś",
-    "teamId": "153608",
-    "playerId": "1928496",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Hamı, Erkut|153611": {
-    "pozycja": "Ś",
-    "teamId": "153611",
-    "playerId": "2060168",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Hamuro, Atsunori|153603": {
-    "pozycja": "L",
-    "teamId": "153603",
-    "playerId": "1904713",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Hannen, Jack|153614": {
-    "pozycja": "P",
-    "teamId": "153614",
-    "playerId": "1950469",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Hansell, Noel|153597": {
-    "pozycja": "S",
-    "teamId": "153597",
-    "playerId": "1904434",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Härm, Niilo|153612": {
-    "pozycja": "O",
-    "teamId": "153612",
-    "playerId": "1904823",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Hartland, Rijk|153600": {
-    "pozycja": "O",
-    "teamId": "153600",
-    "playerId": "1976412",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Haslinger, Oscar|153607": {
-    "pozycja": "O",
-    "teamId": "153607",
-    "playerId": "1929226",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Hatz, Manfred|153607": {
-    "pozycja": "Ś",
-    "teamId": "153607",
-    "playerId": "2032910",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Haug, Aldis|153612": {
-    "pozycja": "Ś",
-    "teamId": "153612",
-    "playerId": "1975780",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Hegedusic, Zivko|153609": {
-    "pozycja": "S",
-    "teamId": "153609",
-    "playerId": "2088181",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Hella, Donald|153610": {
-    "pozycja": "Ś",
-    "teamId": "153610",
-    "playerId": "1950915",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Hellmich, Armin|153607": {
-    "pozycja": "L",
-    "teamId": "153607",
-    "playerId": "1928510",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Hicks, Louis|153614": {
-    "pozycja": "O",
-    "teamId": "153614",
-    "playerId": "1864879",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Hilla, Tarsaci|153598": {
-    "pozycja": "Ś",
-    "teamId": "153598",
-    "playerId": "1974463",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Hillebrand, Oliver|153607": {
-    "pozycja": "P",
-    "teamId": "153607",
-    "playerId": "2004110",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Hirschmann, Heino|153607": {
-    "pozycja": "Ś",
-    "teamId": "153607",
-    "playerId": "1975742",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Holguin, Calvin|153597": {
-    "pozycja": "S",
-    "teamId": "153597",
-    "playerId": "1724993",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Holland, Anthony|153614": {
-    "pozycja": "Ś",
-    "teamId": "153614",
-    "playerId": "1976388",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Hongjian, Toshirô|153616": {
-    "pozycja": "P",
-    "teamId": "153616",
-    "playerId": "1929261",
-    "teamName": "China",
-    "source": "national"
-  },
-  "Hongkai, Rongrong|153616": {
-    "pozycja": "P",
-    "teamId": "153616",
-    "playerId": "1929106",
-    "teamName": "China",
-    "source": "national"
-  },
-  "Hoogzaad, Jules|153600": {
-    "pozycja": "Ś",
-    "teamId": "153600",
-    "playerId": "1974585",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Hozumi, Tomoaki|153603": {
-    "pozycja": "O",
-    "teamId": "153603",
-    "playerId": "1767965",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Hrusínský, Toman|153606": {
-    "pozycja": "P",
-    "teamId": "153606",
-    "playerId": "1905461",
-    "teamName": "Czech Republic",
-    "source": "national"
-  },
-  "Hrzica, Relja|153609": {
-    "pozycja": "L",
-    "teamId": "153609",
-    "playerId": "1928476",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Hudziak, Sławomir|153593": {
-    "pozycja": "Ś",
-    "teamId": "153593",
-    "playerId": "1904499",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Hürrem, Veli|153611": {
-    "pozycja": "L",
-    "teamId": "153611",
-    "playerId": "1686107",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Hurtt, Zach|153597": {
-    "pozycja": "O",
-    "teamId": "153597",
-    "playerId": "1929026",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Idanha, Gregório|153613": {
-    "pozycja": "S",
-    "teamId": "153613",
-    "playerId": "1927870",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Inagaki, Tsumasaburo|153603": {
-    "pozycja": "P",
-    "teamId": "153603",
-    "playerId": "1928939",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Iorga, Anton|153619": {
-    "pozycja": "Ś",
-    "teamId": "153619",
-    "playerId": "1929075",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Isidro, Ildeberto|153613": {
-    "pozycja": "P",
-    "teamId": "153613",
-    "playerId": "1976043",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Işil, Semih|153611": {
-    "pozycja": "Ś",
-    "teamId": "153611",
-    "playerId": "1975894",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Jakubik, Stanisław|153593": {
-    "pozycja": "P",
-    "teamId": "153593",
-    "playerId": "1976410",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Janvier, Philippe|153595": {
-    "pozycja": "S",
-    "teamId": "153595",
-    "playerId": "1864966",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Jareš, Tibor|153606": {
-    "pozycja": "Ś",
-    "teamId": "153606",
-    "playerId": "1724889",
-    "teamName": "Czech Republic",
-    "source": "national"
-  },
-  "Järventie, Joosua|153608": {
-    "pozycja": "P",
-    "teamId": "153608",
-    "playerId": "2002408",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Jauregui, Fernando|153598": {
-    "pozycja": "Ś",
-    "teamId": "153598",
-    "playerId": "1929598",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Jelar, Tom|153620": {
-    "pozycja": "L",
-    "teamId": "153620",
-    "playerId": "2060450",
-    "teamName": "Slovenia",
-    "source": "national"
-  },
-  "Jelusic, Zvonimir|153609": {
-    "pozycja": "Ś",
-    "teamId": "153609",
-    "playerId": "1951275",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Jirácek, Antonín|153606": {
-    "pozycja": "O",
-    "teamId": "153606",
-    "playerId": "1951185",
-    "teamName": "Czech Republic",
-    "source": "national"
-  },
-  "Johnson, Kevin|153617": {
-    "pozycja": "Ś",
-    "teamId": "153617",
-    "playerId": "1904420",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Jordan, Louis|153614": {
-    "pozycja": "P",
-    "teamId": "153614",
-    "playerId": "1949107",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Jovanović, Faris|153618": {
-    "pozycja": "S",
-    "teamId": "153618",
-    "playerId": "1865404",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Jovičić, Slavko|153604": {
-    "pozycja": "S",
-    "teamId": "153604",
-    "playerId": "1864959",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Jun, Kuang-chao|153616": {
-    "pozycja": "P",
-    "teamId": "153616",
-    "playerId": "1976194",
-    "teamName": "China",
-    "source": "national"
-  },
-  "Kabengele, Guido|153610": {
-    "pozycja": "P",
-    "teamId": "153610",
-    "playerId": "1926952",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Kaipainen, Cisse|153608": {
-    "pozycja": "Ś",
-    "teamId": "153608",
-    "playerId": "1950003",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Kaltenböck, Volkmar|153607": {
-    "pozycja": "O",
-    "teamId": "153607",
-    "playerId": "2003698",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Kapetanakis, Mimis|153605": {
-    "pozycja": "L",
-    "teamId": "153605",
-    "playerId": "1976031",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Kapor, Denis|153609": {
-    "pozycja": "O",
-    "teamId": "153609",
-    "playerId": "2003488",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Kapor, Kristjan|153609": {
-    "pozycja": "L",
-    "teamId": "153609",
-    "playerId": "1928583",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Kapten, Ervin|153612": {
-    "pozycja": "O",
-    "teamId": "153612",
-    "playerId": "1929446",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Karadachki, Vasil|153599": {
-    "pozycja": "S",
-    "teamId": "153599",
-    "playerId": "1865328",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Karamanis, Vlassis|153605": {
-    "pozycja": "P",
-    "teamId": "153605",
-    "playerId": "1745227",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Karamatić, Amar|153618": {
-    "pozycja": "P",
-    "teamId": "153618",
-    "playerId": "1904229",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Karubo, Tamasaburo|153603": {
-    "pozycja": "P",
-    "teamId": "153603",
-    "playerId": "1949031",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Kaufman, Ken|153614": {
-    "pozycja": "P",
-    "teamId": "153614",
-    "playerId": "1929080",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Kaurismäki, Kullervo|153608": {
-    "pozycja": "Ś",
-    "teamId": "153608",
-    "playerId": "1975683",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Kavalekas, Orfeas|153605": {
-    "pozycja": "Ś",
-    "teamId": "153605",
-    "playerId": "1976654",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Kazama, Ginzô|153603": {
-    "pozycja": "Ś",
-    "teamId": "153603",
-    "playerId": "1903422",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Kejklíček, Jakub|153606": {
-    "pozycja": "L",
-    "teamId": "153606",
-    "playerId": "2003054",
-    "teamName": "Czech Republic",
-    "source": "national"
-  },
-  "Kibuspuu, Ote|153612": {
-    "pozycja": "S",
-    "teamId": "153612",
-    "playerId": "1928726",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Kipouros, Traianos|153605": {
-    "pozycja": "L",
-    "teamId": "153605",
-    "playerId": "2003733",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Kirov, Petar|153599": {
-    "pozycja": "P",
-    "teamId": "153599",
-    "playerId": "1928799",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Kocic, Dimitrij|153620": {
-    "pozycja": "O",
-    "teamId": "153620",
-    "playerId": "1865203",
-    "teamName": "Slovenia",
-    "source": "national"
-  },
-  "Koemets, Ruut|153612": {
-    "pozycja": "P",
-    "teamId": "153612",
-    "playerId": "1951115",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Kokkonen, Esa-Pekka|153608": {
-    "pozycja": "O",
-    "teamId": "153608",
-    "playerId": "1928131",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Kolacić, Žarko|153604": {
-    "pozycja": "Ś",
-    "teamId": "153604",
-    "playerId": "2003328",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Konieczny, Marcin|153593": {
-    "pozycja": "P",
-    "teamId": "153593",
-    "playerId": "1904978",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Kosev, Kiril|153599": {
-    "pozycja": "O",
-    "teamId": "153599",
-    "playerId": "1975836",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Kovjenič, Lovro|153620": {
-    "pozycja": "S",
-    "teamId": "153620",
-    "playerId": "1865246",
-    "teamName": "Slovenia",
-    "source": "national"
-  },
-  "Kozłowski, Zbigniew|153593": {
-    "pozycja": "P",
-    "teamId": "153593",
-    "playerId": "1949018",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Krcmar, Ajdin|153618": {
-    "pozycja": "O",
-    "teamId": "153618",
-    "playerId": "1905277",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Krska, Capek|153606": {
-    "pozycja": "P",
-    "teamId": "153606",
-    "playerId": "1904865",
-    "teamName": "Czech Republic",
-    "source": "national"
-  },
-  "Kršmanović, Kerim|153618": {
-    "pozycja": "Ś",
-    "teamId": "153618",
-    "playerId": "1929528",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Laas, Eino|153612": {
-    "pozycja": "L",
-    "teamId": "153612",
-    "playerId": "1950779",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Lambert, Nicolas|153595": {
-    "pozycja": "P",
-    "teamId": "153595",
-    "playerId": "1905210",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Lambertini, Osvaldo|153601": {
-    "pozycja": "L",
-    "teamId": "153601",
-    "playerId": "1904974",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Lanckacker, Auke|153610": {
-    "pozycja": "L",
-    "teamId": "153610",
-    "playerId": "1951252",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Landriscina, Santiago|153602": {
-    "pozycja": "P",
-    "teamId": "153602",
-    "playerId": "1928457",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Lanhoso, António|153613": {
-    "pozycja": "P",
-    "teamId": "153613",
-    "playerId": "1903750",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Larsen, Dan|153597": {
-    "pozycja": "Ś",
-    "teamId": "153597",
-    "playerId": "1904407",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Latovlevici, Dracul|153619": {
-    "pozycja": "S",
-    "teamId": "153619",
-    "playerId": "1928196",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Laustela, Tommi|153608": {
-    "pozycja": "Ś",
-    "teamId": "153608",
-    "playerId": "1974576",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Lazić, Mate|153618": {
-    "pozycja": "P",
-    "teamId": "153618",
-    "playerId": "1725076",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Lecomte, Samuel|153595": {
-    "pozycja": "S",
-    "teamId": "153595",
-    "playerId": "1865085",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Lehepuu, Kurni|153612": {
-    "pozycja": "Ś",
-    "teamId": "153612",
-    "playerId": "1864875",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Lemnaru, Christian|153619": {
-    "pozycja": "L",
-    "teamId": "153619",
-    "playerId": "1975967",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Leone, Fabrício|153601": {
-    "pozycja": "S",
-    "teamId": "153601",
-    "playerId": "1904269",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Lianting, Xin-Gang|153616": {
-    "pozycja": "Ś",
-    "teamId": "153616",
-    "playerId": "1905214",
-    "teamName": "China",
-    "source": "national"
-  },
-  "Ligtvoet, Dominique|153600": {
-    "pozycja": "Ś",
-    "teamId": "153600",
-    "playerId": "2002290",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Lima, Bebeto|153617": {
-    "pozycja": "P",
-    "teamId": "153617",
-    "playerId": "1864480",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Lindinger, Austin|153607": {
-    "pozycja": "Ś",
-    "teamId": "153607",
-    "playerId": "1950524",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Lirca, Liviu|153619": {
-    "pozycja": "P",
-    "teamId": "153619",
-    "playerId": "1949874",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Liveric, Nedjeljko|153609": {
-    "pozycja": "O",
-    "teamId": "153609",
-    "playerId": "1865113",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Longueira, Oscar|153598": {
-    "pozycja": "P",
-    "teamId": "153598",
-    "playerId": "1949032",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Louzada, Harley|153601": {
-    "pozycja": "P",
-    "teamId": "153601",
-    "playerId": "1865135",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Luca, Toni|153594": {
-    "pozycja": "L",
-    "teamId": "153594",
-    "playerId": "1904542",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Luchev, Stoyan|153599": {
-    "pozycja": "P",
-    "teamId": "153599",
-    "playerId": "1864253",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Lupei, Aurel|153619": {
-    "pozycja": "O",
-    "teamId": "153619",
-    "playerId": "1865818",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Lyytinen, Petteri|153608": {
-    "pozycja": "O",
-    "teamId": "153608",
-    "playerId": "1745146",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Łukaszewski, Łukasz|153593": {
-    "pozycja": "Ś",
-    "teamId": "153593",
-    "playerId": "1929119",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Maalismaa, Ossi|153608": {
-    "pozycja": "Ś",
-    "teamId": "153608",
-    "playerId": "2060263",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Macron, Colin|153595": {
-    "pozycja": "Ś",
-    "teamId": "153595",
-    "playerId": "1745058",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Maehle, Matthias|153596": {
-    "pozycja": "L",
-    "teamId": "153596",
-    "playerId": "1927749",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Majcher, Michał|153593": {
-    "pozycja": "O",
-    "teamId": "153593",
-    "playerId": "1928473",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Maksimović, Arman|153618": {
-    "pozycja": "L",
-    "teamId": "153618",
-    "playerId": "1976073",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Makulis, Achilleas|153605": {
-    "pozycja": "P",
-    "teamId": "153605",
-    "playerId": "2003654",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Malloy, Shad|153597": {
-    "pozycja": "P",
-    "teamId": "153597",
-    "playerId": "1904441",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Mamele, Ludovic|153619": {
-    "pozycja": "S",
-    "teamId": "153619",
-    "playerId": "2032695",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Marola, Samuel|153598": {
-    "pozycja": "P",
-    "teamId": "153598",
-    "playerId": "1929120",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Mathioudakis, Lykourgos|153605": {
-    "pozycja": "P",
-    "teamId": "153605",
-    "playerId": "1928588",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Matoušek, Ernest|153606": {
-    "pozycja": "Ś",
-    "teamId": "153606",
-    "playerId": "1904438",
-    "teamName": "Czech Republic",
-    "source": "national"
-  },
-  "Maujean, Gérard|153595": {
-    "pozycja": "Ś",
-    "teamId": "153595",
-    "playerId": "1904944",
-    "teamName": "France",
-    "source": "national"
-  },
-  "McClelland, Rodney|153614": {
-    "pozycja": "L",
-    "teamId": "153614",
-    "playerId": "1928192",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Mechernich, Herbert|153596": {
-    "pozycja": "L",
-    "teamId": "153596",
-    "playerId": "1928979",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Mečiar, Gašpar|153615": {
-    "pozycja": "O",
-    "teamId": "153615",
-    "playerId": "1976172",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Meissnitzer, Niclas|153607": {
-    "pozycja": "P",
-    "teamId": "153607",
-    "playerId": "1974604",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Melina, Urbano|153594": {
-    "pozycja": "S",
-    "teamId": "153594",
-    "playerId": "1976037",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Mihočko, Bruno|153615": {
-    "pozycja": "Ś",
-    "teamId": "153615",
-    "playerId": "2060676",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Milovanović, Dejan|153604": {
-    "pozycja": "P",
-    "teamId": "153604",
-    "playerId": "1950811",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Mimura, Ryoji|153603": {
-    "pozycja": "Ś",
-    "teamId": "153603",
-    "playerId": "1904500",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Minguang, Wyott|153616": {
-    "pozycja": "L",
-    "teamId": "153616",
-    "playerId": "1864555",
-    "teamName": "China",
-    "source": "national"
-  },
-  "Miranda, Nicolau|153613": {
-    "pozycja": "P",
-    "teamId": "153613",
-    "playerId": "1976659",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Miyazaki, Kôjiro|153603": {
-    "pozycja": "Ś",
-    "teamId": "153603",
-    "playerId": "2003486",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Mladenov, Tzvetan|153599": {
-    "pozycja": "P",
-    "teamId": "153599",
-    "playerId": "1928667",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Mladić, Milutin|153604": {
-    "pozycja": "Ś",
-    "teamId": "153604",
-    "playerId": "1975956",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Mochizuki, Yuuharu|153603": {
-    "pozycja": "Ś",
-    "teamId": "153603",
-    "playerId": "1975437",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Montenegro, Germán|153602": {
-    "pozycja": "P",
-    "teamId": "153602",
-    "playerId": "1951375",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Morais, Fábio|153601": {
-    "pozycja": "Ś",
-    "teamId": "153601",
-    "playerId": "1744625",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Mourier, Florian|153595": {
-    "pozycja": "L",
-    "teamId": "153595",
-    "playerId": "1864925",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Mpaxevanos, Omiros|153605": {
-    "pozycja": "Ś",
-    "teamId": "153605",
-    "playerId": "2003766",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Mráka, Ondřej|153606": {
-    "pozycja": "O",
-    "teamId": "153606",
-    "playerId": "1950903",
-    "teamName": "Czech Republic",
-    "source": "national"
-  },
-  "Mucci, Mario|153602": {
-    "pozycja": "S",
-    "teamId": "153602",
-    "playerId": "1709653",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Muhel, Margus|153612": {
-    "pozycja": "L",
-    "teamId": "153612",
-    "playerId": "1928154",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Muñoz, Lolo|153598": {
-    "pozycja": "P",
-    "teamId": "153598",
-    "playerId": "2003464",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Murawski, Bartosz|153593": {
-    "pozycja": "Ś",
-    "teamId": "153593",
-    "playerId": "1745557",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Murko, Nikola|153620": {
-    "pozycja": "Ś",
-    "teamId": "153620",
-    "playerId": "1974639",
-    "teamName": "Slovenia",
-    "source": "national"
-  },
-  "Mutu, Marku|153619": {
-    "pozycja": "S",
-    "teamId": "153619",
-    "playerId": "1976595",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Nagtglas, Winfried|153600": {
-    "pozycja": "Ś",
-    "teamId": "153600",
-    "playerId": "1905172",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Nájera, Carles|153598": {
-    "pozycja": "L",
-    "teamId": "153598",
-    "playerId": "2003623",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Nakadoi, Sho|153603": {
-    "pozycja": "P",
-    "teamId": "153603",
-    "playerId": "1976913",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Nelson, Jessie|153617": {
-    "pozycja": "O",
-    "teamId": "153617",
-    "playerId": "1865812",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Nepomuceno, Armando|153601": {
-    "pozycja": "P",
-    "teamId": "153601",
-    "playerId": "1927030",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Neves, Damião|153601": {
-    "pozycja": "O",
-    "teamId": "153601",
-    "playerId": "1865435",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Nicasio, Mario|153602": {
-    "pozycja": "Ś",
-    "teamId": "153602",
-    "playerId": "1904311",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Niemistö, Jere|153608": {
-    "pozycja": "L",
-    "teamId": "153608",
-    "playerId": "2004272",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Noble, Trevor|153597": {
-    "pozycja": "Ś",
-    "teamId": "153597",
-    "playerId": "1928290",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Nool, Märt|153612": {
-    "pozycja": "L",
-    "teamId": "153612",
-    "playerId": "1950343",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Noormägi, Ludvig|153612": {
-    "pozycja": "P",
-    "teamId": "153612",
-    "playerId": "2004052",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Northwood, Patrick|153614": {
-    "pozycja": "Ś",
-    "teamId": "153614",
-    "playerId": "2003866",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Nunez, Jake|153617": {
-    "pozycja": "O",
-    "teamId": "153617",
-    "playerId": "1744886",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Odar, Ragnar|153612": {
-    "pozycja": "O",
-    "teamId": "153612",
-    "playerId": "1724725",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Oese, Kurni|153612": {
-    "pozycja": "P",
-    "teamId": "153612",
-    "playerId": "1905845",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Oizumi, Rokusaburo|153603": {
-    "pozycja": "P",
-    "teamId": "153603",
-    "playerId": "1864438",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Okoński, Jan|153593": {
-    "pozycja": "P",
-    "teamId": "153593",
-    "playerId": "1928029",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Olaerts, Neo|153610": {
-    "pozycja": "Ś",
-    "teamId": "153610",
-    "playerId": "1976356",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Olcay, Baran|153611": {
-    "pozycja": "L",
-    "teamId": "153611",
-    "playerId": "1949903",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Olsson, Antti-Jussi|153608": {
-    "pozycja": "L",
-    "teamId": "153608",
-    "playerId": "1904975",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Önay, Furkan|153611": {
-    "pozycja": "Ś",
-    "teamId": "153611",
-    "playerId": "1928130",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Onetto, Roldán|153602": {
-    "pozycja": "Ś",
-    "teamId": "153602",
-    "playerId": "1904779",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Onohara, Kiiton|153603": {
-    "pozycja": "S",
-    "teamId": "153603",
-    "playerId": "1864112",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Onzia, Stijn|153610": {
-    "pozycja": "O",
-    "teamId": "153610",
-    "playerId": "2004151",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Orro, Väino|153612": {
-    "pozycja": "Ś",
-    "teamId": "153612",
-    "playerId": "1767055",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Örsan, Ayberk|153611": {
-    "pozycja": "O",
-    "teamId": "153611",
-    "playerId": "1929558",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Ostendorff, Andreas|153596": {
-    "pozycja": "S",
-    "teamId": "153596",
-    "playerId": "1903994",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Pajares, Ioritz|153598": {
-    "pozycja": "P",
-    "teamId": "153598",
-    "playerId": "1975696",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Pajer, Vojko|153609": {
-    "pozycja": "S",
-    "teamId": "153609",
-    "playerId": "2088295",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Palmu, Jaakko|153608": {
-    "pozycja": "L",
-    "teamId": "153608",
-    "playerId": "2002316",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Papilias, Yiotis|153605": {
-    "pozycja": "Ś",
-    "teamId": "153605",
-    "playerId": "1975858",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Pardon, Daniel|153595": {
-    "pozycja": "O",
-    "teamId": "153595",
-    "playerId": "1974416",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Parikka, Ville|153608": {
-    "pozycja": "P",
-    "teamId": "153608",
-    "playerId": "1904423",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Pastureau, René|153595": {
-    "pozycja": "Ś",
-    "teamId": "153595",
-    "playerId": "1864270",
-    "teamName": "France",
-    "source": "national"
-  },
-  "Paunero, Miguel|153602": {
-    "pozycja": "Ś",
-    "teamId": "153602",
-    "playerId": "1950697",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Pavlović, Veselin|153604": {
-    "pozycja": "P",
-    "teamId": "153604",
-    "playerId": "1950852",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Pawelczyk, Filip|153593": {
-    "pozycja": "P",
-    "teamId": "153593",
-    "playerId": "1950135",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Pearce, Kit|153614": {
-    "pozycja": "Ś",
-    "teamId": "153614",
-    "playerId": "1950455",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Pelıt, Aras|153611": {
-    "pozycja": "P",
-    "teamId": "153611",
-    "playerId": "1975442",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Penksa, Gejza|153615": {
-    "pozycja": "Ś",
-    "teamId": "153615",
-    "playerId": "1928252",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Peychev, Alexander|153599": {
-    "pozycja": "S",
-    "teamId": "153599",
-    "playerId": "1865330",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Pękala, Robert|153593": {
-    "pozycja": "L",
-    "teamId": "153593",
-    "playerId": "1950228",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Piirainen, Thomas|153608": {
-    "pozycja": "O",
-    "teamId": "153608",
-    "playerId": "2032122",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Piscanu, Constantin|153619": {
-    "pozycja": "O",
-    "teamId": "153619",
-    "playerId": "1864459",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Pita, Jacques|153601": {
-    "pozycja": "S",
-    "teamId": "153601",
-    "playerId": "1950000",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Pitkänen, Lauri|153608": {
-    "pozycja": "S",
-    "teamId": "153608",
-    "playerId": "2088182",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Plasterk, Jernst|153600": {
-    "pozycja": "O",
-    "teamId": "153600",
-    "playerId": "1976375",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Poeder, Lou|153600": {
-    "pozycja": "L",
-    "teamId": "153600",
-    "playerId": "1929522",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Popović, Dimitrije|153604": {
-    "pozycja": "P",
-    "teamId": "153604",
-    "playerId": "1976260",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Prim, Thierry|153610": {
-    "pozycja": "L",
-    "teamId": "153610",
-    "playerId": "2060180",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Pršo, Borko|153609": {
-    "pozycja": "Ś",
-    "teamId": "153609",
-    "playerId": "2032636",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Purece, Răzvan|153619": {
-    "pozycja": "P",
-    "teamId": "153619",
-    "playerId": "1951352",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Quadros, Fabrício|153601": {
-    "pozycja": "Ś",
-    "teamId": "153601",
-    "playerId": "1905437",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Quagliotti, Fiorenzo|153594": {
-    "pozycja": "L",
-    "teamId": "153594",
-    "playerId": "1950866",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Quataert, Siegfried|153610": {
-    "pozycja": "L",
-    "teamId": "153610",
-    "playerId": "1929499",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Quiriti, Angelo|153617": {
-    "pozycja": "O",
-    "teamId": "153617",
-    "playerId": "1927865",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Rabbering, Boy|153600": {
-    "pozycja": "L",
-    "teamId": "153600",
-    "playerId": "1929041",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Rada, Andrei|153619": {
-    "pozycja": "Ś",
-    "teamId": "153619",
-    "playerId": "1905272",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Radan, Primož|153620": {
-    "pozycja": "L",
-    "teamId": "153620",
-    "playerId": "1745383",
-    "teamName": "Slovenia",
-    "source": "national"
-  },
-  "Rafelsberger, Wolfgang|153607": {
-    "pozycja": "S",
-    "teamId": "153607",
-    "playerId": "1905688",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Raiciu, Fane|153619": {
-    "pozycja": "P",
-    "teamId": "153619",
-    "playerId": "2002376",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Rakić, Srdjan|153604": {
-    "pozycja": "L",
-    "teamId": "153604",
-    "playerId": "1949776",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Ranisavljević, Marko|153604": {
-    "pozycja": "Ś",
-    "teamId": "153604",
-    "playerId": "1976740",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Rapčan, Ervín|153615": {
-    "pozycja": "Ś",
-    "teamId": "153615",
-    "playerId": "2059902",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Redondo, André|153613": {
-    "pozycja": "Ś",
-    "teamId": "153613",
-    "playerId": "1865208",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Reinbusch, Aare|153612": {
-    "pozycja": "P",
-    "teamId": "153612",
-    "playerId": "2004301",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Renier, Pol|153610": {
-    "pozycja": "Ś",
-    "teamId": "153610",
-    "playerId": "1976214",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Riley, Frank|153614": {
-    "pozycja": "S",
-    "teamId": "153614",
-    "playerId": "1974588",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Ritthaler, Tino|153596": {
-    "pozycja": "P",
-    "teamId": "153596",
-    "playerId": "1865508",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Rivera, Scott|153617": {
-    "pozycja": "O",
-    "teamId": "153617",
-    "playerId": "1905803",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Rocchio, Pete|153597": {
-    "pozycja": "L",
-    "teamId": "153597",
-    "playerId": "1976044",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Rolla, Miguel|153617": {
-    "pozycja": "P",
-    "teamId": "153617",
-    "playerId": "1976658",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Salazar, Aldonio|153613": {
-    "pozycja": "O",
-    "teamId": "153613",
-    "playerId": "1928917",
-    "teamName": "Portugal",
-    "source": "national"
-  },
-  "Salden, Lukas|153600": {
-    "pozycja": "Ś",
-    "teamId": "153600",
-    "playerId": "1975747",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Salzer, Dominik|153607": {
-    "pozycja": "L",
-    "teamId": "153607",
-    "playerId": "2004047",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Sánchez, Silvestre|153602": {
-    "pozycja": "S",
-    "teamId": "153602",
-    "playerId": "2060034",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Savio, Arcangelo|153594": {
-    "pozycja": "Ś",
-    "teamId": "153594",
-    "playerId": "1929008",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Schimmer, Bernd|153596": {
-    "pozycja": "P",
-    "teamId": "153596",
-    "playerId": "1928916",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Schrijver, Nout|153600": {
-    "pozycja": "P",
-    "teamId": "153600",
-    "playerId": "2003132",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Schüßler, Siegmar|153596": {
-    "pozycja": "O",
-    "teamId": "153596",
-    "playerId": "1926918",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Sejkora, Benes|153606": {
-    "pozycja": "Ś",
-    "teamId": "153606",
-    "playerId": "1949774",
-    "teamName": "Czech Republic",
-    "source": "national"
-  },
-  "Serbedzija, Nediljko|153609": {
-    "pozycja": "S",
-    "teamId": "153609",
-    "playerId": "2032376",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Seunke, Tygo|153600": {
-    "pozycja": "Ś",
-    "teamId": "153600",
-    "playerId": "1928342",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Shihodo, Shirô|153603": {
-    "pozycja": "L",
-    "teamId": "153603",
-    "playerId": "2003528",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Shirota, Shun|153603": {
-    "pozycja": "O",
-    "teamId": "153603",
-    "playerId": "1928197",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Siedlecki, Mikołaj|153593": {
-    "pozycja": "O",
-    "teamId": "153593",
-    "playerId": "1865039",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Siimes, Petri|153608": {
-    "pozycja": "Ś",
-    "teamId": "153608",
-    "playerId": "1725397",
-    "teamName": "Finland",
-    "source": "national"
-  },
-  "Síkora, Radomil|153606": {
-    "pozycja": "L",
-    "teamId": "153606",
-    "playerId": "1950318",
-    "teamName": "Czech Republic",
-    "source": "national"
-  },
-  "Silajdžić, Sulejman|153618": {
-    "pozycja": "Ś",
-    "teamId": "153618",
-    "playerId": "1928601",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Silva, Mike|153597": {
-    "pozycja": "P",
-    "teamId": "153597",
-    "playerId": "1904937",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Siriwiboon, Kuan-chung|153616": {
-    "pozycja": "L",
-    "teamId": "153616",
-    "playerId": "1904950",
-    "teamName": "China",
-    "source": "national"
-  },
-  "Slavica, Oliver|153609": {
-    "pozycja": "P",
-    "teamId": "153609",
-    "playerId": "1928899",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Smiljanić, Darko|153604": {
-    "pozycja": "S",
-    "teamId": "153604",
-    "playerId": "1928531",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Šmrtnik, Danijel|153620": {
-    "pozycja": "Ś",
-    "teamId": "153620",
-    "playerId": "1928058",
-    "teamName": "Slovenia",
-    "source": "national"
-  },
-  "Smustern, Christoffer|153596": {
-    "pozycja": "Ś",
-    "teamId": "153596",
-    "playerId": "1745168",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Snoek, Dimitri|153610": {
-    "pozycja": "P",
-    "teamId": "153610",
-    "playerId": "1974532",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Sofroniev, Teodor|153617": {
-    "pozycja": "P",
-    "teamId": "153617",
-    "playerId": "1724716",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Soler, Teo|153598": {
-    "pozycja": "O",
-    "teamId": "153598",
-    "playerId": "1928809",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Šoljić, Alem|153618": {
-    "pozycja": "P",
-    "teamId": "153618",
-    "playerId": "1950222",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Sommer, Alf|153607": {
-    "pozycja": "O",
-    "teamId": "153607",
-    "playerId": "1951082",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Soto, Beau|153597": {
-    "pozycja": "O",
-    "teamId": "153597",
-    "playerId": "1950623",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Souza, Isidoro|153601": {
-    "pozycja": "S",
-    "teamId": "153601",
-    "playerId": "1745153",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Spagnuolo, Sandro|153594": {
-    "pozycja": "Ś",
-    "teamId": "153594",
-    "playerId": "1904771",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Spencer, Tony|153597": {
-    "pozycja": "Ś",
-    "teamId": "153597",
-    "playerId": "1904903",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Spompato, Piersandro|153594": {
-    "pozycja": "O",
-    "teamId": "153594",
-    "playerId": "1928994",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Srbović, Čedomir|153604": {
-    "pozycja": "O",
-    "teamId": "153604",
-    "playerId": "2004131",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Srna, Zeljko|153609": {
-    "pozycja": "S",
-    "teamId": "153609",
-    "playerId": "1904536",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Stanca, Iorghu|153619": {
-    "pozycja": "O",
-    "teamId": "153619",
-    "playerId": "1905876",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Starling, Sávio|153601": {
-    "pozycja": "Ś",
-    "teamId": "153601",
-    "playerId": "1928847",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Stavrović, Bojan|153604": {
-    "pozycja": "L",
-    "teamId": "153604",
-    "playerId": "1950657",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Steinert, Korkmaz|153596": {
-    "pozycja": "S",
-    "teamId": "153596",
-    "playerId": "1976557",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Stijnen, Axel|153610": {
-    "pozycja": "L",
-    "teamId": "153610",
-    "playerId": "1975323",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Stoev, Angel|153599": {
-    "pozycja": "O",
-    "teamId": "153599",
-    "playerId": "1928033",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Stokić, Nikola|153618": {
-    "pozycja": "O",
-    "teamId": "153618",
-    "playerId": "1948961",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Strobl, Clemens|153607": {
-    "pozycja": "P",
-    "teamId": "153607",
-    "playerId": "1974517",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Šuler, Damjan|153620": {
-    "pozycja": "O",
-    "teamId": "153620",
-    "playerId": "1905655",
-    "teamName": "Slovenia",
-    "source": "national"
-  },
-  "Suslik, Freddi|153612": {
-    "pozycja": "Ś",
-    "teamId": "153612",
-    "playerId": "1927433",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Suzuki, Urara|153603": {
-    "pozycja": "O",
-    "teamId": "153603",
-    "playerId": "1903848",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Švikruha, Miroslav|153615": {
-    "pozycja": "L",
-    "teamId": "153615",
-    "playerId": "2002379",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Svorník, Ladislav|153615": {
-    "pozycja": "P",
-    "teamId": "153615",
-    "playerId": "2003473",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Szóstek, Tomasz|153593": {
-    "pozycja": "L",
-    "teamId": "153593",
-    "playerId": "1865312",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Szymański, Olaf|153593": {
-    "pozycja": "S",
-    "teamId": "153593",
-    "playerId": "1926926",
-    "teamName": "Poland",
-    "source": "national"
-  },
-  "Tadić, Zoran|153604": {
-    "pozycja": "P",
-    "teamId": "153604",
-    "playerId": "1929161",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Tamas, Ludovic|153619": {
-    "pozycja": "Ś",
-    "teamId": "153619",
-    "playerId": "1950865",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Tauchnitz, Götz|153596": {
-    "pozycja": "Ś",
-    "teamId": "153596",
-    "playerId": "1904984",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Tavolaro, Gigi|153594": {
-    "pozycja": "P",
-    "teamId": "153594",
-    "playerId": "1928274",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Taxiarhis, Apollon|153605": {
-    "pozycja": "L",
-    "teamId": "153605",
-    "playerId": "1951221",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Teixeira, Jefferson|153601": {
-    "pozycja": "P",
-    "teamId": "153601",
-    "playerId": "1927031",
-    "teamName": "Brazil",
-    "source": "national"
-  },
-  "Teixidó, Enrique|153598": {
-    "pozycja": "Ś",
-    "teamId": "153598",
-    "playerId": "1951023",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Téllez, Guillermo|153598": {
-    "pozycja": "S",
-    "teamId": "153598",
-    "playerId": "1905336",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Terragni, Cesarino|153617": {
-    "pozycja": "Ś",
-    "teamId": "153617",
-    "playerId": "1928285",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Terrell, Seth|153597": {
-    "pozycja": "P",
-    "teamId": "153597",
-    "playerId": "1904907",
-    "teamName": "USA",
-    "source": "national"
-  },
-  "Tianxian, Jingbo|153616": {
-    "pozycja": "O",
-    "teamId": "153616",
-    "playerId": "2060885",
-    "teamName": "China",
-    "source": "national"
-  },
-  "Tôchika, Kazuhisa|153603": {
-    "pozycja": "Ś",
-    "teamId": "153603",
-    "playerId": "1928529",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Todorović, Damir|153618": {
-    "pozycja": "Ś",
-    "teamId": "153618",
-    "playerId": "1951012",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Toledano, Robustiano|153598": {
-    "pozycja": "Ś",
-    "teamId": "153598",
-    "playerId": "1976580",
-    "teamName": "Spain",
-    "source": "national"
-  },
-  "Tomita, Junichi|153603": {
-    "pozycja": "L",
-    "teamId": "153603",
-    "playerId": "1975694",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Toniolo, Leone|153594": {
-    "pozycja": "O",
-    "teamId": "153594",
-    "playerId": "1929182",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Tošković, Aleksandar|153604": {
-    "pozycja": "P",
-    "teamId": "153604",
-    "playerId": "1949133",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Travers, Paddy|153614": {
-    "pozycja": "Ś",
-    "teamId": "153614",
-    "playerId": "1975729",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Travnicek, Adam|153606": {
-    "pozycja": "P",
-    "teamId": "153606",
-    "playerId": "1927565",
-    "teamName": "Czech Republic",
-    "source": "national"
-  },
-  "Trifković, Adin|153618": {
-    "pozycja": "Ś",
-    "teamId": "153618",
-    "playerId": "1724977",
-    "teamName": "Bosnia-Herzegovina",
-    "source": "national"
-  },
-  "Tronconi, Sancho|153602": {
-    "pozycja": "O",
-    "teamId": "153602",
-    "playerId": "1725203",
-    "teamName": "Argentina",
-    "source": "national"
-  },
-  "Truglio, Danilo|153594": {
-    "pozycja": "P",
-    "teamId": "153594",
-    "playerId": "1865106",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Tsarouchitis, Elias|153605": {
-    "pozycja": "O",
-    "teamId": "153605",
-    "playerId": "1976292",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Tsatsarelis, Thiseas|153605": {
-    "pozycja": "O",
-    "teamId": "153605",
-    "playerId": "1928853",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Tugnoli, Fiorenzo|153594": {
-    "pozycja": "P",
-    "teamId": "153594",
-    "playerId": "1904742",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Udovčić, Renato|153609": {
-    "pozycja": "P",
-    "teamId": "153609",
-    "playerId": "2002549",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Uherík, Leonard|153615": {
-    "pozycja": "P",
-    "teamId": "153615",
-    "playerId": "2088031",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Uluğ, Rıdvan|153611": {
-    "pozycja": "P",
-    "teamId": "153611",
-    "playerId": "1951066",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Ümıt, Alpkan|153611": {
-    "pozycja": "Ś",
-    "teamId": "153611",
-    "playerId": "1904233",
-    "teamName": "Turkey",
-    "source": "national"
-  },
-  "Valdinoci, Antonello|153594": {
-    "pozycja": "S",
-    "teamId": "153594",
-    "playerId": "1904811",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Valek, Obrad|153609": {
-    "pozycja": "P",
-    "teamId": "153609",
-    "playerId": "2004467",
-    "teamName": "Croatia",
-    "source": "national"
-  },
-  "Van Brussel, Rik|153610": {
-    "pozycja": "S",
-    "teamId": "153610",
-    "playerId": "2003215",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Van Den Eynde, Ngagne|153610": {
-    "pozycja": "Ś",
-    "teamId": "153610",
-    "playerId": "1949516",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "van Enckhuyzen, Olly|153600": {
-    "pozycja": "P",
-    "teamId": "153600",
-    "playerId": "1951120",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "Van Erum, Lucien|153610": {
-    "pozycja": "P",
-    "teamId": "153610",
-    "playerId": "2087745",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Vatra, Kornel|153615": {
-    "pozycja": "S",
-    "teamId": "153615",
-    "playerId": "1950900",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Veikat, Bruno|153612": {
-    "pozycja": "S",
-    "teamId": "153612",
-    "playerId": "1903475",
-    "teamName": "Estonia",
-    "source": "national"
-  },
-  "Velichkov, Lachezar|153599": {
-    "pozycja": "Ś",
-    "teamId": "153599",
-    "playerId": "1904681",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Velichkov, Lyubomir|153599": {
-    "pozycja": "S",
-    "teamId": "153599",
-    "playerId": "1865329",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Velkov, Kiril|153599": {
-    "pozycja": "Ś",
-    "teamId": "153599",
-    "playerId": "2060151",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Venter, Octavian|153619": {
-    "pozycja": "O",
-    "teamId": "153619",
-    "playerId": "2088032",
-    "teamName": "Romania",
-    "source": "national"
-  },
-  "Versari, Gennaro|153594": {
-    "pozycja": "L",
-    "teamId": "153594",
-    "playerId": "1864615",
-    "teamName": "Italy",
-    "source": "national"
-  },
-  "Vladimirov, Boyko|153599": {
+    "name": "Búrzashki, Ivan",
+    "firstName": "Ivan",
+    "lastName": "Búrzashki",
+    "heightCm": 180
+  },
+  "1681866|153599": {
     "pozycja": "O",
     "teamId": "153599",
     "playerId": "1681866",
-    "teamName": "Bulgaria",
-    "source": "national"
+    "name": "Vladimirov, Boyko",
+    "firstName": "Boyko",
+    "lastName": "Vladimirov",
+    "heightCm": 201
   },
-  "Vlaev, Iliya|153599": {
-    "pozycja": "Ś",
-    "teamId": "153599",
-    "playerId": "1904565",
-    "teamName": "Bulgaria",
-    "source": "national"
+  "1685989|153601": {
+    "pozycja": "O",
+    "teamId": "153601",
+    "playerId": "1685989",
+    "name": "Canuto, Alberto",
+    "firstName": "Alberto",
+    "lastName": "Canuto",
+    "heightCm": 209
   },
-  "Vlak, Lovro|153609": {
-    "pozycja": "Ś",
-    "teamId": "153609",
-    "playerId": "1928282",
-    "teamName": "Croatia",
-    "source": "national"
+  "1686107|153611": {
+    "pozycja": "L",
+    "teamId": "153611",
+    "playerId": "1686107",
+    "name": "Hürrem, Veli",
+    "firstName": "Veli",
+    "lastName": "Hürrem",
+    "heightCm": 176
   },
-  "Vojtechovsky, Robert|153606": {
+  "1709299|153614": {
     "pozycja": "S",
-    "teamId": "153606",
-    "playerId": "1864481",
-    "teamName": "Czech Republic",
-    "source": "national"
-  },
-  "Vretenička, Jaroslav|153615": {
-    "pozycja": "O",
-    "teamId": "153615",
-    "playerId": "1903639",
-    "teamName": "Slovakia",
-    "source": "national"
-  },
-  "Vuchelich, Lutz|153596": {
-    "pozycja": "Ś",
-    "teamId": "153596",
-    "playerId": "1725191",
-    "teamName": "Germany",
-    "source": "national"
-  },
-  "Vukašinović, Bojan|153604": {
-    "pozycja": "Ś",
-    "teamId": "153604",
-    "playerId": "1927751",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Vulić, Dragoslav|153604": {
-    "pozycja": "P",
-    "teamId": "153604",
-    "playerId": "1927642",
-    "teamName": "Serbia",
-    "source": "national"
-  },
-  "Walton, Joss|153614": {
-    "pozycja": "Ś",
     "teamId": "153614",
-    "playerId": "1975815",
-    "teamName": "England",
-    "source": "national"
+    "playerId": "1709299",
+    "name": "Emerton, Gilbert",
+    "firstName": "Gilbert",
+    "lastName": "Emerton",
+    "heightCm": 210
   },
-  "Wenyu, Cai|153616": {
-    "pozycja": "Ś",
-    "teamId": "153616",
-    "playerId": "1865362",
-    "teamName": "China",
-    "source": "national"
-  },
-  "Westenend, Arjen|153600": {
-    "pozycja": "Ś",
-    "teamId": "153600",
-    "playerId": "1904576",
-    "teamName": "Netherlands",
-    "source": "national"
-  },
-  "White, Alex|153597": {
+  "1709575|153601": {
     "pozycja": "P",
-    "teamId": "153597",
-    "playerId": "1975566",
-    "teamName": "USA",
-    "source": "national"
+    "teamId": "153601",
+    "playerId": "1709575",
+    "name": "Campello, Cristian",
+    "firstName": "Cristian",
+    "lastName": "Campello",
+    "heightCm": 183
   },
-  "Wiegel, Cornelius|153596": {
-    "pozycja": "O",
-    "teamId": "153596",
-    "playerId": "1865183",
-    "teamName": "Germany",
-    "source": "national"
+  "1709576|153601": {
+    "pozycja": "P",
+    "teamId": "153601",
+    "playerId": "1709576",
+    "name": "Chaves, Mathias",
+    "firstName": "Mathias",
+    "lastName": "Chaves",
+    "heightCm": 196
   },
-  "Wiels, Sjarel|153610": {
-    "pozycja": "O",
-    "teamId": "153610",
-    "playerId": "1905455",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Wiesbauer, Ivan|153617": {
-    "pozycja": "Ś",
-    "teamId": "153617",
-    "playerId": "1927461",
-    "teamName": "International",
-    "source": "national"
-  },
-  "Wijsmans, Gabriel|153610": {
-    "pozycja": "Ś",
-    "teamId": "153610",
-    "playerId": "1975878",
-    "teamName": "Belgium",
-    "source": "national"
-  },
-  "Wössner, Ramon|153607": {
-    "pozycja": "Ś",
-    "teamId": "153607",
-    "playerId": "1928800",
-    "teamName": "Austria",
-    "source": "national"
-  },
-  "Xia, Hua|153616": {
-    "pozycja": "O",
-    "teamId": "153616",
-    "playerId": "1951208",
-    "teamName": "China",
-    "source": "national"
-  },
-  "Xidis, Romaleos|153605": {
-    "pozycja": "O",
-    "teamId": "153605",
-    "playerId": "2004265",
-    "teamName": "Greece",
-    "source": "national"
-  },
-  "Xuanren, Tat-wah|153616": {
+  "1709653|153602": {
     "pozycja": "S",
-    "teamId": "153616",
-    "playerId": "1767179",
-    "teamName": "China",
-    "source": "national"
+    "teamId": "153602",
+    "playerId": "1709653",
+    "name": "Mucci, Mario",
+    "firstName": "Mario",
+    "lastName": "Mucci",
+    "heightCm": 185
   },
-  "Yasui, Takashi|153603": {
-    "pozycja": "Ś",
-    "teamId": "153603",
-    "playerId": "2003566",
-    "teamName": "Japan",
-    "source": "national"
-  },
-  "Yates, Arthur|153614": {
-    "pozycja": "P",
-    "teamId": "153614",
-    "playerId": "1929068",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Yates, Lewis|153614": {
-    "pozycja": "P",
-    "teamId": "153614",
-    "playerId": "1928166",
-    "teamName": "England",
-    "source": "national"
-  },
-  "Yau, Tat-wah|153616": {
+  "1709974|153611": {
     "pozycja": "S",
-    "teamId": "153616",
-    "playerId": "1745091",
-    "teamName": "China",
-    "source": "national"
+    "teamId": "153611",
+    "playerId": "1709974",
+    "name": "Benek, Şahin",
+    "firstName": "Şahin",
+    "lastName": "Benek",
+    "heightCm": 188
   },
-  "Yingkai, Eijin|153616": {
-    "pozycja": "Ś",
-    "teamId": "153616",
-    "playerId": "1950652",
-    "teamName": "China",
-    "source": "national"
-  },
-  "Yosifov, Hristo|153599": {
-    "pozycja": "Ś",
-    "teamId": "153599",
-    "playerId": "1905281",
-    "teamName": "Bulgaria",
-    "source": "national"
-  },
-  "Yücel, Gökben|153611": {
+  "1709975|153611": {
     "pozycja": "S",
     "teamId": "153611",
     "playerId": "1709975",
-    "teamName": "Turkey",
-    "source": "national"
+    "name": "Yücel, Gökben",
+    "firstName": "Gökben",
+    "lastName": "Yücel",
+    "heightCm": 190
   },
-  "Yurukov, Iliya|153599": {
+  "1724716|153617": {
+    "pozycja": "P",
+    "teamId": "153617",
+    "playerId": "1724716",
+    "name": "Sofroniev, Teodor",
+    "firstName": "Teodor",
+    "lastName": "Sofroniev",
+    "heightCm": 189
+  },
+  "1724725|153612": {
+    "pozycja": "O",
+    "teamId": "153612",
+    "playerId": "1724725",
+    "name": "Odar, Ragnar",
+    "firstName": "Ragnar",
+    "lastName": "Odar",
+    "heightCm": 204
+  },
+  "1724889|153606": {
+    "pozycja": "Ś",
+    "teamId": "153606",
+    "playerId": "1724889",
+    "name": "Jareš, Tibor",
+    "firstName": "Tibor",
+    "lastName": "Jareš",
+    "heightCm": 211
+  },
+  "1724977|153618": {
+    "pozycja": "Ś",
+    "teamId": "153618",
+    "playerId": "1724977",
+    "name": "Trifković, Adin",
+    "firstName": "Adin",
+    "lastName": "Trifković",
+    "heightCm": 214
+  },
+  "1724993|153597": {
+    "pozycja": "S",
+    "teamId": "153597",
+    "playerId": "1724993",
+    "name": "Holguin, Calvin",
+    "firstName": "Calvin",
+    "lastName": "Holguin",
+    "heightCm": 205
+  },
+  "1725025|153601": {
+    "pozycja": "Ś",
+    "teamId": "153601",
+    "playerId": "1725025",
+    "name": "Baeta, Joel",
+    "firstName": "Joel",
+    "lastName": "Baeta",
+    "heightCm": 218
+  },
+  "1725076|153618": {
+    "pozycja": "P",
+    "teamId": "153618",
+    "playerId": "1725076",
+    "name": "Lazić, Mate",
+    "firstName": "Mate",
+    "lastName": "Lazić",
+    "heightCm": 198
+  },
+  "1725106|153611": {
+    "pozycja": "Ś",
+    "teamId": "153611",
+    "playerId": "1725106",
+    "name": "Asuela, Öner",
+    "firstName": "Öner",
+    "lastName": "Asuela",
+    "heightCm": 208
+  },
+  "1725191|153596": {
+    "pozycja": "Ś",
+    "teamId": "153596",
+    "playerId": "1725191",
+    "name": "Vuchelich, Lutz",
+    "firstName": "Lutz",
+    "lastName": "Vuchelich",
+    "heightCm": 218
+  },
+  "1725203|153602": {
+    "pozycja": "O",
+    "teamId": "153602",
+    "playerId": "1725203",
+    "name": "Tronconi, Sancho",
+    "firstName": "Sancho",
+    "lastName": "Tronconi",
+    "heightCm": 189
+  },
+  "1725262|153593": {
+    "pozycja": "S",
+    "teamId": "153593",
+    "playerId": "1725262",
+    "name": "Wnuk, Grzegorz",
+    "firstName": "Grzegorz",
+    "lastName": "Wnuk",
+    "heightCm": 188
+  },
+  "1725397|153608": {
+    "pozycja": "Ś",
+    "teamId": "153608",
+    "playerId": "1725397",
+    "name": "Siimes, Petri",
+    "firstName": "Petri",
+    "lastName": "Siimes",
+    "heightCm": 210
+  },
+  "1744625|153601": {
+    "pozycja": "Ś",
+    "teamId": "153601",
+    "playerId": "1744625",
+    "name": "Morais, Fábio",
+    "firstName": "Fábio",
+    "lastName": "Morais",
+    "heightCm": 217
+  },
+  "1744746|153596": {
+    "pozycja": "O",
+    "teamId": "153596",
+    "playerId": "1744746",
+    "name": "Fohn, Hinrich",
+    "firstName": "Hinrich",
+    "lastName": "Fohn",
+    "heightCm": 210
+  },
+  "1744844|153601": {
+    "pozycja": "O",
+    "teamId": "153601",
+    "playerId": "1744844",
+    "name": "Fasano, Ibsen",
+    "firstName": "Ibsen",
+    "lastName": "Fasano",
+    "heightCm": 210
+  },
+  "1744886|153617": {
+    "pozycja": "O",
+    "teamId": "153617",
+    "playerId": "1744886",
+    "name": "Nunez, Jake",
+    "firstName": "Jake",
+    "lastName": "Nunez",
+    "heightCm": 189
+  },
+  "1744987|153598": {
+    "pozycja": "P",
+    "teamId": "153598",
+    "playerId": "1744987",
+    "name": "Meneses, Gorecho",
+    "firstName": "Gorecho",
+    "lastName": "Meneses",
+    "heightCm": 206
+  },
+  "1745058|153595": {
+    "pozycja": "Ś",
+    "teamId": "153595",
+    "playerId": "1745058",
+    "name": "Macron, Colin",
+    "firstName": "Colin",
+    "lastName": "Macron",
+    "heightCm": 210
+  },
+  "1745069|153596": {
+    "pozycja": "P",
+    "teamId": "153596",
+    "playerId": "1745069",
+    "name": "Anrep, Marcus",
+    "firstName": "Marcus",
+    "lastName": "Anrep",
+    "heightCm": 184
+  },
+  "1745091|153616": {
+    "pozycja": "S",
+    "teamId": "153616",
+    "playerId": "1745091",
+    "name": "Yau, Tat-wah",
+    "firstName": "Tat-wah",
+    "lastName": "Yau",
+    "heightCm": 194
+  },
+  "1745092|153605": {
+    "pozycja": "P",
+    "teamId": "153605",
+    "playerId": "1745092",
+    "name": "Gavras, Elias",
+    "firstName": "Elias",
+    "lastName": "Gavras",
+    "heightCm": 195
+  },
+  "1745146|153608": {
+    "pozycja": "O",
+    "teamId": "153608",
+    "playerId": "1745146",
+    "name": "Lyytinen, Petteri",
+    "firstName": "Petteri",
+    "lastName": "Lyytinen",
+    "heightCm": 202
+  },
+  "1745153|153601": {
+    "pozycja": "S",
+    "teamId": "153601",
+    "playerId": "1745153",
+    "name": "Souza, Isidoro",
+    "firstName": "Isidoro",
+    "lastName": "Souza",
+    "heightCm": 203
+  },
+  "1745168|153596": {
+    "pozycja": "Ś",
+    "teamId": "153596",
+    "playerId": "1745168",
+    "name": "Smustern, Christoffer",
+    "firstName": "Christoffer",
+    "lastName": "Smustern",
+    "heightCm": 218
+  },
+  "1745227|153605": {
+    "pozycja": "P",
+    "teamId": "153605",
+    "playerId": "1745227",
+    "name": "Karamanis, Vlassis",
+    "firstName": "Vlassis",
+    "lastName": "Karamanis",
+    "heightCm": 204
+  },
+  "1745330|153613": {
+    "pozycja": "L",
+    "teamId": "153613",
+    "playerId": "1745330",
+    "name": "Capeletti, Diamantino",
+    "firstName": "Diamantino",
+    "lastName": "Capeletti",
+    "heightCm": 184
+  },
+  "1745383|153620": {
+    "pozycja": "L",
+    "teamId": "153620",
+    "playerId": "1745383",
+    "name": "Radan, Primož",
+    "firstName": "Primož",
+    "lastName": "Radan",
+    "heightCm": 176
+  },
+  "1745557|153593": {
+    "pozycja": "Ś",
+    "teamId": "153593",
+    "playerId": "1745557",
+    "name": "Murawski, Bartosz",
+    "firstName": "Bartosz",
+    "lastName": "Murawski",
+    "heightCm": 217
+  },
+  "1767055|153612": {
+    "pozycja": "Ś",
+    "teamId": "153612",
+    "playerId": "1767055",
+    "name": "Orro, Väino",
+    "firstName": "Väino",
+    "lastName": "Orro",
+    "heightCm": 214
+  },
+  "1767082|153613": {
+    "pozycja": "Ś",
+    "teamId": "153613",
+    "playerId": "1767082",
+    "name": "Abecassis, Lino",
+    "firstName": "Lino",
+    "lastName": "Abecassis",
+    "heightCm": 220
+  },
+  "1767179|153616": {
+    "pozycja": "S",
+    "teamId": "153616",
+    "playerId": "1767179",
+    "name": "Xuanren, Tat-wah",
+    "firstName": "Tat-wah",
+    "lastName": "Xuanren",
+    "heightCm": 202
+  },
+  "1767798|153617": {
+    "pozycja": "S",
+    "teamId": "153617",
+    "playerId": "1767798",
+    "name": "Bogalho, Demétrio",
+    "firstName": "Demétrio",
+    "lastName": "Bogalho",
+    "heightCm": 181
+  },
+  "1767863|153615": {
+    "pozycja": "Ś",
+    "teamId": "153615",
+    "playerId": "1767863",
+    "name": "Ďurica, László",
+    "firstName": "László",
+    "lastName": "Ďurica",
+    "heightCm": 214
+  },
+  "1767866|153613": {
+    "pozycja": "O",
+    "teamId": "153613",
+    "playerId": "1767866",
+    "name": "Guarnieri, Tó",
+    "firstName": "Tó",
+    "lastName": "Guarnieri",
+    "heightCm": 213
+  },
+  "1767943|153606": {
+    "pozycja": "O",
+    "teamId": "153606",
+    "playerId": "1767943",
+    "name": "Blazek, Zdislav",
+    "firstName": "Zdislav",
+    "lastName": "Blazek",
+    "heightCm": 192
+  },
+  "1767965|153603": {
+    "pozycja": "O",
+    "teamId": "153603",
+    "playerId": "1767965",
+    "name": "Hozumi, Tomoaki",
+    "firstName": "Tomoaki",
+    "lastName": "Hozumi",
+    "heightCm": 208
+  },
+  "1864253|153599": {
     "pozycja": "P",
     "teamId": "153599",
-    "playerId": "1929235",
-    "teamName": "Bulgaria",
-    "source": "national"
+    "playerId": "1864253",
+    "name": "Luchev, Stoyan",
+    "firstName": "Stoyan",
+    "lastName": "Luchev",
+    "heightCm": 186
   },
-  "Yuze, Moy|153616": {
+  "1864270|153595": {
+    "pozycja": "Ś",
+    "teamId": "153595",
+    "playerId": "1864270",
+    "name": "Pastureau, René",
+    "firstName": "René",
+    "lastName": "Pastureau",
+    "heightCm": 219
+  },
+  "1864296|153593": {
+    "pozycja": "O",
+    "teamId": "153593",
+    "playerId": "1864296",
+    "name": "Gnaś, Rafał",
+    "firstName": "Rafał",
+    "lastName": "Gnaś",
+    "heightCm": 188
+  },
+  "1864300|153599": {
+    "pozycja": "Ś",
+    "teamId": "153599",
+    "playerId": "1864300",
+    "name": "Gavrilov, Orlin",
+    "firstName": "Orlin",
+    "lastName": "Gavrilov",
+    "heightCm": 218
+  },
+  "1864345|153594": {
+    "pozycja": "Ś",
+    "teamId": "153594",
+    "playerId": "1864345",
+    "name": "Lusini, Astolfo",
+    "firstName": "Astolfo",
+    "lastName": "Lusini",
+    "heightCm": 213
+  },
+  "1864438|153603": {
+    "pozycja": "P",
+    "teamId": "153603",
+    "playerId": "1864438",
+    "name": "Oizumi, Rokusaburo",
+    "firstName": "Rokusaburo",
+    "lastName": "Oizumi",
+    "heightCm": 185
+  },
+  "1864459|153619": {
+    "pozycja": "O",
+    "teamId": "153619",
+    "playerId": "1864459",
+    "name": "Piscanu, Constantin",
+    "firstName": "Constantin",
+    "lastName": "Piscanu",
+    "heightCm": 190
+  },
+  "1864479|153617": {
+    "pozycja": "P",
+    "teamId": "153617",
+    "playerId": "1864479",
+    "name": "Cristiano, Orlando",
+    "firstName": "Orlando",
+    "lastName": "Cristiano",
+    "heightCm": 187
+  },
+  "1864480|153617": {
+    "pozycja": "P",
+    "teamId": "153617",
+    "playerId": "1864480",
+    "name": "Lima, Bebeto",
+    "firstName": "Bebeto",
+    "lastName": "Lima",
+    "heightCm": 188
+  },
+  "1864481|153606": {
+    "pozycja": "S",
+    "teamId": "153606",
+    "playerId": "1864481",
+    "name": "Vojtechovsky, Robert",
+    "firstName": "Robert",
+    "lastName": "Vojtechovsky",
+    "heightCm": 191
+  },
+  "1864555|153616": {
+    "pozycja": "L",
+    "teamId": "153616",
+    "playerId": "1864555",
+    "name": "Minguang, Wyott",
+    "firstName": "Wyott",
+    "lastName": "Minguang",
+    "heightCm": 179
+  },
+  "1864573|153594": {
+    "pozycja": "S",
+    "teamId": "153594",
+    "playerId": "1864573",
+    "name": "Cigala, Fabiano",
+    "firstName": "Fabiano",
+    "lastName": "Cigala",
+    "heightCm": 182
+  },
+  "1864615|153594": {
+    "pozycja": "L",
+    "teamId": "153594",
+    "playerId": "1864615",
+    "name": "Versari, Gennaro",
+    "firstName": "Gennaro",
+    "lastName": "Versari",
+    "heightCm": 176
+  },
+  "1864864|153596": {
+    "pozycja": "S",
+    "teamId": "153596",
+    "playerId": "1864864",
+    "name": "Anrep, Gotthelf",
+    "firstName": "Gotthelf",
+    "lastName": "Anrep",
+    "heightCm": 192
+  },
+  "1864875|153612": {
+    "pozycja": "Ś",
+    "teamId": "153612",
+    "playerId": "1864875",
+    "name": "Lehepuu, Kurni",
+    "firstName": "Kurni",
+    "lastName": "Lehepuu",
+    "heightCm": 204
+  },
+  "1864879|153614": {
+    "pozycja": "O",
+    "teamId": "153614",
+    "playerId": "1864879",
+    "name": "Hicks, Louis",
+    "firstName": "Louis",
+    "lastName": "Hicks",
+    "heightCm": 199
+  },
+  "1864912|153593": {
+    "pozycja": "Ś",
+    "teamId": "153593",
+    "playerId": "1864912",
+    "name": "Czudaj, Bartosz",
+    "firstName": "Bartosz",
+    "lastName": "Czudaj",
+    "heightCm": 211
+  },
+  "1864925|153595": {
+    "pozycja": "L",
+    "teamId": "153595",
+    "playerId": "1864925",
+    "name": "Mourier, Florian",
+    "firstName": "Florian",
+    "lastName": "Mourier",
+    "heightCm": 177
+  },
+  "1864957|153620": {
+    "pozycja": "P",
+    "teamId": "153620",
+    "playerId": "1864957",
+    "name": "Flajs, Domen",
+    "firstName": "Domen",
+    "lastName": "Flajs",
+    "heightCm": 195
+  },
+  "1864959|153604": {
+    "pozycja": "S",
+    "teamId": "153604",
+    "playerId": "1864959",
+    "name": "Jovičić, Slavko",
+    "firstName": "Slavko",
+    "lastName": "Jovičić",
+    "heightCm": 203
+  },
+  "1864966|153595": {
+    "pozycja": "S",
+    "teamId": "153595",
+    "playerId": "1864966",
+    "name": "Janvier, Philippe",
+    "firstName": "Philippe",
+    "lastName": "Janvier",
+    "heightCm": 206
+  },
+  "1865039|153593": {
+    "pozycja": "O",
+    "teamId": "153593",
+    "playerId": "1865039",
+    "name": "Siedlecki, Mikołaj",
+    "firstName": "Mikołaj",
+    "lastName": "Siedlecki",
+    "heightCm": 191
+  },
+  "1865083|153595": {
+    "pozycja": "O",
+    "teamId": "153595",
+    "playerId": "1865083",
+    "name": "Gillet, Yann",
+    "firstName": "Yann",
+    "lastName": "Gillet",
+    "heightCm": 210
+  },
+  "1865085|153595": {
+    "pozycja": "S",
+    "teamId": "153595",
+    "playerId": "1865085",
+    "name": "Lecomte, Samuel",
+    "firstName": "Samuel",
+    "lastName": "Lecomte",
+    "heightCm": 192
+  },
+  "1865106|153594": {
+    "pozycja": "P",
+    "teamId": "153594",
+    "playerId": "1865106",
+    "name": "Truglio, Danilo",
+    "firstName": "Danilo",
+    "lastName": "Truglio",
+    "heightCm": 182
+  },
+  "1865109|153595": {
+    "pozycja": "Ś",
+    "teamId": "153595",
+    "playerId": "1865109",
+    "name": "Furlan, Thierry",
+    "firstName": "Thierry",
+    "lastName": "Furlan",
+    "heightCm": 204
+  },
+  "1865113|153609": {
+    "pozycja": "O",
+    "teamId": "153609",
+    "playerId": "1865113",
+    "name": "Liveric, Nedjeljko",
+    "firstName": "Nedjeljko",
+    "lastName": "Liveric",
+    "heightCm": 188
+  },
+  "1865130|153613": {
+    "pozycja": "Ś",
+    "teamId": "153613",
+    "playerId": "1865130",
+    "name": "Ramos, Morais",
+    "firstName": "Morais",
+    "lastName": "Ramos",
+    "heightCm": 208
+  },
+  "1865135|153601": {
+    "pozycja": "P",
+    "teamId": "153601",
+    "playerId": "1865135",
+    "name": "Louzada, Harley",
+    "firstName": "Harley",
+    "lastName": "Louzada",
+    "heightCm": 195
+  },
+  "1865183|153596": {
+    "pozycja": "O",
+    "teamId": "153596",
+    "playerId": "1865183",
+    "name": "Wiegel, Cornelius",
+    "firstName": "Cornelius",
+    "lastName": "Wiegel",
+    "heightCm": 215
+  },
+  "1865187|153606": {
+    "pozycja": "P",
+    "teamId": "153606",
+    "playerId": "1865187",
+    "name": "Božovský, Eduard",
+    "firstName": "Eduard",
+    "lastName": "Božovský",
+    "heightCm": 184
+  },
+  "1865203|153620": {
+    "pozycja": "O",
+    "teamId": "153620",
+    "playerId": "1865203",
+    "name": "Kocic, Dimitrij",
+    "firstName": "Dimitrij",
+    "lastName": "Kocic",
+    "heightCm": 211
+  },
+  "1865246|153620": {
+    "pozycja": "S",
+    "teamId": "153620",
+    "playerId": "1865246",
+    "name": "Kovjenič, Lovro",
+    "firstName": "Lovro",
+    "lastName": "Kovjenič",
+    "heightCm": 200
+  },
+  "1865254|153603": {
+    "pozycja": "P",
+    "teamId": "153603",
+    "playerId": "1865254",
+    "name": "Aikawa, Tsumasaburo",
+    "firstName": "Tsumasaburo",
+    "lastName": "Aikawa",
+    "heightCm": 206
+  },
+  "1865312|153593": {
+    "pozycja": "L",
+    "teamId": "153593",
+    "playerId": "1865312",
+    "name": "Szóstek, Tomasz",
+    "firstName": "Tomasz",
+    "lastName": "Szóstek",
+    "heightCm": 176
+  },
+  "1865328|153599": {
+    "pozycja": "S",
+    "teamId": "153599",
+    "playerId": "1865328",
+    "name": "Karadachki, Vasil",
+    "firstName": "Vasil",
+    "lastName": "Karadachki",
+    "heightCm": 205
+  },
+  "1865329|153599": {
+    "pozycja": "S",
+    "teamId": "153599",
+    "playerId": "1865329",
+    "name": "Velichkov, Lyubomir",
+    "firstName": "Lyubomir",
+    "lastName": "Velichkov",
+    "heightCm": 194
+  },
+  "1865330|153599": {
+    "pozycja": "S",
+    "teamId": "153599",
+    "playerId": "1865330",
+    "name": "Peychev, Alexander",
+    "firstName": "Alexander",
+    "lastName": "Peychev",
+    "heightCm": 193
+  },
+  "1865362|153616": {
     "pozycja": "Ś",
     "teamId": "153616",
-    "playerId": "1928557",
-    "teamName": "China",
-    "source": "national"
+    "playerId": "1865362",
+    "name": "Wenyu, Cai",
+    "firstName": "Cai",
+    "lastName": "Wenyu",
+    "heightCm": 192
   },
-  "Zaidi, Maxime|153610": {
+  "1865404|153618": {
+    "pozycja": "S",
+    "teamId": "153618",
+    "playerId": "1865404",
+    "name": "Jovanović, Faris",
+    "firstName": "Faris",
+    "lastName": "Jovanović",
+    "heightCm": 187
+  },
+  "1865435|153601": {
+    "pozycja": "O",
+    "teamId": "153601",
+    "playerId": "1865435",
+    "name": "Neves, Damião",
+    "firstName": "Damião",
+    "lastName": "Neves",
+    "heightCm": 213
+  },
+  "1865454|153593": {
+    "pozycja": "S",
+    "teamId": "153593",
+    "playerId": "1865454",
+    "name": "Górski, Wojciech",
+    "firstName": "Wojciech",
+    "lastName": "Górski",
+    "heightCm": 199
+  },
+  "1865491|153603": {
+    "pozycja": "S",
+    "teamId": "153603",
+    "playerId": "1865491",
+    "name": "Bifu, Takenori",
+    "firstName": "Takenori",
+    "lastName": "Bifu",
+    "heightCm": 196
+  },
+  "1865508|153596": {
+    "pozycja": "P",
+    "teamId": "153596",
+    "playerId": "1865508",
+    "name": "Ritthaler, Tino",
+    "firstName": "Tino",
+    "lastName": "Ritthaler",
+    "heightCm": 206
+  },
+  "1865788|153597": {
+    "pozycja": "Ś",
+    "teamId": "153597",
+    "playerId": "1865788",
+    "name": "Dick, Rafael",
+    "firstName": "Rafael",
+    "lastName": "Dick",
+    "heightCm": 212
+  },
+  "1865812|153617": {
+    "pozycja": "O",
+    "teamId": "153617",
+    "playerId": "1865812",
+    "name": "Nelson, Jessie",
+    "firstName": "Jessie",
+    "lastName": "Nelson",
+    "heightCm": 210
+  },
+  "1865818|153619": {
+    "pozycja": "O",
+    "teamId": "153619",
+    "playerId": "1865818",
+    "name": "Lupei, Aurel",
+    "firstName": "Aurel",
+    "lastName": "Lupei",
+    "heightCm": 200
+  },
+  "1903403|153613": {
+    "pozycja": "P",
+    "teamId": "153613",
+    "playerId": "1903403",
+    "name": "Espinhel, Adriano",
+    "firstName": "Adriano",
+    "lastName": "Espinhel",
+    "heightCm": 183
+  },
+  "1903422|153603": {
+    "pozycja": "Ś",
+    "teamId": "153603",
+    "playerId": "1903422",
+    "name": "Kazama, Ginzô",
+    "firstName": "Ginzô",
+    "lastName": "Kazama",
+    "heightCm": 203
+  },
+  "1903475|153612": {
+    "pozycja": "S",
+    "teamId": "153612",
+    "playerId": "1903475",
+    "name": "Veikat, Bruno",
+    "firstName": "Bruno",
+    "lastName": "Veikat",
+    "heightCm": 209
+  },
+  "1903477|153612": {
+    "pozycja": "S",
+    "teamId": "153612",
+    "playerId": "1903477",
+    "name": "Abel, Erkki",
+    "firstName": "Erkki",
+    "lastName": "Abel",
+    "heightCm": 197
+  },
+  "1903511|153619": {
+    "pozycja": "P",
+    "teamId": "153619",
+    "playerId": "1903511",
+    "name": "Dimitreiescu, Neculai",
+    "firstName": "Neculai",
+    "lastName": "Dimitreiescu",
+    "heightCm": 197
+  },
+  "1903750|153613": {
+    "pozycja": "P",
+    "teamId": "153613",
+    "playerId": "1903750",
+    "name": "Lanhoso, António",
+    "firstName": "António",
+    "lastName": "Lanhoso",
+    "heightCm": 192
+  },
+  "1903848|153603": {
+    "pozycja": "O",
+    "teamId": "153603",
+    "playerId": "1903848",
+    "name": "Suzuki, Urara",
+    "firstName": "Urara",
+    "lastName": "Suzuki",
+    "heightCm": 208
+  },
+  "1903928|153602": {
+    "pozycja": "O",
+    "teamId": "153602",
+    "playerId": "1903928",
+    "name": "Guillén, Warly",
+    "firstName": "Warly",
+    "lastName": "Guillén",
+    "heightCm": 200
+  },
+  "1903984|153613": {
+    "pozycja": "P",
+    "teamId": "153613",
+    "playerId": "1903984",
+    "name": "Bernardo, Luciano",
+    "firstName": "Luciano",
+    "lastName": "Bernardo",
+    "heightCm": 190
+  },
+  "1903994|153596": {
+    "pozycja": "S",
+    "teamId": "153596",
+    "playerId": "1903994",
+    "name": "Ostendorff, Andreas",
+    "firstName": "Andreas",
+    "lastName": "Ostendorff",
+    "heightCm": 203
+  },
+  "1904212|153602": {
+    "pozycja": "P",
+    "teamId": "153602",
+    "playerId": "1904212",
+    "name": "Del Boca, Abel",
+    "firstName": "Abel",
+    "lastName": "Del Boca",
+    "heightCm": 206
+  },
+  "1904229|153618": {
+    "pozycja": "P",
+    "teamId": "153618",
+    "playerId": "1904229",
+    "name": "Karamatić, Amar",
+    "firstName": "Amar",
+    "lastName": "Karamatić",
+    "heightCm": 181
+  },
+  "1904233|153611": {
+    "pozycja": "Ś",
+    "teamId": "153611",
+    "playerId": "1904233",
+    "name": "Ümıt, Alpkan",
+    "firstName": "Alpkan",
+    "lastName": "Ümıt",
+    "heightCm": 213
+  },
+  "1904269|153601": {
+    "pozycja": "S",
+    "teamId": "153601",
+    "playerId": "1904269",
+    "name": "Leone, Fabrício",
+    "firstName": "Fabrício",
+    "lastName": "Leone",
+    "heightCm": 182
+  },
+  "1904311|153602": {
+    "pozycja": "Ś",
+    "teamId": "153602",
+    "playerId": "1904311",
+    "name": "Nicasio, Mario",
+    "firstName": "Mario",
+    "lastName": "Nicasio",
+    "heightCm": 218
+  },
+  "1904325|153611": {
+    "pozycja": "O",
+    "teamId": "153611",
+    "playerId": "1904325",
+    "name": "Banu, Evrim",
+    "firstName": "Evrim",
+    "lastName": "Banu",
+    "heightCm": 190
+  },
+  "1904391|153614": {
+    "pozycja": "L",
+    "teamId": "153614",
+    "playerId": "1904391",
+    "name": "Church, Bob",
+    "firstName": "Bob",
+    "lastName": "Church",
+    "heightCm": 179
+  },
+  "1904407|153597": {
+    "pozycja": "Ś",
+    "teamId": "153597",
+    "playerId": "1904407",
+    "name": "Larsen, Dan",
+    "firstName": "Dan",
+    "lastName": "Larsen",
+    "heightCm": 216
+  },
+  "1904420|153617": {
+    "pozycja": "Ś",
+    "teamId": "153617",
+    "playerId": "1904420",
+    "name": "Johnson, Kevin",
+    "firstName": "Kevin",
+    "lastName": "Johnson",
+    "heightCm": 212
+  },
+  "1904423|153608": {
+    "pozycja": "P",
+    "teamId": "153608",
+    "playerId": "1904423",
+    "name": "Parikka, Ville",
+    "firstName": "Ville",
+    "lastName": "Parikka",
+    "heightCm": 192
+  },
+  "1904434|153597": {
+    "pozycja": "S",
+    "teamId": "153597",
+    "playerId": "1904434",
+    "name": "Hansell, Noel",
+    "firstName": "Noel",
+    "lastName": "Hansell",
+    "heightCm": 196
+  },
+  "1904435|153597": {
+    "pozycja": "S",
+    "teamId": "153597",
+    "playerId": "1904435",
+    "name": "Guy, Jon",
+    "firstName": "Jon",
+    "lastName": "Guy",
+    "heightCm": 189
+  },
+  "1904438|153606": {
+    "pozycja": "Ś",
+    "teamId": "153606",
+    "playerId": "1904438",
+    "name": "Matoušek, Ernest",
+    "firstName": "Ernest",
+    "lastName": "Matoušek",
+    "heightCm": 208
+  },
+  "1904441|153597": {
+    "pozycja": "P",
+    "teamId": "153597",
+    "playerId": "1904441",
+    "name": "Malloy, Shad",
+    "firstName": "Shad",
+    "lastName": "Malloy",
+    "heightCm": 197
+  },
+  "1904499|153593": {
+    "pozycja": "Ś",
+    "teamId": "153593",
+    "playerId": "1904499",
+    "name": "Hudziak, Sławomir",
+    "firstName": "Sławomir",
+    "lastName": "Hudziak",
+    "heightCm": 220
+  },
+  "1904500|153603": {
+    "pozycja": "Ś",
+    "teamId": "153603",
+    "playerId": "1904500",
+    "name": "Mimura, Ryoji",
+    "firstName": "Ryoji",
+    "lastName": "Mimura",
+    "heightCm": 214
+  },
+  "1904528|153600": {
+    "pozycja": "P",
+    "teamId": "153600",
+    "playerId": "1904528",
+    "name": "Admiraal, Gosse",
+    "firstName": "Gosse",
+    "lastName": "Admiraal",
+    "heightCm": 185
+  },
+  "1904536|153609": {
+    "pozycja": "S",
+    "teamId": "153609",
+    "playerId": "1904536",
+    "name": "Srna, Zeljko",
+    "firstName": "Zeljko",
+    "lastName": "Srna",
+    "heightCm": 209
+  },
+  "1904542|153594": {
+    "pozycja": "L",
+    "teamId": "153594",
+    "playerId": "1904542",
+    "name": "Luca, Toni",
+    "firstName": "Toni",
+    "lastName": "Luca",
+    "heightCm": 183
+  },
+  "1904565|153599": {
+    "pozycja": "Ś",
+    "teamId": "153599",
+    "playerId": "1904565",
+    "name": "Vlaev, Iliya",
+    "firstName": "Iliya",
+    "lastName": "Vlaev",
+    "heightCm": 219
+  },
+  "1904576|153600": {
+    "pozycja": "Ś",
+    "teamId": "153600",
+    "playerId": "1904576",
+    "name": "Westenend, Arjen",
+    "firstName": "Arjen",
+    "lastName": "Westenend",
+    "heightCm": 203
+  },
+  "1904598|153596": {
+    "pozycja": "Ś",
+    "teamId": "153596",
+    "playerId": "1904598",
+    "name": "Brößler, Magnus",
+    "firstName": "Magnus",
+    "lastName": "Brößler",
+    "heightCm": 212
+  },
+  "1904644|153618": {
+    "pozycja": "S",
+    "teamId": "153618",
+    "playerId": "1904644",
+    "name": "Dedić, Belmin",
+    "firstName": "Belmin",
+    "lastName": "Dedić",
+    "heightCm": 191
+  },
+  "1904663|153620": {
+    "pozycja": "P",
+    "teamId": "153620",
+    "playerId": "1904663",
+    "name": "Gobec, Tom",
+    "firstName": "Tom",
+    "lastName": "Gobec",
+    "heightCm": 203
+  },
+  "1904681|153599": {
+    "pozycja": "Ś",
+    "teamId": "153599",
+    "playerId": "1904681",
+    "name": "Velichkov, Lachezar",
+    "firstName": "Lachezar",
+    "lastName": "Velichkov",
+    "heightCm": 213
+  },
+  "1904713|153603": {
+    "pozycja": "L",
+    "teamId": "153603",
+    "playerId": "1904713",
+    "name": "Hamuro, Atsunori",
+    "firstName": "Atsunori",
+    "lastName": "Hamuro",
+    "heightCm": 180
+  },
+  "1904742|153594": {
+    "pozycja": "P",
+    "teamId": "153594",
+    "playerId": "1904742",
+    "name": "Tugnoli, Fiorenzo",
+    "firstName": "Fiorenzo",
+    "lastName": "Tugnoli",
+    "heightCm": 183
+  },
+  "1904752|153595": {
+    "pozycja": "O",
+    "teamId": "153595",
+    "playerId": "1904752",
+    "name": "Foulon, Jean",
+    "firstName": "Jean",
+    "lastName": "Foulon",
+    "heightCm": 196
+  },
+  "1904771|153594": {
+    "pozycja": "Ś",
+    "teamId": "153594",
+    "playerId": "1904771",
+    "name": "Spagnuolo, Sandro",
+    "firstName": "Sandro",
+    "lastName": "Spagnuolo",
+    "heightCm": 210
+  },
+  "1904772|153597": {
+    "pozycja": "L",
+    "teamId": "153597",
+    "playerId": "1904772",
+    "name": "Tyson, Scott",
+    "firstName": "Scott",
+    "lastName": "Tyson",
+    "heightCm": 178
+  },
+  "1904779|153602": {
+    "pozycja": "Ś",
+    "teamId": "153602",
+    "playerId": "1904779",
+    "name": "Onetto, Roldán",
+    "firstName": "Roldán",
+    "lastName": "Onetto",
+    "heightCm": 206
+  },
+  "1904811|153594": {
+    "pozycja": "S",
+    "teamId": "153594",
+    "playerId": "1904811",
+    "name": "Valdinoci, Antonello",
+    "firstName": "Antonello",
+    "lastName": "Valdinoci",
+    "heightCm": 180
+  },
+  "1904823|153612": {
+    "pozycja": "O",
+    "teamId": "153612",
+    "playerId": "1904823",
+    "name": "Härm, Niilo",
+    "firstName": "Niilo",
+    "lastName": "Härm",
+    "heightCm": 197
+  },
+  "1904865|153606": {
+    "pozycja": "P",
+    "teamId": "153606",
+    "playerId": "1904865",
+    "name": "Krska, Capek",
+    "firstName": "Capek",
+    "lastName": "Krska",
+    "heightCm": 209
+  },
+  "1904871|153617": {
+    "pozycja": "L",
+    "teamId": "153617",
+    "playerId": "1904871",
+    "name": "Fetto, Mattia",
+    "firstName": "Mattia",
+    "lastName": "Fetto",
+    "heightCm": 180
+  },
+  "1904880|153615": {
+    "pozycja": "P",
+    "teamId": "153615",
+    "playerId": "1904880",
+    "name": "Bahúl, Ferdinand",
+    "firstName": "Ferdinand",
+    "lastName": "Bahúl",
+    "heightCm": 203
+  },
+  "1904882|153598": {
+    "pozycja": "L",
+    "teamId": "153598",
+    "playerId": "1904882",
+    "name": "Falceto, Xurxo",
+    "firstName": "Xurxo",
+    "lastName": "Falceto",
+    "heightCm": 175
+  },
+  "1904897|153594": {
+    "pozycja": "Ś",
+    "teamId": "153594",
+    "playerId": "1904897",
+    "name": "Gallucci, Serafino",
+    "firstName": "Serafino",
+    "lastName": "Gallucci",
+    "heightCm": 215
+  },
+  "1904898|153595": {
+    "pozycja": "Ś",
+    "teamId": "153595",
+    "playerId": "1904898",
+    "name": "Blanchard, Ludovic",
+    "firstName": "Ludovic",
+    "lastName": "Blanchard",
+    "heightCm": 199
+  },
+  "1904903|153597": {
+    "pozycja": "Ś",
+    "teamId": "153597",
+    "playerId": "1904903",
+    "name": "Spencer, Tony",
+    "firstName": "Tony",
+    "lastName": "Spencer",
+    "heightCm": 211
+  },
+  "1904907|153597": {
+    "pozycja": "P",
+    "teamId": "153597",
+    "playerId": "1904907",
+    "name": "Terrell, Seth",
+    "firstName": "Seth",
+    "lastName": "Terrell",
+    "heightCm": 189
+  },
+  "1904937|153597": {
+    "pozycja": "P",
+    "teamId": "153597",
+    "playerId": "1904937",
+    "name": "Silva, Mike",
+    "firstName": "Mike",
+    "lastName": "Silva",
+    "heightCm": 183
+  },
+  "1904942|153611": {
+    "pozycja": "P",
+    "teamId": "153611",
+    "playerId": "1904942",
+    "name": "Arya, Tufan",
+    "firstName": "Tufan",
+    "lastName": "Arya",
+    "heightCm": 208
+  },
+  "1904944|153595": {
+    "pozycja": "Ś",
+    "teamId": "153595",
+    "playerId": "1904944",
+    "name": "Maujean, Gérard",
+    "firstName": "Gérard",
+    "lastName": "Maujean",
+    "heightCm": 205
+  },
+  "1904950|153616": {
+    "pozycja": "L",
+    "teamId": "153616",
+    "playerId": "1904950",
+    "name": "Siriwiboon, Kuan-chung",
+    "firstName": "Kuan-chung",
+    "lastName": "Siriwiboon",
+    "heightCm": 175
+  },
+  "1904974|153601": {
+    "pozycja": "L",
+    "teamId": "153601",
+    "playerId": "1904974",
+    "name": "Lambertini, Osvaldo",
+    "firstName": "Osvaldo",
+    "lastName": "Lambertini",
+    "heightCm": 175
+  },
+  "1904975|153608": {
+    "pozycja": "L",
+    "teamId": "153608",
+    "playerId": "1904975",
+    "name": "Olsson, Antti-Jussi",
+    "firstName": "Antti-Jussi",
+    "lastName": "Olsson",
+    "heightCm": 178
+  },
+  "1904978|153593": {
+    "pozycja": "P",
+    "teamId": "153593",
+    "playerId": "1904978",
+    "name": "Konieczny, Marcin",
+    "firstName": "Marcin",
+    "lastName": "Konieczny",
+    "heightCm": 183
+  },
+  "1904982|153593": {
+    "pozycja": "Ś",
+    "teamId": "153593",
+    "playerId": "1904982",
+    "name": "Boczula, Krzysztof",
+    "firstName": "Krzysztof",
+    "lastName": "Boczula",
+    "heightCm": 219
+  },
+  "1904984|153596": {
+    "pozycja": "Ś",
+    "teamId": "153596",
+    "playerId": "1904984",
+    "name": "Tauchnitz, Götz",
+    "firstName": "Götz",
+    "lastName": "Tauchnitz",
+    "heightCm": 214
+  },
+  "1905039|153602": {
+    "pozycja": "L",
+    "teamId": "153602",
+    "playerId": "1905039",
+    "name": "De Martínez, Héctor",
+    "firstName": "Héctor",
+    "lastName": "De Martínez",
+    "heightCm": 179
+  },
+  "1905172|153600": {
+    "pozycja": "Ś",
+    "teamId": "153600",
+    "playerId": "1905172",
+    "name": "Nagtglas, Winfried",
+    "firstName": "Winfried",
+    "lastName": "Nagtglas",
+    "heightCm": 216
+  },
+  "1905214|153616": {
+    "pozycja": "Ś",
+    "teamId": "153616",
+    "playerId": "1905214",
+    "name": "Lianting, Xin-Gang",
+    "firstName": "Xin-Gang",
+    "lastName": "Lianting",
+    "heightCm": 220
+  },
+  "1905218|153597": {
+    "pozycja": "Ś",
+    "teamId": "153597",
+    "playerId": "1905218",
+    "name": "Glenn, Michael",
+    "firstName": "Michael",
+    "lastName": "Glenn",
+    "heightCm": 219
+  },
+  "1905226|153601": {
+    "pozycja": "P",
+    "teamId": "153601",
+    "playerId": "1905226",
+    "name": "Fernandes, Antenor",
+    "firstName": "Antenor",
+    "lastName": "Fernandes",
+    "heightCm": 181
+  },
+  "1905265|153607": {
+    "pozycja": "P",
+    "teamId": "153607",
+    "playerId": "1905265",
+    "name": "Greiner, Kaspar",
+    "firstName": "Kaspar",
+    "lastName": "Greiner",
+    "heightCm": 187
+  },
+  "1905272|153619": {
+    "pozycja": "Ś",
+    "teamId": "153619",
+    "playerId": "1905272",
+    "name": "Rada, Andrei",
+    "firstName": "Andrei",
+    "lastName": "Rada",
+    "heightCm": 198
+  },
+  "1905277|153618": {
+    "pozycja": "O",
+    "teamId": "153618",
+    "playerId": "1905277",
+    "name": "Krcmar, Ajdin",
+    "firstName": "Ajdin",
+    "lastName": "Krcmar",
+    "heightCm": 206
+  },
+  "1905281|153599": {
+    "pozycja": "Ś",
+    "teamId": "153599",
+    "playerId": "1905281",
+    "name": "Yosifov, Hristo",
+    "firstName": "Hristo",
+    "lastName": "Yosifov",
+    "heightCm": 213
+  },
+  "1905290|153602": {
+    "pozycja": "Ś",
+    "teamId": "153602",
+    "playerId": "1905290",
+    "name": "Acosta, Riccardo",
+    "firstName": "Riccardo",
+    "lastName": "Acosta",
+    "heightCm": 212
+  },
+  "1905302|153602": {
+    "pozycja": "O",
+    "teamId": "153602",
+    "playerId": "1905302",
+    "name": "Altera, Néstor",
+    "firstName": "Néstor",
+    "lastName": "Altera",
+    "heightCm": 206
+  },
+  "1905336|153598": {
+    "pozycja": "S",
+    "teamId": "153598",
+    "playerId": "1905336",
+    "name": "Téllez, Guillermo",
+    "firstName": "Guillermo",
+    "lastName": "Téllez",
+    "heightCm": 188
+  },
+  "1905338|153600": {
+    "pozycja": "S",
+    "teamId": "153600",
+    "playerId": "1905338",
+    "name": "Aerts, Jari",
+    "firstName": "Jari",
+    "lastName": "Aerts",
+    "heightCm": 192
+  },
+  "1905437|153601": {
+    "pozycja": "Ś",
+    "teamId": "153601",
+    "playerId": "1905437",
+    "name": "Quadros, Fabrício",
+    "firstName": "Fabrício",
+    "lastName": "Quadros",
+    "heightCm": 217
+  },
+  "1905455|153610": {
+    "pozycja": "O",
+    "teamId": "153610",
+    "playerId": "1905455",
+    "name": "Wiels, Sjarel",
+    "firstName": "Sjarel",
+    "lastName": "Wiels",
+    "heightCm": 190
+  },
+  "1905461|153606": {
+    "pozycja": "P",
+    "teamId": "153606",
+    "playerId": "1905461",
+    "name": "Hrusínský, Toman",
+    "firstName": "Toman",
+    "lastName": "Hrusínský",
+    "heightCm": 197
+  },
+  "1905655|153620": {
+    "pozycja": "O",
+    "teamId": "153620",
+    "playerId": "1905655",
+    "name": "Šuler, Damjan",
+    "firstName": "Damjan",
+    "lastName": "Šuler",
+    "heightCm": 212
+  },
+  "1905671|153602": {
+    "pozycja": "Ś",
+    "teamId": "153602",
+    "playerId": "1905671",
+    "name": "Daniel, Giuseppino",
+    "firstName": "Giuseppino",
+    "lastName": "Daniel",
+    "heightCm": 202
+  },
+  "1905688|153607": {
+    "pozycja": "S",
+    "teamId": "153607",
+    "playerId": "1905688",
+    "name": "Rafelsberger, Wolfgang",
+    "firstName": "Wolfgang",
+    "lastName": "Rafelsberger",
+    "heightCm": 182
+  },
+  "1905703|153617": {
+    "pozycja": "Ś",
+    "teamId": "153617",
+    "playerId": "1905703",
+    "name": "de Noronha, Caio",
+    "firstName": "Caio",
+    "lastName": "de Noronha",
+    "heightCm": 219
+  },
+  "1905803|153617": {
+    "pozycja": "O",
+    "teamId": "153617",
+    "playerId": "1905803",
+    "name": "Rivera, Scott",
+    "firstName": "Scott",
+    "lastName": "Rivera",
+    "heightCm": 187
+  },
+  "1905845|153612": {
+    "pozycja": "P",
+    "teamId": "153612",
+    "playerId": "1905845",
+    "name": "Oese, Kurni",
+    "firstName": "Kurni",
+    "lastName": "Oese",
+    "heightCm": 186
+  },
+  "1905864|153595": {
+    "pozycja": "S",
+    "teamId": "153595",
+    "playerId": "1905864",
+    "name": "Baudet, Sébastien",
+    "firstName": "Sébastien",
+    "lastName": "Baudet",
+    "heightCm": 186
+  },
+  "1905876|153619": {
+    "pozycja": "O",
+    "teamId": "153619",
+    "playerId": "1905876",
+    "name": "Stanca, Iorghu",
+    "firstName": "Iorghu",
+    "lastName": "Stanca",
+    "heightCm": 213
+  },
+  "1905880|153594": {
+    "pozycja": "P",
+    "teamId": "153594",
+    "playerId": "1905880",
+    "name": "Galtelli, Carlo",
+    "firstName": "Carlo",
+    "lastName": "Galtelli",
+    "heightCm": 197
+  },
+  "1905912|153611": {
+    "pozycja": "P",
+    "teamId": "153611",
+    "playerId": "1905912",
+    "name": "Görke, Alkan",
+    "firstName": "Alkan",
+    "lastName": "Görke",
+    "heightCm": 183
+  },
+  "1905951|153597": {
+    "pozycja": "P",
+    "teamId": "153597",
+    "playerId": "1905951",
+    "name": "Greenlee, Kevin",
+    "firstName": "Kevin",
+    "lastName": "Greenlee",
+    "heightCm": 199
+  },
+  "1926918|153596": {
+    "pozycja": "O",
+    "teamId": "153596",
+    "playerId": "1926918",
+    "name": "Schüßler, Siegmar",
+    "firstName": "Siegmar",
+    "lastName": "Schüßler",
+    "heightCm": 205
+  },
+  "1926926|153593": {
+    "pozycja": "S",
+    "teamId": "153593",
+    "playerId": "1926926",
+    "name": "Szymański, Olaf",
+    "firstName": "Olaf",
+    "lastName": "Szymański",
+    "heightCm": 199
+  },
+  "1926930|153598": {
+    "pozycja": "S",
+    "teamId": "153598",
+    "playerId": "1926930",
+    "name": "Coaña, Roberto",
+    "firstName": "Roberto",
+    "lastName": "Coaña",
+    "heightCm": 195
+  },
+  "1926952|153610": {
+    "pozycja": "P",
+    "teamId": "153610",
+    "playerId": "1926952",
+    "name": "Kabengele, Guido",
+    "firstName": "Guido",
+    "lastName": "Kabengele",
+    "heightCm": 205
+  },
+  "1926975|153619": {
+    "pozycja": "P",
+    "teamId": "153619",
+    "playerId": "1926975",
+    "name": "Grozav, Stelian",
+    "firstName": "Stelian",
+    "lastName": "Grozav",
+    "heightCm": 191
+  },
+  "1927003|153615": {
+    "pozycja": "Ś",
+    "teamId": "153615",
+    "playerId": "1927003",
+    "name": "Darvas, Palo",
+    "firstName": "Palo",
+    "lastName": "Darvas",
+    "heightCm": 208
+  },
+  "1927030|153601": {
+    "pozycja": "P",
+    "teamId": "153601",
+    "playerId": "1927030",
+    "name": "Nepomuceno, Armando",
+    "firstName": "Armando",
+    "lastName": "Nepomuceno",
+    "heightCm": 183
+  },
+  "1927031|153601": {
+    "pozycja": "P",
+    "teamId": "153601",
+    "playerId": "1927031",
+    "name": "Teixeira, Jefferson",
+    "firstName": "Jefferson",
+    "lastName": "Teixeira",
+    "heightCm": 201
+  },
+  "1927063|153595": {
+    "pozycja": "S",
+    "teamId": "153595",
+    "playerId": "1927063",
+    "name": "Baud, Antoine",
+    "firstName": "Antoine",
+    "lastName": "Baud",
+    "heightCm": 210
+  },
+  "1927210|153613": {
+    "pozycja": "S",
+    "teamId": "153613",
+    "playerId": "1927210",
+    "name": "de Almeida, Salvador",
+    "firstName": "Salvador",
+    "lastName": "de Almeida",
+    "heightCm": 188
+  },
+  "1927264|153617": {
+    "pozycja": "S",
+    "teamId": "153617",
+    "playerId": "1927264",
+    "name": "Alcouffe, Marc",
+    "firstName": "Marc",
+    "lastName": "Alcouffe",
+    "heightCm": 206
+  },
+  "1927365|153620": {
+    "pozycja": "P",
+    "teamId": "153620",
+    "playerId": "1927365",
+    "name": "Blažić, Cvetko",
+    "firstName": "Cvetko",
+    "lastName": "Blažić",
+    "heightCm": 195
+  },
+  "1927366|153618": {
+    "pozycja": "L",
+    "teamId": "153618",
+    "playerId": "1927366",
+    "name": "Djurdjić, Mahir",
+    "firstName": "Mahir",
+    "lastName": "Djurdjić",
+    "heightCm": 176
+  },
+  "1927433|153612": {
+    "pozycja": "Ś",
+    "teamId": "153612",
+    "playerId": "1927433",
+    "name": "Suslik, Freddi",
+    "firstName": "Freddi",
+    "lastName": "Suslik",
+    "heightCm": 206
+  },
+  "1927461|153617": {
+    "pozycja": "Ś",
+    "teamId": "153617",
+    "playerId": "1927461",
+    "name": "Wiesbauer, Ivan",
+    "firstName": "Ivan",
+    "lastName": "Wiesbauer",
+    "heightCm": 214
+  },
+  "1927483|153596": {
+    "pozycja": "P",
+    "teamId": "153596",
+    "playerId": "1927483",
+    "name": "Anders-Akinyemi, Henning",
+    "firstName": "Henning",
+    "lastName": "Anders-Akinyemi",
+    "heightCm": 182
+  },
+  "1927565|153606": {
+    "pozycja": "P",
+    "teamId": "153606",
+    "playerId": "1927565",
+    "name": "Travnicek, Adam",
+    "firstName": "Adam",
+    "lastName": "Travnicek",
+    "heightCm": 181
+  },
+  "1927642|153604": {
+    "pozycja": "P",
+    "teamId": "153604",
+    "playerId": "1927642",
+    "name": "Vulić, Dragoslav",
+    "firstName": "Dragoslav",
+    "lastName": "Vulić",
+    "heightCm": 201
+  },
+  "1927728|153616": {
+    "pozycja": "P",
+    "teamId": "153616",
+    "playerId": "1927728",
+    "name": "Chunxian, Hu",
+    "firstName": "Hu",
+    "lastName": "Chunxian",
+    "heightCm": 184
+  },
+  "1927729|153616": {
+    "pozycja": "P",
+    "teamId": "153616",
+    "playerId": "1927729",
+    "name": "Guangpeng, Guoqiang",
+    "firstName": "Guoqiang",
+    "lastName": "Guangpeng",
+    "heightCm": 204
+  },
+  "1927749|153596": {
+    "pozycja": "L",
+    "teamId": "153596",
+    "playerId": "1927749",
+    "name": "Maehle, Matthias",
+    "firstName": "Matthias",
+    "lastName": "Maehle",
+    "heightCm": 177
+  },
+  "1927751|153604": {
+    "pozycja": "Ś",
+    "teamId": "153604",
+    "playerId": "1927751",
+    "name": "Vukašinović, Bojan",
+    "firstName": "Bojan",
+    "lastName": "Vukašinović",
+    "heightCm": 203
+  },
+  "1927752|153598": {
+    "pozycja": "Ś",
+    "teamId": "153598",
+    "playerId": "1927752",
+    "name": "Aguado, Sancho",
+    "firstName": "Sancho",
+    "lastName": "Aguado",
+    "heightCm": 220
+  },
+  "1927855|153613": {
+    "pozycja": "Ś",
+    "teamId": "153613",
+    "playerId": "1927855",
+    "name": "Gusmão, Aventino",
+    "firstName": "Aventino",
+    "lastName": "Gusmão",
+    "heightCm": 220
+  },
+  "1927865|153617": {
+    "pozycja": "O",
+    "teamId": "153617",
+    "playerId": "1927865",
+    "name": "Quiriti, Angelo",
+    "firstName": "Angelo",
+    "lastName": "Quiriti",
+    "heightCm": 185
+  },
+  "1927870|153613": {
+    "pozycja": "S",
+    "teamId": "153613",
+    "playerId": "1927870",
+    "name": "Idanha, Gregório",
+    "firstName": "Gregório",
+    "lastName": "Idanha",
+    "heightCm": 206
+  },
+  "1927873|153593": {
+    "pozycja": "P",
+    "teamId": "153593",
+    "playerId": "1927873",
+    "name": "Grabowski, Jarosław",
+    "firstName": "Jarosław",
+    "lastName": "Grabowski",
+    "heightCm": 191
+  },
+  "1927875|153595": {
+    "pozycja": "P",
+    "teamId": "153595",
+    "playerId": "1927875",
+    "name": "Bardon, Jean",
+    "firstName": "Jean",
+    "lastName": "Bardon",
+    "heightCm": 192
+  },
+  "1927881|153610": {
     "pozycja": "P",
     "teamId": "153610",
     "playerId": "1927881",
-    "teamName": "Belgium",
-    "source": "national"
+    "name": "Zaidi, Maxime",
+    "firstName": "Maxime",
+    "lastName": "Zaidi",
+    "heightCm": 189
   },
-  "Zajc, Leo|153620": {
+  "1927955|153601": {
+    "pozycja": "P",
+    "teamId": "153601",
+    "playerId": "1927955",
+    "name": "Campello, Wanderson",
+    "firstName": "Wanderson",
+    "lastName": "Campello",
+    "heightCm": 206
+  },
+  "1928029|153593": {
+    "pozycja": "P",
+    "teamId": "153593",
+    "playerId": "1928029",
+    "name": "Okoński, Jan",
+    "firstName": "Jan",
+    "lastName": "Okoński",
+    "heightCm": 189
+  },
+  "1928033|153599": {
+    "pozycja": "O",
+    "teamId": "153599",
+    "playerId": "1928033",
+    "name": "Stoev, Angel",
+    "firstName": "Angel",
+    "lastName": "Stoev",
+    "heightCm": 209
+  },
+  "1928034|153596": {
+    "pozycja": "O",
+    "teamId": "153596",
+    "playerId": "1928034",
+    "name": "Achat, Harald-Peter",
+    "firstName": "Harald-Peter",
+    "lastName": "Achat",
+    "heightCm": 212
+  },
+  "1928039|153593": {
+    "pozycja": "Ś",
+    "teamId": "153593",
+    "playerId": "1928039",
+    "name": "Biegański, Adam",
+    "firstName": "Adam",
+    "lastName": "Biegański",
+    "heightCm": 216
+  },
+  "1928058|153620": {
     "pozycja": "Ś",
     "teamId": "153620",
-    "playerId": "1976332",
-    "teamName": "Slovenia",
-    "source": "national"
+    "playerId": "1928058",
+    "name": "Šmrtnik, Danijel",
+    "firstName": "Danijel",
+    "lastName": "Šmrtnik",
+    "heightCm": 212
   },
-  "Zervos, Totis|153605": {
+  "1928065|153618": {
+    "pozycja": "Ś",
+    "teamId": "153618",
+    "playerId": "1928065",
+    "name": "Bekić, Sanjin",
+    "firstName": "Sanjin",
+    "lastName": "Bekić",
+    "heightCm": 211
+  },
+  "1928074|153594": {
+    "pozycja": "Ś",
+    "teamId": "153594",
+    "playerId": "1928074",
+    "name": "Rosini, Ottavio",
+    "firstName": "Ottavio",
+    "lastName": "Rosini",
+    "heightCm": 212
+  },
+  "1928107|153613": {
     "pozycja": "S",
-    "teamId": "153605",
-    "playerId": "1976500",
-    "teamName": "Greece",
-    "source": "national"
+    "teamId": "153613",
+    "playerId": "1928107",
+    "name": "Ferrobeira, Sandro",
+    "firstName": "Sandro",
+    "lastName": "Ferrobeira",
+    "heightCm": 199
   },
-  "Zorc, Mario|153620": {
+  "1928130|153611": {
+    "pozycja": "Ś",
+    "teamId": "153611",
+    "playerId": "1928130",
+    "name": "Önay, Furkan",
+    "firstName": "Furkan",
+    "lastName": "Önay",
+    "heightCm": 212
+  },
+  "1928131|153608": {
+    "pozycja": "O",
+    "teamId": "153608",
+    "playerId": "1928131",
+    "name": "Kokkonen, Esa-Pekka",
+    "firstName": "Esa-Pekka",
+    "lastName": "Kokkonen",
+    "heightCm": 193
+  },
+  "1928154|153612": {
+    "pozycja": "L",
+    "teamId": "153612",
+    "playerId": "1928154",
+    "name": "Muhel, Margus",
+    "firstName": "Margus",
+    "lastName": "Muhel",
+    "heightCm": 176
+  },
+  "1928166|153614": {
+    "pozycja": "P",
+    "teamId": "153614",
+    "playerId": "1928166",
+    "name": "Yates, Lewis",
+    "firstName": "Lewis",
+    "lastName": "Yates",
+    "heightCm": 194
+  },
+  "1928192|153614": {
+    "pozycja": "L",
+    "teamId": "153614",
+    "playerId": "1928192",
+    "name": "McClelland, Rodney",
+    "firstName": "Rodney",
+    "lastName": "McClelland",
+    "heightCm": 180
+  },
+  "1928196|153619": {
     "pozycja": "S",
-    "teamId": "153620",
-    "playerId": "1949173",
-    "teamName": "Slovenia",
-    "source": "national"
+    "teamId": "153619",
+    "playerId": "1928196",
+    "name": "Latovlevici, Dracul",
+    "firstName": "Dracul",
+    "lastName": "Latovlevici",
+    "heightCm": 205
   },
-  "Zorc, Tonček|153620": {
+  "1928197|153603": {
+    "pozycja": "O",
+    "teamId": "153603",
+    "playerId": "1928197",
+    "name": "Shirota, Shun",
+    "firstName": "Shun",
+    "lastName": "Shirota",
+    "heightCm": 198
+  },
+  "1928234|153608": {
+    "pozycja": "P",
+    "teamId": "153608",
+    "playerId": "1928234",
+    "name": "Halinen, Claes",
+    "firstName": "Claes",
+    "lastName": "Halinen",
+    "heightCm": 185
+  },
+  "1928235|153594": {
+    "pozycja": "O",
+    "teamId": "153594",
+    "playerId": "1928235",
+    "name": "Bottazzi, Federico",
+    "firstName": "Federico",
+    "lastName": "Bottazzi",
+    "heightCm": 202
+  },
+  "1928247|153598": {
+    "pozycja": "P",
+    "teamId": "153598",
+    "playerId": "1928247",
+    "name": "Ferrandis, Constantino",
+    "firstName": "Constantino",
+    "lastName": "Ferrandis",
+    "heightCm": 198
+  },
+  "1928252|153615": {
     "pozycja": "Ś",
-    "teamId": "153620",
-    "playerId": "1950560",
-    "teamName": "Slovenia",
-    "source": "national"
+    "teamId": "153615",
+    "playerId": "1928252",
+    "name": "Penksa, Gejza",
+    "firstName": "Gejza",
+    "lastName": "Penksa",
+    "heightCm": 209
   },
-  "Žurej, Klemen|153620": {
-    "pozycja": "Ś",
-    "teamId": "153620",
-    "playerId": "2003797",
-    "teamName": "Slovenia",
-    "source": "national"
+  "1928274|153594": {
+    "pozycja": "P",
+    "teamId": "153594",
+    "playerId": "1928274",
+    "name": "Tavolaro, Gigi",
+    "firstName": "Gigi",
+    "lastName": "Tavolaro",
+    "heightCm": 189
   },
-  "Żołądek, Daniel|153593": {
+  "1928276|153593": {
     "pozycja": "P",
     "teamId": "153593",
     "playerId": "1928276",
-    "teamName": "Poland",
-    "source": "national"
+    "name": "Żołądek, Daniel",
+    "firstName": "Daniel",
+    "lastName": "Żołądek",
+    "heightCm": 183
+  },
+  "1928282|153609": {
+    "pozycja": "Ś",
+    "teamId": "153609",
+    "playerId": "1928282",
+    "name": "Vlak, Lovro",
+    "firstName": "Lovro",
+    "lastName": "Vlak",
+    "heightCm": 216
+  },
+  "1928285|153617": {
+    "pozycja": "Ś",
+    "teamId": "153617",
+    "playerId": "1928285",
+    "name": "Terragni, Cesarino",
+    "firstName": "Cesarino",
+    "lastName": "Terragni",
+    "heightCm": 216
+  },
+  "1928286|153617": {
+    "pozycja": "Ś",
+    "teamId": "153617",
+    "playerId": "1928286",
+    "name": "Adar, Adnan",
+    "firstName": "Adnan",
+    "lastName": "Adar",
+    "heightCm": 220
+  },
+  "1928337|153610": {
+    "pozycja": "Ś",
+    "teamId": "153610",
+    "playerId": "1928337",
+    "name": "de Sax, Alexei",
+    "firstName": "Alexei",
+    "lastName": "de Sax",
+    "heightCm": 208
+  },
+  "1928342|153600": {
+    "pozycja": "Ś",
+    "teamId": "153600",
+    "playerId": "1928342",
+    "name": "Seunke, Tygo",
+    "firstName": "Tygo",
+    "lastName": "Seunke",
+    "heightCm": 215
+  },
+  "1928347|153599": {
+    "pozycja": "L",
+    "teamId": "153599",
+    "playerId": "1928347",
+    "name": "Dochkov, Kiril",
+    "firstName": "Kiril",
+    "lastName": "Dochkov",
+    "heightCm": 176
+  },
+  "1928421|153598": {
+    "pozycja": "S",
+    "teamId": "153598",
+    "playerId": "1928421",
+    "name": "Argenté, Gonzalo",
+    "firstName": "Gonzalo",
+    "lastName": "Argenté",
+    "heightCm": 206
+  },
+  "1928422|153604": {
+    "pozycja": "S",
+    "teamId": "153604",
+    "playerId": "1928422",
+    "name": "Gvozdenović, Andrija",
+    "firstName": "Andrija",
+    "lastName": "Gvozdenović",
+    "heightCm": 201
+  },
+  "1928457|153602": {
+    "pozycja": "P",
+    "teamId": "153602",
+    "playerId": "1928457",
+    "name": "Landriscina, Santiago",
+    "firstName": "Santiago",
+    "lastName": "Landriscina",
+    "heightCm": 187
+  },
+  "1928473|153593": {
+    "pozycja": "O",
+    "teamId": "153593",
+    "playerId": "1928473",
+    "name": "Majcher, Michał",
+    "firstName": "Michał",
+    "lastName": "Majcher",
+    "heightCm": 212
+  },
+  "1928476|153609": {
+    "pozycja": "L",
+    "teamId": "153609",
+    "playerId": "1928476",
+    "name": "Hrzica, Relja",
+    "firstName": "Relja",
+    "lastName": "Hrzica",
+    "heightCm": 175
+  },
+  "1928496|153608": {
+    "pozycja": "Ś",
+    "teamId": "153608",
+    "playerId": "1928496",
+    "name": "Hämäläinen, Carl-Adam",
+    "firstName": "Carl-Adam",
+    "lastName": "Hämäläinen",
+    "heightCm": 209
+  },
+  "1928510|153607": {
+    "pozycja": "L",
+    "teamId": "153607",
+    "playerId": "1928510",
+    "name": "Hellmich, Armin",
+    "firstName": "Armin",
+    "lastName": "Hellmich",
+    "heightCm": 189
+  },
+  "1928529|153603": {
+    "pozycja": "Ś",
+    "teamId": "153603",
+    "playerId": "1928529",
+    "name": "Tôchika, Kazuhisa",
+    "firstName": "Kazuhisa",
+    "lastName": "Tôchika",
+    "heightCm": 204
+  },
+  "1928531|153604": {
+    "pozycja": "S",
+    "teamId": "153604",
+    "playerId": "1928531",
+    "name": "Smiljanić, Darko",
+    "firstName": "Darko",
+    "lastName": "Smiljanić",
+    "heightCm": 200
+  },
+  "1928550|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "1928550",
+    "name": "Anocic, Vlado",
+    "firstName": "Vlado",
+    "lastName": "Anocic",
+    "heightCm": 198
+  },
+  "1928557|153616": {
+    "pozycja": "Ś",
+    "teamId": "153616",
+    "playerId": "1928557",
+    "name": "Yuze, Moy",
+    "firstName": "Moy",
+    "lastName": "Yuze",
+    "heightCm": 194
+  },
+  "1928583|153609": {
+    "pozycja": "L",
+    "teamId": "153609",
+    "playerId": "1928583",
+    "name": "Kapor, Kristjan",
+    "firstName": "Kristjan",
+    "lastName": "Kapor",
+    "heightCm": 175
+  },
+  "1928588|153605": {
+    "pozycja": "P",
+    "teamId": "153605",
+    "playerId": "1928588",
+    "name": "Mathioudakis, Lykourgos",
+    "firstName": "Lykourgos",
+    "lastName": "Mathioudakis",
+    "heightCm": 198
+  },
+  "1928597|153617": {
+    "pozycja": "L",
+    "teamId": "153617",
+    "playerId": "1928597",
+    "name": "Altenburg, Felix",
+    "firstName": "Felix",
+    "lastName": "Altenburg",
+    "heightCm": 175
+  },
+  "1928601|153618": {
+    "pozycja": "Ś",
+    "teamId": "153618",
+    "playerId": "1928601",
+    "name": "Silajdžić, Sulejman",
+    "firstName": "Sulejman",
+    "lastName": "Silajdžić",
+    "heightCm": 217
+  },
+  "1928667|153599": {
+    "pozycja": "P",
+    "teamId": "153599",
+    "playerId": "1928667",
+    "name": "Mladenov, Tzvetan",
+    "firstName": "Tzvetan",
+    "lastName": "Mladenov",
+    "heightCm": 194
+  },
+  "1928726|153612": {
+    "pozycja": "S",
+    "teamId": "153612",
+    "playerId": "1928726",
+    "name": "Kibuspuu, Ote",
+    "firstName": "Ote",
+    "lastName": "Kibuspuu",
+    "heightCm": 206
+  },
+  "1928798|153597": {
+    "pozycja": "Ś",
+    "teamId": "153597",
+    "playerId": "1928798",
+    "name": "Davis, Grady",
+    "firstName": "Grady",
+    "lastName": "Davis",
+    "heightCm": 220
+  },
+  "1928799|153599": {
+    "pozycja": "P",
+    "teamId": "153599",
+    "playerId": "1928799",
+    "name": "Kirov, Petar",
+    "firstName": "Petar",
+    "lastName": "Kirov",
+    "heightCm": 186
+  },
+  "1928800|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "1928800",
+    "name": "Wössner, Ramon",
+    "firstName": "Ramon",
+    "lastName": "Wössner",
+    "heightCm": 196
+  },
+  "1928809|153598": {
+    "pozycja": "O",
+    "teamId": "153598",
+    "playerId": "1928809",
+    "name": "Soler, Teo",
+    "firstName": "Teo",
+    "lastName": "Soler",
+    "heightCm": 205
+  },
+  "1928845|153599": {
+    "pozycja": "P",
+    "teamId": "153599",
+    "playerId": "1928845",
+    "name": "Avramov, Georgi",
+    "firstName": "Georgi",
+    "lastName": "Avramov",
+    "heightCm": 200
+  },
+  "1928848|153601": {
+    "pozycja": "Ś",
+    "teamId": "153601",
+    "playerId": "1928848",
+    "name": "dos Reis, Anderson",
+    "firstName": "Anderson",
+    "lastName": "dos Reis",
+    "heightCm": 220
+  },
+  "1928853|153605": {
+    "pozycja": "O",
+    "teamId": "153605",
+    "playerId": "1928853",
+    "name": "Tsatsarelis, Thiseas",
+    "firstName": "Thiseas",
+    "lastName": "Tsatsarelis",
+    "heightCm": 197
+  },
+  "1928886|153602": {
+    "pozycja": "S",
+    "teamId": "153602",
+    "playerId": "1928886",
+    "name": "Alfano, Juan",
+    "firstName": "Juan",
+    "lastName": "Alfano",
+    "heightCm": 199
+  },
+  "1928899|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "1928899",
+    "name": "Slavica, Oliver",
+    "firstName": "Oliver",
+    "lastName": "Slavica",
+    "heightCm": 199
+  },
+  "1928909|153602": {
+    "pozycja": "P",
+    "teamId": "153602",
+    "playerId": "1928909",
+    "name": "Gamboa, Emanuel",
+    "firstName": "Emanuel",
+    "lastName": "Gamboa",
+    "heightCm": 187
+  },
+  "1928916|153596": {
+    "pozycja": "P",
+    "teamId": "153596",
+    "playerId": "1928916",
+    "name": "Schimmer, Bernd",
+    "firstName": "Bernd",
+    "lastName": "Schimmer",
+    "heightCm": 185
+  },
+  "1928917|153613": {
+    "pozycja": "O",
+    "teamId": "153613",
+    "playerId": "1928917",
+    "name": "Salazar, Aldonio",
+    "firstName": "Aldonio",
+    "lastName": "Salazar",
+    "heightCm": 201
+  },
+  "1928939|153603": {
+    "pozycja": "P",
+    "teamId": "153603",
+    "playerId": "1928939",
+    "name": "Inagaki, Tsumasaburo",
+    "firstName": "Tsumasaburo",
+    "lastName": "Inagaki",
+    "heightCm": 182
+  },
+  "1928979|153596": {
+    "pozycja": "L",
+    "teamId": "153596",
+    "playerId": "1928979",
+    "name": "Mechernich, Herbert",
+    "firstName": "Herbert",
+    "lastName": "Mechernich",
+    "heightCm": 178
+  },
+  "1928985|153599": {
+    "pozycja": "P",
+    "teamId": "153599",
+    "playerId": "1928985",
+    "name": "Balkanski, Pavlin",
+    "firstName": "Pavlin",
+    "lastName": "Balkanski",
+    "heightCm": 196
+  },
+  "1928994|153594": {
+    "pozycja": "O",
+    "teamId": "153594",
+    "playerId": "1928994",
+    "name": "Spompato, Piersandro",
+    "firstName": "Piersandro",
+    "lastName": "Spompato",
+    "heightCm": 203
+  },
+  "1929008|153594": {
+    "pozycja": "Ś",
+    "teamId": "153594",
+    "playerId": "1929008",
+    "name": "Savio, Arcangelo",
+    "firstName": "Arcangelo",
+    "lastName": "Savio",
+    "heightCm": 213
+  },
+  "1929014|153601": {
+    "pozycja": "L",
+    "teamId": "153601",
+    "playerId": "1929014",
+    "name": "Carvalho, Juan",
+    "firstName": "Juan",
+    "lastName": "Carvalho",
+    "heightCm": 178
+  },
+  "1929026|153597": {
+    "pozycja": "O",
+    "teamId": "153597",
+    "playerId": "1929026",
+    "name": "Hurtt, Zach",
+    "firstName": "Zach",
+    "lastName": "Hurtt",
+    "heightCm": 189
+  },
+  "1929041|153600": {
+    "pozycja": "L",
+    "teamId": "153600",
+    "playerId": "1929041",
+    "name": "Rabbering, Boy",
+    "firstName": "Boy",
+    "lastName": "Rabbering",
+    "heightCm": 185
+  },
+  "1929068|153614": {
+    "pozycja": "P",
+    "teamId": "153614",
+    "playerId": "1929068",
+    "name": "Yates, Arthur",
+    "firstName": "Arthur",
+    "lastName": "Yates",
+    "heightCm": 197
+  },
+  "1929075|153619": {
+    "pozycja": "Ś",
+    "teamId": "153619",
+    "playerId": "1929075",
+    "name": "Iorga, Anton",
+    "firstName": "Anton",
+    "lastName": "Iorga",
+    "heightCm": 213
+  },
+  "1929080|153614": {
+    "pozycja": "P",
+    "teamId": "153614",
+    "playerId": "1929080",
+    "name": "Kaufman, Ken",
+    "firstName": "Ken",
+    "lastName": "Kaufman",
+    "heightCm": 184
+  },
+  "1929106|153616": {
+    "pozycja": "P",
+    "teamId": "153616",
+    "playerId": "1929106",
+    "name": "Hongkai, Rongrong",
+    "firstName": "Rongrong",
+    "lastName": "Hongkai",
+    "heightCm": 182
+  },
+  "1929119|153593": {
+    "pozycja": "Ś",
+    "teamId": "153593",
+    "playerId": "1929119",
+    "name": "Łukaszewski, Łukasz",
+    "firstName": "Łukasz",
+    "lastName": "Łukaszewski",
+    "heightCm": 218
+  },
+  "1929120|153598": {
+    "pozycja": "P",
+    "teamId": "153598",
+    "playerId": "1929120",
+    "name": "Marola, Samuel",
+    "firstName": "Samuel",
+    "lastName": "Marola",
+    "heightCm": 184
+  },
+  "1929135|153614": {
+    "pozycja": "Ś",
+    "teamId": "153614",
+    "playerId": "1929135",
+    "name": "Ashton, Jacob",
+    "firstName": "Jacob",
+    "lastName": "Ashton",
+    "heightCm": 214
+  },
+  "1929161|153604": {
+    "pozycja": "P",
+    "teamId": "153604",
+    "playerId": "1929161",
+    "name": "Tadić, Zoran",
+    "firstName": "Zoran",
+    "lastName": "Tadić",
+    "heightCm": 209
+  },
+  "1929182|153594": {
+    "pozycja": "O",
+    "teamId": "153594",
+    "playerId": "1929182",
+    "name": "Toniolo, Leone",
+    "firstName": "Leone",
+    "lastName": "Toniolo",
+    "heightCm": 194
+  },
+  "1929226|153607": {
+    "pozycja": "O",
+    "teamId": "153607",
+    "playerId": "1929226",
+    "name": "Haslinger, Oscar",
+    "firstName": "Oscar",
+    "lastName": "Haslinger",
+    "heightCm": 201
+  },
+  "1929235|153599": {
+    "pozycja": "P",
+    "teamId": "153599",
+    "playerId": "1929235",
+    "name": "Yurukov, Iliya",
+    "firstName": "Iliya",
+    "lastName": "Yurukov",
+    "heightCm": 198
+  },
+  "1929237|153611": {
+    "pozycja": "Ś",
+    "teamId": "153611",
+    "playerId": "1929237",
+    "name": "Furkan, Devrim",
+    "firstName": "Devrim",
+    "lastName": "Furkan",
+    "heightCm": 213
+  },
+  "1929261|153616": {
+    "pozycja": "P",
+    "teamId": "153616",
+    "playerId": "1929261",
+    "name": "Hongjian, Toshirô",
+    "firstName": "Toshirô",
+    "lastName": "Hongjian",
+    "heightCm": 202
+  },
+  "1929307|153605": {
+    "pozycja": "P",
+    "teamId": "153605",
+    "playerId": "1929307",
+    "name": "Antinos, Pavlos",
+    "firstName": "Pavlos",
+    "lastName": "Antinos",
+    "heightCm": 207
+  },
+  "1929443|153618": {
+    "pozycja": "P",
+    "teamId": "153618",
+    "playerId": "1929443",
+    "name": "Hajrović, Tarik",
+    "firstName": "Tarik",
+    "lastName": "Hajrović",
+    "heightCm": 199
+  },
+  "1929446|153612": {
+    "pozycja": "O",
+    "teamId": "153612",
+    "playerId": "1929446",
+    "name": "Kapten, Ervin",
+    "firstName": "Ervin",
+    "lastName": "Kapten",
+    "heightCm": 194
+  },
+  "1929493|153597": {
+    "pozycja": "P",
+    "teamId": "153597",
+    "playerId": "1929493",
+    "name": "Jones, Mark",
+    "firstName": "Mark",
+    "lastName": "Jones",
+    "heightCm": 187
+  },
+  "1929499|153610": {
+    "pozycja": "L",
+    "teamId": "153610",
+    "playerId": "1929499",
+    "name": "Quataert, Siegfried",
+    "firstName": "Siegfried",
+    "lastName": "Quataert",
+    "heightCm": 179
+  },
+  "1929520|153596": {
+    "pozycja": "P",
+    "teamId": "153596",
+    "playerId": "1929520",
+    "name": "Anders-Akinyemi, Carsten",
+    "firstName": "Carsten",
+    "lastName": "Anders-Akinyemi",
+    "heightCm": 182
+  },
+  "1929522|153600": {
+    "pozycja": "L",
+    "teamId": "153600",
+    "playerId": "1929522",
+    "name": "Poeder, Lou",
+    "firstName": "Lou",
+    "lastName": "Poeder",
+    "heightCm": 175
+  },
+  "1929523|153602": {
+    "pozycja": "S",
+    "teamId": "153602",
+    "playerId": "1929523",
+    "name": "Gálvez, Gerónimo",
+    "firstName": "Gerónimo",
+    "lastName": "Gálvez",
+    "heightCm": 196
+  },
+  "1929528|153618": {
+    "pozycja": "Ś",
+    "teamId": "153618",
+    "playerId": "1929528",
+    "name": "Kršmanović, Kerim",
+    "firstName": "Kerim",
+    "lastName": "Kršmanović",
+    "heightCm": 219
+  },
+  "1929558|153611": {
+    "pozycja": "O",
+    "teamId": "153611",
+    "playerId": "1929558",
+    "name": "Örsan, Ayberk",
+    "firstName": "Ayberk",
+    "lastName": "Örsan",
+    "heightCm": 206
+  },
+  "1929560|153607": {
+    "pozycja": "O",
+    "teamId": "153607",
+    "playerId": "1929560",
+    "name": "Bettelheim, Gerald",
+    "firstName": "Gerald",
+    "lastName": "Bettelheim",
+    "heightCm": 198
+  },
+  "1929570|153615": {
+    "pozycja": "P",
+    "teamId": "153615",
+    "playerId": "1929570",
+    "name": "Dubašák, Bohdan",
+    "firstName": "Bohdan",
+    "lastName": "Dubašák",
+    "heightCm": 194
+  },
+  "1929598|153598": {
+    "pozycja": "Ś",
+    "teamId": "153598",
+    "playerId": "1929598",
+    "name": "Jauregui, Fernando",
+    "firstName": "Fernando",
+    "lastName": "Jauregui",
+    "heightCm": 218
+  },
+  "1929602|153612": {
+    "pozycja": "P",
+    "teamId": "153612",
+    "playerId": "1929602",
+    "name": "Chernichenko, Rolf",
+    "firstName": "Rolf",
+    "lastName": "Chernichenko",
+    "heightCm": 195
+  },
+  "1948929|153620": {
+    "pozycja": "P",
+    "teamId": "153620",
+    "playerId": "1948929",
+    "name": "Gobec, Matevž",
+    "firstName": "Matevž",
+    "lastName": "Gobec",
+    "heightCm": 184
+  },
+  "1948934|153602": {
+    "pozycja": "L",
+    "teamId": "153602",
+    "playerId": "1948934",
+    "name": "Di Gregorio, Orestes",
+    "firstName": "Orestes",
+    "lastName": "Di Gregorio",
+    "heightCm": 185
+  },
+  "1948952|153611": {
+    "pozycja": "O",
+    "teamId": "153611",
+    "playerId": "1948952",
+    "name": "Aykut, Baykal",
+    "firstName": "Baykal",
+    "lastName": "Aykut",
+    "heightCm": 191
+  },
+  "1948961|153618": {
+    "pozycja": "O",
+    "teamId": "153618",
+    "playerId": "1948961",
+    "name": "Stokić, Nikola",
+    "firstName": "Nikola",
+    "lastName": "Stokić",
+    "heightCm": 211
+  },
+  "1949008|153602": {
+    "pozycja": "P",
+    "teamId": "153602",
+    "playerId": "1949008",
+    "name": "Carnaghi, Fabrizio",
+    "firstName": "Fabrizio",
+    "lastName": "Carnaghi",
+    "heightCm": 209
+  },
+  "1949018|153593": {
+    "pozycja": "P",
+    "teamId": "153593",
+    "playerId": "1949018",
+    "name": "Kozłowski, Zbigniew",
+    "firstName": "Zbigniew",
+    "lastName": "Kozłowski",
+    "heightCm": 183
+  },
+  "1949031|153603": {
+    "pozycja": "P",
+    "teamId": "153603",
+    "playerId": "1949031",
+    "name": "Karubo, Tamasaburo",
+    "firstName": "Tamasaburo",
+    "lastName": "Karubo",
+    "heightCm": 187
+  },
+  "1949032|153598": {
+    "pozycja": "P",
+    "teamId": "153598",
+    "playerId": "1949032",
+    "name": "Longueira, Oscar",
+    "firstName": "Oscar",
+    "lastName": "Longueira",
+    "heightCm": 188
+  },
+  "1949043|153612": {
+    "pozycja": "Ś",
+    "teamId": "153612",
+    "playerId": "1949043",
+    "name": "Belkin, Villu",
+    "firstName": "Villu",
+    "lastName": "Belkin",
+    "heightCm": 212
+  },
+  "1949098|153594": {
+    "pozycja": "P",
+    "teamId": "153594",
+    "playerId": "1949098",
+    "name": "Cristiano, Lorenzo",
+    "firstName": "Lorenzo",
+    "lastName": "Cristiano",
+    "heightCm": 195
+  },
+  "1949107|153614": {
+    "pozycja": "P",
+    "teamId": "153614",
+    "playerId": "1949107",
+    "name": "Jordan, Louis",
+    "firstName": "Louis",
+    "lastName": "Jordan",
+    "heightCm": 193
+  },
+  "1949133|153604": {
+    "pozycja": "P",
+    "teamId": "153604",
+    "playerId": "1949133",
+    "name": "Tošković, Aleksandar",
+    "firstName": "Aleksandar",
+    "lastName": "Tošković",
+    "heightCm": 184
+  },
+  "1949134|153600": {
+    "pozycja": "P",
+    "teamId": "153600",
+    "playerId": "1949134",
+    "name": "Atik, Harm",
+    "firstName": "Harm",
+    "lastName": "Atik",
+    "heightCm": 210
+  },
+  "1949173|153620": {
+    "pozycja": "S",
+    "teamId": "153620",
+    "playerId": "1949173",
+    "name": "Zorc, Mario",
+    "firstName": "Mario",
+    "lastName": "Zorc",
+    "heightCm": 197
+  },
+  "1949516|153610": {
+    "pozycja": "Ś",
+    "teamId": "153610",
+    "playerId": "1949516",
+    "name": "Van Den Eynde, Ngagne",
+    "firstName": "Ngagne",
+    "lastName": "Van Den Eynde",
+    "heightCm": 218
+  },
+  "1949528|153616": {
+    "pozycja": "S",
+    "teamId": "153616",
+    "playerId": "1949528",
+    "name": "Changkai, Dai",
+    "firstName": "Dai",
+    "lastName": "Changkai",
+    "heightCm": 195
+  },
+  "1949740|153614": {
+    "pozycja": "O",
+    "teamId": "153614",
+    "playerId": "1949740",
+    "name": "Cammell, Peter",
+    "firstName": "Peter",
+    "lastName": "Cammell",
+    "heightCm": 200
+  },
+  "1949774|153606": {
+    "pozycja": "Ś",
+    "teamId": "153606",
+    "playerId": "1949774",
+    "name": "Sejkora, Benes",
+    "firstName": "Benes",
+    "lastName": "Sejkora",
+    "heightCm": 219
+  },
+  "1949776|153604": {
+    "pozycja": "L",
+    "teamId": "153604",
+    "playerId": "1949776",
+    "name": "Rakić, Srdjan",
+    "firstName": "Srdjan",
+    "lastName": "Rakić",
+    "heightCm": 180
+  },
+  "1949784|153595": {
+    "pozycja": "P",
+    "teamId": "153595",
+    "playerId": "1949784",
+    "name": "Beaudoin, Pascal",
+    "firstName": "Pascal",
+    "lastName": "Beaudoin",
+    "heightCm": 186
+  },
+  "1949867|153613": {
+    "pozycja": "O",
+    "teamId": "153613",
+    "playerId": "1949867",
+    "name": "Catão, Bruno",
+    "firstName": "Bruno",
+    "lastName": "Catão",
+    "heightCm": 196
+  },
+  "1949870|153618": {
+    "pozycja": "P",
+    "teamId": "153618",
+    "playerId": "1949870",
+    "name": "Budimir, Ognjen",
+    "firstName": "Ognjen",
+    "lastName": "Budimir",
+    "heightCm": 193
+  },
+  "1949874|153619": {
+    "pozycja": "P",
+    "teamId": "153619",
+    "playerId": "1949874",
+    "name": "Lirca, Liviu",
+    "firstName": "Liviu",
+    "lastName": "Lirca",
+    "heightCm": 209
+  },
+  "1949892|153613": {
+    "pozycja": "Ś",
+    "teamId": "153613",
+    "playerId": "1949892",
+    "name": "Brilhante, Nuno",
+    "firstName": "Nuno",
+    "lastName": "Brilhante",
+    "heightCm": 202
+  },
+  "1950000|153601": {
+    "pozycja": "S",
+    "teamId": "153601",
+    "playerId": "1950000",
+    "name": "Pita, Jacques",
+    "firstName": "Jacques",
+    "lastName": "Pita",
+    "heightCm": 196
+  },
+  "1950001|153601": {
+    "pozycja": "S",
+    "teamId": "153601",
+    "playerId": "1950001",
+    "name": "Martins, Venceslau",
+    "firstName": "Venceslau",
+    "lastName": "Martins",
+    "heightCm": 188
+  },
+  "1950003|153608": {
+    "pozycja": "Ś",
+    "teamId": "153608",
+    "playerId": "1950003",
+    "name": "Kaipainen, Cisse",
+    "firstName": "Cisse",
+    "lastName": "Kaipainen",
+    "heightCm": 209
+  },
+  "1950222|153618": {
+    "pozycja": "P",
+    "teamId": "153618",
+    "playerId": "1950222",
+    "name": "Šoljić, Alem",
+    "firstName": "Alem",
+    "lastName": "Šoljić",
+    "heightCm": 206
+  },
+  "1950228|153593": {
+    "pozycja": "L",
+    "teamId": "153593",
+    "playerId": "1950228",
+    "name": "Pękala, Robert",
+    "firstName": "Robert",
+    "lastName": "Pękala",
+    "heightCm": 177
+  },
+  "1950308|153620": {
+    "pozycja": "L",
+    "teamId": "153620",
+    "playerId": "1950308",
+    "name": "Codromaž, Leo",
+    "firstName": "Leo",
+    "lastName": "Codromaž",
+    "heightCm": 182
+  },
+  "1950318|153606": {
+    "pozycja": "L",
+    "teamId": "153606",
+    "playerId": "1950318",
+    "name": "Síkora, Radomil",
+    "firstName": "Radomil",
+    "lastName": "Síkora",
+    "heightCm": 186
+  },
+  "1950343|153612": {
+    "pozycja": "L",
+    "teamId": "153612",
+    "playerId": "1950343",
+    "name": "Nool, Märt",
+    "firstName": "Märt",
+    "lastName": "Nool",
+    "heightCm": 178
+  },
+  "1950382|153600": {
+    "pozycja": "P",
+    "teamId": "153600",
+    "playerId": "1950382",
+    "name": "Admiraal, Willem",
+    "firstName": "Willem",
+    "lastName": "Admiraal",
+    "heightCm": 201
+  },
+  "1950405|153600": {
+    "pozycja": "S",
+    "teamId": "153600",
+    "playerId": "1950405",
+    "name": "Goncalves, Boudewijn",
+    "firstName": "Boudewijn",
+    "lastName": "Goncalves",
+    "heightCm": 202
+  },
+  "1950428|153595": {
+    "pozycja": "L",
+    "teamId": "153595",
+    "playerId": "1950428",
+    "name": "Genty, Benoît",
+    "firstName": "Benoît",
+    "lastName": "Genty",
+    "heightCm": 185
+  },
+  "1950434|153611": {
+    "pozycja": "P",
+    "teamId": "153611",
+    "playerId": "1950434",
+    "name": "Çağlayan, Olcayto",
+    "firstName": "Olcayto",
+    "lastName": "Çağlayan",
+    "heightCm": 194
+  },
+  "1950455|153614": {
+    "pozycja": "Ś",
+    "teamId": "153614",
+    "playerId": "1950455",
+    "name": "Pearce, Kit",
+    "firstName": "Kit",
+    "lastName": "Pearce",
+    "heightCm": 207
+  },
+  "1950469|153614": {
+    "pozycja": "P",
+    "teamId": "153614",
+    "playerId": "1950469",
+    "name": "Hannen, Jack",
+    "firstName": "Jack",
+    "lastName": "Hannen",
+    "heightCm": 199
+  },
+  "1950524|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "1950524",
+    "name": "Lindinger, Austin",
+    "firstName": "Austin",
+    "lastName": "Lindinger",
+    "heightCm": 212
+  },
+  "1950550|153619": {
+    "pozycja": "Ś",
+    "teamId": "153619",
+    "playerId": "1950550",
+    "name": "Anghelina, Constantin",
+    "firstName": "Constantin",
+    "lastName": "Anghelina",
+    "heightCm": 209
+  },
+  "1950560|153620": {
+    "pozycja": "Ś",
+    "teamId": "153620",
+    "playerId": "1950560",
+    "name": "Zorc, Tonček",
+    "firstName": "Tonček",
+    "lastName": "Zorc",
+    "heightCm": 196
+  },
+  "1950600|153617": {
+    "pozycja": "S",
+    "teamId": "153617",
+    "playerId": "1950600",
+    "name": "Garcia, Andres",
+    "firstName": "Andres",
+    "lastName": "Garcia",
+    "heightCm": 199
+  },
+  "1950623|153597": {
+    "pozycja": "O",
+    "teamId": "153597",
+    "playerId": "1950623",
+    "name": "Soto, Beau",
+    "firstName": "Beau",
+    "lastName": "Soto",
+    "heightCm": 205
+  },
+  "1950652|153616": {
+    "pozycja": "Ś",
+    "teamId": "153616",
+    "playerId": "1950652",
+    "name": "Yingkai, Eijin",
+    "firstName": "Eijin",
+    "lastName": "Yingkai",
+    "heightCm": 204
+  },
+  "1950657|153604": {
+    "pozycja": "L",
+    "teamId": "153604",
+    "playerId": "1950657",
+    "name": "Stavrović, Bojan",
+    "firstName": "Bojan",
+    "lastName": "Stavrović",
+    "heightCm": 181
+  },
+  "1950697|153602": {
+    "pozycja": "Ś",
+    "teamId": "153602",
+    "playerId": "1950697",
+    "name": "Paunero, Miguel",
+    "firstName": "Miguel",
+    "lastName": "Paunero",
+    "heightCm": 215
+  },
+  "1950699|153605": {
+    "pozycja": "Ś",
+    "teamId": "153605",
+    "playerId": "1950699",
+    "name": "Bakas, Raoul",
+    "firstName": "Raoul",
+    "lastName": "Bakas",
+    "heightCm": 212
+  },
+  "1950744|153600": {
+    "pozycja": "Ś",
+    "teamId": "153600",
+    "playerId": "1950744",
+    "name": "Bont, Cor",
+    "firstName": "Cor",
+    "lastName": "Bont",
+    "heightCm": 215
+  },
+  "1950779|153612": {
+    "pozycja": "L",
+    "teamId": "153612",
+    "playerId": "1950779",
+    "name": "Laas, Eino",
+    "firstName": "Eino",
+    "lastName": "Laas",
+    "heightCm": 187
+  },
+  "1950801|153613": {
+    "pozycja": "L",
+    "teamId": "153613",
+    "playerId": "1950801",
+    "name": "Amaral, Altino",
+    "firstName": "Altino",
+    "lastName": "Amaral",
+    "heightCm": 177
+  },
+  "1950811|153604": {
+    "pozycja": "P",
+    "teamId": "153604",
+    "playerId": "1950811",
+    "name": "Milovanović, Dejan",
+    "firstName": "Dejan",
+    "lastName": "Milovanović",
+    "heightCm": 204
+  },
+  "1950847|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "1950847",
+    "name": "Buchinger, Benedikt",
+    "firstName": "Benedikt",
+    "lastName": "Buchinger",
+    "heightCm": 218
+  },
+  "1950848|153611": {
+    "pozycja": "L",
+    "teamId": "153611",
+    "playerId": "1950848",
+    "name": "Asel, Aslan",
+    "firstName": "Aslan",
+    "lastName": "Asel",
+    "heightCm": 179
+  },
+  "1950852|153604": {
+    "pozycja": "P",
+    "teamId": "153604",
+    "playerId": "1950852",
+    "name": "Pavlović, Veselin",
+    "firstName": "Veselin",
+    "lastName": "Pavlović",
+    "heightCm": 184
+  },
+  "1950865|153619": {
+    "pozycja": "Ś",
+    "teamId": "153619",
+    "playerId": "1950865",
+    "name": "Tamas, Ludovic",
+    "firstName": "Ludovic",
+    "lastName": "Tamas",
+    "heightCm": 203
+  },
+  "1950866|153594": {
+    "pozycja": "L",
+    "teamId": "153594",
+    "playerId": "1950866",
+    "name": "Quagliotti, Fiorenzo",
+    "firstName": "Fiorenzo",
+    "lastName": "Quagliotti",
+    "heightCm": 177
+  },
+  "1950900|153615": {
+    "pozycja": "S",
+    "teamId": "153615",
+    "playerId": "1950900",
+    "name": "Vatra, Kornel",
+    "firstName": "Kornel",
+    "lastName": "Vatra",
+    "heightCm": 186
+  },
+  "1950903|153606": {
+    "pozycja": "O",
+    "teamId": "153606",
+    "playerId": "1950903",
+    "name": "Mráka, Ondřej",
+    "firstName": "Ondřej",
+    "lastName": "Mráka",
+    "heightCm": 204
+  },
+  "1950915|153610": {
+    "pozycja": "Ś",
+    "teamId": "153610",
+    "playerId": "1950915",
+    "name": "Hella, Donald",
+    "firstName": "Donald",
+    "lastName": "Hella",
+    "heightCm": 214
+  },
+  "1950921|153605": {
+    "pozycja": "Ś",
+    "teamId": "153605",
+    "playerId": "1950921",
+    "name": "Arachovitis, Charalampos",
+    "firstName": "Charalampos",
+    "lastName": "Arachovitis",
+    "heightCm": 205
+  },
+  "1951006|153616": {
+    "pozycja": "P",
+    "teamId": "153616",
+    "playerId": "1951006",
+    "name": "Chufang, Keyi",
+    "firstName": "Keyi",
+    "lastName": "Chufang",
+    "heightCm": 186
+  },
+  "1951012|153618": {
+    "pozycja": "Ś",
+    "teamId": "153618",
+    "playerId": "1951012",
+    "name": "Todorović, Damir",
+    "firstName": "Damir",
+    "lastName": "Todorović",
+    "heightCm": 217
+  },
+  "1951023|153598": {
+    "pozycja": "Ś",
+    "teamId": "153598",
+    "playerId": "1951023",
+    "name": "Teixidó, Enrique",
+    "firstName": "Enrique",
+    "lastName": "Teixidó",
+    "heightCm": 211
+  },
+  "1951066|153611": {
+    "pozycja": "P",
+    "teamId": "153611",
+    "playerId": "1951066",
+    "name": "Uluğ, Rıdvan",
+    "firstName": "Rıdvan",
+    "lastName": "Uluğ",
+    "heightCm": 201
+  },
+  "1951082|153607": {
+    "pozycja": "O",
+    "teamId": "153607",
+    "playerId": "1951082",
+    "name": "Sommer, Alf",
+    "firstName": "Alf",
+    "lastName": "Sommer",
+    "heightCm": 196
+  },
+  "1951115|153612": {
+    "pozycja": "P",
+    "teamId": "153612",
+    "playerId": "1951115",
+    "name": "Koemets, Ruut",
+    "firstName": "Ruut",
+    "lastName": "Koemets",
+    "heightCm": 181
+  },
+  "1951120|153600": {
+    "pozycja": "P",
+    "teamId": "153600",
+    "playerId": "1951120",
+    "name": "van Enckhuyzen, Olly",
+    "firstName": "Olly",
+    "lastName": "van Enckhuyzen",
+    "heightCm": 186
+  },
+  "1951185|153606": {
+    "pozycja": "O",
+    "teamId": "153606",
+    "playerId": "1951185",
+    "name": "Jirácek, Antonín",
+    "firstName": "Antonín",
+    "lastName": "Jirácek",
+    "heightCm": 207
+  },
+  "1951208|153616": {
+    "pozycja": "O",
+    "teamId": "153616",
+    "playerId": "1951208",
+    "name": "Xia, Hua",
+    "firstName": "Hua",
+    "lastName": "Xia",
+    "heightCm": 214
+  },
+  "1951221|153605": {
+    "pozycja": "L",
+    "teamId": "153605",
+    "playerId": "1951221",
+    "name": "Taxiarhis, Apollon",
+    "firstName": "Apollon",
+    "lastName": "Taxiarhis",
+    "heightCm": 175
+  },
+  "1951252|153610": {
+    "pozycja": "L",
+    "teamId": "153610",
+    "playerId": "1951252",
+    "name": "Lanckacker, Auke",
+    "firstName": "Auke",
+    "lastName": "Lanckacker",
+    "heightCm": 177
+  },
+  "1951275|153609": {
+    "pozycja": "Ś",
+    "teamId": "153609",
+    "playerId": "1951275",
+    "name": "Jelusic, Zvonimir",
+    "firstName": "Zvonimir",
+    "lastName": "Jelusic",
+    "heightCm": 213
+  },
+  "1951288|153604": {
+    "pozycja": "Ś",
+    "teamId": "153604",
+    "playerId": "1951288",
+    "name": "Bosić, Vuk",
+    "firstName": "Vuk",
+    "lastName": "Bosić",
+    "heightCm": 206
+  },
+  "1951352|153619": {
+    "pozycja": "P",
+    "teamId": "153619",
+    "playerId": "1951352",
+    "name": "Purece, Răzvan",
+    "firstName": "Răzvan",
+    "lastName": "Purece",
+    "heightCm": 181
+  },
+  "1951360|153595": {
+    "pozycja": "L",
+    "teamId": "153595",
+    "playerId": "1951360",
+    "name": "Castex, Yves",
+    "firstName": "Yves",
+    "lastName": "Castex",
+    "heightCm": 180
+  },
+  "1951375|153602": {
+    "pozycja": "P",
+    "teamId": "153602",
+    "playerId": "1951375",
+    "name": "Montenegro, Germán",
+    "firstName": "Germán",
+    "lastName": "Montenegro",
+    "heightCm": 182
+  },
+  "1951417|153613": {
+    "pozycja": "Ś",
+    "teamId": "153613",
+    "playerId": "1951417",
+    "name": "Barbosa, Lucílio",
+    "firstName": "Lucílio",
+    "lastName": "Barbosa",
+    "heightCm": 218
+  },
+  "1951442|153615": {
+    "pozycja": "Ś",
+    "teamId": "153615",
+    "playerId": "1951442",
+    "name": "Štohl, Boris",
+    "firstName": "Boris",
+    "lastName": "Štohl",
+    "heightCm": 212
+  },
+  "1951456|153608": {
+    "pozycja": "S",
+    "teamId": "153608",
+    "playerId": "1951456",
+    "name": "Geitel, Jotaarkka",
+    "firstName": "Jotaarkka",
+    "lastName": "Geitel",
+    "heightCm": 189
+  },
+  "1974416|153595": {
+    "pozycja": "O",
+    "teamId": "153595",
+    "playerId": "1974416",
+    "name": "Pardon, Daniel",
+    "firstName": "Daniel",
+    "lastName": "Pardon",
+    "heightCm": 190
+  },
+  "1974463|153598": {
+    "pozycja": "Ś",
+    "teamId": "153598",
+    "playerId": "1974463",
+    "name": "Hilla, Tarsaci",
+    "firstName": "Tarsaci",
+    "lastName": "Hilla",
+    "heightCm": 214
+  },
+  "1974473|153617": {
+    "pozycja": "O",
+    "teamId": "153617",
+    "playerId": "1974473",
+    "name": "Forystek, Michał",
+    "firstName": "Michał",
+    "lastName": "Forystek",
+    "heightCm": 197
+  },
+  "1974478|153619": {
+    "pozycja": "P",
+    "teamId": "153619",
+    "playerId": "1974478",
+    "name": "Beta, Laurentiu",
+    "firstName": "Laurentiu",
+    "lastName": "Beta",
+    "heightCm": 201
+  },
+  "1974517|153607": {
+    "pozycja": "P",
+    "teamId": "153607",
+    "playerId": "1974517",
+    "name": "Strobl, Clemens",
+    "firstName": "Clemens",
+    "lastName": "Strobl",
+    "heightCm": 193
+  },
+  "1974532|153610": {
+    "pozycja": "P",
+    "teamId": "153610",
+    "playerId": "1974532",
+    "name": "Snoek, Dimitri",
+    "firstName": "Dimitri",
+    "lastName": "Snoek",
+    "heightCm": 195
+  },
+  "1974576|153608": {
+    "pozycja": "Ś",
+    "teamId": "153608",
+    "playerId": "1974576",
+    "name": "Laustela, Tommi",
+    "firstName": "Tommi",
+    "lastName": "Laustela",
+    "heightCm": 220
+  },
+  "1974585|153600": {
+    "pozycja": "Ś",
+    "teamId": "153600",
+    "playerId": "1974585",
+    "name": "Hoogzaad, Jules",
+    "firstName": "Jules",
+    "lastName": "Hoogzaad",
+    "heightCm": 213
+  },
+  "1974588|153614": {
+    "pozycja": "S",
+    "teamId": "153614",
+    "playerId": "1974588",
+    "name": "Riley, Frank",
+    "firstName": "Frank",
+    "lastName": "Riley",
+    "heightCm": 199
+  },
+  "1974604|153607": {
+    "pozycja": "P",
+    "teamId": "153607",
+    "playerId": "1974604",
+    "name": "Meissnitzer, Niclas",
+    "firstName": "Niclas",
+    "lastName": "Meissnitzer",
+    "heightCm": 184
+  },
+  "1974639|153620": {
+    "pozycja": "Ś",
+    "teamId": "153620",
+    "playerId": "1974639",
+    "name": "Murko, Nikola",
+    "firstName": "Nikola",
+    "lastName": "Murko",
+    "heightCm": 220
+  },
+  "1974851|153613": {
+    "pozycja": "Ś",
+    "teamId": "153613",
+    "playerId": "1974851",
+    "name": "Kapinha, Acácio",
+    "firstName": "Acácio",
+    "lastName": "Kapinha",
+    "heightCm": 220
+  },
+  "1975164|153597": {
+    "pozycja": "L",
+    "teamId": "153597",
+    "playerId": "1975164",
+    "name": "Bullard, Ryan",
+    "firstName": "Ryan",
+    "lastName": "Bullard",
+    "heightCm": 175
+  },
+  "1975177|153611": {
+    "pozycja": "L",
+    "teamId": "153611",
+    "playerId": "1975177",
+    "name": "Dalay, Gökberk",
+    "firstName": "Gökberk",
+    "lastName": "Dalay",
+    "heightCm": 175
+  },
+  "1975323|153610": {
+    "pozycja": "L",
+    "teamId": "153610",
+    "playerId": "1975323",
+    "name": "Stijnen, Axel",
+    "firstName": "Axel",
+    "lastName": "Stijnen",
+    "heightCm": 178
+  },
+  "1975437|153603": {
+    "pozycja": "Ś",
+    "teamId": "153603",
+    "playerId": "1975437",
+    "name": "Mochizuki, Yuuharu",
+    "firstName": "Yuuharu",
+    "lastName": "Mochizuki",
+    "heightCm": 218
+  },
+  "1975442|153611": {
+    "pozycja": "P",
+    "teamId": "153611",
+    "playerId": "1975442",
+    "name": "Pelıt, Aras",
+    "firstName": "Aras",
+    "lastName": "Pelıt",
+    "heightCm": 187
+  },
+  "1975521|153619": {
+    "pozycja": "L",
+    "teamId": "153619",
+    "playerId": "1975521",
+    "name": "Albescu, Valentini",
+    "firstName": "Valentini",
+    "lastName": "Albescu",
+    "heightCm": 176
+  },
+  "1975577|153595": {
+    "pozycja": "P",
+    "teamId": "153595",
+    "playerId": "1975577",
+    "name": "Arnould, Luc-Henri",
+    "firstName": "Luc-Henri",
+    "lastName": "Arnould",
+    "heightCm": 206
+  },
+  "1975616|153598": {
+    "pozycja": "O",
+    "teamId": "153598",
+    "playerId": "1975616",
+    "name": "Cardell, Iván",
+    "firstName": "Iván",
+    "lastName": "Cardell",
+    "heightCm": 194
+  },
+  "1975617|153619": {
+    "pozycja": "Ś",
+    "teamId": "153619",
+    "playerId": "1975617",
+    "name": "Grumezescu, Henri",
+    "firstName": "Henri",
+    "lastName": "Grumezescu",
+    "heightCm": 219
+  },
+  "1975653|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "1975653",
+    "name": "Gombrich, Viktor",
+    "firstName": "Viktor",
+    "lastName": "Gombrich",
+    "heightCm": 219
+  },
+  "1975683|153608": {
+    "pozycja": "Ś",
+    "teamId": "153608",
+    "playerId": "1975683",
+    "name": "Kaurismäki, Kullervo",
+    "firstName": "Kullervo",
+    "lastName": "Kaurismäki",
+    "heightCm": 211
+  },
+  "1975694|153603": {
+    "pozycja": "L",
+    "teamId": "153603",
+    "playerId": "1975694",
+    "name": "Tomita, Junichi",
+    "firstName": "Junichi",
+    "lastName": "Tomita",
+    "heightCm": 183
+  },
+  "1975729|153614": {
+    "pozycja": "Ś",
+    "teamId": "153614",
+    "playerId": "1975729",
+    "name": "Travers, Paddy",
+    "firstName": "Paddy",
+    "lastName": "Travers",
+    "heightCm": 218
+  },
+  "1975734|153595": {
+    "pozycja": "P",
+    "teamId": "153595",
+    "playerId": "1975734",
+    "name": "Besnier, David",
+    "firstName": "David",
+    "lastName": "Besnier",
+    "heightCm": 202
+  },
+  "1975736|153607": {
+    "pozycja": "P",
+    "teamId": "153607",
+    "playerId": "1975736",
+    "name": "Fochler, Alf",
+    "firstName": "Alf",
+    "lastName": "Fochler",
+    "heightCm": 185
+  },
+  "1975742|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "1975742",
+    "name": "Hirschmann, Heino",
+    "firstName": "Heino",
+    "lastName": "Hirschmann",
+    "heightCm": 209
+  },
+  "1975747|153600": {
+    "pozycja": "Ś",
+    "teamId": "153600",
+    "playerId": "1975747",
+    "name": "Salden, Lukas",
+    "firstName": "Lukas",
+    "lastName": "Salden",
+    "heightCm": 217
+  },
+  "1975780|153612": {
+    "pozycja": "Ś",
+    "teamId": "153612",
+    "playerId": "1975780",
+    "name": "Haug, Aldis",
+    "firstName": "Aldis",
+    "lastName": "Haug",
+    "heightCm": 205
+  },
+  "1975815|153614": {
+    "pozycja": "Ś",
+    "teamId": "153614",
+    "playerId": "1975815",
+    "name": "Walton, Joss",
+    "firstName": "Joss",
+    "lastName": "Walton",
+    "heightCm": 220
+  },
+  "1975858|153605": {
+    "pozycja": "Ś",
+    "teamId": "153605",
+    "playerId": "1975858",
+    "name": "Papilias, Yiotis",
+    "firstName": "Yiotis",
+    "lastName": "Papilias",
+    "heightCm": 205
+  },
+  "1975877|153607": {
+    "pozycja": "O",
+    "teamId": "153607",
+    "playerId": "1975877",
+    "name": "Cromer, Matthäus",
+    "firstName": "Matthäus",
+    "lastName": "Cromer",
+    "heightCm": 207
+  },
+  "1975878|153610": {
+    "pozycja": "Ś",
+    "teamId": "153610",
+    "playerId": "1975878",
+    "name": "Wijsmans, Gabriel",
+    "firstName": "Gabriel",
+    "lastName": "Wijsmans",
+    "heightCm": 212
+  },
+  "1975887|153615": {
+    "pozycja": "L",
+    "teamId": "153615",
+    "playerId": "1975887",
+    "name": "Chmelnický, Milan",
+    "firstName": "Milan",
+    "lastName": "Chmelnický",
+    "heightCm": 188
+  },
+  "1975894|153611": {
+    "pozycja": "Ś",
+    "teamId": "153611",
+    "playerId": "1975894",
+    "name": "Işil, Semih",
+    "firstName": "Semih",
+    "lastName": "Işil",
+    "heightCm": 207
+  },
+  "1975967|153619": {
+    "pozycja": "L",
+    "teamId": "153619",
+    "playerId": "1975967",
+    "name": "Lemnaru, Christian",
+    "firstName": "Christian",
+    "lastName": "Lemnaru",
+    "heightCm": 175
+  },
+  "1975989|153603": {
+    "pozycja": "S",
+    "teamId": "153603",
+    "playerId": "1975989",
+    "name": "Gan, Tesshô",
+    "firstName": "Tesshô",
+    "lastName": "Gan",
+    "heightCm": 184
+  },
+  "1976031|153605": {
+    "pozycja": "L",
+    "teamId": "153605",
+    "playerId": "1976031",
+    "name": "Kapetanakis, Mimis",
+    "firstName": "Mimis",
+    "lastName": "Kapetanakis",
+    "heightCm": 178
+  },
+  "1976037|153594": {
+    "pozycja": "S",
+    "teamId": "153594",
+    "playerId": "1976037",
+    "name": "Melina, Urbano",
+    "firstName": "Urbano",
+    "lastName": "Melina",
+    "heightCm": 203
+  },
+  "1976043|153613": {
+    "pozycja": "P",
+    "teamId": "153613",
+    "playerId": "1976043",
+    "name": "Isidro, Ildeberto",
+    "firstName": "Ildeberto",
+    "lastName": "Isidro",
+    "heightCm": 186
+  },
+  "1976054|153604": {
+    "pozycja": "O",
+    "teamId": "153604",
+    "playerId": "1976054",
+    "name": "Damjanović, Stanislav",
+    "firstName": "Stanislav",
+    "lastName": "Damjanović",
+    "heightCm": 213
+  },
+  "1976073|153618": {
+    "pozycja": "L",
+    "teamId": "153618",
+    "playerId": "1976073",
+    "name": "Maksimović, Arman",
+    "firstName": "Arman",
+    "lastName": "Maksimović",
+    "heightCm": 178
+  },
+  "1976080|153602": {
+    "pozycja": "P",
+    "teamId": "153602",
+    "playerId": "1976080",
+    "name": "Cosentino, Palito",
+    "firstName": "Palito",
+    "lastName": "Cosentino",
+    "heightCm": 185
+  },
+  "1976172|153615": {
+    "pozycja": "O",
+    "teamId": "153615",
+    "playerId": "1976172",
+    "name": "Mečiar, Gašpar",
+    "firstName": "Gašpar",
+    "lastName": "Mečiar",
+    "heightCm": 213
+  },
+  "1976194|153616": {
+    "pozycja": "P",
+    "teamId": "153616",
+    "playerId": "1976194",
+    "name": "Jun, Kuang-chao",
+    "firstName": "Kuang-chao",
+    "lastName": "Jun",
+    "heightCm": 198
+  },
+  "1976214|153610": {
+    "pozycja": "Ś",
+    "teamId": "153610",
+    "playerId": "1976214",
+    "name": "Renier, Pol",
+    "firstName": "Pol",
+    "lastName": "Renier",
+    "heightCm": 201
+  },
+  "1976242|153604": {
+    "pozycja": "P",
+    "teamId": "153604",
+    "playerId": "1976242",
+    "name": "Samardžić, Milorad",
+    "firstName": "Milorad",
+    "lastName": "Samardžić",
+    "heightCm": 185
+  },
+  "1976260|153604": {
+    "pozycja": "P",
+    "teamId": "153604",
+    "playerId": "1976260",
+    "name": "Popović, Dimitrije",
+    "firstName": "Dimitrije",
+    "lastName": "Popović",
+    "heightCm": 204
+  },
+  "1976292|153605": {
+    "pozycja": "O",
+    "teamId": "153605",
+    "playerId": "1976292",
+    "name": "Tsarouchitis, Elias",
+    "firstName": "Elias",
+    "lastName": "Tsarouchitis",
+    "heightCm": 201
+  },
+  "1976327|153605": {
+    "pozycja": "S",
+    "teamId": "153605",
+    "playerId": "1976327",
+    "name": "Charoupas, Andreas",
+    "firstName": "Andreas",
+    "lastName": "Charoupas",
+    "heightCm": 197
+  },
+  "1976332|153620": {
+    "pozycja": "Ś",
+    "teamId": "153620",
+    "playerId": "1976332",
+    "name": "Zajc, Leo",
+    "firstName": "Leo",
+    "lastName": "Zajc",
+    "heightCm": 211
+  },
+  "1976344|153597": {
+    "pozycja": "L",
+    "teamId": "153597",
+    "playerId": "1976344",
+    "name": "Walters, Emilio",
+    "firstName": "Emilio",
+    "lastName": "Walters",
+    "heightCm": 175
+  },
+  "1976356|153610": {
+    "pozycja": "Ś",
+    "teamId": "153610",
+    "playerId": "1976356",
+    "name": "Olaerts, Neo",
+    "firstName": "Neo",
+    "lastName": "Olaerts",
+    "heightCm": 204
+  },
+  "1976374|153600": {
+    "pozycja": "O",
+    "teamId": "153600",
+    "playerId": "1976374",
+    "name": "Drent, Robertus",
+    "firstName": "Robertus",
+    "lastName": "Drent",
+    "heightCm": 210
+  },
+  "1976375|153600": {
+    "pozycja": "O",
+    "teamId": "153600",
+    "playerId": "1976375",
+    "name": "Plasterk, Jernst",
+    "firstName": "Jernst",
+    "lastName": "Plasterk",
+    "heightCm": 215
+  },
+  "1976388|153614": {
+    "pozycja": "Ś",
+    "teamId": "153614",
+    "playerId": "1976388",
+    "name": "Holland, Anthony",
+    "firstName": "Anthony",
+    "lastName": "Holland",
+    "heightCm": 220
+  },
+  "1976391|153613": {
+    "pozycja": "P",
+    "teamId": "153613",
+    "playerId": "1976391",
+    "name": "Garcia, Patrick",
+    "firstName": "Patrick",
+    "lastName": "Garcia",
+    "heightCm": 189
+  },
+  "1976410|153593": {
+    "pozycja": "P",
+    "teamId": "153593",
+    "playerId": "1976410",
+    "name": "Jakubik, Stanisław",
+    "firstName": "Stanisław",
+    "lastName": "Jakubik",
+    "heightCm": 193
+  },
+  "1976412|153600": {
+    "pozycja": "O",
+    "teamId": "153600",
+    "playerId": "1976412",
+    "name": "Hartland, Rijk",
+    "firstName": "Rijk",
+    "lastName": "Hartland",
+    "heightCm": 206
+  },
+  "1976500|153605": {
+    "pozycja": "S",
+    "teamId": "153605",
+    "playerId": "1976500",
+    "name": "Zervos, Totis",
+    "firstName": "Totis",
+    "lastName": "Zervos",
+    "heightCm": 186
+  },
+  "1976557|153596": {
+    "pozycja": "S",
+    "teamId": "153596",
+    "playerId": "1976557",
+    "name": "Steinert, Korkmaz",
+    "firstName": "Korkmaz",
+    "lastName": "Steinert",
+    "heightCm": 201
+  },
+  "1976580|153598": {
+    "pozycja": "Ś",
+    "teamId": "153598",
+    "playerId": "1976580",
+    "name": "Toledano, Robustiano",
+    "firstName": "Robustiano",
+    "lastName": "Toledano",
+    "heightCm": 218
+  },
+  "1976593|153603": {
+    "pozycja": "P",
+    "teamId": "153603",
+    "playerId": "1976593",
+    "name": "Kashima, Monta",
+    "firstName": "Monta",
+    "lastName": "Kashima",
+    "heightCm": 192
+  },
+  "1976595|153619": {
+    "pozycja": "S",
+    "teamId": "153619",
+    "playerId": "1976595",
+    "name": "Mutu, Marku",
+    "firstName": "Marku",
+    "lastName": "Mutu",
+    "heightCm": 192
+  },
+  "1976653|153614": {
+    "pozycja": "Ś",
+    "teamId": "153614",
+    "playerId": "1976653",
+    "name": "Entwistle, Freddie",
+    "firstName": "Freddie",
+    "lastName": "Entwistle",
+    "heightCm": 205
+  },
+  "1976654|153605": {
+    "pozycja": "Ś",
+    "teamId": "153605",
+    "playerId": "1976654",
+    "name": "Kavalekas, Orfeas",
+    "firstName": "Orfeas",
+    "lastName": "Kavalekas",
+    "heightCm": 198
+  },
+  "1976658|153617": {
+    "pozycja": "P",
+    "teamId": "153617",
+    "playerId": "1976658",
+    "name": "Rolla, Miguel",
+    "firstName": "Miguel",
+    "lastName": "Rolla",
+    "heightCm": 185
+  },
+  "1976659|153613": {
+    "pozycja": "P",
+    "teamId": "153613",
+    "playerId": "1976659",
+    "name": "Miranda, Nicolau",
+    "firstName": "Nicolau",
+    "lastName": "Miranda",
+    "heightCm": 191
+  },
+  "1976706|153611": {
+    "pozycja": "P",
+    "teamId": "153611",
+    "playerId": "1976706",
+    "name": "Akalp, Umut",
+    "firstName": "Umut",
+    "lastName": "Akalp",
+    "heightCm": 180
+  },
+  "1976740|153604": {
+    "pozycja": "Ś",
+    "teamId": "153604",
+    "playerId": "1976740",
+    "name": "Ranisavljević, Marko",
+    "firstName": "Marko",
+    "lastName": "Ranisavljević",
+    "heightCm": 219
+  },
+  "1976894|153610": {
+    "pozycja": "S",
+    "teamId": "153610",
+    "playerId": "1976894",
+    "name": "Engelen, Richard",
+    "firstName": "Richard",
+    "lastName": "Engelen",
+    "heightCm": 182
+  },
+  "1976913|153603": {
+    "pozycja": "P",
+    "teamId": "153603",
+    "playerId": "1976913",
+    "name": "Nakadoi, Sho",
+    "firstName": "Sho",
+    "lastName": "Nakadoi",
+    "heightCm": 185
+  },
+  "1976945|153597": {
+    "pozycja": "P",
+    "teamId": "153597",
+    "playerId": "1976945",
+    "name": "McCall, Brian",
+    "firstName": "Brian",
+    "lastName": "McCall",
+    "heightCm": 190
+  },
+  "2002290|153600": {
+    "pozycja": "Ś",
+    "teamId": "153600",
+    "playerId": "2002290",
+    "name": "Ligtvoet, Dominique",
+    "firstName": "Dominique",
+    "lastName": "Ligtvoet",
+    "heightCm": 213
+  },
+  "2002291|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "2002291",
+    "name": "Babic, Svebor",
+    "firstName": "Svebor",
+    "lastName": "Babic",
+    "heightCm": 193
+  },
+  "2002316|153608": {
+    "pozycja": "L",
+    "teamId": "153608",
+    "playerId": "2002316",
+    "name": "Palmu, Jaakko",
+    "firstName": "Jaakko",
+    "lastName": "Palmu",
+    "heightCm": 177
+  },
+  "2002376|153619": {
+    "pozycja": "P",
+    "teamId": "153619",
+    "playerId": "2002376",
+    "name": "Raiciu, Fane",
+    "firstName": "Fane",
+    "lastName": "Raiciu",
+    "heightCm": 183
+  },
+  "2002379|153615": {
+    "pozycja": "L",
+    "teamId": "153615",
+    "playerId": "2002379",
+    "name": "Švikruha, Miroslav",
+    "firstName": "Miroslav",
+    "lastName": "Švikruha",
+    "heightCm": 181
+  },
+  "2002408|153608": {
+    "pozycja": "P",
+    "teamId": "153608",
+    "playerId": "2002408",
+    "name": "Järventie, Joosua",
+    "firstName": "Joosua",
+    "lastName": "Järventie",
+    "heightCm": 210
+  },
+  "2002548|153600": {
+    "pozycja": "P",
+    "teamId": "153600",
+    "playerId": "2002548",
+    "name": "Brunner, Matthias",
+    "firstName": "Matthias",
+    "lastName": "Brunner",
+    "heightCm": 198
+  },
+  "2002648|153598": {
+    "pozycja": "O",
+    "teamId": "153598",
+    "playerId": "2002648",
+    "name": "Pereda, Silo",
+    "firstName": "Silo",
+    "lastName": "Pereda",
+    "heightCm": 185
+  },
+  "2003054|153606": {
+    "pozycja": "L",
+    "teamId": "153606",
+    "playerId": "2003054",
+    "name": "Kejklíček, Jakub",
+    "firstName": "Jakub",
+    "lastName": "Kejklíček",
+    "heightCm": 176
+  },
+  "2003060|153609": {
+    "pozycja": "O",
+    "teamId": "153609",
+    "playerId": "2003060",
+    "name": "Diković, Benjamin",
+    "firstName": "Benjamin",
+    "lastName": "Diković",
+    "heightCm": 197
+  },
+  "2003132|153600": {
+    "pozycja": "P",
+    "teamId": "153600",
+    "playerId": "2003132",
+    "name": "Schrijver, Nout",
+    "firstName": "Nout",
+    "lastName": "Schrijver",
+    "heightCm": 181
+  },
+  "2003172|153605": {
+    "pozycja": "S",
+    "teamId": "153605",
+    "playerId": "2003172",
+    "name": "Fotopoulos, Aggelos",
+    "firstName": "Aggelos",
+    "lastName": "Fotopoulos",
+    "heightCm": 208
+  },
+  "2003215|153610": {
+    "pozycja": "S",
+    "teamId": "153610",
+    "playerId": "2003215",
+    "name": "Van Brussel, Rik",
+    "firstName": "Rik",
+    "lastName": "Van Brussel",
+    "heightCm": 193
+  },
+  "2003328|153604": {
+    "pozycja": "Ś",
+    "teamId": "153604",
+    "playerId": "2003328",
+    "name": "Kolacić, Žarko",
+    "firstName": "Žarko",
+    "lastName": "Kolacić",
+    "heightCm": 208
+  },
+  "2003351|153615": {
+    "pozycja": "Ś",
+    "teamId": "153615",
+    "playerId": "2003351",
+    "name": "Búřil, Alojz",
+    "firstName": "Alojz",
+    "lastName": "Búřil",
+    "heightCm": 214
+  },
+  "2003360|153610": {
+    "pozycja": "Ś",
+    "teamId": "153610",
+    "playerId": "2003360",
+    "name": "Bergers, Spencer",
+    "firstName": "Spencer",
+    "lastName": "Bergers",
+    "heightCm": 215
+  },
+  "2003386|153598": {
+    "pozycja": "O",
+    "teamId": "153598",
+    "playerId": "2003386",
+    "name": "Gimeno, Albino",
+    "firstName": "Albino",
+    "lastName": "Gimeno",
+    "heightCm": 185
+  },
+  "2003464|153598": {
+    "pozycja": "P",
+    "teamId": "153598",
+    "playerId": "2003464",
+    "name": "Muñoz, Lolo",
+    "firstName": "Lolo",
+    "lastName": "Muñoz",
+    "heightCm": 196
+  },
+  "2003473|153615": {
+    "pozycja": "P",
+    "teamId": "153615",
+    "playerId": "2003473",
+    "name": "Svorník, Ladislav",
+    "firstName": "Ladislav",
+    "lastName": "Svorník",
+    "heightCm": 204
+  },
+  "2003481|153598": {
+    "pozycja": "L",
+    "teamId": "153598",
+    "playerId": "2003481",
+    "name": "Espinosa, Ignacio",
+    "firstName": "Ignacio",
+    "lastName": "Espinosa",
+    "heightCm": 176
+  },
+  "2003486|153603": {
+    "pozycja": "Ś",
+    "teamId": "153603",
+    "playerId": "2003486",
+    "name": "Miyazaki, Kôjiro",
+    "firstName": "Kôjiro",
+    "lastName": "Miyazaki",
+    "heightCm": 214
+  },
+  "2003528|153603": {
+    "pozycja": "L",
+    "teamId": "153603",
+    "playerId": "2003528",
+    "name": "Shihodo, Shirô",
+    "firstName": "Shirô",
+    "lastName": "Shihodo",
+    "heightCm": 176
+  },
+  "2003566|153603": {
+    "pozycja": "Ś",
+    "teamId": "153603",
+    "playerId": "2003566",
+    "name": "Yasui, Takashi",
+    "firstName": "Takashi",
+    "lastName": "Yasui",
+    "heightCm": 220
+  },
+  "2003623|153598": {
+    "pozycja": "L",
+    "teamId": "153598",
+    "playerId": "2003623",
+    "name": "Nájera, Carles",
+    "firstName": "Carles",
+    "lastName": "Nájera",
+    "heightCm": 176
+  },
+  "2003654|153605": {
+    "pozycja": "P",
+    "teamId": "153605",
+    "playerId": "2003654",
+    "name": "Makulis, Achilleas",
+    "firstName": "Achilleas",
+    "lastName": "Makulis",
+    "heightCm": 202
+  },
+  "2003698|153607": {
+    "pozycja": "O",
+    "teamId": "153607",
+    "playerId": "2003698",
+    "name": "Kaltenböck, Volkmar",
+    "firstName": "Volkmar",
+    "lastName": "Kaltenböck",
+    "heightCm": 193
+  },
+  "2003733|153605": {
+    "pozycja": "L",
+    "teamId": "153605",
+    "playerId": "2003733",
+    "name": "Kipouros, Traianos",
+    "firstName": "Traianos",
+    "lastName": "Kipouros",
+    "heightCm": 181
+  },
+  "2003766|153605": {
+    "pozycja": "Ś",
+    "teamId": "153605",
+    "playerId": "2003766",
+    "name": "Mpaxevanos, Omiros",
+    "firstName": "Omiros",
+    "lastName": "Mpaxevanos",
+    "heightCm": 217
+  },
+  "2003797|153620": {
+    "pozycja": "Ś",
+    "teamId": "153620",
+    "playerId": "2003797",
+    "name": "Žurej, Klemen",
+    "firstName": "Klemen",
+    "lastName": "Žurej",
+    "heightCm": 220
+  },
+  "2003854|153597": {
+    "pozycja": "O",
+    "teamId": "153597",
+    "playerId": "2003854",
+    "name": "Adams, Mike",
+    "firstName": "Mike",
+    "lastName": "Adams",
+    "heightCm": 198
+  },
+  "2003866|153614": {
+    "pozycja": "Ś",
+    "teamId": "153614",
+    "playerId": "2003866",
+    "name": "Northwood, Patrick",
+    "firstName": "Patrick",
+    "lastName": "Northwood",
+    "heightCm": 218
+  },
+  "2003877|153615": {
+    "pozycja": "O",
+    "teamId": "153615",
+    "playerId": "2003877",
+    "name": "Fabuš, Radoslav",
+    "firstName": "Radoslav",
+    "lastName": "Fabuš",
+    "heightCm": 186
+  },
+  "2004047|153607": {
+    "pozycja": "L",
+    "teamId": "153607",
+    "playerId": "2004047",
+    "name": "Salzer, Dominik",
+    "firstName": "Dominik",
+    "lastName": "Salzer",
+    "heightCm": 177
+  },
+  "2004052|153612": {
+    "pozycja": "P",
+    "teamId": "153612",
+    "playerId": "2004052",
+    "name": "Noormägi, Ludvig",
+    "firstName": "Ludvig",
+    "lastName": "Noormägi",
+    "heightCm": 207
+  },
+  "2004097|153617": {
+    "pozycja": "P",
+    "teamId": "153617",
+    "playerId": "2004097",
+    "name": "Avelino, Otaviano",
+    "firstName": "Otaviano",
+    "lastName": "Avelino",
+    "heightCm": 201
+  },
+  "2004110|153607": {
+    "pozycja": "P",
+    "teamId": "153607",
+    "playerId": "2004110",
+    "name": "Hillebrand, Oliver",
+    "firstName": "Oliver",
+    "lastName": "Hillebrand",
+    "heightCm": 181
+  },
+  "2004131|153604": {
+    "pozycja": "O",
+    "teamId": "153604",
+    "playerId": "2004131",
+    "name": "Srbović, Čedomir",
+    "firstName": "Čedomir",
+    "lastName": "Srbović",
+    "heightCm": 209
+  },
+  "2004151|153610": {
+    "pozycja": "O",
+    "teamId": "153610",
+    "playerId": "2004151",
+    "name": "Onzia, Stijn",
+    "firstName": "Stijn",
+    "lastName": "Onzia",
+    "heightCm": 190
+  },
+  "2004237|153615": {
+    "pozycja": "L",
+    "teamId": "153615",
+    "playerId": "2004237",
+    "name": "Bumbák, Milan",
+    "firstName": "Milan",
+    "lastName": "Bumbák",
+    "heightCm": 179
+  },
+  "2004265|153605": {
+    "pozycja": "O",
+    "teamId": "153605",
+    "playerId": "2004265",
+    "name": "Xidis, Romaleos",
+    "firstName": "Romaleos",
+    "lastName": "Xidis",
+    "heightCm": 207
+  },
+  "2004272|153608": {
+    "pozycja": "L",
+    "teamId": "153608",
+    "playerId": "2004272",
+    "name": "Niemistö, Jere",
+    "firstName": "Jere",
+    "lastName": "Niemistö",
+    "heightCm": 178
+  },
+  "2004301|153612": {
+    "pozycja": "P",
+    "teamId": "153612",
+    "playerId": "2004301",
+    "name": "Reinbusch, Aare",
+    "firstName": "Aare",
+    "lastName": "Reinbusch",
+    "heightCm": 198
+  },
+  "2004467|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "2004467",
+    "name": "Valek, Obrad",
+    "firstName": "Obrad",
+    "lastName": "Valek",
+    "heightCm": 200
+  },
+  "2032122|153608": {
+    "pozycja": "O",
+    "teamId": "153608",
+    "playerId": "2032122",
+    "name": "Piirainen, Thomas",
+    "firstName": "Thomas",
+    "lastName": "Piirainen",
+    "heightCm": 194
+  },
+  "2032351|153605": {
+    "pozycja": "S",
+    "teamId": "153605",
+    "playerId": "2032351",
+    "name": "Demiris, Themistoklis",
+    "firstName": "Themistoklis",
+    "lastName": "Demiris",
+    "heightCm": 181
+  },
+  "2032376|153609": {
+    "pozycja": "S",
+    "teamId": "153609",
+    "playerId": "2032376",
+    "name": "Serbedzija, Nediljko",
+    "firstName": "Nediljko",
+    "lastName": "Serbedzija",
+    "heightCm": 196
+  },
+  "2032636|153609": {
+    "pozycja": "Ś",
+    "teamId": "153609",
+    "playerId": "2032636",
+    "name": "Pršo, Borko",
+    "firstName": "Borko",
+    "lastName": "Pršo",
+    "heightCm": 210
+  },
+  "2032695|153619": {
+    "pozycja": "S",
+    "teamId": "153619",
+    "playerId": "2032695",
+    "name": "Mamele, Ludovic",
+    "firstName": "Ludovic",
+    "lastName": "Mamele",
+    "heightCm": 186
+  },
+  "2032822|153608": {
+    "pozycja": "P",
+    "teamId": "153608",
+    "playerId": "2032822",
+    "name": "Chydenius, Pauli",
+    "firstName": "Pauli",
+    "lastName": "Chydenius",
+    "heightCm": 188
+  },
+  "2032878|153609": {
+    "pozycja": "Ś",
+    "teamId": "153609",
+    "playerId": "2032878",
+    "name": "Alac, Matija",
+    "firstName": "Matija",
+    "lastName": "Alac",
+    "heightCm": 204
+  },
+  "2032910|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "2032910",
+    "name": "Hatz, Manfred",
+    "firstName": "Manfred",
+    "lastName": "Hatz",
+    "heightCm": 201
+  },
+  "2059908|153620": {
+    "pozycja": "O",
+    "teamId": "153620",
+    "playerId": "2059908",
+    "name": "Cestnik, Tom",
+    "firstName": "Tom",
+    "lastName": "Cestnik",
+    "heightCm": 214
+  },
+  "2060034|153602": {
+    "pozycja": "S",
+    "teamId": "153602",
+    "playerId": "2060034",
+    "name": "Sánchez, Silvestre",
+    "firstName": "Silvestre",
+    "lastName": "Sánchez",
+    "heightCm": 194
+  },
+  "2060040|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "2060040",
+    "name": "Glavas, Jerko",
+    "firstName": "Jerko",
+    "lastName": "Glavas",
+    "heightCm": 193
+  },
+  "2060106|153599": {
+    "pozycja": "Ś",
+    "teamId": "153599",
+    "playerId": "2060106",
+    "name": "Bozhilov, Elin",
+    "firstName": "Elin",
+    "lastName": "Bozhilov",
+    "heightCm": 218
+  },
+  "2060111|153609": {
+    "pozycja": "O",
+    "teamId": "153609",
+    "playerId": "2060111",
+    "name": "Diković, Izidor",
+    "firstName": "Izidor",
+    "lastName": "Diković",
+    "heightCm": 198
+  },
+  "2060151|153599": {
+    "pozycja": "Ś",
+    "teamId": "153599",
+    "playerId": "2060151",
+    "name": "Velkov, Kiril",
+    "firstName": "Kiril",
+    "lastName": "Velkov",
+    "heightCm": 219
+  },
+  "2060168|153611": {
+    "pozycja": "Ś",
+    "teamId": "153611",
+    "playerId": "2060168",
+    "name": "Hamı, Erkut",
+    "firstName": "Erkut",
+    "lastName": "Hamı",
+    "heightCm": 220
+  },
+  "2060180|153610": {
+    "pozycja": "L",
+    "teamId": "153610",
+    "playerId": "2060180",
+    "name": "Prim, Thierry",
+    "firstName": "Thierry",
+    "lastName": "Prim",
+    "heightCm": 175
+  },
+  "2060263|153608": {
+    "pozycja": "Ś",
+    "teamId": "153608",
+    "playerId": "2060263",
+    "name": "Maalismaa, Ossi",
+    "firstName": "Ossi",
+    "lastName": "Maalismaa",
+    "heightCm": 216
+  },
+  "2060395|153614": {
+    "pozycja": "O",
+    "teamId": "153614",
+    "playerId": "2060395",
+    "name": "Edwards, Jeremy",
+    "firstName": "Jeremy",
+    "lastName": "Edwards",
+    "heightCm": 203
+  },
+  "2060450|153620": {
+    "pozycja": "L",
+    "teamId": "153620",
+    "playerId": "2060450",
+    "name": "Jelar, Tom",
+    "firstName": "Tom",
+    "lastName": "Jelar",
+    "heightCm": 180
+  },
+  "2060885|153616": {
+    "pozycja": "O",
+    "teamId": "153616",
+    "playerId": "2060885",
+    "name": "Tianxian, Jingbo",
+    "firstName": "Jingbo",
+    "lastName": "Tianxian",
+    "heightCm": 209
+  },
+  "2087514|153604": {
+    "pozycja": "O",
+    "teamId": "153604",
+    "playerId": "2087514",
+    "name": "Pavlović, Dragomir",
+    "firstName": "Dragomir",
+    "lastName": "Pavlović",
+    "heightCm": 213
+  },
+  "2087745|153610": {
+    "pozycja": "P",
+    "teamId": "153610",
+    "playerId": "2087745",
+    "name": "Van Erum, Lucien",
+    "firstName": "Lucien",
+    "lastName": "Van Erum",
+    "heightCm": 193
+  },
+  "2087850|153609": {
+    "pozycja": "S",
+    "teamId": "153609",
+    "playerId": "2087850",
+    "name": "Ledenko, Uglješa",
+    "firstName": "Uglješa",
+    "lastName": "Ledenko",
+    "heightCm": 199
+  },
+  "2088002|153614": {
+    "pozycja": "O",
+    "teamId": "153614",
+    "playerId": "2088002",
+    "name": "Gray, Cameron",
+    "firstName": "Cameron",
+    "lastName": "Gray",
+    "heightCm": 198
+  },
+  "2088031|153615": {
+    "pozycja": "P",
+    "teamId": "153615",
+    "playerId": "2088031",
+    "name": "Uherík, Leonard",
+    "firstName": "Leonard",
+    "lastName": "Uherík",
+    "heightCm": 209
+  },
+  "2088032|153619": {
+    "pozycja": "O",
+    "teamId": "153619",
+    "playerId": "2088032",
+    "name": "Venter, Octavian",
+    "firstName": "Octavian",
+    "lastName": "Venter",
+    "heightCm": 208
+  },
+  "2088133|153620": {
+    "pozycja": "Ś",
+    "teamId": "153620",
+    "playerId": "2088133",
+    "name": "Crnčić, Franjo",
+    "firstName": "Franjo",
+    "lastName": "Crnčić",
+    "heightCm": 204
+  },
+  "2088181|153609": {
+    "pozycja": "S",
+    "teamId": "153609",
+    "playerId": "2088181",
+    "name": "Hegedusic, Zivko",
+    "firstName": "Zivko",
+    "lastName": "Hegedusic",
+    "heightCm": 202
+  },
+  "2088182|153608": {
+    "pozycja": "S",
+    "teamId": "153608",
+    "playerId": "2088182",
+    "name": "Pitkänen, Lauri",
+    "firstName": "Lauri",
+    "lastName": "Pitkänen",
+    "heightCm": 202
+  },
+  "2088295|153609": {
+    "pozycja": "S",
+    "teamId": "153609",
+    "playerId": "2088295",
+    "name": "Pajer, Vojko",
+    "firstName": "Vojko",
+    "lastName": "Pajer",
+    "heightCm": 185
+  },
+  "2088403|153609": {
+    "pozycja": "Ś",
+    "teamId": "153609",
+    "playerId": "2088403",
+    "name": "Jurisa, Bartul",
+    "firstName": "Bartul",
+    "lastName": "Jurisa",
+    "heightCm": 200
+  },
+  "2088466|153615": {
+    "pozycja": "S",
+    "teamId": "153615",
+    "playerId": "2088466",
+    "name": "Mertinko, Adam",
+    "firstName": "Adam",
+    "lastName": "Mertinko",
+    "heightCm": 189
+  },
+  "2088583|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "2088583",
+    "name": "Köstlinger, William",
+    "firstName": "William",
+    "lastName": "Köstlinger",
+    "heightCm": 220
   }
 }
