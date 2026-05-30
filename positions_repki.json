@@ -6,7 +6,10 @@
     "name": "Búrzashki, Ivan",
     "firstName": "Ivan",
     "lastName": "Búrzashki",
-    "heightCm": 180
+    "heightCm": 180,
+    "age": 26,
+    "value": 827788,
+    "salary": 413894
   },
   "1681866|153599": {
     "pozycja": "O",
@@ -15,7 +18,10 @@
     "name": "Vladimirov, Boyko",
     "firstName": "Boyko",
     "lastName": "Vladimirov",
-    "heightCm": 201
+    "heightCm": 201,
+    "age": 26,
+    "value": 79613,
+    "salary": 34329
   },
   "1685989|153601": {
     "pozycja": "O",
@@ -24,7 +30,10 @@
     "name": "Canuto, Alberto",
     "firstName": "Alberto",
     "lastName": "Canuto",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 26,
+    "value": 84310,
+    "salary": 162406
   },
   "1686107|153611": {
     "pozycja": "L",
@@ -33,7 +42,10 @@
     "name": "Hürrem, Veli",
     "firstName": "Veli",
     "lastName": "Hürrem",
-    "heightCm": 176
+    "heightCm": 176,
+    "age": 27,
+    "value": 438006,
+    "salary": 213338
   },
   "1709299|153614": {
     "pozycja": "S",
@@ -42,7 +54,10 @@
     "name": "Emerton, Gilbert",
     "firstName": "Gilbert",
     "lastName": "Emerton",
-    "heightCm": 210
+    "heightCm": 210,
+    "age": 27,
+    "value": 215351,
+    "salary": 101241
   },
   "1709575|153601": {
     "pozycja": "P",
@@ -51,7 +66,10 @@
     "name": "Campello, Cristian",
     "firstName": "Cristian",
     "lastName": "Campello",
-    "heightCm": 183
+    "heightCm": 183,
+    "age": 27,
+    "value": 80072,
+    "salary": 34501
   },
   "1709576|153601": {
     "pozycja": "P",
@@ -60,7 +78,10 @@
     "name": "Chaves, Mathias",
     "firstName": "Mathias",
     "lastName": "Chaves",
-    "heightCm": 196
+    "heightCm": 196,
+    "age": 27,
+    "value": 77740,
+    "salary": 34402
   },
   "1709653|153602": {
     "pozycja": "S",
@@ -69,7 +90,10 @@
     "name": "Mucci, Mario",
     "firstName": "Mario",
     "lastName": "Mucci",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 27,
+    "value": 303476,
+    "salary": 144509
   },
   "1709974|153611": {
     "pozycja": "S",
@@ -78,7 +102,10 @@
     "name": "Benek, Şahin",
     "firstName": "Şahin",
     "lastName": "Benek",
-    "heightCm": 188
+    "heightCm": 188,
+    "age": 26,
+    "value": 503147,
+    "salary": 489032
   },
   "1709975|153611": {
     "pozycja": "S",
@@ -87,7 +114,10 @@
     "name": "Yücel, Gökben",
     "firstName": "Gökben",
     "lastName": "Yücel",
-    "heightCm": 190
+    "heightCm": 190,
+    "age": 26,
+    "value": 491592,
+    "salary": 236754
   },
   "1724716|153617": {
     "pozycja": "P",
@@ -96,7 +126,10 @@
     "name": "Sofroniev, Teodor",
     "firstName": "Teodor",
     "lastName": "Sofroniev",
-    "heightCm": 189
+    "heightCm": 189,
+    "age": 26,
+    "value": 101878,
+    "salary": 43555
   },
   "1724725|153612": {
     "pozycja": "O",
@@ -105,7 +138,10 @@
     "name": "Odar, Ragnar",
     "firstName": "Ragnar",
     "lastName": "Odar",
-    "heightCm": 204
+    "heightCm": 204,
+    "age": 26,
+    "value": 83128,
+    "salary": 36388
   },
   "1724889|153606": {
     "pozycja": "Ś",
@@ -114,7 +150,10 @@
     "name": "Jareš, Tibor",
     "firstName": "Tibor",
     "lastName": "Jareš",
-    "heightCm": 211
+    "heightCm": 211,
+    "age": 25,
+    "value": 260994,
+    "salary": 118532
   },
   "1724977|153618": {
     "pozycja": "Ś",
@@ -123,7 +162,10 @@
     "name": "Trifković, Adin",
     "firstName": "Adin",
     "lastName": "Trifković",
-    "heightCm": 214
+    "heightCm": 214,
+    "age": 26,
+    "value": 224710,
+    "salary": 104532
   },
   "1724993|153597": {
     "pozycja": "S",
@@ -132,7 +174,10 @@
     "name": "Holguin, Calvin",
     "firstName": "Calvin",
     "lastName": "Holguin",
-    "heightCm": 205
+    "heightCm": 205,
+    "age": 26,
+    "value": 433348,
+    "salary": 204939
   },
   "1725025|153601": {
     "pozycja": "Ś",
@@ -141,7 +186,10 @@
     "name": "Baeta, Joel",
     "firstName": "Joel",
     "lastName": "Baeta",
-    "heightCm": 218
+    "heightCm": 218,
+    "age": 26,
+    "value": 195727,
+    "salary": 93643
   },
   "1725076|153618": {
     "pozycja": "P",
@@ -150,7 +198,10 @@
     "name": "Lazić, Mate",
     "firstName": "Mate",
     "lastName": "Lazić",
-    "heightCm": 198
+    "heightCm": 198,
+    "age": 25,
+    "value": 104875,
+    "salary": 43909
   },
   "1725106|153611": {
     "pozycja": "Ś",
@@ -159,7 +210,10 @@
     "name": "Asuela, Öner",
     "firstName": "Öner",
     "lastName": "Asuela",
-    "heightCm": 208
+    "heightCm": 208,
+    "age": 25,
+    "value": 135270,
+    "salary": 63898
   },
   "1725191|153596": {
     "pozycja": "Ś",
@@ -168,7 +222,10 @@
     "name": "Vuchelich, Lutz",
     "firstName": "Lutz",
     "lastName": "Vuchelich",
-    "heightCm": 218
+    "heightCm": 218,
+    "age": 25,
+    "value": 170995,
+    "salary": 83243
   },
   "1725203|153602": {
     "pozycja": "O",
@@ -177,7 +234,10 @@
     "name": "Tronconi, Sancho",
     "firstName": "Sancho",
     "lastName": "Tronconi",
-    "heightCm": 189
+    "heightCm": 189,
+    "age": 25,
+    "value": 56002,
+    "salary": 22360
   },
   "1725262|153593": {
     "pozycja": "S",
@@ -186,7 +246,10 @@
     "name": "Wnuk, Grzegorz",
     "firstName": "Grzegorz",
     "lastName": "Wnuk",
-    "heightCm": 188
+    "heightCm": 188,
+    "age": 25,
+    "value": 638067,
+    "salary": 299500
   },
   "1725397|153608": {
     "pozycja": "Ś",
@@ -195,7 +258,10 @@
     "name": "Siimes, Petri",
     "firstName": "Petri",
     "lastName": "Siimes",
-    "heightCm": 210
+    "heightCm": 210,
+    "age": 25,
+    "value": 209575,
+    "salary": 97147
   },
   "1744625|153601": {
     "pozycja": "Ś",
@@ -204,7 +270,10 @@
     "name": "Morais, Fábio",
     "firstName": "Fábio",
     "lastName": "Morais",
-    "heightCm": 217
+    "heightCm": 217,
+    "age": 26,
+    "value": 208687,
+    "salary": 506859
   },
   "1744746|153596": {
     "pozycja": "O",
@@ -213,7 +282,10 @@
     "name": "Fohn, Hinrich",
     "firstName": "Hinrich",
     "lastName": "Fohn",
-    "heightCm": 210
+    "heightCm": 210,
+    "age": 26,
+    "value": 84935,
+    "salary": 36663
   },
   "1744844|153601": {
     "pozycja": "O",
@@ -222,7 +294,10 @@
     "name": "Fasano, Ibsen",
     "firstName": "Ibsen",
     "lastName": "Fasano",
-    "heightCm": 210
+    "heightCm": 210,
+    "age": 26,
+    "value": 75639,
+    "salary": 28676
   },
   "1744886|153617": {
     "pozycja": "O",
@@ -231,7 +306,10 @@
     "name": "Nunez, Jake",
     "firstName": "Jake",
     "lastName": "Nunez",
-    "heightCm": 189
+    "heightCm": 189,
+    "age": 25,
+    "value": 156498,
+    "salary": 73041
   },
   "1744987|153598": {
     "pozycja": "P",
@@ -240,7 +318,10 @@
     "name": "Meneses, Gorecho",
     "firstName": "Gorecho",
     "lastName": "Meneses",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 25,
+    "value": 76874,
+    "salary": 131868
   },
   "1745058|153595": {
     "pozycja": "Ś",
@@ -249,7 +330,10 @@
     "name": "Macron, Colin",
     "firstName": "Colin",
     "lastName": "Macron",
-    "heightCm": 210
+    "heightCm": 210,
+    "age": 25,
+    "value": 251779,
+    "salary": 501733
   },
   "1745069|153596": {
     "pozycja": "P",
@@ -258,7 +342,10 @@
     "name": "Anrep, Marcus",
     "firstName": "Marcus",
     "lastName": "Anrep",
-    "heightCm": 184
+    "heightCm": 184,
+    "age": 25,
+    "value": 83395,
+    "salary": 35541
   },
   "1745091|153616": {
     "pozycja": "S",
@@ -267,7 +354,10 @@
     "name": "Yau, Tat-wah",
     "firstName": "Tat-wah",
     "lastName": "Yau",
-    "heightCm": 194
+    "heightCm": 194,
+    "age": 25,
+    "value": 429684,
+    "salary": 203056
   },
   "1745092|153605": {
     "pozycja": "P",
@@ -276,7 +366,10 @@
     "name": "Gavras, Elias",
     "firstName": "Elias",
     "lastName": "Gavras",
-    "heightCm": 195
+    "heightCm": 195,
+    "age": 26,
+    "value": 73828,
+    "salary": 28577
   },
   "1745146|153608": {
     "pozycja": "O",
@@ -285,7 +378,10 @@
     "name": "Lyytinen, Petteri",
     "firstName": "Petteri",
     "lastName": "Lyytinen",
-    "heightCm": 202
+    "heightCm": 202,
+    "age": 26,
+    "value": 85264,
+    "salary": 268993
   },
   "1745153|153601": {
     "pozycja": "S",
@@ -294,7 +390,10 @@
     "name": "Souza, Isidoro",
     "firstName": "Isidoro",
     "lastName": "Souza",
-    "heightCm": 203
+    "heightCm": 203,
+    "age": 26,
+    "value": 476693,
+    "salary": 480996
   },
   "1745168|153596": {
     "pozycja": "Ś",
@@ -303,7 +402,10 @@
     "name": "Smustern, Christoffer",
     "firstName": "Christoffer",
     "lastName": "Smustern",
-    "heightCm": 218
+    "heightCm": 218,
+    "age": 26,
+    "value": 132700,
+    "salary": 62742
   },
   "1745227|153605": {
     "pozycja": "P",
@@ -312,7 +414,10 @@
     "name": "Karamanis, Vlassis",
     "firstName": "Vlassis",
     "lastName": "Karamanis",
-    "heightCm": 204
+    "heightCm": 204,
+    "age": 25,
+    "value": 65592,
+    "salary": 24474
   },
   "1745330|153613": {
     "pozycja": "L",
@@ -321,7 +426,10 @@
     "name": "Capeletti, Diamantino",
     "firstName": "Diamantino",
     "lastName": "Capeletti",
-    "heightCm": 184
+    "heightCm": 184,
+    "age": 25,
+    "value": 1235373,
+    "salary": 533379
   },
   "1745383|153620": {
     "pozycja": "L",
@@ -330,7 +438,10 @@
     "name": "Radan, Primož",
     "firstName": "Primož",
     "lastName": "Radan",
-    "heightCm": 176
+    "heightCm": 176,
+    "age": 25,
+    "value": 428874,
+    "salary": 200032
   },
   "1745557|153593": {
     "pozycja": "Ś",
@@ -339,7 +450,10 @@
     "name": "Murawski, Bartosz",
     "firstName": "Bartosz",
     "lastName": "Murawski",
-    "heightCm": 217
+    "heightCm": 217,
+    "age": 25,
+    "value": 343110,
+    "salary": 158970
   },
   "1767055|153612": {
     "pozycja": "Ś",
@@ -348,7 +462,10 @@
     "name": "Orro, Väino",
     "firstName": "Väino",
     "lastName": "Orro",
-    "heightCm": 214
+    "heightCm": 214,
+    "age": 26,
+    "value": 154880,
+    "salary": 147441
   },
   "1767082|153613": {
     "pozycja": "Ś",
@@ -357,7 +474,10 @@
     "name": "Abecassis, Lino",
     "firstName": "Lino",
     "lastName": "Abecassis",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 26,
+    "value": 138930,
+    "salary": 64501
   },
   "1767179|153616": {
     "pozycja": "S",
@@ -366,7 +486,10 @@
     "name": "Xuanren, Tat-wah",
     "firstName": "Tat-wah",
     "lastName": "Xuanren",
-    "heightCm": 202
+    "heightCm": 202,
+    "age": 26,
+    "value": 499161,
+    "salary": 230395
   },
   "1767798|153617": {
     "pozycja": "S",
@@ -375,7 +498,10 @@
     "name": "Bogalho, Demétrio",
     "firstName": "Demétrio",
     "lastName": "Bogalho",
-    "heightCm": 181
+    "heightCm": 181,
+    "age": 25,
+    "value": 434576,
+    "salary": 202375
   },
   "1767863|153615": {
     "pozycja": "Ś",
@@ -384,7 +510,10 @@
     "name": "Ďurica, László",
     "firstName": "László",
     "lastName": "Ďurica",
-    "heightCm": 214
+    "heightCm": 214,
+    "age": 25,
+    "value": 185657,
+    "salary": 88139
   },
   "1767866|153613": {
     "pozycja": "O",
@@ -393,7 +522,10 @@
     "name": "Guarnieri, Tó",
     "firstName": "Tó",
     "lastName": "Guarnieri",
-    "heightCm": 213
+    "heightCm": 213,
+    "age": 25,
+    "value": 89286,
+    "salary": 36724
   },
   "1767943|153606": {
     "pozycja": "O",
@@ -402,7 +534,10 @@
     "name": "Blazek, Zdislav",
     "firstName": "Zdislav",
     "lastName": "Blazek",
-    "heightCm": 192
+    "heightCm": 192,
+    "age": 25,
+    "value": 187147,
+    "salary": 192265
   },
   "1767965|153603": {
     "pozycja": "O",
@@ -411,7 +546,10 @@
     "name": "Hozumi, Tomoaki",
     "firstName": "Tomoaki",
     "lastName": "Hozumi",
-    "heightCm": 208
+    "heightCm": 208,
+    "age": 25,
+    "value": 170320,
+    "salary": 825862
   },
   "1864253|153599": {
     "pozycja": "P",
@@ -420,7 +558,10 @@
     "name": "Luchev, Stoyan",
     "firstName": "Stoyan",
     "lastName": "Luchev",
-    "heightCm": 186
+    "heightCm": 186,
+    "age": 25,
+    "value": 151627,
+    "salary": 73112
   },
   "1864270|153595": {
     "pozycja": "Ś",
@@ -429,7 +570,10 @@
     "name": "Pastureau, René",
     "firstName": "René",
     "lastName": "Pastureau",
-    "heightCm": 219
+    "heightCm": 219,
+    "age": 25,
+    "value": 211926,
+    "salary": 103032
   },
   "1864296|153593": {
     "pozycja": "O",
@@ -438,7 +582,10 @@
     "name": "Gnaś, Rafał",
     "firstName": "Rafał",
     "lastName": "Gnaś",
-    "heightCm": 188
+    "heightCm": 188,
+    "age": 25,
+    "value": 115714,
+    "salary": 54889
   },
   "1864300|153599": {
     "pozycja": "Ś",
@@ -447,7 +594,10 @@
     "name": "Gavrilov, Orlin",
     "firstName": "Orlin",
     "lastName": "Gavrilov",
-    "heightCm": 218
+    "heightCm": 218,
+    "age": 25,
+    "value": 230550,
+    "salary": 111276
   },
   "1864345|153594": {
     "pozycja": "Ś",
@@ -456,7 +606,10 @@
     "name": "Lusini, Astolfo",
     "firstName": "Astolfo",
     "lastName": "Lusini",
-    "heightCm": 213
+    "heightCm": 213,
+    "age": 25,
+    "value": 168042,
+    "salary": 78973
   },
   "1864438|153603": {
     "pozycja": "P",
@@ -465,7 +618,10 @@
     "name": "Oizumi, Rokusaburo",
     "firstName": "Rokusaburo",
     "lastName": "Oizumi",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 25,
+    "value": 132987,
+    "salary": 62014
   },
   "1864459|153619": {
     "pozycja": "O",
@@ -474,7 +630,10 @@
     "name": "Piscanu, Constantin",
     "firstName": "Constantin",
     "lastName": "Piscanu",
-    "heightCm": 190
+    "heightCm": 190,
+    "age": 25,
+    "value": 109101,
+    "salary": 51335
   },
   "1864479|153617": {
     "pozycja": "P",
@@ -483,7 +642,10 @@
     "name": "Cristiano, Orlando",
     "firstName": "Orlando",
     "lastName": "Cristiano",
-    "heightCm": 187
+    "heightCm": 187,
+    "age": 25,
+    "value": 130023,
+    "salary": 61547
   },
   "1864480|153617": {
     "pozycja": "P",
@@ -492,7 +654,10 @@
     "name": "Lima, Bebeto",
     "firstName": "Bebeto",
     "lastName": "Lima",
-    "heightCm": 188
+    "heightCm": 188,
+    "age": 25,
+    "value": 95862,
+    "salary": 40756
   },
   "1864481|153606": {
     "pozycja": "S",
@@ -501,7 +666,10 @@
     "name": "Vojtechovsky, Robert",
     "firstName": "Robert",
     "lastName": "Vojtechovsky",
-    "heightCm": 191
+    "heightCm": 191,
+    "age": 24,
+    "value": 268462,
+    "salary": 129987
   },
   "1864555|153616": {
     "pozycja": "L",
@@ -510,7 +678,10 @@
     "name": "Minguang, Wyott",
     "firstName": "Wyott",
     "lastName": "Minguang",
-    "heightCm": 179
+    "heightCm": 179,
+    "age": 25,
+    "value": 383777,
+    "salary": 185840
   },
   "1864573|153594": {
     "pozycja": "S",
@@ -519,7 +690,10 @@
     "name": "Cigala, Fabiano",
     "firstName": "Fabiano",
     "lastName": "Cigala",
-    "heightCm": 182
+    "heightCm": 182,
+    "age": 24,
+    "value": 455463,
+    "salary": 429696
   },
   "1864615|153594": {
     "pozycja": "L",
@@ -528,7 +702,10 @@
     "name": "Versari, Gennaro",
     "firstName": "Gennaro",
     "lastName": "Versari",
-    "heightCm": 176
+    "heightCm": 176,
+    "age": 24,
+    "value": 562778,
+    "salary": 256275
   },
   "1864864|153596": {
     "pozycja": "S",
@@ -537,7 +714,10 @@
     "name": "Anrep, Gotthelf",
     "firstName": "Gotthelf",
     "lastName": "Anrep",
-    "heightCm": 192
+    "heightCm": 192,
+    "age": 24,
+    "value": 369073,
+    "salary": 355520
   },
   "1864875|153612": {
     "pozycja": "Ś",
@@ -546,7 +726,10 @@
     "name": "Lehepuu, Kurni",
     "firstName": "Kurni",
     "lastName": "Lehepuu",
-    "heightCm": 204
+    "heightCm": 204,
+    "age": 25,
+    "value": 276168,
+    "salary": 127794
   },
   "1864879|153614": {
     "pozycja": "O",
@@ -555,7 +738,10 @@
     "name": "Hicks, Louis",
     "firstName": "Louis",
     "lastName": "Hicks",
-    "heightCm": 199
+    "heightCm": 199,
+    "age": 25,
+    "value": 89640,
+    "salary": 37317
   },
   "1864912|153593": {
     "pozycja": "Ś",
@@ -564,7 +750,10 @@
     "name": "Czudaj, Bartosz",
     "firstName": "Bartosz",
     "lastName": "Czudaj",
-    "heightCm": 211
+    "heightCm": 211,
+    "age": 24,
+    "value": 380767,
+    "salary": 174851
   },
   "1864925|153595": {
     "pozycja": "L",
@@ -573,7 +762,10 @@
     "name": "Mourier, Florian",
     "firstName": "Florian",
     "lastName": "Mourier",
-    "heightCm": 177
+    "heightCm": 177,
+    "age": 24,
+    "value": 865263,
+    "salary": 416056
   },
   "1864957|153620": {
     "pozycja": "P",
@@ -582,7 +774,10 @@
     "name": "Flajs, Domen",
     "firstName": "Domen",
     "lastName": "Flajs",
-    "heightCm": 195
+    "heightCm": 195,
+    "age": 25,
+    "value": 103220,
+    "salary": 44830
   },
   "1864959|153604": {
     "pozycja": "S",
@@ -591,7 +786,10 @@
     "name": "Jovičić, Slavko",
     "firstName": "Slavko",
     "lastName": "Jovičić",
-    "heightCm": 203
+    "heightCm": 203,
+    "age": 25,
+    "value": 373676,
+    "salary": 179658
   },
   "1864966|153595": {
     "pozycja": "S",
@@ -600,7 +798,10 @@
     "name": "Janvier, Philippe",
     "firstName": "Philippe",
     "lastName": "Janvier",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 25,
+    "value": 642545,
+    "salary": 662520
   },
   "1865039|153593": {
     "pozycja": "O",
@@ -609,7 +810,10 @@
     "name": "Siedlecki, Mikołaj",
     "firstName": "Mikołaj",
     "lastName": "Siedlecki",
-    "heightCm": 191
+    "heightCm": 191,
+    "age": 24,
+    "value": 150218,
+    "salary": 68699
   },
   "1865083|153595": {
     "pozycja": "O",
@@ -618,7 +822,10 @@
     "name": "Gillet, Yann",
     "firstName": "Yann",
     "lastName": "Gillet",
-    "heightCm": 210
+    "heightCm": 210,
+    "age": 24,
+    "value": 179601,
+    "salary": 84471
   },
   "1865085|153595": {
     "pozycja": "S",
@@ -627,7 +834,10 @@
     "name": "Lecomte, Samuel",
     "firstName": "Samuel",
     "lastName": "Lecomte",
-    "heightCm": 192
+    "heightCm": 192,
+    "age": 25,
+    "value": 611262,
+    "salary": 287753
   },
   "1865106|153594": {
     "pozycja": "P",
@@ -636,7 +846,10 @@
     "name": "Truglio, Danilo",
     "firstName": "Danilo",
     "lastName": "Truglio",
-    "heightCm": 182
+    "heightCm": 182,
+    "age": 25,
+    "value": 166522,
+    "salary": 76164
   },
   "1865109|153595": {
     "pozycja": "Ś",
@@ -645,16 +858,10 @@
     "name": "Furlan, Thierry",
     "firstName": "Thierry",
     "lastName": "Furlan",
-    "heightCm": 204
-  },
-  "1865113|153609": {
-    "pozycja": "O",
-    "teamId": "153609",
-    "playerId": "1865113",
-    "name": "Liveric, Nedjeljko",
-    "firstName": "Nedjeljko",
-    "lastName": "Liveric",
-    "heightCm": 188
+    "heightCm": 204,
+    "age": 24,
+    "value": 236687,
+    "salary": 106515
   },
   "1865130|153613": {
     "pozycja": "Ś",
@@ -663,7 +870,10 @@
     "name": "Ramos, Morais",
     "firstName": "Morais",
     "lastName": "Ramos",
-    "heightCm": 208
+    "heightCm": 208,
+    "age": 25,
+    "value": 183669,
+    "salary": 84381
   },
   "1865135|153601": {
     "pozycja": "P",
@@ -672,7 +882,10 @@
     "name": "Louzada, Harley",
     "firstName": "Harley",
     "lastName": "Louzada",
-    "heightCm": 195
+    "heightCm": 195,
+    "age": 24,
+    "value": 109030,
+    "salary": 477356
   },
   "1865183|153596": {
     "pozycja": "O",
@@ -681,7 +894,10 @@
     "name": "Wiegel, Cornelius",
     "firstName": "Cornelius",
     "lastName": "Wiegel",
-    "heightCm": 215
+    "heightCm": 215,
+    "age": 25,
+    "value": 89414,
+    "salary": 39145
   },
   "1865187|153606": {
     "pozycja": "P",
@@ -690,7 +906,10 @@
     "name": "Božovský, Eduard",
     "firstName": "Eduard",
     "lastName": "Božovský",
-    "heightCm": 184
+    "heightCm": 184,
+    "age": 25,
+    "value": 132543,
+    "salary": 232772
   },
   "1865203|153620": {
     "pozycja": "O",
@@ -699,7 +918,10 @@
     "name": "Kocic, Dimitrij",
     "firstName": "Dimitrij",
     "lastName": "Kocic",
-    "heightCm": 211
+    "heightCm": 211,
+    "age": 24,
+    "value": 148822,
+    "salary": 72090
   },
   "1865246|153620": {
     "pozycja": "S",
@@ -708,7 +930,10 @@
     "name": "Kovjenič, Lovro",
     "firstName": "Lovro",
     "lastName": "Kovjenič",
-    "heightCm": 200
+    "heightCm": 200,
+    "age": 24,
+    "value": 474452,
+    "salary": 222869
   },
   "1865254|153603": {
     "pozycja": "P",
@@ -717,7 +942,10 @@
     "name": "Aikawa, Tsumasaburo",
     "firstName": "Tsumasaburo",
     "lastName": "Aikawa",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 25,
+    "value": 110438,
+    "salary": 53058
   },
   "1865312|153593": {
     "pozycja": "L",
@@ -726,7 +954,10 @@
     "name": "Szóstek, Tomasz",
     "firstName": "Tomasz",
     "lastName": "Szóstek",
-    "heightCm": 176
+    "heightCm": 176,
+    "age": 24,
+    "value": 855405,
+    "salary": 416706
   },
   "1865328|153599": {
     "pozycja": "S",
@@ -735,7 +966,10 @@
     "name": "Karadachki, Vasil",
     "firstName": "Vasil",
     "lastName": "Karadachki",
-    "heightCm": 205
+    "heightCm": 205,
+    "age": 24,
+    "value": 681930,
+    "salary": 322684
   },
   "1865329|153599": {
     "pozycja": "S",
@@ -744,7 +978,10 @@
     "name": "Velichkov, Lyubomir",
     "firstName": "Lyubomir",
     "lastName": "Velichkov",
-    "heightCm": 194
+    "heightCm": 194,
+    "age": 24,
+    "value": 686570,
+    "salary": 1080903
   },
   "1865330|153599": {
     "pozycja": "S",
@@ -753,7 +990,10 @@
     "name": "Peychev, Alexander",
     "firstName": "Alexander",
     "lastName": "Peychev",
-    "heightCm": 193
+    "heightCm": 193,
+    "age": 24,
+    "value": 764589,
+    "salary": 362005
   },
   "1865362|153616": {
     "pozycja": "Ś",
@@ -762,7 +1002,10 @@
     "name": "Wenyu, Cai",
     "firstName": "Cai",
     "lastName": "Wenyu",
-    "heightCm": 192
+    "heightCm": 192,
+    "age": 24,
+    "value": 217026,
+    "salary": 104432
   },
   "1865404|153618": {
     "pozycja": "S",
@@ -771,7 +1014,10 @@
     "name": "Jovanović, Faris",
     "firstName": "Faris",
     "lastName": "Jovanović",
-    "heightCm": 187
+    "heightCm": 187,
+    "age": 25,
+    "value": 402380,
+    "salary": 196289
   },
   "1865435|153601": {
     "pozycja": "O",
@@ -780,7 +1026,10 @@
     "name": "Neves, Damião",
     "firstName": "Damião",
     "lastName": "Neves",
-    "heightCm": 213
+    "heightCm": 213,
+    "age": 25,
+    "value": 176712,
+    "salary": 256798
   },
   "1865454|153593": {
     "pozycja": "S",
@@ -789,7 +1038,10 @@
     "name": "Górski, Wojciech",
     "firstName": "Wojciech",
     "lastName": "Górski",
-    "heightCm": 199
+    "heightCm": 199,
+    "age": 24,
+    "value": 564958,
+    "salary": 266918
   },
   "1865491|153603": {
     "pozycja": "S",
@@ -798,7 +1050,10 @@
     "name": "Bifu, Takenori",
     "firstName": "Takenori",
     "lastName": "Bifu",
-    "heightCm": 196
+    "heightCm": 196,
+    "age": 24,
+    "value": 600505,
+    "salary": 1003663
   },
   "1865508|153596": {
     "pozycja": "P",
@@ -807,7 +1062,10 @@
     "name": "Ritthaler, Tino",
     "firstName": "Tino",
     "lastName": "Ritthaler",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 25,
+    "value": 141205,
+    "salary": 65808
   },
   "1865788|153597": {
     "pozycja": "Ś",
@@ -816,7 +1074,10 @@
     "name": "Dick, Rafael",
     "firstName": "Rafael",
     "lastName": "Dick",
-    "heightCm": 212
+    "heightCm": 212,
+    "age": 25,
+    "value": 198664,
+    "salary": 575473
   },
   "1865812|153617": {
     "pozycja": "O",
@@ -825,7 +1086,10 @@
     "name": "Nelson, Jessie",
     "firstName": "Jessie",
     "lastName": "Nelson",
-    "heightCm": 210
+    "heightCm": 210,
+    "age": 25,
+    "value": 104192,
+    "salary": 43622
   },
   "1865818|153619": {
     "pozycja": "O",
@@ -834,7 +1098,10 @@
     "name": "Lupei, Aurel",
     "firstName": "Aurel",
     "lastName": "Lupei",
-    "heightCm": 200
+    "heightCm": 200,
+    "age": 25,
+    "value": 115026,
+    "salary": 54883
   },
   "1903403|153613": {
     "pozycja": "P",
@@ -843,7 +1110,10 @@
     "name": "Espinhel, Adriano",
     "firstName": "Adriano",
     "lastName": "Espinhel",
-    "heightCm": 183
+    "heightCm": 183,
+    "age": 25,
+    "value": 95673,
+    "salary": 174802
   },
   "1903422|153603": {
     "pozycja": "Ś",
@@ -852,7 +1122,10 @@
     "name": "Kazama, Ginzô",
     "firstName": "Ginzô",
     "lastName": "Kazama",
-    "heightCm": 203
+    "heightCm": 203,
+    "age": 25,
+    "value": 298401,
+    "salary": 138259
   },
   "1903475|153612": {
     "pozycja": "S",
@@ -861,7 +1134,10 @@
     "name": "Veikat, Bruno",
     "firstName": "Bruno",
     "lastName": "Veikat",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 25,
+    "value": 363073,
+    "salary": 171158
   },
   "1903477|153612": {
     "pozycja": "S",
@@ -870,7 +1146,10 @@
     "name": "Abel, Erkki",
     "firstName": "Erkki",
     "lastName": "Abel",
-    "heightCm": 197
+    "heightCm": 197,
+    "age": 25,
+    "value": 323035,
+    "salary": 155968
   },
   "1903511|153619": {
     "pozycja": "P",
@@ -879,7 +1158,10 @@
     "name": "Dimitreiescu, Neculai",
     "firstName": "Neculai",
     "lastName": "Dimitreiescu",
-    "heightCm": 197
+    "heightCm": 197,
+    "age": 25,
+    "value": 108852,
+    "salary": 119262
   },
   "1903750|153613": {
     "pozycja": "P",
@@ -888,7 +1170,10 @@
     "name": "Lanhoso, António",
     "firstName": "António",
     "lastName": "Lanhoso",
-    "heightCm": 192
+    "heightCm": 192,
+    "age": 25,
+    "value": 89996,
+    "salary": 37656
   },
   "1903848|153603": {
     "pozycja": "O",
@@ -897,7 +1182,10 @@
     "name": "Suzuki, Urara",
     "firstName": "Urara",
     "lastName": "Suzuki",
-    "heightCm": 208
+    "heightCm": 208,
+    "age": 24,
+    "value": 144429,
+    "salary": 66838
   },
   "1903928|153602": {
     "pozycja": "O",
@@ -906,7 +1194,10 @@
     "name": "Guillén, Warly",
     "firstName": "Warly",
     "lastName": "Guillén",
-    "heightCm": 200
+    "heightCm": 200,
+    "age": 25,
+    "value": 154946,
+    "salary": 74932
   },
   "1903984|153613": {
     "pozycja": "P",
@@ -915,7 +1206,10 @@
     "name": "Bernardo, Luciano",
     "firstName": "Luciano",
     "lastName": "Bernardo",
-    "heightCm": 190
+    "heightCm": 190,
+    "age": 25,
+    "value": 77473,
+    "salary": 117902
   },
   "1903994|153596": {
     "pozycja": "S",
@@ -924,7 +1218,10 @@
     "name": "Ostendorff, Andreas",
     "firstName": "Andreas",
     "lastName": "Ostendorff",
-    "heightCm": 203
+    "heightCm": 203,
+    "age": 24,
+    "value": 568215,
+    "salary": 863077
   },
   "1904212|153602": {
     "pozycja": "P",
@@ -933,7 +1230,10 @@
     "name": "Del Boca, Abel",
     "firstName": "Abel",
     "lastName": "Del Boca",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 24,
+    "value": 162910,
+    "salary": 75837
   },
   "1904229|153618": {
     "pozycja": "P",
@@ -942,7 +1242,10 @@
     "name": "Karamatić, Amar",
     "firstName": "Amar",
     "lastName": "Karamatić",
-    "heightCm": 181
+    "heightCm": 181,
+    "age": 24,
+    "value": 132557,
+    "salary": 62202
   },
   "1904233|153611": {
     "pozycja": "Ś",
@@ -951,7 +1254,10 @@
     "name": "Ümıt, Alpkan",
     "firstName": "Alpkan",
     "lastName": "Ümıt",
-    "heightCm": 213
+    "heightCm": 213,
+    "age": 24,
+    "value": 316071,
+    "salary": 143491
   },
   "1904269|153601": {
     "pozycja": "S",
@@ -960,7 +1266,10 @@
     "name": "Leone, Fabrício",
     "firstName": "Fabrício",
     "lastName": "Leone",
-    "heightCm": 182
+    "heightCm": 182,
+    "age": 24,
+    "value": 520494,
+    "salary": 248538
   },
   "1904311|153602": {
     "pozycja": "Ś",
@@ -969,7 +1278,10 @@
     "name": "Nicasio, Mario",
     "firstName": "Mario",
     "lastName": "Nicasio",
-    "heightCm": 218
+    "heightCm": 218,
+    "age": 24,
+    "value": 213552,
+    "salary": 100309
   },
   "1904325|153611": {
     "pozycja": "O",
@@ -978,7 +1290,10 @@
     "name": "Banu, Evrim",
     "firstName": "Evrim",
     "lastName": "Banu",
-    "heightCm": 190
+    "heightCm": 190,
+    "age": 24,
+    "value": 72963,
+    "salary": 75965
   },
   "1904391|153614": {
     "pozycja": "L",
@@ -987,7 +1302,10 @@
     "name": "Church, Bob",
     "firstName": "Bob",
     "lastName": "Church",
-    "heightCm": 179
+    "heightCm": 179,
+    "age": 24,
+    "value": 582098,
+    "salary": 276115
   },
   "1904407|153597": {
     "pozycja": "Ś",
@@ -996,7 +1314,10 @@
     "name": "Larsen, Dan",
     "firstName": "Dan",
     "lastName": "Larsen",
-    "heightCm": 216
+    "heightCm": 216,
+    "age": 24,
+    "value": 202095,
+    "salary": 93723
   },
   "1904420|153617": {
     "pozycja": "Ś",
@@ -1005,7 +1326,10 @@
     "name": "Johnson, Kevin",
     "firstName": "Kevin",
     "lastName": "Johnson",
-    "heightCm": 212
+    "heightCm": 212,
+    "age": 24,
+    "value": 258305,
+    "salary": 774372
   },
   "1904423|153608": {
     "pozycja": "P",
@@ -1014,7 +1338,10 @@
     "name": "Parikka, Ville",
     "firstName": "Ville",
     "lastName": "Parikka",
-    "heightCm": 192
+    "heightCm": 192,
+    "age": 24,
+    "value": 156565,
+    "salary": 1455178
   },
   "1904434|153597": {
     "pozycja": "S",
@@ -1023,7 +1350,10 @@
     "name": "Hansell, Noel",
     "firstName": "Noel",
     "lastName": "Hansell",
-    "heightCm": 196
+    "heightCm": 196,
+    "age": 24,
+    "value": 459729,
+    "salary": 214032
   },
   "1904435|153597": {
     "pozycja": "S",
@@ -1032,7 +1362,10 @@
     "name": "Guy, Jon",
     "firstName": "Jon",
     "lastName": "Guy",
-    "heightCm": 189
+    "heightCm": 189,
+    "age": 24,
+    "value": 460067,
+    "salary": 215858
   },
   "1904438|153606": {
     "pozycja": "Ś",
@@ -1041,7 +1374,10 @@
     "name": "Matoušek, Ernest",
     "firstName": "Ernest",
     "lastName": "Matoušek",
-    "heightCm": 208
+    "heightCm": 208,
+    "age": 24,
+    "value": 222765,
+    "salary": 100074
   },
   "1904441|153597": {
     "pozycja": "P",
@@ -1050,7 +1386,10 @@
     "name": "Malloy, Shad",
     "firstName": "Shad",
     "lastName": "Malloy",
-    "heightCm": 197
+    "heightCm": 197,
+    "age": 24,
+    "value": 126629,
+    "salary": 670412
   },
   "1904499|153593": {
     "pozycja": "Ś",
@@ -1059,7 +1398,10 @@
     "name": "Hudziak, Sławomir",
     "firstName": "Sławomir",
     "lastName": "Hudziak",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 24,
+    "value": 315372,
+    "salary": 143612
   },
   "1904500|153603": {
     "pozycja": "Ś",
@@ -1068,7 +1410,10 @@
     "name": "Mimura, Ryoji",
     "firstName": "Ryoji",
     "lastName": "Mimura",
-    "heightCm": 214
+    "heightCm": 214,
+    "age": 24,
+    "value": 264269,
+    "salary": 128689
   },
   "1904528|153600": {
     "pozycja": "P",
@@ -1077,16 +1422,10 @@
     "name": "Admiraal, Gosse",
     "firstName": "Gosse",
     "lastName": "Admiraal",
-    "heightCm": 185
-  },
-  "1904536|153609": {
-    "pozycja": "S",
-    "teamId": "153609",
-    "playerId": "1904536",
-    "name": "Srna, Zeljko",
-    "firstName": "Zeljko",
-    "lastName": "Srna",
-    "heightCm": 209
+    "heightCm": 185,
+    "age": 24,
+    "value": 100256,
+    "salary": 109700
   },
   "1904542|153594": {
     "pozycja": "L",
@@ -1095,7 +1434,10 @@
     "name": "Luca, Toni",
     "firstName": "Toni",
     "lastName": "Luca",
-    "heightCm": 183
+    "heightCm": 183,
+    "age": 24,
+    "value": 1241038,
+    "salary": 573308
   },
   "1904565|153599": {
     "pozycja": "Ś",
@@ -1104,7 +1446,10 @@
     "name": "Vlaev, Iliya",
     "firstName": "Iliya",
     "lastName": "Vlaev",
-    "heightCm": 219
+    "heightCm": 219,
+    "age": 24,
+    "value": 217949,
+    "salary": 104843
   },
   "1904576|153600": {
     "pozycja": "Ś",
@@ -1113,7 +1458,10 @@
     "name": "Westenend, Arjen",
     "firstName": "Arjen",
     "lastName": "Westenend",
-    "heightCm": 203
+    "heightCm": 203,
+    "age": 24,
+    "value": 307208,
+    "salary": 141551
   },
   "1904598|153596": {
     "pozycja": "Ś",
@@ -1122,7 +1470,10 @@
     "name": "Brößler, Magnus",
     "firstName": "Magnus",
     "lastName": "Brößler",
-    "heightCm": 212
+    "heightCm": 212,
+    "age": 23,
+    "value": 212151,
+    "salary": 98333
   },
   "1904644|153618": {
     "pozycja": "S",
@@ -1131,7 +1482,10 @@
     "name": "Dedić, Belmin",
     "firstName": "Belmin",
     "lastName": "Dedić",
-    "heightCm": 191
+    "heightCm": 191,
+    "age": 23,
+    "value": 461563,
+    "salary": 491125
   },
   "1904663|153620": {
     "pozycja": "P",
@@ -1140,7 +1494,10 @@
     "name": "Gobec, Tom",
     "firstName": "Tom",
     "lastName": "Gobec",
-    "heightCm": 203
+    "heightCm": 203,
+    "age": 24,
+    "value": 123254,
+    "salary": 195151
   },
   "1904681|153599": {
     "pozycja": "Ś",
@@ -1149,7 +1506,10 @@
     "name": "Velichkov, Lachezar",
     "firstName": "Lachezar",
     "lastName": "Velichkov",
-    "heightCm": 213
+    "heightCm": 213,
+    "age": 23,
+    "value": 272748,
+    "salary": 129740
   },
   "1904713|153603": {
     "pozycja": "L",
@@ -1158,7 +1518,10 @@
     "name": "Hamuro, Atsunori",
     "firstName": "Atsunori",
     "lastName": "Hamuro",
-    "heightCm": 180
+    "heightCm": 180,
+    "age": 23,
+    "value": 688220,
+    "salary": 330283
   },
   "1904742|153594": {
     "pozycja": "P",
@@ -1167,7 +1530,10 @@
     "name": "Tugnoli, Fiorenzo",
     "firstName": "Fiorenzo",
     "lastName": "Tugnoli",
-    "heightCm": 183
+    "heightCm": 183,
+    "age": 24,
+    "value": 91119,
+    "salary": 38721
   },
   "1904752|153595": {
     "pozycja": "O",
@@ -1176,7 +1542,10 @@
     "name": "Foulon, Jean",
     "firstName": "Jean",
     "lastName": "Foulon",
-    "heightCm": 196
+    "heightCm": 196,
+    "age": 23,
+    "value": 185934,
+    "salary": 86683
   },
   "1904771|153594": {
     "pozycja": "Ś",
@@ -1185,7 +1554,10 @@
     "name": "Spagnuolo, Sandro",
     "firstName": "Sandro",
     "lastName": "Spagnuolo",
-    "heightCm": 210
+    "heightCm": 210,
+    "age": 23,
+    "value": 193099,
+    "salary": 380353
   },
   "1904772|153597": {
     "pozycja": "L",
@@ -1194,7 +1566,10 @@
     "name": "Tyson, Scott",
     "firstName": "Scott",
     "lastName": "Tyson",
-    "heightCm": 178
+    "heightCm": 178,
+    "age": 23,
+    "value": 603523,
+    "salary": 287843
   },
   "1904779|153602": {
     "pozycja": "Ś",
@@ -1203,7 +1578,10 @@
     "name": "Onetto, Roldán",
     "firstName": "Roldán",
     "lastName": "Onetto",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 24,
+    "value": 354589,
+    "salary": 757582
   },
   "1904811|153594": {
     "pozycja": "S",
@@ -1212,7 +1590,10 @@
     "name": "Valdinoci, Antonello",
     "firstName": "Antonello",
     "lastName": "Valdinoci",
-    "heightCm": 180
+    "heightCm": 180,
+    "age": 24,
+    "value": 485812,
+    "salary": 223899
   },
   "1904823|153612": {
     "pozycja": "O",
@@ -1221,7 +1602,10 @@
     "name": "Härm, Niilo",
     "firstName": "Niilo",
     "lastName": "Härm",
-    "heightCm": 197
+    "heightCm": 197,
+    "age": 24,
+    "value": 100871,
+    "salary": 41419
   },
   "1904865|153606": {
     "pozycja": "P",
@@ -1230,7 +1614,10 @@
     "name": "Krska, Capek",
     "firstName": "Capek",
     "lastName": "Krska",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 23,
+    "value": 124958,
+    "salary": 56597
   },
   "1904871|153617": {
     "pozycja": "L",
@@ -1239,7 +1626,10 @@
     "name": "Fetto, Mattia",
     "firstName": "Mattia",
     "lastName": "Fetto",
-    "heightCm": 180
+    "heightCm": 180,
+    "age": 23,
+    "value": 720244,
+    "salary": 350852
   },
   "1904880|153615": {
     "pozycja": "P",
@@ -1248,7 +1638,10 @@
     "name": "Bahúl, Ferdinand",
     "firstName": "Ferdinand",
     "lastName": "Bahúl",
-    "heightCm": 203
+    "heightCm": 203,
+    "age": 24,
+    "value": 90035,
+    "salary": 37810
   },
   "1904882|153598": {
     "pozycja": "L",
@@ -1257,7 +1650,10 @@
     "name": "Falceto, Xurxo",
     "firstName": "Xurxo",
     "lastName": "Falceto",
-    "heightCm": 175
+    "heightCm": 175,
+    "age": 24,
+    "value": 357733,
+    "salary": 172024
   },
   "1904897|153594": {
     "pozycja": "Ś",
@@ -1266,7 +1662,10 @@
     "name": "Gallucci, Serafino",
     "firstName": "Serafino",
     "lastName": "Gallucci",
-    "heightCm": 215
+    "heightCm": 215,
+    "age": 24,
+    "value": 190932,
+    "salary": 205905
   },
   "1904898|153595": {
     "pozycja": "Ś",
@@ -1275,7 +1674,10 @@
     "name": "Blanchard, Ludovic",
     "firstName": "Ludovic",
     "lastName": "Blanchard",
-    "heightCm": 199
+    "heightCm": 199,
+    "age": 23,
+    "value": 305594,
+    "salary": 143340
   },
   "1904903|153597": {
     "pozycja": "Ś",
@@ -1284,7 +1686,10 @@
     "name": "Spencer, Tony",
     "firstName": "Tony",
     "lastName": "Spencer",
-    "heightCm": 211
+    "heightCm": 211,
+    "age": 24,
+    "value": 238524,
+    "salary": 113144
   },
   "1904907|153597": {
     "pozycja": "P",
@@ -1293,7 +1698,10 @@
     "name": "Terrell, Seth",
     "firstName": "Seth",
     "lastName": "Terrell",
-    "heightCm": 189
+    "heightCm": 189,
+    "age": 24,
+    "value": 149446,
+    "salary": 152437
   },
   "1904937|153597": {
     "pozycja": "P",
@@ -1302,7 +1710,10 @@
     "name": "Silva, Mike",
     "firstName": "Mike",
     "lastName": "Silva",
-    "heightCm": 183
+    "heightCm": 183,
+    "age": 24,
+    "value": 127742,
+    "salary": 59976
   },
   "1904942|153611": {
     "pozycja": "P",
@@ -1311,7 +1722,10 @@
     "name": "Arya, Tufan",
     "firstName": "Tufan",
     "lastName": "Arya",
-    "heightCm": 208
+    "heightCm": 208,
+    "age": 24,
+    "value": 142993,
+    "salary": 66029
   },
   "1904944|153595": {
     "pozycja": "Ś",
@@ -1320,7 +1734,10 @@
     "name": "Maujean, Gérard",
     "firstName": "Gérard",
     "lastName": "Maujean",
-    "heightCm": 205
+    "heightCm": 205,
+    "age": 24,
+    "value": 259948,
+    "salary": 122318
   },
   "1904950|153616": {
     "pozycja": "L",
@@ -1329,7 +1746,10 @@
     "name": "Siriwiboon, Kuan-chung",
     "firstName": "Kuan-chung",
     "lastName": "Siriwiboon",
-    "heightCm": 175
+    "heightCm": 175,
+    "age": 23,
+    "value": 441647,
+    "salary": 215112
   },
   "1904974|153601": {
     "pozycja": "L",
@@ -1338,7 +1758,10 @@
     "name": "Lambertini, Osvaldo",
     "firstName": "Osvaldo",
     "lastName": "Lambertini",
-    "heightCm": 175
+    "heightCm": 175,
+    "age": 24,
+    "value": 914652,
+    "salary": 438529
   },
   "1904975|153608": {
     "pozycja": "L",
@@ -1347,7 +1770,10 @@
     "name": "Olsson, Antti-Jussi",
     "firstName": "Antti-Jussi",
     "lastName": "Olsson",
-    "heightCm": 178
+    "heightCm": 178,
+    "age": 23,
+    "value": 569820,
+    "salary": 265526
   },
   "1904978|153593": {
     "pozycja": "P",
@@ -1356,7 +1782,10 @@
     "name": "Konieczny, Marcin",
     "firstName": "Marcin",
     "lastName": "Konieczny",
-    "heightCm": 183
+    "heightCm": 183,
+    "age": 24,
+    "value": 166379,
+    "salary": 75408
   },
   "1904982|153593": {
     "pozycja": "Ś",
@@ -1365,7 +1794,10 @@
     "name": "Boczula, Krzysztof",
     "firstName": "Krzysztof",
     "lastName": "Boczula",
-    "heightCm": 219
+    "heightCm": 219,
+    "age": 23,
+    "value": 270940,
+    "salary": 131008
   },
   "1904984|153596": {
     "pozycja": "Ś",
@@ -1374,7 +1806,10 @@
     "name": "Tauchnitz, Götz",
     "firstName": "Götz",
     "lastName": "Tauchnitz",
-    "heightCm": 214
+    "heightCm": 214,
+    "age": 24,
+    "value": 189514,
+    "salary": 85470
   },
   "1905039|153602": {
     "pozycja": "L",
@@ -1383,7 +1818,10 @@
     "name": "De Martínez, Héctor",
     "firstName": "Héctor",
     "lastName": "De Martínez",
-    "heightCm": 179
+    "heightCm": 179,
+    "age": 23,
+    "value": 803314,
+    "salary": 362723
   },
   "1905172|153600": {
     "pozycja": "Ś",
@@ -1392,7 +1830,10 @@
     "name": "Nagtglas, Winfried",
     "firstName": "Winfried",
     "lastName": "Nagtglas",
-    "heightCm": 216
+    "heightCm": 216,
+    "age": 24,
+    "value": 229866,
+    "salary": 743576
   },
   "1905214|153616": {
     "pozycja": "Ś",
@@ -1401,7 +1842,10 @@
     "name": "Lianting, Xin-Gang",
     "firstName": "Xin-Gang",
     "lastName": "Lianting",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 24,
+    "value": 238676,
+    "salary": 116219
   },
   "1905218|153597": {
     "pozycja": "Ś",
@@ -1410,7 +1854,10 @@
     "name": "Glenn, Michael",
     "firstName": "Michael",
     "lastName": "Glenn",
-    "heightCm": 219
+    "heightCm": 219,
+    "age": 24,
+    "value": 334134,
+    "salary": 145166
   },
   "1905226|153601": {
     "pozycja": "P",
@@ -1419,7 +1866,10 @@
     "name": "Fernandes, Antenor",
     "firstName": "Antenor",
     "lastName": "Fernandes",
-    "heightCm": 181
+    "heightCm": 181,
+    "age": 24,
+    "value": 192483,
+    "salary": 90599
   },
   "1905265|153607": {
     "pozycja": "P",
@@ -1428,7 +1878,10 @@
     "name": "Greiner, Kaspar",
     "firstName": "Kaspar",
     "lastName": "Greiner",
-    "heightCm": 187
+    "heightCm": 187,
+    "age": 23,
+    "value": 150234,
+    "salary": 69780
   },
   "1905272|153619": {
     "pozycja": "Ś",
@@ -1437,7 +1890,10 @@
     "name": "Rada, Andrei",
     "firstName": "Andrei",
     "lastName": "Rada",
-    "heightCm": 198
+    "heightCm": 198,
+    "age": 24,
+    "value": 189575,
+    "salary": 87857
   },
   "1905277|153618": {
     "pozycja": "O",
@@ -1446,7 +1902,10 @@
     "name": "Krcmar, Ajdin",
     "firstName": "Ajdin",
     "lastName": "Krcmar",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 23,
+    "value": 141921,
+    "salary": 69092
   },
   "1905281|153599": {
     "pozycja": "Ś",
@@ -1455,7 +1914,10 @@
     "name": "Yosifov, Hristo",
     "firstName": "Hristo",
     "lastName": "Yosifov",
-    "heightCm": 213
+    "heightCm": 213,
+    "age": 23,
+    "value": 312595,
+    "salary": 146720
   },
   "1905290|153602": {
     "pozycja": "Ś",
@@ -1464,7 +1926,10 @@
     "name": "Acosta, Riccardo",
     "firstName": "Riccardo",
     "lastName": "Acosta",
-    "heightCm": 212
+    "heightCm": 212,
+    "age": 24,
+    "value": 214529,
+    "salary": 96006
   },
   "1905302|153602": {
     "pozycja": "O",
@@ -1473,7 +1938,10 @@
     "name": "Altera, Néstor",
     "firstName": "Néstor",
     "lastName": "Altera",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 23,
+    "value": 163050,
+    "salary": 75246
   },
   "1905336|153598": {
     "pozycja": "S",
@@ -1482,7 +1950,10 @@
     "name": "Téllez, Guillermo",
     "firstName": "Guillermo",
     "lastName": "Téllez",
-    "heightCm": 188
+    "heightCm": 188,
+    "age": 23,
+    "value": 296645,
+    "salary": 137400
   },
   "1905338|153600": {
     "pozycja": "S",
@@ -1491,7 +1962,10 @@
     "name": "Aerts, Jari",
     "firstName": "Jari",
     "lastName": "Aerts",
-    "heightCm": 192
+    "heightCm": 192,
+    "age": 24,
+    "value": 352063,
+    "salary": 168940
   },
   "1905437|153601": {
     "pozycja": "Ś",
@@ -1500,7 +1974,10 @@
     "name": "Quadros, Fabrício",
     "firstName": "Fabrício",
     "lastName": "Quadros",
-    "heightCm": 217
+    "heightCm": 217,
+    "age": 23,
+    "value": 252045,
+    "salary": 117109
   },
   "1905455|153610": {
     "pozycja": "O",
@@ -1509,7 +1986,10 @@
     "name": "Wiels, Sjarel",
     "firstName": "Sjarel",
     "lastName": "Wiels",
-    "heightCm": 190
+    "heightCm": 190,
+    "age": 24,
+    "value": 128669,
+    "salary": 61268
   },
   "1905461|153606": {
     "pozycja": "P",
@@ -1518,7 +1998,10 @@
     "name": "Hrusínský, Toman",
     "firstName": "Toman",
     "lastName": "Hrusínský",
-    "heightCm": 197
+    "heightCm": 197,
+    "age": 24,
+    "value": 128641,
+    "salary": 59093
   },
   "1905655|153620": {
     "pozycja": "O",
@@ -1527,7 +2010,10 @@
     "name": "Šuler, Damjan",
     "firstName": "Damjan",
     "lastName": "Šuler",
-    "heightCm": 212
+    "heightCm": 212,
+    "age": 24,
+    "value": 93888,
+    "salary": 39089
   },
   "1905671|153602": {
     "pozycja": "Ś",
@@ -1536,7 +2022,10 @@
     "name": "Daniel, Giuseppino",
     "firstName": "Giuseppino",
     "lastName": "Daniel",
-    "heightCm": 202
+    "heightCm": 202,
+    "age": 23,
+    "value": 225857,
+    "salary": 104632
   },
   "1905688|153607": {
     "pozycja": "S",
@@ -1545,7 +2034,10 @@
     "name": "Rafelsberger, Wolfgang",
     "firstName": "Wolfgang",
     "lastName": "Rafelsberger",
-    "heightCm": 182
+    "heightCm": 182,
+    "age": 23,
+    "value": 441092,
+    "salary": 204081
   },
   "1905703|153617": {
     "pozycja": "Ś",
@@ -1554,7 +2046,10 @@
     "name": "de Noronha, Caio",
     "firstName": "Caio",
     "lastName": "de Noronha",
-    "heightCm": 219
+    "heightCm": 219,
+    "age": 23,
+    "value": 249736,
+    "salary": 110969
   },
   "1905803|153617": {
     "pozycja": "O",
@@ -1563,7 +2058,10 @@
     "name": "Rivera, Scott",
     "firstName": "Scott",
     "lastName": "Rivera",
-    "heightCm": 187
+    "heightCm": 187,
+    "age": 24,
+    "value": 83202,
+    "salary": 36308
   },
   "1905845|153612": {
     "pozycja": "P",
@@ -1572,7 +2070,10 @@
     "name": "Oese, Kurni",
     "firstName": "Kurni",
     "lastName": "Oese",
-    "heightCm": 186
+    "heightCm": 186,
+    "age": 23,
+    "value": 124796,
+    "salary": 317881
   },
   "1905864|153595": {
     "pozycja": "S",
@@ -1581,7 +2082,10 @@
     "name": "Baudet, Sébastien",
     "firstName": "Sébastien",
     "lastName": "Baudet",
-    "heightCm": 186
+    "heightCm": 186,
+    "age": 24,
+    "value": 600944,
+    "salary": 283692
   },
   "1905876|153619": {
     "pozycja": "O",
@@ -1590,7 +2094,10 @@
     "name": "Stanca, Iorghu",
     "firstName": "Iorghu",
     "lastName": "Stanca",
-    "heightCm": 213
+    "heightCm": 213,
+    "age": 23,
+    "value": 93960,
+    "salary": 39374
   },
   "1905880|153594": {
     "pozycja": "P",
@@ -1599,7 +2106,10 @@
     "name": "Galtelli, Carlo",
     "firstName": "Carlo",
     "lastName": "Galtelli",
-    "heightCm": 197
+    "heightCm": 197,
+    "age": 24,
+    "value": 110498,
+    "salary": 50292
   },
   "1905912|153611": {
     "pozycja": "P",
@@ -1608,7 +2118,10 @@
     "name": "Görke, Alkan",
     "firstName": "Alkan",
     "lastName": "Görke",
-    "heightCm": 183
+    "heightCm": 183,
+    "age": 24,
+    "value": 116925,
+    "salary": 53802
   },
   "1905951|153597": {
     "pozycja": "P",
@@ -1617,7 +2130,10 @@
     "name": "Greenlee, Kevin",
     "firstName": "Kevin",
     "lastName": "Greenlee",
-    "heightCm": 199
+    "heightCm": 199,
+    "age": 24,
+    "value": 123508,
+    "salary": 55549
   },
   "1926918|153596": {
     "pozycja": "O",
@@ -1626,7 +2142,10 @@
     "name": "Schüßler, Siegmar",
     "firstName": "Siegmar",
     "lastName": "Schüßler",
-    "heightCm": 205
+    "heightCm": 205,
+    "age": 24,
+    "value": 135416,
+    "salary": 529477
   },
   "1926926|153593": {
     "pozycja": "S",
@@ -1635,7 +2154,10 @@
     "name": "Szymański, Olaf",
     "firstName": "Olaf",
     "lastName": "Szymański",
-    "heightCm": 199
+    "heightCm": 199,
+    "age": 24,
+    "value": 556228,
+    "salary": 900911
   },
   "1926930|153598": {
     "pozycja": "S",
@@ -1644,7 +2166,10 @@
     "name": "Coaña, Roberto",
     "firstName": "Roberto",
     "lastName": "Coaña",
-    "heightCm": 195
+    "heightCm": 195,
+    "age": 24,
+    "value": 385716,
+    "salary": 382669
   },
   "1926952|153610": {
     "pozycja": "P",
@@ -1653,7 +2178,10 @@
     "name": "Kabengele, Guido",
     "firstName": "Guido",
     "lastName": "Kabengele",
-    "heightCm": 205
+    "heightCm": 205,
+    "age": 24,
+    "value": 119511,
+    "salary": 58159
   },
   "1926975|153619": {
     "pozycja": "P",
@@ -1662,7 +2190,10 @@
     "name": "Grozav, Stelian",
     "firstName": "Stelian",
     "lastName": "Grozav",
-    "heightCm": 191
+    "heightCm": 191,
+    "age": 24,
+    "value": 95068,
+    "salary": 368260
   },
   "1927003|153615": {
     "pozycja": "Ś",
@@ -1671,7 +2202,10 @@
     "name": "Darvas, Palo",
     "firstName": "Palo",
     "lastName": "Darvas",
-    "heightCm": 208
+    "heightCm": 208,
+    "age": 24,
+    "value": 244016,
+    "salary": 110628
   },
   "1927030|153601": {
     "pozycja": "P",
@@ -1680,7 +2214,10 @@
     "name": "Nepomuceno, Armando",
     "firstName": "Armando",
     "lastName": "Nepomuceno",
-    "heightCm": 183
+    "heightCm": 183,
+    "age": 24,
+    "value": 137473,
+    "salary": 533559
   },
   "1927031|153601": {
     "pozycja": "P",
@@ -1689,7 +2226,10 @@
     "name": "Teixeira, Jefferson",
     "firstName": "Jefferson",
     "lastName": "Teixeira",
-    "heightCm": 201
+    "heightCm": 201,
+    "age": 24,
+    "value": 130501,
+    "salary": 61640
   },
   "1927063|153595": {
     "pozycja": "S",
@@ -1698,7 +2238,10 @@
     "name": "Baud, Antoine",
     "firstName": "Antoine",
     "lastName": "Baud",
-    "heightCm": 210
+    "heightCm": 210,
+    "age": 23,
+    "value": 602641,
+    "salary": 275999
   },
   "1927210|153613": {
     "pozycja": "S",
@@ -1707,7 +2250,10 @@
     "name": "de Almeida, Salvador",
     "firstName": "Salvador",
     "lastName": "de Almeida",
-    "heightCm": 188
+    "heightCm": 188,
+    "age": 24,
+    "value": 447423,
+    "salary": 205628
   },
   "1927264|153617": {
     "pozycja": "S",
@@ -1716,7 +2262,10 @@
     "name": "Alcouffe, Marc",
     "firstName": "Marc",
     "lastName": "Alcouffe",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 23,
+    "value": 519950,
+    "salary": 242880
   },
   "1927365|153620": {
     "pozycja": "P",
@@ -1725,7 +2274,10 @@
     "name": "Blažić, Cvetko",
     "firstName": "Cvetko",
     "lastName": "Blažić",
-    "heightCm": 195
+    "heightCm": 195,
+    "age": 24,
+    "value": 142303,
+    "salary": 65610
   },
   "1927366|153618": {
     "pozycja": "L",
@@ -1734,7 +2286,10 @@
     "name": "Djurdjić, Mahir",
     "firstName": "Mahir",
     "lastName": "Djurdjić",
-    "heightCm": 176
+    "heightCm": 176,
+    "age": 24,
+    "value": 459826,
+    "salary": 208735
   },
   "1927433|153612": {
     "pozycja": "Ś",
@@ -1743,7 +2298,10 @@
     "name": "Suslik, Freddi",
     "firstName": "Freddi",
     "lastName": "Suslik",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 24,
+    "value": 147280,
+    "salary": 69137
   },
   "1927461|153617": {
     "pozycja": "Ś",
@@ -1752,7 +2310,10 @@
     "name": "Wiesbauer, Ivan",
     "firstName": "Ivan",
     "lastName": "Wiesbauer",
-    "heightCm": 214
+    "heightCm": 214,
+    "age": 23,
+    "value": 318677,
+    "salary": 142495
   },
   "1927483|153596": {
     "pozycja": "P",
@@ -1761,7 +2322,10 @@
     "name": "Anders-Akinyemi, Henning",
     "firstName": "Henning",
     "lastName": "Anders-Akinyemi",
-    "heightCm": 182
+    "heightCm": 182,
+    "age": 23,
+    "value": 135299,
+    "salary": 62276
   },
   "1927565|153606": {
     "pozycja": "P",
@@ -1770,7 +2334,10 @@
     "name": "Travnicek, Adam",
     "firstName": "Adam",
     "lastName": "Travnicek",
-    "heightCm": 181
+    "heightCm": 181,
+    "age": 24,
+    "value": 124526,
+    "salary": 57794
   },
   "1927642|153604": {
     "pozycja": "P",
@@ -1779,7 +2346,10 @@
     "name": "Vulić, Dragoslav",
     "firstName": "Dragoslav",
     "lastName": "Vulić",
-    "heightCm": 201
+    "heightCm": 201,
+    "age": 23,
+    "value": 137665,
+    "salary": 352304
   },
   "1927728|153616": {
     "pozycja": "P",
@@ -1788,7 +2358,10 @@
     "name": "Chunxian, Hu",
     "firstName": "Hu",
     "lastName": "Chunxian",
-    "heightCm": 184
+    "heightCm": 184,
+    "age": 24,
+    "value": 100049,
+    "salary": 43894
   },
   "1927729|153616": {
     "pozycja": "P",
@@ -1797,7 +2370,10 @@
     "name": "Guangpeng, Guoqiang",
     "firstName": "Guoqiang",
     "lastName": "Guangpeng",
-    "heightCm": 204
+    "heightCm": 204,
+    "age": 24,
+    "value": 122948,
+    "salary": 59801
   },
   "1927749|153596": {
     "pozycja": "L",
@@ -1806,7 +2382,10 @@
     "name": "Maehle, Matthias",
     "firstName": "Matthias",
     "lastName": "Maehle",
-    "heightCm": 177
+    "heightCm": 177,
+    "age": 23,
+    "value": 696963,
+    "salary": 319100
   },
   "1927751|153604": {
     "pozycja": "Ś",
@@ -1815,7 +2394,10 @@
     "name": "Vukašinović, Bojan",
     "firstName": "Bojan",
     "lastName": "Vukašinović",
-    "heightCm": 203
+    "heightCm": 203,
+    "age": 24,
+    "value": 103096,
+    "salary": 43962
   },
   "1927752|153598": {
     "pozycja": "Ś",
@@ -1824,7 +2406,10 @@
     "name": "Aguado, Sancho",
     "firstName": "Sancho",
     "lastName": "Aguado",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 23,
+    "value": 124580,
+    "salary": 59176
   },
   "1927855|153613": {
     "pozycja": "Ś",
@@ -1833,7 +2418,10 @@
     "name": "Gusmão, Aventino",
     "firstName": "Aventino",
     "lastName": "Gusmão",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 23,
+    "value": 245103,
+    "salary": 114410
   },
   "1927865|153617": {
     "pozycja": "O",
@@ -1842,7 +2430,10 @@
     "name": "Quiriti, Angelo",
     "firstName": "Angelo",
     "lastName": "Quiriti",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 23,
+    "value": 166593,
+    "salary": 78383
   },
   "1927870|153613": {
     "pozycja": "S",
@@ -1851,7 +2442,10 @@
     "name": "Idanha, Gregório",
     "firstName": "Gregório",
     "lastName": "Idanha",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 23,
+    "value": 422891,
+    "salary": 585646
   },
   "1927873|153593": {
     "pozycja": "P",
@@ -1860,7 +2454,10 @@
     "name": "Grabowski, Jarosław",
     "firstName": "Jarosław",
     "lastName": "Grabowski",
-    "heightCm": 191
+    "heightCm": 191,
+    "age": 23,
+    "value": 200255,
+    "salary": 90165
   },
   "1927875|153595": {
     "pozycja": "P",
@@ -1869,7 +2466,10 @@
     "name": "Bardon, Jean",
     "firstName": "Jean",
     "lastName": "Bardon",
-    "heightCm": 192
+    "heightCm": 192,
+    "age": 23,
+    "value": 138215,
+    "salary": 64473
   },
   "1927881|153610": {
     "pozycja": "P",
@@ -1878,7 +2478,10 @@
     "name": "Zaidi, Maxime",
     "firstName": "Maxime",
     "lastName": "Zaidi",
-    "heightCm": 189
+    "heightCm": 189,
+    "age": 23,
+    "value": 119266,
+    "salary": 194558
   },
   "1927955|153601": {
     "pozycja": "P",
@@ -1887,7 +2490,10 @@
     "name": "Campello, Wanderson",
     "firstName": "Wanderson",
     "lastName": "Campello",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 23,
+    "value": 95349,
+    "salary": 36671
   },
   "1928029|153593": {
     "pozycja": "P",
@@ -1896,7 +2502,10 @@
     "name": "Okoński, Jan",
     "firstName": "Jan",
     "lastName": "Okoński",
-    "heightCm": 189
+    "heightCm": 189,
+    "age": 23,
+    "value": 156952,
+    "salary": 72145
   },
   "1928033|153599": {
     "pozycja": "O",
@@ -1905,7 +2514,10 @@
     "name": "Stoev, Angel",
     "firstName": "Angel",
     "lastName": "Stoev",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 23,
+    "value": 174388,
+    "salary": 80424
   },
   "1928034|153596": {
     "pozycja": "O",
@@ -1914,7 +2526,10 @@
     "name": "Achat, Harald-Peter",
     "firstName": "Harald-Peter",
     "lastName": "Achat",
-    "heightCm": 212
+    "heightCm": 212,
+    "age": 23,
+    "value": 132743,
+    "salary": 62844
   },
   "1928039|153593": {
     "pozycja": "Ś",
@@ -1923,7 +2538,10 @@
     "name": "Biegański, Adam",
     "firstName": "Adam",
     "lastName": "Biegański",
-    "heightCm": 216
+    "heightCm": 216,
+    "age": 23,
+    "value": 417646,
+    "salary": 191084
   },
   "1928058|153620": {
     "pozycja": "Ś",
@@ -1932,7 +2550,10 @@
     "name": "Šmrtnik, Danijel",
     "firstName": "Danijel",
     "lastName": "Šmrtnik",
-    "heightCm": 212
+    "heightCm": 212,
+    "age": 23,
+    "value": 139635,
+    "salary": 69465
   },
   "1928065|153618": {
     "pozycja": "Ś",
@@ -1941,7 +2562,10 @@
     "name": "Bekić, Sanjin",
     "firstName": "Sanjin",
     "lastName": "Bekić",
-    "heightCm": 211
+    "heightCm": 211,
+    "age": 23,
+    "value": 203821,
+    "salary": 95506
   },
   "1928074|153594": {
     "pozycja": "Ś",
@@ -1950,7 +2574,10 @@
     "name": "Rosini, Ottavio",
     "firstName": "Ottavio",
     "lastName": "Rosini",
-    "heightCm": 212
+    "heightCm": 212,
+    "age": 23,
+    "value": 177790,
+    "salary": 81629
   },
   "1928107|153613": {
     "pozycja": "S",
@@ -1959,7 +2586,10 @@
     "name": "Ferrobeira, Sandro",
     "firstName": "Sandro",
     "lastName": "Ferrobeira",
-    "heightCm": 199
+    "heightCm": 199,
+    "age": 23,
+    "value": 440168,
+    "salary": 208123
   },
   "1928130|153611": {
     "pozycja": "Ś",
@@ -1968,7 +2598,10 @@
     "name": "Önay, Furkan",
     "firstName": "Furkan",
     "lastName": "Önay",
-    "heightCm": 212
+    "heightCm": 212,
+    "age": 23,
+    "value": 223522,
+    "salary": 288327
   },
   "1928131|153608": {
     "pozycja": "O",
@@ -1977,7 +2610,10 @@
     "name": "Kokkonen, Esa-Pekka",
     "firstName": "Esa-Pekka",
     "lastName": "Kokkonen",
-    "heightCm": 193
+    "heightCm": 193,
+    "age": 23,
+    "value": 107933,
+    "salary": 44527
   },
   "1928154|153612": {
     "pozycja": "L",
@@ -1986,7 +2622,10 @@
     "name": "Muhel, Margus",
     "firstName": "Margus",
     "lastName": "Muhel",
-    "heightCm": 176
+    "heightCm": 176,
+    "age": 23,
+    "value": 446346,
+    "salary": 202333
   },
   "1928166|153614": {
     "pozycja": "P",
@@ -1995,7 +2634,10 @@
     "name": "Yates, Lewis",
     "firstName": "Lewis",
     "lastName": "Yates",
-    "heightCm": 194
+    "heightCm": 194,
+    "age": 23,
+    "value": 139860,
+    "salary": 364562
   },
   "1928192|153614": {
     "pozycja": "L",
@@ -2004,7 +2646,10 @@
     "name": "McClelland, Rodney",
     "firstName": "Rodney",
     "lastName": "McClelland",
-    "heightCm": 180
+    "heightCm": 180,
+    "age": 23,
+    "value": 329733,
+    "salary": 160585
   },
   "1928196|153619": {
     "pozycja": "S",
@@ -2013,7 +2658,10 @@
     "name": "Latovlevici, Dracul",
     "firstName": "Dracul",
     "lastName": "Latovlevici",
-    "heightCm": 205
+    "heightCm": 205,
+    "age": 23,
+    "value": 365216,
+    "salary": 172332
   },
   "1928197|153603": {
     "pozycja": "O",
@@ -2022,7 +2670,10 @@
     "name": "Shirota, Shun",
     "firstName": "Shun",
     "lastName": "Shirota",
-    "heightCm": 198
+    "heightCm": 198,
+    "age": 23,
+    "value": 131475,
+    "salary": 165680
   },
   "1928234|153608": {
     "pozycja": "P",
@@ -2031,7 +2682,10 @@
     "name": "Halinen, Claes",
     "firstName": "Claes",
     "lastName": "Halinen",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 23,
+    "value": 109863,
+    "salary": 292455
   },
   "1928235|153594": {
     "pozycja": "O",
@@ -2040,7 +2694,10 @@
     "name": "Bottazzi, Federico",
     "firstName": "Federico",
     "lastName": "Bottazzi",
-    "heightCm": 202
+    "heightCm": 202,
+    "age": 23,
+    "value": 308896,
+    "salary": 146535
   },
   "1928247|153598": {
     "pozycja": "P",
@@ -2049,7 +2706,10 @@
     "name": "Ferrandis, Constantino",
     "firstName": "Constantino",
     "lastName": "Ferrandis",
-    "heightCm": 198
+    "heightCm": 198,
+    "age": 23,
+    "value": 112203,
+    "salary": 51734
   },
   "1928252|153615": {
     "pozycja": "Ś",
@@ -2058,7 +2718,10 @@
     "name": "Penksa, Gejza",
     "firstName": "Gejza",
     "lastName": "Penksa",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 23,
+    "value": 145129,
+    "salary": 64078
   },
   "1928274|153594": {
     "pozycja": "P",
@@ -2067,7 +2730,10 @@
     "name": "Tavolaro, Gigi",
     "firstName": "Gigi",
     "lastName": "Tavolaro",
-    "heightCm": 189
+    "heightCm": 189,
+    "age": 23,
+    "value": 139379,
+    "salary": 63630
   },
   "1928276|153593": {
     "pozycja": "P",
@@ -2076,16 +2742,10 @@
     "name": "Żołądek, Daniel",
     "firstName": "Daniel",
     "lastName": "Żołądek",
-    "heightCm": 183
-  },
-  "1928282|153609": {
-    "pozycja": "Ś",
-    "teamId": "153609",
-    "playerId": "1928282",
-    "name": "Vlak, Lovro",
-    "firstName": "Lovro",
-    "lastName": "Vlak",
-    "heightCm": 216
+    "heightCm": 183,
+    "age": 23,
+    "value": 115601,
+    "salary": 53324
   },
   "1928285|153617": {
     "pozycja": "Ś",
@@ -2094,7 +2754,10 @@
     "name": "Terragni, Cesarino",
     "firstName": "Cesarino",
     "lastName": "Terragni",
-    "heightCm": 216
+    "heightCm": 216,
+    "age": 23,
+    "value": 237793,
+    "salary": 108605
   },
   "1928286|153617": {
     "pozycja": "Ś",
@@ -2103,7 +2766,10 @@
     "name": "Adar, Adnan",
     "firstName": "Adnan",
     "lastName": "Adar",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 23,
+    "value": 247631,
+    "salary": 110218
   },
   "1928337|153610": {
     "pozycja": "Ś",
@@ -2112,7 +2778,10 @@
     "name": "de Sax, Alexei",
     "firstName": "Alexei",
     "lastName": "de Sax",
-    "heightCm": 208
+    "heightCm": 208,
+    "age": 23,
+    "value": 203086,
+    "salary": 92463
   },
   "1928342|153600": {
     "pozycja": "Ś",
@@ -2121,7 +2790,10 @@
     "name": "Seunke, Tygo",
     "firstName": "Tygo",
     "lastName": "Seunke",
-    "heightCm": 215
+    "heightCm": 215,
+    "age": 22,
+    "value": 216359,
+    "salary": 98438
   },
   "1928347|153599": {
     "pozycja": "L",
@@ -2130,7 +2802,10 @@
     "name": "Dochkov, Kiril",
     "firstName": "Kiril",
     "lastName": "Dochkov",
-    "heightCm": 176
+    "heightCm": 176,
+    "age": 22,
+    "value": 1021568,
+    "salary": 468996
   },
   "1928421|153598": {
     "pozycja": "S",
@@ -2139,7 +2814,10 @@
     "name": "Argenté, Gonzalo",
     "firstName": "Gonzalo",
     "lastName": "Argenté",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 23,
+    "value": 353993,
+    "salary": 421053
   },
   "1928422|153604": {
     "pozycja": "S",
@@ -2148,7 +2826,10 @@
     "name": "Gvozdenović, Andrija",
     "firstName": "Andrija",
     "lastName": "Gvozdenović",
-    "heightCm": 201
+    "heightCm": 201,
+    "age": 23,
+    "value": 433393,
+    "salary": 208495
   },
   "1928457|153602": {
     "pozycja": "P",
@@ -2157,7 +2838,10 @@
     "name": "Landriscina, Santiago",
     "firstName": "Santiago",
     "lastName": "Landriscina",
-    "heightCm": 187
+    "heightCm": 187,
+    "age": 23,
+    "value": 98670,
+    "salary": 42365
   },
   "1928473|153593": {
     "pozycja": "O",
@@ -2166,16 +2850,10 @@
     "name": "Majcher, Michał",
     "firstName": "Michał",
     "lastName": "Majcher",
-    "heightCm": 212
-  },
-  "1928476|153609": {
-    "pozycja": "L",
-    "teamId": "153609",
-    "playerId": "1928476",
-    "name": "Hrzica, Relja",
-    "firstName": "Relja",
-    "lastName": "Hrzica",
-    "heightCm": 175
+    "heightCm": 212,
+    "age": 23,
+    "value": 132529,
+    "salary": 60256
   },
   "1928496|153608": {
     "pozycja": "Ś",
@@ -2184,7 +2862,10 @@
     "name": "Hämäläinen, Carl-Adam",
     "firstName": "Carl-Adam",
     "lastName": "Hämäläinen",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 22,
+    "value": 269115,
+    "salary": 114410
   },
   "1928510|153607": {
     "pozycja": "L",
@@ -2193,7 +2874,10 @@
     "name": "Hellmich, Armin",
     "firstName": "Armin",
     "lastName": "Hellmich",
-    "heightCm": 189
+    "heightCm": 189,
+    "age": 23,
+    "value": 363073,
+    "salary": 176829
   },
   "1928529|153603": {
     "pozycja": "Ś",
@@ -2202,7 +2886,10 @@
     "name": "Tôchika, Kazuhisa",
     "firstName": "Kazuhisa",
     "lastName": "Tôchika",
-    "heightCm": 204
+    "heightCm": 204,
+    "age": 23,
+    "value": 281049,
+    "salary": 591271
   },
   "1928531|153604": {
     "pozycja": "S",
@@ -2211,16 +2898,10 @@
     "name": "Smiljanić, Darko",
     "firstName": "Darko",
     "lastName": "Smiljanić",
-    "heightCm": 200
-  },
-  "1928550|153609": {
-    "pozycja": "P",
-    "teamId": "153609",
-    "playerId": "1928550",
-    "name": "Anocic, Vlado",
-    "firstName": "Vlado",
-    "lastName": "Anocic",
-    "heightCm": 198
+    "heightCm": 200,
+    "age": 23,
+    "value": 424935,
+    "salary": 439922
   },
   "1928557|153616": {
     "pozycja": "Ś",
@@ -2229,16 +2910,10 @@
     "name": "Yuze, Moy",
     "firstName": "Moy",
     "lastName": "Yuze",
-    "heightCm": 194
-  },
-  "1928583|153609": {
-    "pozycja": "L",
-    "teamId": "153609",
-    "playerId": "1928583",
-    "name": "Kapor, Kristjan",
-    "firstName": "Kristjan",
-    "lastName": "Kapor",
-    "heightCm": 175
+    "heightCm": 194,
+    "age": 22,
+    "value": 217856,
+    "salary": 95649
   },
   "1928588|153605": {
     "pozycja": "P",
@@ -2247,7 +2922,10 @@
     "name": "Mathioudakis, Lykourgos",
     "firstName": "Lykourgos",
     "lastName": "Mathioudakis",
-    "heightCm": 198
+    "heightCm": 198,
+    "age": 23,
+    "value": 69671,
+    "salary": 25279
   },
   "1928597|153617": {
     "pozycja": "L",
@@ -2256,7 +2934,10 @@
     "name": "Altenburg, Felix",
     "firstName": "Felix",
     "lastName": "Altenburg",
-    "heightCm": 175
+    "heightCm": 175,
+    "age": 22,
+    "value": 615555,
+    "salary": 283129
   },
   "1928601|153618": {
     "pozycja": "Ś",
@@ -2265,7 +2946,10 @@
     "name": "Silajdžić, Sulejman",
     "firstName": "Sulejman",
     "lastName": "Silajdžić",
-    "heightCm": 217
+    "heightCm": 217,
+    "age": 23,
+    "value": 192812,
+    "salary": 90300
   },
   "1928667|153599": {
     "pozycja": "P",
@@ -2274,7 +2958,10 @@
     "name": "Mladenov, Tzvetan",
     "firstName": "Tzvetan",
     "lastName": "Mladenov",
-    "heightCm": 194
+    "heightCm": 194,
+    "age": 23,
+    "value": 144119,
+    "salary": 64133
   },
   "1928726|153612": {
     "pozycja": "S",
@@ -2283,7 +2970,10 @@
     "name": "Kibuspuu, Ote",
     "firstName": "Ote",
     "lastName": "Kibuspuu",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 23,
+    "value": 402042,
+    "salary": 193263
   },
   "1928798|153597": {
     "pozycja": "Ś",
@@ -2292,7 +2982,10 @@
     "name": "Davis, Grady",
     "firstName": "Grady",
     "lastName": "Davis",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 22,
+    "value": 349225,
+    "salary": 158886
   },
   "1928799|153599": {
     "pozycja": "P",
@@ -2301,7 +2994,10 @@
     "name": "Kirov, Petar",
     "firstName": "Petar",
     "lastName": "Kirov",
-    "heightCm": 186
+    "heightCm": 186,
+    "age": 23,
+    "value": 188266,
+    "salary": 84227
   },
   "1928800|153607": {
     "pozycja": "Ś",
@@ -2310,7 +3006,10 @@
     "name": "Wössner, Ramon",
     "firstName": "Ramon",
     "lastName": "Wössner",
-    "heightCm": 196
+    "heightCm": 196,
+    "age": 23,
+    "value": 197148,
+    "salary": 89733
   },
   "1928809|153598": {
     "pozycja": "O",
@@ -2319,7 +3018,10 @@
     "name": "Soler, Teo",
     "firstName": "Teo",
     "lastName": "Soler",
-    "heightCm": 205
+    "heightCm": 205,
+    "age": 23,
+    "value": 100421,
+    "salary": 41224
   },
   "1928845|153599": {
     "pozycja": "P",
@@ -2328,7 +3030,10 @@
     "name": "Avramov, Georgi",
     "firstName": "Georgi",
     "lastName": "Avramov",
-    "heightCm": 200
+    "heightCm": 200,
+    "age": 23,
+    "value": 182070,
+    "salary": 85142
   },
   "1928848|153601": {
     "pozycja": "Ś",
@@ -2337,7 +3042,10 @@
     "name": "dos Reis, Anderson",
     "firstName": "Anderson",
     "lastName": "dos Reis",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 23,
+    "value": 256237,
+    "salary": 113793
   },
   "1928853|153605": {
     "pozycja": "O",
@@ -2346,7 +3054,10 @@
     "name": "Tsatsarelis, Thiseas",
     "firstName": "Thiseas",
     "lastName": "Tsatsarelis",
-    "heightCm": 197
+    "heightCm": 197,
+    "age": 22,
+    "value": 102212,
+    "salary": 43185
   },
   "1928886|153602": {
     "pozycja": "S",
@@ -2355,16 +3066,10 @@
     "name": "Alfano, Juan",
     "firstName": "Juan",
     "lastName": "Alfano",
-    "heightCm": 199
-  },
-  "1928899|153609": {
-    "pozycja": "P",
-    "teamId": "153609",
-    "playerId": "1928899",
-    "name": "Slavica, Oliver",
-    "firstName": "Oliver",
-    "lastName": "Slavica",
-    "heightCm": 199
+    "heightCm": 199,
+    "age": 23,
+    "value": 267302,
+    "salary": 122033
   },
   "1928909|153602": {
     "pozycja": "P",
@@ -2373,7 +3078,10 @@
     "name": "Gamboa, Emanuel",
     "firstName": "Emanuel",
     "lastName": "Gamboa",
-    "heightCm": 187
+    "heightCm": 187,
+    "age": 23,
+    "value": 110654,
+    "salary": 51875
   },
   "1928916|153596": {
     "pozycja": "P",
@@ -2382,7 +3090,10 @@
     "name": "Schimmer, Bernd",
     "firstName": "Bernd",
     "lastName": "Schimmer",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 23,
+    "value": 149046,
+    "salary": 69967
   },
   "1928917|153613": {
     "pozycja": "O",
@@ -2391,7 +3102,10 @@
     "name": "Salazar, Aldonio",
     "firstName": "Aldonio",
     "lastName": "Salazar",
-    "heightCm": 201
+    "heightCm": 201,
+    "age": 23,
+    "value": 152687,
+    "salary": 74323
   },
   "1928939|153603": {
     "pozycja": "P",
@@ -2400,7 +3114,10 @@
     "name": "Inagaki, Tsumasaburo",
     "firstName": "Tsumasaburo",
     "lastName": "Inagaki",
-    "heightCm": 182
+    "heightCm": 182,
+    "age": 22,
+    "value": 117471,
+    "salary": 52495
   },
   "1928979|153596": {
     "pozycja": "L",
@@ -2409,7 +3126,10 @@
     "name": "Mechernich, Herbert",
     "firstName": "Herbert",
     "lastName": "Mechernich",
-    "heightCm": 178
+    "heightCm": 178,
+    "age": 22,
+    "value": 224758,
+    "salary": 109438
   },
   "1928985|153599": {
     "pozycja": "P",
@@ -2418,7 +3138,10 @@
     "name": "Balkanski, Pavlin",
     "firstName": "Pavlin",
     "lastName": "Balkanski",
-    "heightCm": 196
+    "heightCm": 196,
+    "age": 23,
+    "value": 234218,
+    "salary": 106504
   },
   "1928994|153594": {
     "pozycja": "O",
@@ -2427,7 +3150,10 @@
     "name": "Spompato, Piersandro",
     "firstName": "Piersandro",
     "lastName": "Spompato",
-    "heightCm": 203
+    "heightCm": 203,
+    "age": 23,
+    "value": 140857,
+    "salary": 64773
   },
   "1929008|153594": {
     "pozycja": "Ś",
@@ -2436,7 +3162,10 @@
     "name": "Savio, Arcangelo",
     "firstName": "Arcangelo",
     "lastName": "Savio",
-    "heightCm": 213
+    "heightCm": 213,
+    "age": 22,
+    "value": 185005,
+    "salary": 83779
   },
   "1929014|153601": {
     "pozycja": "L",
@@ -2445,7 +3174,10 @@
     "name": "Carvalho, Juan",
     "firstName": "Juan",
     "lastName": "Carvalho",
-    "heightCm": 178
+    "heightCm": 178,
+    "age": 23,
+    "value": 870506,
+    "salary": 424064
   },
   "1929026|153597": {
     "pozycja": "O",
@@ -2454,7 +3186,10 @@
     "name": "Hurtt, Zach",
     "firstName": "Zach",
     "lastName": "Hurtt",
-    "heightCm": 189
+    "heightCm": 189,
+    "age": 23,
+    "value": 99232,
+    "salary": 43279
   },
   "1929041|153600": {
     "pozycja": "L",
@@ -2463,7 +3198,10 @@
     "name": "Rabbering, Boy",
     "firstName": "Boy",
     "lastName": "Rabbering",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 22,
+    "value": 426855,
+    "salary": 205822
   },
   "1929068|153614": {
     "pozycja": "P",
@@ -2472,7 +3210,10 @@
     "name": "Yates, Arthur",
     "firstName": "Arthur",
     "lastName": "Yates",
-    "heightCm": 197
+    "heightCm": 197,
+    "age": 23,
+    "value": 118532,
+    "salary": 54782
   },
   "1929075|153619": {
     "pozycja": "Ś",
@@ -2481,7 +3222,10 @@
     "name": "Iorga, Anton",
     "firstName": "Anton",
     "lastName": "Iorga",
-    "heightCm": 213
+    "heightCm": 213,
+    "age": 23,
+    "value": 153311,
+    "salary": 241733
   },
   "1929080|153614": {
     "pozycja": "P",
@@ -2490,7 +3234,10 @@
     "name": "Kaufman, Ken",
     "firstName": "Ken",
     "lastName": "Kaufman",
-    "heightCm": 184
+    "heightCm": 184,
+    "age": 22,
+    "value": 80481,
+    "salary": 34697
   },
   "1929106|153616": {
     "pozycja": "P",
@@ -2499,7 +3246,10 @@
     "name": "Hongkai, Rongrong",
     "firstName": "Rongrong",
     "lastName": "Hongkai",
-    "heightCm": 182
+    "heightCm": 182,
+    "age": 23,
+    "value": 87730,
+    "salary": 36797
   },
   "1929119|153593": {
     "pozycja": "Ś",
@@ -2508,7 +3258,10 @@
     "name": "Łukaszewski, Łukasz",
     "firstName": "Łukasz",
     "lastName": "Łukaszewski",
-    "heightCm": 218
+    "heightCm": 218,
+    "age": 22,
+    "value": 355036,
+    "salary": 157354
   },
   "1929120|153598": {
     "pozycja": "P",
@@ -2517,7 +3270,10 @@
     "name": "Marola, Samuel",
     "firstName": "Samuel",
     "lastName": "Marola",
-    "heightCm": 184
+    "heightCm": 184,
+    "age": 23,
+    "value": 129533,
+    "salary": 58907
   },
   "1929135|153614": {
     "pozycja": "Ś",
@@ -2526,7 +3282,10 @@
     "name": "Ashton, Jacob",
     "firstName": "Jacob",
     "lastName": "Ashton",
-    "heightCm": 214
+    "heightCm": 214,
+    "age": 22,
+    "value": 214780,
+    "salary": 95263
   },
   "1929161|153604": {
     "pozycja": "P",
@@ -2535,7 +3294,10 @@
     "name": "Tadić, Zoran",
     "firstName": "Zoran",
     "lastName": "Tadić",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 23,
+    "value": 143486,
+    "salary": 69114
   },
   "1929182|153594": {
     "pozycja": "O",
@@ -2544,7 +3306,10 @@
     "name": "Toniolo, Leone",
     "firstName": "Leone",
     "lastName": "Toniolo",
-    "heightCm": 194
+    "heightCm": 194,
+    "age": 22,
+    "value": 109291,
+    "salary": 51875
   },
   "1929226|153607": {
     "pozycja": "O",
@@ -2553,7 +3318,10 @@
     "name": "Haslinger, Oscar",
     "firstName": "Oscar",
     "lastName": "Haslinger",
-    "heightCm": 201
+    "heightCm": 201,
+    "age": 23,
+    "value": 76457,
+    "salary": 87019
   },
   "1929235|153599": {
     "pozycja": "P",
@@ -2562,7 +3330,10 @@
     "name": "Yurukov, Iliya",
     "firstName": "Iliya",
     "lastName": "Yurukov",
-    "heightCm": 198
+    "heightCm": 198,
+    "age": 22,
+    "value": 145254,
+    "salary": 68073
   },
   "1929237|153611": {
     "pozycja": "Ś",
@@ -2571,7 +3342,10 @@
     "name": "Furkan, Devrim",
     "firstName": "Devrim",
     "lastName": "Furkan",
-    "heightCm": 213
+    "heightCm": 213,
+    "age": 23,
+    "value": 176486,
+    "salary": 271403
   },
   "1929261|153616": {
     "pozycja": "P",
@@ -2580,7 +3354,10 @@
     "name": "Hongjian, Toshirô",
     "firstName": "Toshirô",
     "lastName": "Hongjian",
-    "heightCm": 202
+    "heightCm": 202,
+    "age": 23,
+    "value": 108356,
+    "salary": 220874
   },
   "1929307|153605": {
     "pozycja": "P",
@@ -2589,7 +3366,10 @@
     "name": "Antinos, Pavlos",
     "firstName": "Pavlos",
     "lastName": "Antinos",
-    "heightCm": 207
+    "heightCm": 207,
+    "age": 23,
+    "value": 83358,
+    "salary": 34731
   },
   "1929443|153618": {
     "pozycja": "P",
@@ -2598,7 +3378,10 @@
     "name": "Hajrović, Tarik",
     "firstName": "Tarik",
     "lastName": "Hajrović",
-    "heightCm": 199
+    "heightCm": 199,
+    "age": 23,
+    "value": 76602,
+    "salary": 79620
   },
   "1929446|153612": {
     "pozycja": "O",
@@ -2607,7 +3390,10 @@
     "name": "Kapten, Ervin",
     "firstName": "Ervin",
     "lastName": "Kapten",
-    "heightCm": 194
+    "heightCm": 194,
+    "age": 23,
+    "value": 91801,
+    "salary": 38819
   },
   "1929493|153597": {
     "pozycja": "P",
@@ -2616,7 +3402,10 @@
     "name": "Jones, Mark",
     "firstName": "Mark",
     "lastName": "Jones",
-    "heightCm": 187
+    "heightCm": 187,
+    "age": 23,
+    "value": 136779,
+    "salary": 188678
   },
   "1929499|153610": {
     "pozycja": "L",
@@ -2625,7 +3414,10 @@
     "name": "Quataert, Siegfried",
     "firstName": "Siegfried",
     "lastName": "Quataert",
-    "heightCm": 179
+    "heightCm": 179,
+    "age": 22,
+    "value": 615362,
+    "salary": 299751
   },
   "1929520|153596": {
     "pozycja": "P",
@@ -2634,7 +3426,10 @@
     "name": "Anders-Akinyemi, Carsten",
     "firstName": "Carsten",
     "lastName": "Anders-Akinyemi",
-    "heightCm": 182
+    "heightCm": 182,
+    "age": 23,
+    "value": 78232,
+    "salary": 157773
   },
   "1929522|153600": {
     "pozycja": "L",
@@ -2643,7 +3438,10 @@
     "name": "Poeder, Lou",
     "firstName": "Lou",
     "lastName": "Poeder",
-    "heightCm": 175
+    "heightCm": 175,
+    "age": 23,
+    "value": 621757,
+    "salary": 297629
   },
   "1929523|153602": {
     "pozycja": "S",
@@ -2652,7 +3450,10 @@
     "name": "Gálvez, Gerónimo",
     "firstName": "Gerónimo",
     "lastName": "Gálvez",
-    "heightCm": 196
+    "heightCm": 196,
+    "age": 23,
+    "value": 293781,
+    "salary": 139564
   },
   "1929528|153618": {
     "pozycja": "Ś",
@@ -2661,7 +3462,10 @@
     "name": "Kršmanović, Kerim",
     "firstName": "Kerim",
     "lastName": "Kršmanović",
-    "heightCm": 219
+    "heightCm": 219,
+    "age": 23,
+    "value": 270368,
+    "salary": 131660
   },
   "1929558|153611": {
     "pozycja": "O",
@@ -2670,7 +3474,10 @@
     "name": "Örsan, Ayberk",
     "firstName": "Ayberk",
     "lastName": "Örsan",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 23,
+    "value": 178037,
+    "salary": 82278
   },
   "1929560|153607": {
     "pozycja": "O",
@@ -2679,7 +3486,10 @@
     "name": "Bettelheim, Gerald",
     "firstName": "Gerald",
     "lastName": "Bettelheim",
-    "heightCm": 198
+    "heightCm": 198,
+    "age": 23,
+    "value": 141251,
+    "salary": 219533
   },
   "1929570|153615": {
     "pozycja": "P",
@@ -2688,7 +3498,10 @@
     "name": "Dubašák, Bohdan",
     "firstName": "Bohdan",
     "lastName": "Dubašák",
-    "heightCm": 194
+    "heightCm": 194,
+    "age": 23,
+    "value": 74256,
+    "salary": 27956
   },
   "1929598|153598": {
     "pozycja": "Ś",
@@ -2697,7 +3510,10 @@
     "name": "Jauregui, Fernando",
     "firstName": "Fernando",
     "lastName": "Jauregui",
-    "heightCm": 218
+    "heightCm": 218,
+    "age": 23,
+    "value": 122338,
+    "salary": 52266
   },
   "1929602|153612": {
     "pozycja": "P",
@@ -2706,7 +3522,10 @@
     "name": "Chernichenko, Rolf",
     "firstName": "Rolf",
     "lastName": "Chernichenko",
-    "heightCm": 195
+    "heightCm": 195,
+    "age": 23,
+    "value": 95318,
+    "salary": 40311
   },
   "1948929|153620": {
     "pozycja": "P",
@@ -2715,7 +3534,10 @@
     "name": "Gobec, Matevž",
     "firstName": "Matevž",
     "lastName": "Gobec",
-    "heightCm": 184
+    "heightCm": 184,
+    "age": 23,
+    "value": 131518,
+    "salary": 152819
   },
   "1948934|153602": {
     "pozycja": "L",
@@ -2724,7 +3546,10 @@
     "name": "Di Gregorio, Orestes",
     "firstName": "Orestes",
     "lastName": "Di Gregorio",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 23,
+    "value": 464765,
+    "salary": 222846
   },
   "1948952|153611": {
     "pozycja": "O",
@@ -2733,7 +3558,10 @@
     "name": "Aykut, Baykal",
     "firstName": "Baykal",
     "lastName": "Aykut",
-    "heightCm": 191
+    "heightCm": 191,
+    "age": 23,
+    "value": 198559,
+    "salary": 91844
   },
   "1948961|153618": {
     "pozycja": "O",
@@ -2742,7 +3570,10 @@
     "name": "Stokić, Nikola",
     "firstName": "Nikola",
     "lastName": "Stokić",
-    "heightCm": 211
+    "heightCm": 211,
+    "age": 23,
+    "value": 124607,
+    "salary": 426289
   },
   "1949008|153602": {
     "pozycja": "P",
@@ -2751,7 +3582,10 @@
     "name": "Carnaghi, Fabrizio",
     "firstName": "Fabrizio",
     "lastName": "Carnaghi",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 23,
+    "value": 132143,
+    "salary": 62014
   },
   "1949018|153593": {
     "pozycja": "P",
@@ -2760,7 +3594,10 @@
     "name": "Kozłowski, Zbigniew",
     "firstName": "Zbigniew",
     "lastName": "Kozłowski",
-    "heightCm": 183
+    "heightCm": 183,
+    "age": 23,
+    "value": 146492,
+    "salary": 67395
   },
   "1949031|153603": {
     "pozycja": "P",
@@ -2769,7 +3606,10 @@
     "name": "Karubo, Tamasaburo",
     "firstName": "Tamasaburo",
     "lastName": "Karubo",
-    "heightCm": 187
+    "heightCm": 187,
+    "age": 23,
+    "value": 106486,
+    "salary": 205349
   },
   "1949032|153598": {
     "pozycja": "P",
@@ -2778,7 +3618,10 @@
     "name": "Longueira, Oscar",
     "firstName": "Oscar",
     "lastName": "Longueira",
-    "heightCm": 188
+    "heightCm": 188,
+    "age": 23,
+    "value": 125553,
+    "salary": 58083
   },
   "1949043|153612": {
     "pozycja": "Ś",
@@ -2787,7 +3630,10 @@
     "name": "Belkin, Villu",
     "firstName": "Villu",
     "lastName": "Belkin",
-    "heightCm": 212
+    "heightCm": 212,
+    "age": 23,
+    "value": 172683,
+    "salary": 109979
   },
   "1949098|153594": {
     "pozycja": "P",
@@ -2796,7 +3642,10 @@
     "name": "Cristiano, Lorenzo",
     "firstName": "Lorenzo",
     "lastName": "Cristiano",
-    "heightCm": 195
+    "heightCm": 195,
+    "age": 23,
+    "value": 151350,
+    "salary": 68308
   },
   "1949107|153614": {
     "pozycja": "P",
@@ -2805,7 +3654,10 @@
     "name": "Jordan, Louis",
     "firstName": "Louis",
     "lastName": "Jordan",
-    "heightCm": 193
+    "heightCm": 193,
+    "age": 23,
+    "value": 138691,
+    "salary": 355414
   },
   "1949133|153604": {
     "pozycja": "P",
@@ -2814,7 +3666,10 @@
     "name": "Tošković, Aleksandar",
     "firstName": "Aleksandar",
     "lastName": "Tošković",
-    "heightCm": 184
+    "heightCm": 184,
+    "age": 23,
+    "value": 119485,
+    "salary": 55117
   },
   "1949134|153600": {
     "pozycja": "P",
@@ -2823,7 +3678,10 @@
     "name": "Atik, Harm",
     "firstName": "Harm",
     "lastName": "Atik",
-    "heightCm": 210
+    "heightCm": 210,
+    "age": 23,
+    "value": 102089,
+    "salary": 42088
   },
   "1949173|153620": {
     "pozycja": "S",
@@ -2832,7 +3690,10 @@
     "name": "Zorc, Mario",
     "firstName": "Mario",
     "lastName": "Zorc",
-    "heightCm": 197
+    "heightCm": 197,
+    "age": 23,
+    "value": 422713,
+    "salary": 516841
   },
   "1949516|153610": {
     "pozycja": "Ś",
@@ -2841,7 +3702,10 @@
     "name": "Van Den Eynde, Ngagne",
     "firstName": "Ngagne",
     "lastName": "Van Den Eynde",
-    "heightCm": 218
+    "heightCm": 218,
+    "age": 23,
+    "value": 151172,
+    "salary": 67213
   },
   "1949528|153616": {
     "pozycja": "S",
@@ -2850,7 +3714,10 @@
     "name": "Changkai, Dai",
     "firstName": "Dai",
     "lastName": "Changkai",
-    "heightCm": 195
+    "heightCm": 195,
+    "age": 23,
+    "value": 385514,
+    "salary": 180395
   },
   "1949740|153614": {
     "pozycja": "O",
@@ -2859,7 +3726,10 @@
     "name": "Cammell, Peter",
     "firstName": "Peter",
     "lastName": "Cammell",
-    "heightCm": 200
+    "heightCm": 200,
+    "age": 23,
+    "value": 78876,
+    "salary": 29951
   },
   "1949774|153606": {
     "pozycja": "Ś",
@@ -2868,7 +3738,10 @@
     "name": "Sejkora, Benes",
     "firstName": "Benes",
     "lastName": "Sejkora",
-    "heightCm": 219
+    "heightCm": 219,
+    "age": 22,
+    "value": 236312,
+    "salary": 105940
   },
   "1949776|153604": {
     "pozycja": "L",
@@ -2877,7 +3750,10 @@
     "name": "Rakić, Srdjan",
     "firstName": "Srdjan",
     "lastName": "Rakić",
-    "heightCm": 180
+    "heightCm": 180,
+    "age": 23,
+    "value": 592962,
+    "salary": 288837
   },
   "1949784|153595": {
     "pozycja": "P",
@@ -2886,7 +3762,10 @@
     "name": "Beaudoin, Pascal",
     "firstName": "Pascal",
     "lastName": "Beaudoin",
-    "heightCm": 186
+    "heightCm": 186,
+    "age": 22,
+    "value": 122908,
+    "salary": 57469
   },
   "1949867|153613": {
     "pozycja": "O",
@@ -2895,7 +3774,10 @@
     "name": "Catão, Bruno",
     "firstName": "Bruno",
     "lastName": "Catão",
-    "heightCm": 196
+    "heightCm": 196,
+    "age": 23,
+    "value": 107839,
+    "salary": 51072
   },
   "1949870|153618": {
     "pozycja": "P",
@@ -2904,7 +3786,10 @@
     "name": "Budimir, Ognjen",
     "firstName": "Ognjen",
     "lastName": "Budimir",
-    "heightCm": 193
+    "heightCm": 193,
+    "age": 23,
+    "value": 85744,
+    "salary": 36449
   },
   "1949874|153619": {
     "pozycja": "P",
@@ -2913,7 +3798,10 @@
     "name": "Lirca, Liviu",
     "firstName": "Liviu",
     "lastName": "Lirca",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 22,
+    "value": 90531,
+    "salary": 37341
   },
   "1949892|153613": {
     "pozycja": "Ś",
@@ -2922,7 +3810,10 @@
     "name": "Brilhante, Nuno",
     "firstName": "Nuno",
     "lastName": "Brilhante",
-    "heightCm": 202
+    "heightCm": 202,
+    "age": 22,
+    "value": 258496,
+    "salary": 115043
   },
   "1950000|153601": {
     "pozycja": "S",
@@ -2931,7 +3822,10 @@
     "name": "Pita, Jacques",
     "firstName": "Jacques",
     "lastName": "Pita",
-    "heightCm": 196
+    "heightCm": 196,
+    "age": 22,
+    "value": 436768,
+    "salary": 203739
   },
   "1950001|153601": {
     "pozycja": "S",
@@ -2940,7 +3834,10 @@
     "name": "Martins, Venceslau",
     "firstName": "Venceslau",
     "lastName": "Martins",
-    "heightCm": 188
+    "heightCm": 188,
+    "age": 22,
+    "value": 459441,
+    "salary": 215564
   },
   "1950003|153608": {
     "pozycja": "Ś",
@@ -2949,7 +3846,10 @@
     "name": "Kaipainen, Cisse",
     "firstName": "Cisse",
     "lastName": "Kaipainen",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 22,
+    "value": 253167,
+    "salary": 112641
   },
   "1950222|153618": {
     "pozycja": "P",
@@ -2958,7 +3858,10 @@
     "name": "Šoljić, Alem",
     "firstName": "Alem",
     "lastName": "Šoljić",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 22,
+    "value": 110654,
+    "salary": 151113
   },
   "1950228|153593": {
     "pozycja": "L",
@@ -2967,7 +3870,10 @@
     "name": "Pękala, Robert",
     "firstName": "Robert",
     "lastName": "Pękala",
-    "heightCm": 177
+    "heightCm": 177,
+    "age": 22,
+    "value": 610433,
+    "salary": 364057
   },
   "1950308|153620": {
     "pozycja": "L",
@@ -2976,7 +3882,10 @@
     "name": "Codromaž, Leo",
     "firstName": "Leo",
     "lastName": "Codromaž",
-    "heightCm": 182
+    "heightCm": 182,
+    "age": 22,
+    "value": 238448,
+    "salary": 112331
   },
   "1950318|153606": {
     "pozycja": "L",
@@ -2985,7 +3894,10 @@
     "name": "Síkora, Radomil",
     "firstName": "Radomil",
     "lastName": "Síkora",
-    "heightCm": 186
+    "heightCm": 186,
+    "age": 22,
+    "value": 561955,
+    "salary": 245487
   },
   "1950343|153612": {
     "pozycja": "L",
@@ -2994,7 +3906,10 @@
     "name": "Nool, Märt",
     "firstName": "Märt",
     "lastName": "Nool",
-    "heightCm": 178
+    "heightCm": 178,
+    "age": 22,
+    "value": 630057,
+    "salary": 306910
   },
   "1950382|153600": {
     "pozycja": "P",
@@ -3003,7 +3918,10 @@
     "name": "Admiraal, Willem",
     "firstName": "Willem",
     "lastName": "Admiraal",
-    "heightCm": 201
+    "heightCm": 201,
+    "age": 22,
+    "value": 97886,
+    "salary": 42370
   },
   "1950405|153600": {
     "pozycja": "S",
@@ -3012,7 +3930,10 @@
     "name": "Goncalves, Boudewijn",
     "firstName": "Boudewijn",
     "lastName": "Goncalves",
-    "heightCm": 202
+    "heightCm": 202,
+    "age": 22,
+    "value": 132800,
+    "salary": 61494
   },
   "1950428|153595": {
     "pozycja": "L",
@@ -3021,7 +3942,10 @@
     "name": "Genty, Benoît",
     "firstName": "Benoît",
     "lastName": "Genty",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 22,
+    "value": 908861,
+    "salary": 377502
   },
   "1950434|153611": {
     "pozycja": "P",
@@ -3030,7 +3954,10 @@
     "name": "Çağlayan, Olcayto",
     "firstName": "Olcayto",
     "lastName": "Çağlayan",
-    "heightCm": 194
+    "heightCm": 194,
+    "age": 22,
+    "value": 128683,
+    "salary": 58532
   },
   "1950455|153614": {
     "pozycja": "Ś",
@@ -3039,7 +3966,10 @@
     "name": "Pearce, Kit",
     "firstName": "Kit",
     "lastName": "Pearce",
-    "heightCm": 207
+    "heightCm": 207,
+    "age": 22,
+    "value": 179582,
+    "salary": 393348
   },
   "1950469|153614": {
     "pozycja": "P",
@@ -3048,7 +3978,10 @@
     "name": "Hannen, Jack",
     "firstName": "Jack",
     "lastName": "Hannen",
-    "heightCm": 199
+    "heightCm": 199,
+    "age": 22,
+    "value": 124796,
+    "salary": 58102
   },
   "1950524|153607": {
     "pozycja": "Ś",
@@ -3057,7 +3990,10 @@
     "name": "Lindinger, Austin",
     "firstName": "Austin",
     "lastName": "Lindinger",
-    "heightCm": 212
+    "heightCm": 212,
+    "age": 22,
+    "value": 166433,
+    "salary": 72924
   },
   "1950550|153619": {
     "pozycja": "Ś",
@@ -3066,7 +4002,10 @@
     "name": "Anghelina, Constantin",
     "firstName": "Constantin",
     "lastName": "Anghelina",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 22,
+    "value": 115351,
+    "salary": 194850
   },
   "1950560|153620": {
     "pozycja": "Ś",
@@ -3075,7 +4014,10 @@
     "name": "Zorc, Tonček",
     "firstName": "Tonček",
     "lastName": "Zorc",
-    "heightCm": 196
+    "heightCm": 196,
+    "age": 21,
+    "value": 137487,
+    "salary": 61527
   },
   "1950600|153617": {
     "pozycja": "S",
@@ -3084,7 +4026,10 @@
     "name": "Garcia, Andres",
     "firstName": "Andres",
     "lastName": "Garcia",
-    "heightCm": 199
+    "heightCm": 199,
+    "age": 22,
+    "value": 380208,
+    "salary": 394254
   },
   "1950623|153597": {
     "pozycja": "O",
@@ -3093,7 +4038,10 @@
     "name": "Soto, Beau",
     "firstName": "Beau",
     "lastName": "Soto",
-    "heightCm": 205
+    "heightCm": 205,
+    "age": 22,
+    "value": 82789,
+    "salary": 195846
   },
   "1950652|153616": {
     "pozycja": "Ś",
@@ -3102,7 +4050,10 @@
     "name": "Yingkai, Eijin",
     "firstName": "Eijin",
     "lastName": "Yingkai",
-    "heightCm": 204
+    "heightCm": 204,
+    "age": 22,
+    "value": 165900,
+    "salary": 74771
   },
   "1950657|153604": {
     "pozycja": "L",
@@ -3111,7 +4062,10 @@
     "name": "Stavrović, Bojan",
     "firstName": "Bojan",
     "lastName": "Stavrović",
-    "heightCm": 181
+    "heightCm": 181,
+    "age": 21,
+    "value": 599502,
+    "salary": 292023
   },
   "1950697|153602": {
     "pozycja": "Ś",
@@ -3120,7 +4074,10 @@
     "name": "Paunero, Miguel",
     "firstName": "Miguel",
     "lastName": "Paunero",
-    "heightCm": 215
+    "heightCm": 215,
+    "age": 21,
+    "value": 212963,
+    "salary": 88073
   },
   "1950699|153605": {
     "pozycja": "Ś",
@@ -3129,7 +4086,10 @@
     "name": "Bakas, Raoul",
     "firstName": "Raoul",
     "lastName": "Bakas",
-    "heightCm": 212
+    "heightCm": 212,
+    "age": 22,
+    "value": 143624,
+    "salary": 205624
   },
   "1950744|153600": {
     "pozycja": "Ś",
@@ -3138,7 +4098,10 @@
     "name": "Bont, Cor",
     "firstName": "Cor",
     "lastName": "Bont",
-    "heightCm": 215
+    "heightCm": 215,
+    "age": 21,
+    "value": 149655,
+    "salary": 64515
   },
   "1950779|153612": {
     "pozycja": "L",
@@ -3147,7 +4110,10 @@
     "name": "Laas, Eino",
     "firstName": "Eino",
     "lastName": "Laas",
-    "heightCm": 187
+    "heightCm": 187,
+    "age": 22,
+    "value": 802728,
+    "salary": 301509
   },
   "1950801|153613": {
     "pozycja": "L",
@@ -3156,7 +4122,10 @@
     "name": "Amaral, Altino",
     "firstName": "Altino",
     "lastName": "Amaral",
-    "heightCm": 177
+    "heightCm": 177,
+    "age": 22,
+    "value": 611837,
+    "salary": 290350
   },
   "1950811|153604": {
     "pozycja": "P",
@@ -3165,7 +4134,10 @@
     "name": "Milovanović, Dejan",
     "firstName": "Dejan",
     "lastName": "Milovanović",
-    "heightCm": 204
+    "heightCm": 204,
+    "age": 22,
+    "value": 106243,
+    "salary": 43923
   },
   "1950847|153607": {
     "pozycja": "Ś",
@@ -3174,7 +4146,10 @@
     "name": "Buchinger, Benedikt",
     "firstName": "Benedikt",
     "lastName": "Buchinger",
-    "heightCm": 218
+    "heightCm": 218,
+    "age": 21,
+    "value": 177184,
+    "salary": 77349
   },
   "1950848|153611": {
     "pozycja": "L",
@@ -3183,7 +4158,10 @@
     "name": "Asel, Aslan",
     "firstName": "Aslan",
     "lastName": "Asel",
-    "heightCm": 179
+    "heightCm": 179,
+    "age": 22,
+    "value": 536522,
+    "salary": 238471
   },
   "1950852|153604": {
     "pozycja": "P",
@@ -3192,7 +4170,10 @@
     "name": "Pavlović, Veselin",
     "firstName": "Veselin",
     "lastName": "Pavlović",
-    "heightCm": 184
+    "heightCm": 184,
+    "age": 22,
+    "value": 100717,
+    "salary": 38275
   },
   "1950865|153619": {
     "pozycja": "Ś",
@@ -3201,7 +4182,10 @@
     "name": "Tamas, Ludovic",
     "firstName": "Ludovic",
     "lastName": "Tamas",
-    "heightCm": 203
+    "heightCm": 203,
+    "age": 21,
+    "value": 271198,
+    "salary": 112236
   },
   "1950866|153594": {
     "pozycja": "L",
@@ -3210,7 +4194,10 @@
     "name": "Quagliotti, Fiorenzo",
     "firstName": "Fiorenzo",
     "lastName": "Quagliotti",
-    "heightCm": 177
+    "heightCm": 177,
+    "age": 22,
+    "value": 633354,
+    "salary": 305950
   },
   "1950900|153615": {
     "pozycja": "S",
@@ -3219,7 +4206,10 @@
     "name": "Vatra, Kornel",
     "firstName": "Kornel",
     "lastName": "Vatra",
-    "heightCm": 186
+    "heightCm": 186,
+    "age": 21,
+    "value": 73239,
+    "salary": 22172
   },
   "1950903|153606": {
     "pozycja": "O",
@@ -3228,7 +4218,10 @@
     "name": "Mráka, Ondřej",
     "firstName": "Ondřej",
     "lastName": "Mráka",
-    "heightCm": 204
+    "heightCm": 204,
+    "age": 22,
+    "value": 125120,
+    "salary": 54521
   },
   "1950915|153610": {
     "pozycja": "Ś",
@@ -3237,7 +4230,10 @@
     "name": "Hella, Donald",
     "firstName": "Donald",
     "lastName": "Hella",
-    "heightCm": 214
+    "heightCm": 214,
+    "age": 21,
+    "value": 139545,
+    "salary": 58920
   },
   "1950921|153605": {
     "pozycja": "Ś",
@@ -3246,7 +4242,10 @@
     "name": "Arachovitis, Charalampos",
     "firstName": "Charalampos",
     "lastName": "Arachovitis",
-    "heightCm": 205
+    "heightCm": 205,
+    "age": 21,
+    "value": 160745,
+    "salary": 72168
   },
   "1951006|153616": {
     "pozycja": "P",
@@ -3255,7 +4254,10 @@
     "name": "Chufang, Keyi",
     "firstName": "Keyi",
     "lastName": "Chufang",
-    "heightCm": 186
+    "heightCm": 186,
+    "age": 22,
+    "value": 122404,
+    "salary": 57782
   },
   "1951012|153618": {
     "pozycja": "Ś",
@@ -3264,7 +4266,10 @@
     "name": "Todorović, Damir",
     "firstName": "Damir",
     "lastName": "Todorović",
-    "heightCm": 217
+    "heightCm": 217,
+    "age": 21,
+    "value": 153163,
+    "salary": 75968
   },
   "1951023|153598": {
     "pozycja": "Ś",
@@ -3273,7 +4278,10 @@
     "name": "Teixidó, Enrique",
     "firstName": "Enrique",
     "lastName": "Teixidó",
-    "heightCm": 211
+    "heightCm": 211,
+    "age": 22,
+    "value": 129575,
+    "salary": 214711
   },
   "1951066|153611": {
     "pozycja": "P",
@@ -3282,7 +4290,10 @@
     "name": "Uluğ, Rıdvan",
     "firstName": "Rıdvan",
     "lastName": "Uluğ",
-    "heightCm": 201
+    "heightCm": 201,
+    "age": 22,
+    "value": 100180,
+    "salary": 42771
   },
   "1951082|153607": {
     "pozycja": "O",
@@ -3291,7 +4302,10 @@
     "name": "Sommer, Alf",
     "firstName": "Alf",
     "lastName": "Sommer",
-    "heightCm": 196
+    "heightCm": 196,
+    "age": 22,
+    "value": 142349,
+    "salary": 190938
   },
   "1951115|153612": {
     "pozycja": "P",
@@ -3300,7 +4314,10 @@
     "name": "Koemets, Ruut",
     "firstName": "Ruut",
     "lastName": "Koemets",
-    "heightCm": 181
+    "heightCm": 181,
+    "age": 22,
+    "value": 99059,
+    "salary": 41533
   },
   "1951120|153600": {
     "pozycja": "P",
@@ -3309,7 +4326,10 @@
     "name": "van Enckhuyzen, Olly",
     "firstName": "Olly",
     "lastName": "van Enckhuyzen",
-    "heightCm": 186
+    "heightCm": 186,
+    "age": 22,
+    "value": 85593,
+    "salary": 35624
   },
   "1951185|153606": {
     "pozycja": "O",
@@ -3318,7 +4338,10 @@
     "name": "Jirácek, Antonín",
     "firstName": "Antonín",
     "lastName": "Jirácek",
-    "heightCm": 207
+    "heightCm": 207,
+    "age": 22,
+    "value": 99830,
+    "salary": 166028
   },
   "1951208|153616": {
     "pozycja": "O",
@@ -3327,7 +4350,10 @@
     "name": "Xia, Hua",
     "firstName": "Hua",
     "lastName": "Xia",
-    "heightCm": 214
+    "heightCm": 214,
+    "age": 22,
+    "value": 129757,
+    "salary": 246083
   },
   "1951221|153605": {
     "pozycja": "L",
@@ -3336,7 +4362,10 @@
     "name": "Taxiarhis, Apollon",
     "firstName": "Apollon",
     "lastName": "Taxiarhis",
-    "heightCm": 175
+    "heightCm": 175,
+    "age": 22,
+    "value": 274482,
+    "salary": 120608
   },
   "1951252|153610": {
     "pozycja": "L",
@@ -3345,16 +4374,10 @@
     "name": "Lanckacker, Auke",
     "firstName": "Auke",
     "lastName": "Lanckacker",
-    "heightCm": 177
-  },
-  "1951275|153609": {
-    "pozycja": "Ś",
-    "teamId": "153609",
-    "playerId": "1951275",
-    "name": "Jelusic, Zvonimir",
-    "firstName": "Zvonimir",
-    "lastName": "Jelusic",
-    "heightCm": 213
+    "heightCm": 177,
+    "age": 22,
+    "value": 289842,
+    "salary": 117619
   },
   "1951288|153604": {
     "pozycja": "Ś",
@@ -3363,7 +4386,10 @@
     "name": "Bosić, Vuk",
     "firstName": "Vuk",
     "lastName": "Bosić",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 21,
+    "value": 168834,
+    "salary": 244331
   },
   "1951352|153619": {
     "pozycja": "P",
@@ -3372,7 +4398,10 @@
     "name": "Purece, Răzvan",
     "firstName": "Răzvan",
     "lastName": "Purece",
-    "heightCm": 181
+    "heightCm": 181,
+    "age": 22,
+    "value": 80374,
+    "salary": 28878
   },
   "1951360|153595": {
     "pozycja": "L",
@@ -3381,7 +4410,10 @@
     "name": "Castex, Yves",
     "firstName": "Yves",
     "lastName": "Castex",
-    "heightCm": 180
+    "heightCm": 180,
+    "age": 22,
+    "value": 788631,
+    "salary": 349318
   },
   "1951375|153602": {
     "pozycja": "P",
@@ -3390,7 +4422,10 @@
     "name": "Montenegro, Germán",
     "firstName": "Germán",
     "lastName": "Montenegro",
-    "heightCm": 182
+    "heightCm": 182,
+    "age": 22,
+    "value": 151075,
+    "salary": 304564
   },
   "1951417|153613": {
     "pozycja": "Ś",
@@ -3399,7 +4434,10 @@
     "name": "Barbosa, Lucílio",
     "firstName": "Lucílio",
     "lastName": "Barbosa",
-    "heightCm": 218
+    "heightCm": 218,
+    "age": 22,
+    "value": 154466,
+    "salary": 67700
   },
   "1951442|153615": {
     "pozycja": "Ś",
@@ -3408,7 +4446,10 @@
     "name": "Štohl, Boris",
     "firstName": "Boris",
     "lastName": "Štohl",
-    "heightCm": 212
+    "heightCm": 212,
+    "age": 22,
+    "value": 184572,
+    "salary": 78931
   },
   "1951456|153608": {
     "pozycja": "S",
@@ -3417,7 +4458,10 @@
     "name": "Geitel, Jotaarkka",
     "firstName": "Jotaarkka",
     "lastName": "Geitel",
-    "heightCm": 189
+    "heightCm": 189,
+    "age": 22,
+    "value": 318543,
+    "salary": 133608
   },
   "1974416|153595": {
     "pozycja": "O",
@@ -3426,7 +4470,10 @@
     "name": "Pardon, Daniel",
     "firstName": "Daniel",
     "lastName": "Pardon",
-    "heightCm": 190
+    "heightCm": 190,
+    "age": 22,
+    "value": 164874,
+    "salary": 76213
   },
   "1974463|153598": {
     "pozycja": "Ś",
@@ -3435,7 +4482,10 @@
     "name": "Hilla, Tarsaci",
     "firstName": "Tarsaci",
     "lastName": "Hilla",
-    "heightCm": 214
+    "heightCm": 214,
+    "age": 22,
+    "value": 149623,
+    "salary": 177135
   },
   "1974473|153617": {
     "pozycja": "O",
@@ -3444,7 +4494,10 @@
     "name": "Forystek, Michał",
     "firstName": "Michał",
     "lastName": "Forystek",
-    "heightCm": 197
+    "heightCm": 197,
+    "age": 22,
+    "value": 117522,
+    "salary": 52925
   },
   "1974478|153619": {
     "pozycja": "P",
@@ -3453,7 +4506,10 @@
     "name": "Beta, Laurentiu",
     "firstName": "Laurentiu",
     "lastName": "Beta",
-    "heightCm": 201
+    "heightCm": 201,
+    "age": 22,
+    "value": 130754,
+    "salary": 287142
   },
   "1974517|153607": {
     "pozycja": "P",
@@ -3462,7 +4518,10 @@
     "name": "Strobl, Clemens",
     "firstName": "Clemens",
     "lastName": "Strobl",
-    "heightCm": 193
+    "heightCm": 193,
+    "age": 22,
+    "value": 94332,
+    "salary": 38567
   },
   "1974532|153610": {
     "pozycja": "P",
@@ -3471,7 +4530,10 @@
     "name": "Snoek, Dimitri",
     "firstName": "Dimitri",
     "lastName": "Snoek",
-    "heightCm": 195
+    "heightCm": 195,
+    "age": 22,
+    "value": 105609,
+    "salary": 43579
   },
   "1974576|153608": {
     "pozycja": "Ś",
@@ -3480,7 +4542,10 @@
     "name": "Laustela, Tommi",
     "firstName": "Tommi",
     "lastName": "Laustela",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 21,
+    "value": 181818,
+    "salary": 80890
   },
   "1974585|153600": {
     "pozycja": "Ś",
@@ -3489,7 +4554,10 @@
     "name": "Hoogzaad, Jules",
     "firstName": "Jules",
     "lastName": "Hoogzaad",
-    "heightCm": 213
+    "heightCm": 213,
+    "age": 21,
+    "value": 133893,
+    "salary": 360254
   },
   "1974588|153614": {
     "pozycja": "S",
@@ -3498,7 +4566,10 @@
     "name": "Riley, Frank",
     "firstName": "Frank",
     "lastName": "Riley",
-    "heightCm": 199
+    "heightCm": 199,
+    "age": 22,
+    "value": 319618,
+    "salary": 148416
   },
   "1974604|153607": {
     "pozycja": "P",
@@ -3507,7 +4578,10 @@
     "name": "Meissnitzer, Niclas",
     "firstName": "Niclas",
     "lastName": "Meissnitzer",
-    "heightCm": 184
+    "heightCm": 184,
+    "age": 22,
+    "value": 99156,
+    "salary": 41089
   },
   "1974639|153620": {
     "pozycja": "Ś",
@@ -3516,7 +4590,10 @@
     "name": "Murko, Nikola",
     "firstName": "Nikola",
     "lastName": "Murko",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 22,
+    "value": 153541,
+    "salary": 76770
   },
   "1974851|153613": {
     "pozycja": "Ś",
@@ -3525,7 +4602,10 @@
     "name": "Kapinha, Acácio",
     "firstName": "Acácio",
     "lastName": "Kapinha",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 22,
+    "value": 165900,
+    "salary": 69048
   },
   "1975164|153597": {
     "pozycja": "L",
@@ -3534,7 +4614,10 @@
     "name": "Bullard, Ryan",
     "firstName": "Ryan",
     "lastName": "Bullard",
-    "heightCm": 175
+    "heightCm": 175,
+    "age": 22,
+    "value": 554138,
+    "salary": 247370
   },
   "1975177|153611": {
     "pozycja": "L",
@@ -3543,7 +4626,10 @@
     "name": "Dalay, Gökberk",
     "firstName": "Gökberk",
     "lastName": "Dalay",
-    "heightCm": 175
+    "heightCm": 175,
+    "age": 21,
+    "value": 379689,
+    "salary": 273250
   },
   "1975323|153610": {
     "pozycja": "L",
@@ -3552,7 +4638,10 @@
     "name": "Stijnen, Axel",
     "firstName": "Axel",
     "lastName": "Stijnen",
-    "heightCm": 178
+    "heightCm": 178,
+    "age": 21,
+    "value": 628086,
+    "salary": 282479
   },
   "1975437|153603": {
     "pozycja": "Ś",
@@ -3561,7 +4650,10 @@
     "name": "Mochizuki, Yuuharu",
     "firstName": "Yuuharu",
     "lastName": "Mochizuki",
-    "heightCm": 218
+    "heightCm": 218,
+    "age": 21,
+    "value": 161245,
+    "salary": 69735
   },
   "1975442|153611": {
     "pozycja": "P",
@@ -3570,7 +4662,10 @@
     "name": "Pelıt, Aras",
     "firstName": "Aras",
     "lastName": "Pelıt",
-    "heightCm": 187
+    "heightCm": 187,
+    "age": 21,
+    "value": 97865,
+    "salary": 364841
   },
   "1975521|153619": {
     "pozycja": "L",
@@ -3579,7 +4674,10 @@
     "name": "Albescu, Valentini",
     "firstName": "Valentini",
     "lastName": "Albescu",
-    "heightCm": 176
+    "heightCm": 176,
+    "age": 22,
+    "value": 599502,
+    "salary": 287362
   },
   "1975577|153595": {
     "pozycja": "P",
@@ -3588,7 +4686,10 @@
     "name": "Arnould, Luc-Henri",
     "firstName": "Luc-Henri",
     "lastName": "Arnould",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 21,
+    "value": 116154,
+    "salary": 55501
   },
   "1975616|153598": {
     "pozycja": "O",
@@ -3597,7 +4698,10 @@
     "name": "Cardell, Iván",
     "firstName": "Iván",
     "lastName": "Cardell",
-    "heightCm": 194
+    "heightCm": 194,
+    "age": 21,
+    "value": 116937,
+    "salary": 44776
   },
   "1975617|153619": {
     "pozycja": "Ś",
@@ -3606,7 +4710,10 @@
     "name": "Grumezescu, Henri",
     "firstName": "Henri",
     "lastName": "Grumezescu",
-    "heightCm": 219
+    "heightCm": 219,
+    "age": 21,
+    "value": 264884,
+    "salary": 114738
   },
   "1975653|153607": {
     "pozycja": "Ś",
@@ -3615,7 +4722,10 @@
     "name": "Gombrich, Viktor",
     "firstName": "Viktor",
     "lastName": "Gombrich",
-    "heightCm": 219
+    "heightCm": 219,
+    "age": 21,
+    "value": 148503,
+    "salary": 67868
   },
   "1975683|153608": {
     "pozycja": "Ś",
@@ -3624,7 +4734,10 @@
     "name": "Kaurismäki, Kullervo",
     "firstName": "Kullervo",
     "lastName": "Kaurismäki",
-    "heightCm": 211
+    "heightCm": 211,
+    "age": 21,
+    "value": 234889,
+    "salary": 101015
   },
   "1975694|153603": {
     "pozycja": "L",
@@ -3633,7 +4746,10 @@
     "name": "Tomita, Junichi",
     "firstName": "Junichi",
     "lastName": "Tomita",
-    "heightCm": 183
+    "heightCm": 183,
+    "age": 21,
+    "value": 739192,
+    "salary": 349209
   },
   "1975729|153614": {
     "pozycja": "Ś",
@@ -3642,7 +4758,10 @@
     "name": "Travers, Paddy",
     "firstName": "Paddy",
     "lastName": "Travers",
-    "heightCm": 218
+    "heightCm": 218,
+    "age": 21,
+    "value": 161694,
+    "salary": 68007
   },
   "1975734|153595": {
     "pozycja": "P",
@@ -3651,7 +4770,10 @@
     "name": "Besnier, David",
     "firstName": "David",
     "lastName": "Besnier",
-    "heightCm": 202
+    "heightCm": 202,
+    "age": 21,
+    "value": 102491,
+    "salary": 44063
   },
   "1975736|153607": {
     "pozycja": "P",
@@ -3660,7 +4782,10 @@
     "name": "Fochler, Alf",
     "firstName": "Alf",
     "lastName": "Fochler",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 21,
+    "value": 66139,
+    "salary": 24028
   },
   "1975742|153607": {
     "pozycja": "Ś",
@@ -3669,7 +4794,10 @@
     "name": "Hirschmann, Heino",
     "firstName": "Heino",
     "lastName": "Hirschmann",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 21,
+    "value": 125703,
+    "salary": 185299
   },
   "1975747|153600": {
     "pozycja": "Ś",
@@ -3678,7 +4806,10 @@
     "name": "Salden, Lukas",
     "firstName": "Lukas",
     "lastName": "Salden",
-    "heightCm": 217
+    "heightCm": 217,
+    "age": 21,
+    "value": 116861,
+    "salary": 52300
   },
   "1975780|153612": {
     "pozycja": "Ś",
@@ -3687,7 +4818,10 @@
     "name": "Haug, Aldis",
     "firstName": "Aldis",
     "lastName": "Haug",
-    "heightCm": 205
+    "heightCm": 205,
+    "age": 21,
+    "value": 165988,
+    "salary": 72877
   },
   "1975815|153614": {
     "pozycja": "Ś",
@@ -3696,7 +4830,10 @@
     "name": "Walton, Joss",
     "firstName": "Joss",
     "lastName": "Walton",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 21,
+    "value": 220976,
+    "salary": 96313
   },
   "1975858|153605": {
     "pozycja": "Ś",
@@ -3705,7 +4842,10 @@
     "name": "Papilias, Yiotis",
     "firstName": "Yiotis",
     "lastName": "Papilias",
-    "heightCm": 205
+    "heightCm": 205,
+    "age": 21,
+    "value": 182284,
+    "salary": 79083
   },
   "1975877|153607": {
     "pozycja": "O",
@@ -3714,7 +4854,10 @@
     "name": "Cromer, Matthäus",
     "firstName": "Matthäus",
     "lastName": "Cromer",
-    "heightCm": 207
+    "heightCm": 207,
+    "age": 21,
+    "value": 124850,
+    "salary": 57538
   },
   "1975878|153610": {
     "pozycja": "Ś",
@@ -3723,7 +4866,10 @@
     "name": "Wijsmans, Gabriel",
     "firstName": "Gabriel",
     "lastName": "Wijsmans",
-    "heightCm": 212
+    "heightCm": 212,
+    "age": 21,
+    "value": 157036,
+    "salary": 66400
   },
   "1975887|153615": {
     "pozycja": "L",
@@ -3732,7 +4878,10 @@
     "name": "Chmelnický, Milan",
     "firstName": "Milan",
     "lastName": "Chmelnický",
-    "heightCm": 188
+    "heightCm": 188,
+    "age": 21,
+    "value": 409965,
+    "salary": 185255
   },
   "1975894|153611": {
     "pozycja": "Ś",
@@ -3741,7 +4890,10 @@
     "name": "Işil, Semih",
     "firstName": "Semih",
     "lastName": "Işil",
-    "heightCm": 207
+    "heightCm": 207,
+    "age": 21,
+    "value": 159118,
+    "salary": 69114
   },
   "1975967|153619": {
     "pozycja": "L",
@@ -3750,7 +4902,10 @@
     "name": "Lemnaru, Christian",
     "firstName": "Christian",
     "lastName": "Lemnaru",
-    "heightCm": 175
+    "heightCm": 175,
+    "age": 20,
+    "value": 712994,
+    "salary": 337179
   },
   "1975989|153603": {
     "pozycja": "S",
@@ -3759,7 +4914,10 @@
     "name": "Gan, Tesshô",
     "firstName": "Tesshô",
     "lastName": "Gan",
-    "heightCm": 184
+    "heightCm": 184,
+    "age": 21,
+    "value": 347540,
+    "salary": 361994
   },
   "1976031|153605": {
     "pozycja": "L",
@@ -3768,7 +4926,10 @@
     "name": "Kapetanakis, Mimis",
     "firstName": "Mimis",
     "lastName": "Kapetanakis",
-    "heightCm": 178
+    "heightCm": 178,
+    "age": 20,
+    "value": 703390,
+    "salary": 262901
   },
   "1976037|153594": {
     "pozycja": "S",
@@ -3777,7 +4938,10 @@
     "name": "Melina, Urbano",
     "firstName": "Urbano",
     "lastName": "Melina",
-    "heightCm": 203
+    "heightCm": 203,
+    "age": 21,
+    "value": 371290,
+    "salary": 153733
   },
   "1976043|153613": {
     "pozycja": "P",
@@ -3786,7 +4950,10 @@
     "name": "Isidro, Ildeberto",
     "firstName": "Ildeberto",
     "lastName": "Isidro",
-    "heightCm": 186
+    "heightCm": 186,
+    "age": 21,
+    "value": 72890,
+    "salary": 26512
   },
   "1976054|153604": {
     "pozycja": "O",
@@ -3795,7 +4962,10 @@
     "name": "Damjanović, Stanislav",
     "firstName": "Stanislav",
     "lastName": "Damjanović",
-    "heightCm": 213
+    "heightCm": 213,
+    "age": 21,
+    "value": 48672,
+    "salary": 16347
   },
   "1976073|153618": {
     "pozycja": "L",
@@ -3804,7 +4974,10 @@
     "name": "Maksimović, Arman",
     "firstName": "Arman",
     "lastName": "Maksimović",
-    "heightCm": 178
+    "heightCm": 178,
+    "age": 21,
+    "value": 572327,
+    "salary": 194464
   },
   "1976080|153602": {
     "pozycja": "P",
@@ -3813,7 +4986,10 @@
     "name": "Cosentino, Palito",
     "firstName": "Palito",
     "lastName": "Cosentino",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 21,
+    "value": 108699,
+    "salary": 42231
   },
   "1976172|153615": {
     "pozycja": "O",
@@ -3822,7 +4998,10 @@
     "name": "Mečiar, Gašpar",
     "firstName": "Gašpar",
     "lastName": "Mečiar",
-    "heightCm": 213
+    "heightCm": 213,
+    "age": 21,
+    "value": 150460,
+    "salary": 68758
   },
   "1976194|153616": {
     "pozycja": "P",
@@ -3831,7 +5010,10 @@
     "name": "Jun, Kuang-chao",
     "firstName": "Kuang-chao",
     "lastName": "Jun",
-    "heightCm": 198
+    "heightCm": 198,
+    "age": 21,
+    "value": 159870,
+    "salary": 72114
   },
   "1976214|153610": {
     "pozycja": "Ś",
@@ -3840,7 +5022,10 @@
     "name": "Renier, Pol",
     "firstName": "Pol",
     "lastName": "Renier",
-    "heightCm": 201
+    "heightCm": 201,
+    "age": 21,
+    "value": 188066,
+    "salary": 83261
   },
   "1976242|153604": {
     "pozycja": "P",
@@ -3849,7 +5034,10 @@
     "name": "Samardžić, Milorad",
     "firstName": "Milorad",
     "lastName": "Samardžić",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 21,
+    "value": 84468,
+    "salary": 29858
   },
   "1976260|153604": {
     "pozycja": "P",
@@ -3858,7 +5046,10 @@
     "name": "Popović, Dimitrije",
     "firstName": "Dimitrije",
     "lastName": "Popović",
-    "heightCm": 204
+    "heightCm": 204,
+    "age": 21,
+    "value": 133561,
+    "salary": 59717
   },
   "1976292|153605": {
     "pozycja": "O",
@@ -3867,7 +5058,10 @@
     "name": "Tsarouchitis, Elias",
     "firstName": "Elias",
     "lastName": "Tsarouchitis",
-    "heightCm": 201
+    "heightCm": 201,
+    "age": 21,
+    "value": 161694,
+    "salary": 219715
   },
   "1976327|153605": {
     "pozycja": "S",
@@ -3876,7 +5070,10 @@
     "name": "Charoupas, Andreas",
     "firstName": "Andreas",
     "lastName": "Charoupas",
-    "heightCm": 197
+    "heightCm": 197,
+    "age": 20,
+    "value": 222977,
+    "salary": 90754
   },
   "1976332|153620": {
     "pozycja": "Ś",
@@ -3885,7 +5082,10 @@
     "name": "Zajc, Leo",
     "firstName": "Leo",
     "lastName": "Zajc",
-    "heightCm": 211
+    "heightCm": 211,
+    "age": 21,
+    "value": 205649,
+    "salary": 85854
   },
   "1976344|153597": {
     "pozycja": "L",
@@ -3894,7 +5094,10 @@
     "name": "Walters, Emilio",
     "firstName": "Emilio",
     "lastName": "Walters",
-    "heightCm": 175
+    "heightCm": 175,
+    "age": 20,
+    "value": 857189,
+    "salary": 318733
   },
   "1976356|153610": {
     "pozycja": "Ś",
@@ -3903,7 +5106,10 @@
     "name": "Olaerts, Neo",
     "firstName": "Neo",
     "lastName": "Olaerts",
-    "heightCm": 204
+    "heightCm": 204,
+    "age": 20,
+    "value": 180639,
+    "salary": 75399
   },
   "1976374|153600": {
     "pozycja": "O",
@@ -3912,7 +5118,10 @@
     "name": "Drent, Robertus",
     "firstName": "Robertus",
     "lastName": "Drent",
-    "heightCm": 210
+    "heightCm": 210,
+    "age": 21,
+    "value": 120577,
+    "salary": 54723
   },
   "1976375|153600": {
     "pozycja": "O",
@@ -3921,7 +5130,10 @@
     "name": "Plasterk, Jernst",
     "firstName": "Jernst",
     "lastName": "Plasterk",
-    "heightCm": 215
+    "heightCm": 215,
+    "age": 21,
+    "value": 104476,
+    "salary": 43569
   },
   "1976388|153614": {
     "pozycja": "Ś",
@@ -3930,7 +5142,10 @@
     "name": "Holland, Anthony",
     "firstName": "Anthony",
     "lastName": "Holland",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 20,
+    "value": 133619,
+    "salary": 55688
   },
   "1976391|153613": {
     "pozycja": "P",
@@ -3939,7 +5154,10 @@
     "name": "Garcia, Patrick",
     "firstName": "Patrick",
     "lastName": "Garcia",
-    "heightCm": 189
+    "heightCm": 189,
+    "age": 21,
+    "value": 87575,
+    "salary": 34835
   },
   "1976410|153593": {
     "pozycja": "P",
@@ -3948,7 +5166,10 @@
     "name": "Jakubik, Stanisław",
     "firstName": "Stanisław",
     "lastName": "Jakubik",
-    "heightCm": 193
+    "heightCm": 193,
+    "age": 21,
+    "value": 143918,
+    "salary": 61907
   },
   "1976412|153600": {
     "pozycja": "O",
@@ -3957,7 +5178,10 @@
     "name": "Hartland, Rijk",
     "firstName": "Rijk",
     "lastName": "Hartland",
-    "heightCm": 206
+    "heightCm": 206,
+    "age": 20,
+    "value": 161072,
+    "salary": 348479
   },
   "1976500|153605": {
     "pozycja": "S",
@@ -3966,7 +5190,10 @@
     "name": "Zervos, Totis",
     "firstName": "Totis",
     "lastName": "Zervos",
-    "heightCm": 186
+    "heightCm": 186,
+    "age": 21,
+    "value": 216405,
+    "salary": 135520
   },
   "1976557|153596": {
     "pozycja": "S",
@@ -3975,7 +5202,10 @@
     "name": "Steinert, Korkmaz",
     "firstName": "Korkmaz",
     "lastName": "Steinert",
-    "heightCm": 201
+    "heightCm": 201,
+    "age": 21,
+    "value": 374737,
+    "salary": 144311
   },
   "1976580|153598": {
     "pozycja": "Ś",
@@ -3984,7 +5214,10 @@
     "name": "Toledano, Robustiano",
     "firstName": "Robustiano",
     "lastName": "Toledano",
-    "heightCm": 218
+    "heightCm": 218,
+    "age": 21,
+    "value": 134950,
+    "salary": 56498
   },
   "1976593|153603": {
     "pozycja": "P",
@@ -3993,7 +5226,10 @@
     "name": "Kashima, Monta",
     "firstName": "Monta",
     "lastName": "Kashima",
-    "heightCm": 192
+    "heightCm": 192,
+    "age": 21,
+    "value": 94704,
+    "salary": 37964
   },
   "1976595|153619": {
     "pozycja": "S",
@@ -4002,7 +5238,10 @@
     "name": "Mutu, Marku",
     "firstName": "Marku",
     "lastName": "Mutu",
-    "heightCm": 192
+    "heightCm": 192,
+    "age": 21,
+    "value": 241907,
+    "salary": 95141
   },
   "1976653|153614": {
     "pozycja": "Ś",
@@ -4011,7 +5250,10 @@
     "name": "Entwistle, Freddie",
     "firstName": "Freddie",
     "lastName": "Entwistle",
-    "heightCm": 205
+    "heightCm": 205,
+    "age": 21,
+    "value": 147265,
+    "salary": 63850
   },
   "1976654|153605": {
     "pozycja": "Ś",
@@ -4020,7 +5262,10 @@
     "name": "Kavalekas, Orfeas",
     "firstName": "Orfeas",
     "lastName": "Kavalekas",
-    "heightCm": 198
+    "heightCm": 198,
+    "age": 21,
+    "value": 180043,
+    "salary": 76836
   },
   "1976658|153617": {
     "pozycja": "P",
@@ -4029,7 +5274,10 @@
     "name": "Rolla, Miguel",
     "firstName": "Miguel",
     "lastName": "Rolla",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 21,
+    "value": 126698,
+    "salary": 58678
   },
   "1976659|153613": {
     "pozycja": "P",
@@ -4038,7 +5286,10 @@
     "name": "Miranda, Nicolau",
     "firstName": "Nicolau",
     "lastName": "Miranda",
-    "heightCm": 191
+    "heightCm": 191,
+    "age": 21,
+    "value": 115652,
+    "salary": 53545
   },
   "1976706|153611": {
     "pozycja": "P",
@@ -4047,7 +5298,10 @@
     "name": "Akalp, Umut",
     "firstName": "Umut",
     "lastName": "Akalp",
-    "heightCm": 180
+    "heightCm": 180,
+    "age": 21,
+    "value": 75454,
+    "salary": 27893
   },
   "1976740|153604": {
     "pozycja": "Ś",
@@ -4056,7 +5310,10 @@
     "name": "Ranisavljević, Marko",
     "firstName": "Marko",
     "lastName": "Ranisavljević",
-    "heightCm": 219
+    "heightCm": 219,
+    "age": 21,
+    "value": 106116,
+    "salary": 41761
   },
   "1976894|153610": {
     "pozycja": "S",
@@ -4065,7 +5322,10 @@
     "name": "Engelen, Richard",
     "firstName": "Richard",
     "lastName": "Engelen",
-    "heightCm": 182
+    "heightCm": 182,
+    "age": 21,
+    "value": 167253,
+    "salary": 94144
   },
   "1976913|153603": {
     "pozycja": "P",
@@ -4074,7 +5334,10 @@
     "name": "Nakadoi, Sho",
     "firstName": "Sho",
     "lastName": "Nakadoi",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 21,
+    "value": 96198,
+    "salary": 37835
   },
   "1976945|153597": {
     "pozycja": "P",
@@ -4083,7 +5346,10 @@
     "name": "McCall, Brian",
     "firstName": "Brian",
     "lastName": "McCall",
-    "heightCm": 190
+    "heightCm": 190,
+    "age": 21,
+    "value": 120577,
+    "salary": 231804
   },
   "2002290|153600": {
     "pozycja": "Ś",
@@ -4092,16 +5358,10 @@
     "name": "Ligtvoet, Dominique",
     "firstName": "Dominique",
     "lastName": "Ligtvoet",
-    "heightCm": 213
-  },
-  "2002291|153609": {
-    "pozycja": "P",
-    "teamId": "153609",
-    "playerId": "2002291",
-    "name": "Babic, Svebor",
-    "firstName": "Svebor",
-    "lastName": "Babic",
-    "heightCm": 193
+    "heightCm": 213,
+    "age": 21,
+    "value": 150073,
+    "salary": 66400
   },
   "2002316|153608": {
     "pozycja": "L",
@@ -4110,7 +5370,10 @@
     "name": "Palmu, Jaakko",
     "firstName": "Jaakko",
     "lastName": "Palmu",
-    "heightCm": 177
+    "heightCm": 177,
+    "age": 21,
+    "value": 262183,
+    "salary": 119933
   },
   "2002376|153619": {
     "pozycja": "P",
@@ -4119,7 +5382,10 @@
     "name": "Raiciu, Fane",
     "firstName": "Fane",
     "lastName": "Raiciu",
-    "heightCm": 183
+    "heightCm": 183,
+    "age": 21,
+    "value": 105563,
+    "salary": 40205
   },
   "2002379|153615": {
     "pozycja": "L",
@@ -4128,7 +5394,10 @@
     "name": "Švikruha, Miroslav",
     "firstName": "Miroslav",
     "lastName": "Švikruha",
-    "heightCm": 181
+    "heightCm": 181,
+    "age": 21,
+    "value": 392084,
+    "salary": 147558
   },
   "2002408|153608": {
     "pozycja": "P",
@@ -4137,7 +5406,10 @@
     "name": "Järventie, Joosua",
     "firstName": "Joosua",
     "lastName": "Järventie",
-    "heightCm": 210
+    "heightCm": 210,
+    "age": 21,
+    "value": 83395,
+    "salary": 34405
   },
   "2002548|153600": {
     "pozycja": "P",
@@ -4146,7 +5418,10 @@
     "name": "Brunner, Matthias",
     "firstName": "Matthias",
     "lastName": "Brunner",
-    "heightCm": 198
+    "heightCm": 198,
+    "age": 21,
+    "value": 90233,
+    "salary": 34379
   },
   "2002648|153598": {
     "pozycja": "O",
@@ -4155,7 +5430,10 @@
     "name": "Pereda, Silo",
     "firstName": "Silo",
     "lastName": "Pereda",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 21,
+    "value": 88126,
+    "salary": 35220
   },
   "2003054|153606": {
     "pozycja": "L",
@@ -4164,16 +5442,10 @@
     "name": "Kejklíček, Jakub",
     "firstName": "Jakub",
     "lastName": "Kejklíček",
-    "heightCm": 176
-  },
-  "2003060|153609": {
-    "pozycja": "O",
-    "teamId": "153609",
-    "playerId": "2003060",
-    "name": "Diković, Benjamin",
-    "firstName": "Benjamin",
-    "lastName": "Diković",
-    "heightCm": 197
+    "heightCm": 176,
+    "age": 20,
+    "value": 452278,
+    "salary": 220292
   },
   "2003132|153600": {
     "pozycja": "P",
@@ -4182,7 +5454,10 @@
     "name": "Schrijver, Nout",
     "firstName": "Nout",
     "lastName": "Schrijver",
-    "heightCm": 181
+    "heightCm": 181,
+    "age": 20,
+    "value": 94953,
+    "salary": 112918
   },
   "2003172|153605": {
     "pozycja": "S",
@@ -4191,7 +5466,10 @@
     "name": "Fotopoulos, Aggelos",
     "firstName": "Aggelos",
     "lastName": "Fotopoulos",
-    "heightCm": 208
+    "heightCm": 208,
+    "age": 21,
+    "value": 244921,
+    "salary": 82648
   },
   "2003215|153610": {
     "pozycja": "S",
@@ -4200,7 +5478,10 @@
     "name": "Van Brussel, Rik",
     "firstName": "Rik",
     "lastName": "Van Brussel",
-    "heightCm": 193
+    "heightCm": 193,
+    "age": 20,
+    "value": 232241,
+    "salary": 92542
   },
   "2003328|153604": {
     "pozycja": "Ś",
@@ -4209,7 +5490,10 @@
     "name": "Kolacić, Žarko",
     "firstName": "Žarko",
     "lastName": "Kolacić",
-    "heightCm": 208
+    "heightCm": 208,
+    "age": 20,
+    "value": 122948,
+    "salary": 52198
   },
   "2003351|153615": {
     "pozycja": "Ś",
@@ -4218,7 +5502,10 @@
     "name": "Búřil, Alojz",
     "firstName": "Alojz",
     "lastName": "Búřil",
-    "heightCm": 214
+    "heightCm": 214,
+    "age": 20,
+    "value": 162753,
+    "salary": 65745
   },
   "2003360|153610": {
     "pozycja": "Ś",
@@ -4227,7 +5514,10 @@
     "name": "Bergers, Spencer",
     "firstName": "Spencer",
     "lastName": "Bergers",
-    "heightCm": 215
+    "heightCm": 215,
+    "age": 20,
+    "value": 175940,
+    "salary": 74140
   },
   "2003386|153598": {
     "pozycja": "O",
@@ -4236,7 +5526,10 @@
     "name": "Gimeno, Albino",
     "firstName": "Albino",
     "lastName": "Gimeno",
-    "heightCm": 185
+    "heightCm": 185,
+    "age": 20,
+    "value": 77456,
+    "salary": 26631
   },
   "2003464|153598": {
     "pozycja": "P",
@@ -4245,7 +5538,10 @@
     "name": "Muñoz, Lolo",
     "firstName": "Lolo",
     "lastName": "Muñoz",
-    "heightCm": 196
+    "heightCm": 196,
+    "age": 20,
+    "value": 100541,
+    "salary": 37581
   },
   "2003473|153615": {
     "pozycja": "P",
@@ -4254,7 +5550,10 @@
     "name": "Svorník, Ladislav",
     "firstName": "Ladislav",
     "lastName": "Svorník",
-    "heightCm": 204
+    "heightCm": 204,
+    "age": 20,
+    "value": 110690,
+    "salary": 44140
   },
   "2003481|153598": {
     "pozycja": "L",
@@ -4263,7 +5562,10 @@
     "name": "Espinosa, Ignacio",
     "firstName": "Ignacio",
     "lastName": "Espinosa",
-    "heightCm": 176
+    "heightCm": 176,
+    "age": 20,
+    "value": 405601,
+    "salary": 141059
   },
   "2003486|153603": {
     "pozycja": "Ś",
@@ -4272,7 +5574,10 @@
     "name": "Miyazaki, Kôjiro",
     "firstName": "Kôjiro",
     "lastName": "Miyazaki",
-    "heightCm": 214
+    "heightCm": 214,
+    "age": 19,
+    "value": 130712,
+    "salary": 54314
   },
   "2003528|153603": {
     "pozycja": "L",
@@ -4281,7 +5586,10 @@
     "name": "Shihodo, Shirô",
     "firstName": "Shirô",
     "lastName": "Shihodo",
-    "heightCm": 176
+    "heightCm": 176,
+    "age": 19,
+    "value": 363455,
+    "salary": 172423
   },
   "2003566|153603": {
     "pozycja": "Ś",
@@ -4290,7 +5598,10 @@
     "name": "Yasui, Takashi",
     "firstName": "Takashi",
     "lastName": "Yasui",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 20,
+    "value": 126985,
+    "salary": 53307
   },
   "2003623|153598": {
     "pozycja": "L",
@@ -4299,7 +5610,10 @@
     "name": "Nájera, Carles",
     "firstName": "Carles",
     "lastName": "Nájera",
-    "heightCm": 176
+    "heightCm": 176,
+    "age": 19,
+    "value": 204777,
+    "salary": 99702
   },
   "2003654|153605": {
     "pozycja": "P",
@@ -4308,7 +5622,10 @@
     "name": "Makulis, Achilleas",
     "firstName": "Achilleas",
     "lastName": "Makulis",
-    "heightCm": 202
+    "heightCm": 202,
+    "age": 20,
+    "value": 72881,
+    "salary": 25268
   },
   "2003698|153607": {
     "pozycja": "O",
@@ -4317,7 +5634,10 @@
     "name": "Kaltenböck, Volkmar",
     "firstName": "Volkmar",
     "lastName": "Kaltenböck",
-    "heightCm": 193
+    "heightCm": 193,
+    "age": 20,
+    "value": 94239,
+    "salary": 249005
   },
   "2003733|153605": {
     "pozycja": "L",
@@ -4326,7 +5646,10 @@
     "name": "Kipouros, Traianos",
     "firstName": "Traianos",
     "lastName": "Kipouros",
-    "heightCm": 181
+    "heightCm": 181,
+    "age": 19,
+    "value": 288014,
+    "salary": 126450
   },
   "2003766|153605": {
     "pozycja": "Ś",
@@ -4335,7 +5658,10 @@
     "name": "Mpaxevanos, Omiros",
     "firstName": "Omiros",
     "lastName": "Mpaxevanos",
-    "heightCm": 217
+    "heightCm": 217,
+    "age": 20,
+    "value": 146445,
+    "salary": 60021
   },
   "2003797|153620": {
     "pozycja": "Ś",
@@ -4344,7 +5670,10 @@
     "name": "Žurej, Klemen",
     "firstName": "Klemen",
     "lastName": "Žurej",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 19,
+    "value": 192442,
+    "salary": 79457
   },
   "2003854|153597": {
     "pozycja": "O",
@@ -4353,7 +5682,10 @@
     "name": "Adams, Mike",
     "firstName": "Mike",
     "lastName": "Adams",
-    "heightCm": 198
+    "heightCm": 198,
+    "age": 19,
+    "value": 132514,
+    "salary": 952690
   },
   "2003866|153614": {
     "pozycja": "Ś",
@@ -4362,7 +5694,10 @@
     "name": "Northwood, Patrick",
     "firstName": "Patrick",
     "lastName": "Northwood",
-    "heightCm": 218
+    "heightCm": 218,
+    "age": 20,
+    "value": 133619,
+    "salary": 56339
   },
   "2003877|153615": {
     "pozycja": "O",
@@ -4371,7 +5706,10 @@
     "name": "Fabuš, Radoslav",
     "firstName": "Radoslav",
     "lastName": "Fabuš",
-    "heightCm": 186
+    "heightCm": 186,
+    "age": 20,
+    "value": 87479,
+    "salary": 36004
   },
   "2004047|153607": {
     "pozycja": "L",
@@ -4380,7 +5718,10 @@
     "name": "Salzer, Dominik",
     "firstName": "Dominik",
     "lastName": "Salzer",
-    "heightCm": 177
+    "heightCm": 177,
+    "age": 19,
+    "value": 358863,
+    "salary": 127214
   },
   "2004052|153612": {
     "pozycja": "P",
@@ -4389,7 +5730,10 @@
     "name": "Noormägi, Ludvig",
     "firstName": "Ludvig",
     "lastName": "Noormägi",
-    "heightCm": 207
+    "heightCm": 207,
+    "age": 20,
+    "value": 120316,
+    "salary": 53127
   },
   "2004097|153617": {
     "pozycja": "P",
@@ -4398,7 +5742,10 @@
     "name": "Avelino, Otaviano",
     "firstName": "Otaviano",
     "lastName": "Avelino",
-    "heightCm": 201
+    "heightCm": 201,
+    "age": 20,
+    "value": 100421,
+    "salary": 201831
   },
   "2004110|153607": {
     "pozycja": "P",
@@ -4407,7 +5754,10 @@
     "name": "Hillebrand, Oliver",
     "firstName": "Oliver",
     "lastName": "Hillebrand",
-    "heightCm": 181
+    "heightCm": 181,
+    "age": 20,
+    "value": 94756,
+    "salary": 273310
   },
   "2004131|153604": {
     "pozycja": "O",
@@ -4416,7 +5766,10 @@
     "name": "Srbović, Čedomir",
     "firstName": "Čedomir",
     "lastName": "Srbović",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 20,
+    "value": 116747,
+    "salary": 119428
   },
   "2004151|153610": {
     "pozycja": "O",
@@ -4425,7 +5778,10 @@
     "name": "Onzia, Stijn",
     "firstName": "Stijn",
     "lastName": "Onzia",
-    "heightCm": 190
+    "heightCm": 190,
+    "age": 20,
+    "value": 83505,
+    "salary": 52300
   },
   "2004237|153615": {
     "pozycja": "L",
@@ -4434,7 +5790,10 @@
     "name": "Bumbák, Milan",
     "firstName": "Milan",
     "lastName": "Bumbák",
-    "heightCm": 179
+    "heightCm": 179,
+    "age": 19,
+    "value": 304533,
+    "salary": 104487
   },
   "2004265|153605": {
     "pozycja": "O",
@@ -4443,7 +5802,10 @@
     "name": "Xidis, Romaleos",
     "firstName": "Romaleos",
     "lastName": "Xidis",
-    "heightCm": 207
+    "heightCm": 207,
+    "age": 20,
+    "value": 109684,
+    "salary": 41035
   },
   "2004272|153608": {
     "pozycja": "L",
@@ -4452,7 +5814,10 @@
     "name": "Niemistö, Jere",
     "firstName": "Jere",
     "lastName": "Niemistö",
-    "heightCm": 178
+    "heightCm": 178,
+    "age": 20,
+    "value": 371446,
+    "salary": 119173
   },
   "2004301|153612": {
     "pozycja": "P",
@@ -4461,16 +5826,10 @@
     "name": "Reinbusch, Aare",
     "firstName": "Aare",
     "lastName": "Reinbusch",
-    "heightCm": 198
-  },
-  "2004467|153609": {
-    "pozycja": "P",
-    "teamId": "153609",
-    "playerId": "2004467",
-    "name": "Valek, Obrad",
-    "firstName": "Obrad",
-    "lastName": "Valek",
-    "heightCm": 200
+    "heightCm": 198,
+    "age": 20,
+    "value": 103988,
+    "salary": 42444
   },
   "2032122|153608": {
     "pozycja": "O",
@@ -4479,7 +5838,10 @@
     "name": "Piirainen, Thomas",
     "firstName": "Thomas",
     "lastName": "Piirainen",
-    "heightCm": 194
+    "heightCm": 194,
+    "age": 20,
+    "value": 94197,
+    "salary": 117020
   },
   "2032351|153605": {
     "pozycja": "S",
@@ -4488,25 +5850,10 @@
     "name": "Demiris, Themistoklis",
     "firstName": "Themistoklis",
     "lastName": "Demiris",
-    "heightCm": 181
-  },
-  "2032376|153609": {
-    "pozycja": "S",
-    "teamId": "153609",
-    "playerId": "2032376",
-    "name": "Serbedzija, Nediljko",
-    "firstName": "Nediljko",
-    "lastName": "Serbedzija",
-    "heightCm": 196
-  },
-  "2032636|153609": {
-    "pozycja": "Ś",
-    "teamId": "153609",
-    "playerId": "2032636",
-    "name": "Pršo, Borko",
-    "firstName": "Borko",
-    "lastName": "Pršo",
-    "heightCm": 210
+    "heightCm": 181,
+    "age": 20,
+    "value": 314047,
+    "salary": 107549
   },
   "2032695|153619": {
     "pozycja": "S",
@@ -4515,7 +5862,10 @@
     "name": "Mamele, Ludovic",
     "firstName": "Ludovic",
     "lastName": "Mamele",
-    "heightCm": 186
+    "heightCm": 186,
+    "age": 20,
+    "value": 173330,
+    "salary": 70428
   },
   "2032822|153608": {
     "pozycja": "P",
@@ -4524,16 +5874,10 @@
     "name": "Chydenius, Pauli",
     "firstName": "Pauli",
     "lastName": "Chydenius",
-    "heightCm": 188
-  },
-  "2032878|153609": {
-    "pozycja": "Ś",
-    "teamId": "153609",
-    "playerId": "2032878",
-    "name": "Alac, Matija",
-    "firstName": "Matija",
-    "lastName": "Alac",
-    "heightCm": 204
+    "heightCm": 188,
+    "age": 20,
+    "value": 83643,
+    "salary": 28823
   },
   "2032910|153607": {
     "pozycja": "Ś",
@@ -4542,7 +5886,10 @@
     "name": "Hatz, Manfred",
     "firstName": "Manfred",
     "lastName": "Hatz",
-    "heightCm": 201
+    "heightCm": 201,
+    "age": 19,
+    "value": 75513,
+    "salary": 28640
   },
   "2059908|153620": {
     "pozycja": "O",
@@ -4551,7 +5898,10 @@
     "name": "Cestnik, Tom",
     "firstName": "Tom",
     "lastName": "Cestnik",
-    "heightCm": 214
+    "heightCm": 214,
+    "age": 19,
+    "value": 85179,
+    "salary": 28720
   },
   "2060034|153602": {
     "pozycja": "S",
@@ -4560,16 +5910,10 @@
     "name": "Sánchez, Silvestre",
     "firstName": "Silvestre",
     "lastName": "Sánchez",
-    "heightCm": 194
-  },
-  "2060040|153609": {
-    "pozycja": "P",
-    "teamId": "153609",
-    "playerId": "2060040",
-    "name": "Glavas, Jerko",
-    "firstName": "Jerko",
-    "lastName": "Glavas",
-    "heightCm": 193
+    "heightCm": 194,
+    "age": 19,
+    "value": 259125,
+    "salary": 84942
   },
   "2060106|153599": {
     "pozycja": "Ś",
@@ -4578,16 +5922,10 @@
     "name": "Bozhilov, Elin",
     "firstName": "Elin",
     "lastName": "Bozhilov",
-    "heightCm": 218
-  },
-  "2060111|153609": {
-    "pozycja": "O",
-    "teamId": "153609",
-    "playerId": "2060111",
-    "name": "Diković, Izidor",
-    "firstName": "Izidor",
-    "lastName": "Diković",
-    "heightCm": 198
+    "heightCm": 218,
+    "age": 18,
+    "value": 164398,
+    "salary": 59684
   },
   "2060151|153599": {
     "pozycja": "Ś",
@@ -4596,7 +5934,10 @@
     "name": "Velkov, Kiril",
     "firstName": "Kiril",
     "lastName": "Velkov",
-    "heightCm": 219
+    "heightCm": 219,
+    "age": 18,
+    "value": 156834,
+    "salary": 56315
   },
   "2060168|153611": {
     "pozycja": "Ś",
@@ -4605,7 +5946,10 @@
     "name": "Hamı, Erkut",
     "firstName": "Erkut",
     "lastName": "Hamı",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 19,
+    "value": 110462,
+    "salary": 41410
   },
   "2060180|153610": {
     "pozycja": "L",
@@ -4614,7 +5958,10 @@
     "name": "Prim, Thierry",
     "firstName": "Thierry",
     "lastName": "Prim",
-    "heightCm": 175
+    "heightCm": 175,
+    "age": 18,
+    "value": 226697,
+    "salary": 100319
   },
   "2060263|153608": {
     "pozycja": "Ś",
@@ -4623,7 +5970,10 @@
     "name": "Maalismaa, Ossi",
     "firstName": "Ossi",
     "lastName": "Maalismaa",
-    "heightCm": 216
+    "heightCm": 216,
+    "age": 19,
+    "value": 96949,
+    "salary": 36400
   },
   "2060395|153614": {
     "pozycja": "O",
@@ -4632,7 +5982,10 @@
     "name": "Edwards, Jeremy",
     "firstName": "Jeremy",
     "lastName": "Edwards",
-    "heightCm": 203
+    "heightCm": 203,
+    "age": 19,
+    "value": 98111,
+    "salary": 36320
   },
   "2060450|153620": {
     "pozycja": "L",
@@ -4641,7 +5994,10 @@
     "name": "Jelar, Tom",
     "firstName": "Tom",
     "lastName": "Jelar",
-    "heightCm": 180
+    "heightCm": 180,
+    "age": 18,
+    "value": 179104,
+    "salary": 64822
   },
   "2060885|153616": {
     "pozycja": "O",
@@ -4650,7 +6006,10 @@
     "name": "Tianxian, Jingbo",
     "firstName": "Jingbo",
     "lastName": "Tianxian",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 19,
+    "value": 92987,
+    "salary": 37087
   },
   "2087514|153604": {
     "pozycja": "O",
@@ -4659,7 +6018,10 @@
     "name": "Pavlović, Dragomir",
     "firstName": "Dragomir",
     "lastName": "Pavlović",
-    "heightCm": 213
+    "heightCm": 213,
+    "age": 19,
+    "value": 50770,
+    "salary": 16947
   },
   "2087745|153610": {
     "pozycja": "P",
@@ -4668,16 +6030,10 @@
     "name": "Van Erum, Lucien",
     "firstName": "Lucien",
     "lastName": "Van Erum",
-    "heightCm": 193
-  },
-  "2087850|153609": {
-    "pozycja": "S",
-    "teamId": "153609",
-    "playerId": "2087850",
-    "name": "Ledenko, Uglješa",
-    "firstName": "Uglješa",
-    "lastName": "Ledenko",
-    "heightCm": 199
+    "heightCm": 193,
+    "age": 19,
+    "value": 74538,
+    "salary": 27583
   },
   "2088002|153614": {
     "pozycja": "O",
@@ -4686,7 +6042,10 @@
     "name": "Gray, Cameron",
     "firstName": "Cameron",
     "lastName": "Gray",
-    "heightCm": 198
+    "heightCm": 198,
+    "age": 19,
+    "value": 81312,
+    "salary": 27246
   },
   "2088031|153615": {
     "pozycja": "P",
@@ -4695,7 +6054,10 @@
     "name": "Uherík, Leonard",
     "firstName": "Leonard",
     "lastName": "Uherík",
-    "heightCm": 209
+    "heightCm": 209,
+    "age": 19,
+    "value": 88515,
+    "salary": 277350
   },
   "2088032|153619": {
     "pozycja": "O",
@@ -4704,7 +6066,10 @@
     "name": "Venter, Octavian",
     "firstName": "Octavian",
     "lastName": "Venter",
-    "heightCm": 208
+    "heightCm": 208,
+    "age": 19,
+    "value": 79931,
+    "salary": 207853
   },
   "2088133|153620": {
     "pozycja": "Ś",
@@ -4713,16 +6078,10 @@
     "name": "Crnčić, Franjo",
     "firstName": "Franjo",
     "lastName": "Crnčić",
-    "heightCm": 204
-  },
-  "2088181|153609": {
-    "pozycja": "S",
-    "teamId": "153609",
-    "playerId": "2088181",
-    "name": "Hegedusic, Zivko",
-    "firstName": "Zivko",
-    "lastName": "Hegedusic",
-    "heightCm": 202
+    "heightCm": 204,
+    "age": 18,
+    "value": 123895,
+    "salary": 42175
   },
   "2088182|153608": {
     "pozycja": "S",
@@ -4731,25 +6090,10 @@
     "name": "Pitkänen, Lauri",
     "firstName": "Lauri",
     "lastName": "Pitkänen",
-    "heightCm": 202
-  },
-  "2088295|153609": {
-    "pozycja": "S",
-    "teamId": "153609",
-    "playerId": "2088295",
-    "name": "Pajer, Vojko",
-    "firstName": "Vojko",
-    "lastName": "Pajer",
-    "heightCm": 185
-  },
-  "2088403|153609": {
-    "pozycja": "Ś",
-    "teamId": "153609",
-    "playerId": "2088403",
-    "name": "Jurisa, Bartul",
-    "firstName": "Bartul",
-    "lastName": "Jurisa",
-    "heightCm": 200
+    "heightCm": 202,
+    "age": 18,
+    "value": 104078,
+    "salary": 38326
   },
   "2088466|153615": {
     "pozycja": "S",
@@ -4758,7 +6102,10 @@
     "name": "Mertinko, Adam",
     "firstName": "Adam",
     "lastName": "Mertinko",
-    "heightCm": 189
+    "heightCm": 189,
+    "age": 18,
+    "value": 80410,
+    "salary": 29682
   },
   "2088583|153607": {
     "pozycja": "Ś",
@@ -4767,6 +6114,9 @@
     "name": "Köstlinger, William",
     "firstName": "William",
     "lastName": "Köstlinger",
-    "heightCm": 220
+    "heightCm": 220,
+    "age": 18,
+    "value": 80579,
+    "salary": 36260
   }
 }
