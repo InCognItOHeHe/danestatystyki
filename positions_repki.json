@@ -20,8 +20,20 @@
     "lastName": "Vladimirov",
     "heightCm": 201,
     "age": 26,
-    "value": 79613,
+    "value": 80525,
     "salary": 34329
+  },
+  "1681987|153599": {
+    "pozycja": "Ś",
+    "teamId": "153599",
+    "playerId": "1681987",
+    "name": "Mladenov, Ivan",
+    "firstName": "Ivan",
+    "lastName": "Mladenov",
+    "heightCm": 211,
+    "age": 26,
+    "value": 194730,
+    "salary": 97003
   },
   "1685989|153601": {
     "pozycja": "O",
@@ -32,7 +44,7 @@
     "lastName": "Canuto",
     "heightCm": 209,
     "age": 26,
-    "value": 84310,
+    "value": 84468,
     "salary": 162406
   },
   "1686107|153611": {
@@ -56,7 +68,7 @@
     "lastName": "Emerton",
     "heightCm": 210,
     "age": 27,
-    "value": 215351,
+    "value": 218065,
     "salary": 101241
   },
   "1709575|153601": {
@@ -68,7 +80,7 @@
     "lastName": "Campello",
     "heightCm": 183,
     "age": 27,
-    "value": 80072,
+    "value": 80392,
     "salary": 34501
   },
   "1709576|153601": {
@@ -80,7 +92,7 @@
     "lastName": "Chaves",
     "heightCm": 196,
     "age": 27,
-    "value": 77740,
+    "value": 78059,
     "salary": 34402
   },
   "1709653|153602": {
@@ -104,7 +116,7 @@
     "lastName": "Benek",
     "heightCm": 188,
     "age": 26,
-    "value": 503147,
+    "value": 514163,
     "salary": 489032
   },
   "1709975|153611": {
@@ -116,7 +128,7 @@
     "lastName": "Yücel",
     "heightCm": 190,
     "age": 26,
-    "value": 491592,
+    "value": 516103,
     "salary": 236754
   },
   "1724716|153617": {
@@ -128,7 +140,7 @@
     "lastName": "Sofroniev",
     "heightCm": 189,
     "age": 26,
-    "value": 101878,
+    "value": 103614,
     "salary": 43555
   },
   "1724725|153612": {
@@ -152,7 +164,7 @@
     "lastName": "Jareš",
     "heightCm": 211,
     "age": 25,
-    "value": 260994,
+    "value": 264996,
     "salary": 118532
   },
   "1724977|153618": {
@@ -164,7 +176,7 @@
     "lastName": "Trifković",
     "heightCm": 214,
     "age": 26,
-    "value": 224710,
+    "value": 232365,
     "salary": 104532
   },
   "1724993|153597": {
@@ -176,7 +188,7 @@
     "lastName": "Holguin",
     "heightCm": 205,
     "age": 26,
-    "value": 433348,
+    "value": 437822,
     "salary": 204939
   },
   "1725025|153601": {
@@ -188,7 +200,7 @@
     "lastName": "Baeta",
     "heightCm": 218,
     "age": 26,
-    "value": 195727,
+    "value": 196019,
     "salary": 93643
   },
   "1725076|153618": {
@@ -200,7 +212,7 @@
     "lastName": "Lazić",
     "heightCm": 198,
     "age": 25,
-    "value": 104875,
+    "value": 106753,
     "salary": 43909
   },
   "1725106|153611": {
@@ -212,7 +224,7 @@
     "lastName": "Asuela",
     "heightCm": 208,
     "age": 25,
-    "value": 135270,
+    "value": 135445,
     "salary": 63898
   },
   "1725191|153596": {
@@ -236,7 +248,7 @@
     "lastName": "Tronconi",
     "heightCm": 189,
     "age": 25,
-    "value": 56002,
+    "value": 59578,
     "salary": 22360
   },
   "1725262|153593": {
@@ -248,7 +260,7 @@
     "lastName": "Wnuk",
     "heightCm": 188,
     "age": 25,
-    "value": 638067,
+    "value": 641406,
     "salary": 299500
   },
   "1725397|153608": {
@@ -260,7 +272,7 @@
     "lastName": "Siimes",
     "heightCm": 210,
     "age": 25,
-    "value": 209575,
+    "value": 212579,
     "salary": 97147
   },
   "1744625|153601": {
@@ -272,7 +284,7 @@
     "lastName": "Morais",
     "heightCm": 217,
     "age": 26,
-    "value": 208687,
+    "value": 209531,
     "salary": 506859
   },
   "1744746|153596": {
@@ -284,7 +296,7 @@
     "lastName": "Fohn",
     "heightCm": 210,
     "age": 26,
-    "value": 84935,
+    "value": 85020,
     "salary": 36663
   },
   "1744844|153601": {
@@ -296,7 +308,7 @@
     "lastName": "Fasano",
     "heightCm": 210,
     "age": 26,
-    "value": 75639,
+    "value": 75992,
     "salary": 28676
   },
   "1744886|153617": {
@@ -308,7 +320,7 @@
     "lastName": "Nunez",
     "heightCm": 189,
     "age": 25,
-    "value": 156498,
+    "value": 159425,
     "salary": 73041
   },
   "1744987|153598": {
@@ -320,7 +332,7 @@
     "lastName": "Meneses",
     "heightCm": 206,
     "age": 25,
-    "value": 76874,
+    "value": 78128,
     "salary": 131868
   },
   "1745058|153595": {
@@ -332,7 +344,7 @@
     "lastName": "Macron",
     "heightCm": 210,
     "age": 25,
-    "value": 251779,
+    "value": 258523,
     "salary": 501733
   },
   "1745069|153596": {
@@ -356,7 +368,7 @@
     "lastName": "Yau",
     "heightCm": 194,
     "age": 25,
-    "value": 429684,
+    "value": 446814,
     "salary": 203056
   },
   "1745092|153605": {
@@ -368,7 +380,7 @@
     "lastName": "Gavras",
     "heightCm": 195,
     "age": 26,
-    "value": 73828,
+    "value": 77456,
     "salary": 28577
   },
   "1745146|153608": {
@@ -380,7 +392,7 @@
     "lastName": "Lyytinen",
     "heightCm": 202,
     "age": 26,
-    "value": 85264,
+    "value": 87826,
     "salary": 268993
   },
   "1745153|153601": {
@@ -392,7 +404,7 @@
     "lastName": "Souza",
     "heightCm": 203,
     "age": 26,
-    "value": 476693,
+    "value": 481609,
     "salary": 480996
   },
   "1745168|153596": {
@@ -404,7 +416,7 @@
     "lastName": "Smustern",
     "heightCm": 218,
     "age": 26,
-    "value": 132700,
+    "value": 138155,
     "salary": 62742
   },
   "1745227|153605": {
@@ -416,7 +428,7 @@
     "lastName": "Karamanis",
     "heightCm": 204,
     "age": 25,
-    "value": 65592,
+    "value": 66176,
     "salary": 24474
   },
   "1745330|153613": {
@@ -452,7 +464,7 @@
     "lastName": "Murawski",
     "heightCm": 217,
     "age": 25,
-    "value": 343110,
+    "value": 344266,
     "salary": 158970
   },
   "1767055|153612": {
@@ -464,7 +476,7 @@
     "lastName": "Orro",
     "heightCm": 214,
     "age": 26,
-    "value": 154880,
+    "value": 158167,
     "salary": 147441
   },
   "1767082|153613": {
@@ -476,7 +488,7 @@
     "lastName": "Abecassis",
     "heightCm": 220,
     "age": 26,
-    "value": 138930,
+    "value": 140781,
     "salary": 64501
   },
   "1767179|153616": {
@@ -488,7 +500,7 @@
     "lastName": "Xuanren",
     "heightCm": 202,
     "age": 26,
-    "value": 499161,
+    "value": 509344,
     "salary": 230395
   },
   "1767798|153617": {
@@ -500,7 +512,7 @@
     "lastName": "Bogalho",
     "heightCm": 181,
     "age": 25,
-    "value": 434576,
+    "value": 456419,
     "salary": 202375
   },
   "1767863|153615": {
@@ -512,7 +524,7 @@
     "lastName": "Ďurica",
     "heightCm": 214,
     "age": 25,
-    "value": 185657,
+    "value": 187346,
     "salary": 88139
   },
   "1767866|153613": {
@@ -524,8 +536,8 @@
     "lastName": "Guarnieri",
     "heightCm": 213,
     "age": 25,
-    "value": 89286,
-    "salary": 36724
+    "value": 91872,
+    "salary": 40002
   },
   "1767943|153606": {
     "pozycja": "O",
@@ -536,7 +548,7 @@
     "lastName": "Blazek",
     "heightCm": 192,
     "age": 25,
-    "value": 187147,
+    "value": 192299,
     "salary": 192265
   },
   "1767965|153603": {
@@ -548,7 +560,7 @@
     "lastName": "Hozumi",
     "heightCm": 208,
     "age": 25,
-    "value": 170320,
+    "value": 171745,
     "salary": 825862
   },
   "1864253|153599": {
@@ -560,7 +572,7 @@
     "lastName": "Luchev",
     "heightCm": 186,
     "age": 25,
-    "value": 151627,
+    "value": 151724,
     "salary": 73112
   },
   "1864270|153595": {
@@ -584,7 +596,7 @@
     "lastName": "Gnaś",
     "heightCm": 188,
     "age": 25,
-    "value": 115714,
+    "value": 116394,
     "salary": 54889
   },
   "1864300|153599": {
@@ -596,7 +608,7 @@
     "lastName": "Gavrilov",
     "heightCm": 218,
     "age": 25,
-    "value": 230550,
+    "value": 231308,
     "salary": 111276
   },
   "1864345|153594": {
@@ -608,7 +620,7 @@
     "lastName": "Lusini",
     "heightCm": 213,
     "age": 25,
-    "value": 168042,
+    "value": 170393,
     "salary": 78973
   },
   "1864438|153603": {
@@ -620,7 +632,7 @@
     "lastName": "Oizumi",
     "heightCm": 185,
     "age": 25,
-    "value": 132987,
+    "value": 134921,
     "salary": 62014
   },
   "1864459|153619": {
@@ -632,7 +644,7 @@
     "lastName": "Piscanu",
     "heightCm": 190,
     "age": 25,
-    "value": 109101,
+    "value": 110919,
     "salary": 51335
   },
   "1864479|153617": {
@@ -644,7 +656,7 @@
     "lastName": "Cristiano",
     "heightCm": 187,
     "age": 25,
-    "value": 130023,
+    "value": 133576,
     "salary": 61547
   },
   "1864480|153617": {
@@ -656,7 +668,7 @@
     "lastName": "Lima",
     "heightCm": 188,
     "age": 25,
-    "value": 95862,
+    "value": 98519,
     "salary": 40756
   },
   "1864481|153606": {
@@ -668,7 +680,7 @@
     "lastName": "Vojtechovsky",
     "heightCm": 191,
     "age": 24,
-    "value": 268462,
+    "value": 283342,
     "salary": 129987
   },
   "1864555|153616": {
@@ -704,7 +716,7 @@
     "lastName": "Versari",
     "heightCm": 176,
     "age": 24,
-    "value": 562778,
+    "value": 567799,
     "salary": 256275
   },
   "1864864|153596": {
@@ -716,7 +728,7 @@
     "lastName": "Anrep",
     "heightCm": 192,
     "age": 24,
-    "value": 369073,
+    "value": 372266,
     "salary": 355520
   },
   "1864875|153612": {
@@ -728,7 +740,7 @@
     "lastName": "Lehepuu",
     "heightCm": 204,
     "age": 25,
-    "value": 276168,
+    "value": 282596,
     "salary": 127794
   },
   "1864879|153614": {
@@ -740,7 +752,7 @@
     "lastName": "Hicks",
     "heightCm": 199,
     "age": 25,
-    "value": 89640,
+    "value": 91983,
     "salary": 37317
   },
   "1864912|153593": {
@@ -752,7 +764,7 @@
     "lastName": "Czudaj",
     "heightCm": 211,
     "age": 24,
-    "value": 380767,
+    "value": 382169,
     "salary": 174851
   },
   "1864925|153595": {
@@ -764,7 +776,7 @@
     "lastName": "Mourier",
     "heightCm": 177,
     "age": 24,
-    "value": 865263,
+    "value": 884950,
     "salary": 416056
   },
   "1864957|153620": {
@@ -776,7 +788,7 @@
     "lastName": "Flajs",
     "heightCm": 195,
     "age": 25,
-    "value": 103220,
+    "value": 104465,
     "salary": 44830
   },
   "1864959|153604": {
@@ -788,7 +800,7 @@
     "lastName": "Jovičić",
     "heightCm": 203,
     "age": 25,
-    "value": 373676,
+    "value": 382691,
     "salary": 179658
   },
   "1864966|153595": {
@@ -800,7 +812,7 @@
     "lastName": "Janvier",
     "heightCm": 206,
     "age": 25,
-    "value": 642545,
+    "value": 664924,
     "salary": 662520
   },
   "1865039|153593": {
@@ -812,7 +824,7 @@
     "lastName": "Siedlecki",
     "heightCm": 191,
     "age": 24,
-    "value": 150218,
+    "value": 153706,
     "salary": 68699
   },
   "1865083|153595": {
@@ -824,7 +836,7 @@
     "lastName": "Gillet",
     "heightCm": 210,
     "age": 24,
-    "value": 179601,
+    "value": 183806,
     "salary": 84471
   },
   "1865085|153595": {
@@ -836,7 +848,7 @@
     "lastName": "Lecomte",
     "heightCm": 192,
     "age": 25,
-    "value": 611262,
+    "value": 620589,
     "salary": 287753
   },
   "1865106|153594": {
@@ -848,7 +860,7 @@
     "lastName": "Truglio",
     "heightCm": 182,
     "age": 25,
-    "value": 166522,
+    "value": 167952,
     "salary": 76164
   },
   "1865109|153595": {
@@ -860,8 +872,20 @@
     "lastName": "Furlan",
     "heightCm": 204,
     "age": 24,
-    "value": 236687,
+    "value": 247213,
     "salary": 106515
+  },
+  "1865113|153609": {
+    "pozycja": "O",
+    "teamId": "153609",
+    "playerId": "1865113",
+    "name": "Liveric, Nedjeljko",
+    "firstName": "Nedjeljko",
+    "lastName": "Liveric",
+    "heightCm": 188,
+    "age": 24,
+    "value": 117547,
+    "salary": 53231
   },
   "1865130|153613": {
     "pozycja": "Ś",
@@ -872,7 +896,7 @@
     "lastName": "Ramos",
     "heightCm": 208,
     "age": 25,
-    "value": 183669,
+    "value": 186589,
     "salary": 84381
   },
   "1865135|153601": {
@@ -884,7 +908,7 @@
     "lastName": "Louzada",
     "heightCm": 195,
     "age": 24,
-    "value": 109030,
+    "value": 116041,
     "salary": 477356
   },
   "1865183|153596": {
@@ -908,7 +932,7 @@
     "lastName": "Božovský",
     "heightCm": 184,
     "age": 25,
-    "value": 132543,
+    "value": 138081,
     "salary": 232772
   },
   "1865203|153620": {
@@ -944,7 +968,7 @@
     "lastName": "Aikawa",
     "heightCm": 206,
     "age": 25,
-    "value": 110438,
+    "value": 111850,
     "salary": 53058
   },
   "1865312|153593": {
@@ -968,7 +992,7 @@
     "lastName": "Karadachki",
     "heightCm": 205,
     "age": 24,
-    "value": 681930,
+    "value": 692758,
     "salary": 322684
   },
   "1865329|153599": {
@@ -980,7 +1004,7 @@
     "lastName": "Velichkov",
     "heightCm": 194,
     "age": 24,
-    "value": 686570,
+    "value": 694350,
     "salary": 1080903
   },
   "1865330|153599": {
@@ -992,7 +1016,7 @@
     "lastName": "Peychev",
     "heightCm": 193,
     "age": 24,
-    "value": 764589,
+    "value": 797143,
     "salary": 362005
   },
   "1865362|153616": {
@@ -1016,7 +1040,7 @@
     "lastName": "Jovanović",
     "heightCm": 187,
     "age": 25,
-    "value": 402380,
+    "value": 413593,
     "salary": 196289
   },
   "1865435|153601": {
@@ -1028,7 +1052,7 @@
     "lastName": "Neves",
     "heightCm": 213,
     "age": 25,
-    "value": 176712,
+    "value": 178589,
     "salary": 256798
   },
   "1865454|153593": {
@@ -1040,7 +1064,7 @@
     "lastName": "Górski",
     "heightCm": 199,
     "age": 24,
-    "value": 564958,
+    "value": 575686,
     "salary": 266918
   },
   "1865491|153603": {
@@ -1052,7 +1076,7 @@
     "lastName": "Bifu",
     "heightCm": 196,
     "age": 24,
-    "value": 600505,
+    "value": 615940,
     "salary": 1003663
   },
   "1865508|153596": {
@@ -1064,8 +1088,20 @@
     "lastName": "Ritthaler",
     "heightCm": 206,
     "age": 25,
-    "value": 141205,
+    "value": 143516,
     "salary": 65808
+  },
+  "1865639|153594": {
+    "pozycja": "Ś",
+    "teamId": "153594",
+    "playerId": "1865639",
+    "name": "Cino, Battista",
+    "firstName": "Battista",
+    "lastName": "Cino",
+    "heightCm": 210,
+    "age": 24,
+    "value": 184002,
+    "salary": 374471
   },
   "1865788|153597": {
     "pozycja": "Ś",
@@ -1076,7 +1112,7 @@
     "lastName": "Dick",
     "heightCm": 212,
     "age": 25,
-    "value": 198664,
+    "value": 205234,
     "salary": 575473
   },
   "1865812|153617": {
@@ -1100,7 +1136,7 @@
     "lastName": "Lupei",
     "heightCm": 200,
     "age": 25,
-    "value": 115026,
+    "value": 117649,
     "salary": 54883
   },
   "1903403|153613": {
@@ -1112,7 +1148,7 @@
     "lastName": "Espinhel",
     "heightCm": 183,
     "age": 25,
-    "value": 95673,
+    "value": 99547,
     "salary": 174802
   },
   "1903422|153603": {
@@ -1124,7 +1160,7 @@
     "lastName": "Kazama",
     "heightCm": 203,
     "age": 25,
-    "value": 298401,
+    "value": 303508,
     "salary": 138259
   },
   "1903475|153612": {
@@ -1160,7 +1196,7 @@
     "lastName": "Dimitreiescu",
     "heightCm": 197,
     "age": 25,
-    "value": 108852,
+    "value": 113145,
     "salary": 119262
   },
   "1903750|153613": {
@@ -1172,7 +1208,7 @@
     "lastName": "Lanhoso",
     "heightCm": 192,
     "age": 25,
-    "value": 89996,
+    "value": 91309,
     "salary": 37656
   },
   "1903848|153603": {
@@ -1184,7 +1220,7 @@
     "lastName": "Suzuki",
     "heightCm": 208,
     "age": 24,
-    "value": 144429,
+    "value": 145911,
     "salary": 66838
   },
   "1903928|153602": {
@@ -1196,7 +1232,7 @@
     "lastName": "Guillén",
     "heightCm": 200,
     "age": 25,
-    "value": 154946,
+    "value": 156649,
     "salary": 74932
   },
   "1903984|153613": {
@@ -1208,7 +1244,7 @@
     "lastName": "Bernardo",
     "heightCm": 190,
     "age": 25,
-    "value": 77473,
+    "value": 78154,
     "salary": 117902
   },
   "1903994|153596": {
@@ -1220,7 +1256,7 @@
     "lastName": "Ostendorff",
     "heightCm": 203,
     "age": 24,
-    "value": 568215,
+    "value": 575205,
     "salary": 863077
   },
   "1904212|153602": {
@@ -1232,7 +1268,7 @@
     "lastName": "Del Boca",
     "heightCm": 206,
     "age": 24,
-    "value": 162910,
+    "value": 165386,
     "salary": 75837
   },
   "1904229|153618": {
@@ -1244,7 +1280,7 @@
     "lastName": "Karamatić",
     "heightCm": 181,
     "age": 24,
-    "value": 132557,
+    "value": 135197,
     "salary": 62202
   },
   "1904233|153611": {
@@ -1256,7 +1292,7 @@
     "lastName": "Ümıt",
     "heightCm": 213,
     "age": 24,
-    "value": 316071,
+    "value": 321847,
     "salary": 143491
   },
   "1904269|153601": {
@@ -1268,7 +1304,7 @@
     "lastName": "Leone",
     "heightCm": 182,
     "age": 24,
-    "value": 520494,
+    "value": 544263,
     "salary": 248538
   },
   "1904311|153602": {
@@ -1280,7 +1316,7 @@
     "lastName": "Nicasio",
     "heightCm": 218,
     "age": 24,
-    "value": 213552,
+    "value": 220157,
     "salary": 100309
   },
   "1904325|153611": {
@@ -1292,7 +1328,7 @@
     "lastName": "Banu",
     "heightCm": 190,
     "age": 24,
-    "value": 72963,
+    "value": 73697,
     "salary": 75965
   },
   "1904391|153614": {
@@ -1304,7 +1340,7 @@
     "lastName": "Church",
     "heightCm": 179,
     "age": 24,
-    "value": 582098,
+    "value": 619812,
     "salary": 276115
   },
   "1904407|153597": {
@@ -1316,7 +1352,7 @@
     "lastName": "Larsen",
     "heightCm": 216,
     "age": 24,
-    "value": 202095,
+    "value": 205584,
     "salary": 93723
   },
   "1904420|153617": {
@@ -1328,7 +1364,7 @@
     "lastName": "Johnson",
     "heightCm": 212,
     "age": 24,
-    "value": 258305,
+    "value": 260058,
     "salary": 774372
   },
   "1904423|153608": {
@@ -1340,7 +1376,7 @@
     "lastName": "Parikka",
     "heightCm": 192,
     "age": 24,
-    "value": 156565,
+    "value": 158167,
     "salary": 1455178
   },
   "1904434|153597": {
@@ -1352,7 +1388,7 @@
     "lastName": "Hansell",
     "heightCm": 196,
     "age": 24,
-    "value": 459729,
+    "value": 466422,
     "salary": 214032
   },
   "1904435|153597": {
@@ -1364,7 +1400,7 @@
     "lastName": "Guy",
     "heightCm": 189,
     "age": 24,
-    "value": 460067,
+    "value": 476543,
     "salary": 215858
   },
   "1904438|153606": {
@@ -1376,8 +1412,8 @@
     "lastName": "Matoušek",
     "heightCm": 208,
     "age": 24,
-    "value": 222765,
-    "salary": 100074
+    "value": 226721,
+    "salary": 112677
   },
   "1904441|153597": {
     "pozycja": "P",
@@ -1388,7 +1424,7 @@
     "lastName": "Malloy",
     "heightCm": 197,
     "age": 24,
-    "value": 126629,
+    "value": 128530,
     "salary": 670412
   },
   "1904499|153593": {
@@ -1400,7 +1436,7 @@
     "lastName": "Hudziak",
     "heightCm": 220,
     "age": 24,
-    "value": 315372,
+    "value": 320326,
     "salary": 143612
   },
   "1904500|153603": {
@@ -1412,7 +1448,7 @@
     "lastName": "Mimura",
     "heightCm": 214,
     "age": 24,
-    "value": 264269,
+    "value": 265669,
     "salary": 128689
   },
   "1904528|153600": {
@@ -1424,8 +1460,32 @@
     "lastName": "Admiraal",
     "heightCm": 185,
     "age": 24,
-    "value": 100256,
+    "value": 106197,
     "salary": 109700
+  },
+  "1904535|153593": {
+    "pozycja": "L",
+    "teamId": "153593",
+    "playerId": "1904535",
+    "name": "Smaga, Przemysław",
+    "firstName": "Przemysław",
+    "lastName": "Smaga",
+    "heightCm": 176,
+    "age": 24,
+    "value": 655211,
+    "salary": 283781
+  },
+  "1904536|153609": {
+    "pozycja": "S",
+    "teamId": "153609",
+    "playerId": "1904536",
+    "name": "Srna, Zeljko",
+    "firstName": "Zeljko",
+    "lastName": "Srna",
+    "heightCm": 209,
+    "age": 24,
+    "value": 173701,
+    "salary": 84507
   },
   "1904542|153594": {
     "pozycja": "L",
@@ -1436,7 +1496,7 @@
     "lastName": "Luca",
     "heightCm": 183,
     "age": 24,
-    "value": 1241038,
+    "value": 1296963,
     "salary": 573308
   },
   "1904565|153599": {
@@ -1448,7 +1508,7 @@
     "lastName": "Vlaev",
     "heightCm": 219,
     "age": 24,
-    "value": 217949,
+    "value": 222245,
     "salary": 104843
   },
   "1904576|153600": {
@@ -1460,7 +1520,7 @@
     "lastName": "Westenend",
     "heightCm": 203,
     "age": 24,
-    "value": 307208,
+    "value": 308733,
     "salary": 141551
   },
   "1904598|153596": {
@@ -1484,7 +1544,7 @@
     "lastName": "Dedić",
     "heightCm": 191,
     "age": 23,
-    "value": 461563,
+    "value": 473261,
     "salary": 491125
   },
   "1904663|153620": {
@@ -1496,7 +1556,7 @@
     "lastName": "Gobec",
     "heightCm": 203,
     "age": 24,
-    "value": 123254,
+    "value": 126056,
     "salary": 195151
   },
   "1904681|153599": {
@@ -1508,7 +1568,7 @@
     "lastName": "Velichkov",
     "heightCm": 213,
     "age": 23,
-    "value": 272748,
+    "value": 273758,
     "salary": 129740
   },
   "1904713|153603": {
@@ -1532,7 +1592,7 @@
     "lastName": "Tugnoli",
     "heightCm": 183,
     "age": 24,
-    "value": 91119,
+    "value": 94881,
     "salary": 38721
   },
   "1904752|153595": {
@@ -1544,7 +1604,7 @@
     "lastName": "Foulon",
     "heightCm": 196,
     "age": 23,
-    "value": 185934,
+    "value": 188006,
     "salary": 86683
   },
   "1904771|153594": {
@@ -1556,7 +1616,7 @@
     "lastName": "Spagnuolo",
     "heightCm": 210,
     "age": 23,
-    "value": 193099,
+    "value": 199384,
     "salary": 380353
   },
   "1904772|153597": {
@@ -1568,7 +1628,7 @@
     "lastName": "Tyson",
     "heightCm": 178,
     "age": 23,
-    "value": 603523,
+    "value": 635474,
     "salary": 287843
   },
   "1904779|153602": {
@@ -1580,7 +1640,7 @@
     "lastName": "Onetto",
     "heightCm": 206,
     "age": 24,
-    "value": 354589,
+    "value": 364756,
     "salary": 757582
   },
   "1904811|153594": {
@@ -1592,7 +1652,7 @@
     "lastName": "Valdinoci",
     "heightCm": 180,
     "age": 24,
-    "value": 485812,
+    "value": 497388,
     "salary": 223899
   },
   "1904823|153612": {
@@ -1604,7 +1664,7 @@
     "lastName": "Härm",
     "heightCm": 197,
     "age": 24,
-    "value": 100871,
+    "value": 102737,
     "salary": 41419
   },
   "1904865|153606": {
@@ -1616,7 +1676,7 @@
     "lastName": "Krska",
     "heightCm": 209,
     "age": 23,
-    "value": 124958,
+    "value": 128128,
     "salary": 56597
   },
   "1904871|153617": {
@@ -1628,7 +1688,7 @@
     "lastName": "Fetto",
     "heightCm": 180,
     "age": 23,
-    "value": 720244,
+    "value": 728478,
     "salary": 350852
   },
   "1904880|153615": {
@@ -1640,7 +1700,7 @@
     "lastName": "Bahúl",
     "heightCm": 203,
     "age": 24,
-    "value": 90035,
+    "value": 91953,
     "salary": 37810
   },
   "1904882|153598": {
@@ -1655,6 +1715,18 @@
     "value": 357733,
     "salary": 172024
   },
+  "1904896|153595": {
+    "pozycja": "Ś",
+    "teamId": "153595",
+    "playerId": "1904896",
+    "name": "Firmin, Killian",
+    "firstName": "Killian",
+    "lastName": "Firmin",
+    "heightCm": 220,
+    "age": 24,
+    "value": 269513,
+    "salary": 439045
+  },
   "1904897|153594": {
     "pozycja": "Ś",
     "teamId": "153594",
@@ -1664,7 +1736,7 @@
     "lastName": "Gallucci",
     "heightCm": 215,
     "age": 24,
-    "value": 190932,
+    "value": 195998,
     "salary": 205905
   },
   "1904898|153595": {
@@ -1676,7 +1748,7 @@
     "lastName": "Blanchard",
     "heightCm": 199,
     "age": 23,
-    "value": 305594,
+    "value": 315539,
     "salary": 143340
   },
   "1904903|153597": {
@@ -1688,7 +1760,7 @@
     "lastName": "Spencer",
     "heightCm": 211,
     "age": 24,
-    "value": 238524,
+    "value": 240375,
     "salary": 113144
   },
   "1904907|153597": {
@@ -1700,7 +1772,7 @@
     "lastName": "Terrell",
     "heightCm": 189,
     "age": 24,
-    "value": 149446,
+    "value": 153327,
     "salary": 152437
   },
   "1904937|153597": {
@@ -1712,7 +1784,7 @@
     "lastName": "Silva",
     "heightCm": 183,
     "age": 24,
-    "value": 127742,
+    "value": 132614,
     "salary": 59976
   },
   "1904942|153611": {
@@ -1724,7 +1796,7 @@
     "lastName": "Arya",
     "heightCm": 208,
     "age": 24,
-    "value": 142993,
+    "value": 149494,
     "salary": 66029
   },
   "1904944|153595": {
@@ -1760,7 +1832,7 @@
     "lastName": "Lambertini",
     "heightCm": 175,
     "age": 24,
-    "value": 914652,
+    "value": 946132,
     "salary": 438529
   },
   "1904975|153608": {
@@ -1784,7 +1856,7 @@
     "lastName": "Konieczny",
     "heightCm": 183,
     "age": 24,
-    "value": 166379,
+    "value": 168996,
     "salary": 75408
   },
   "1904982|153593": {
@@ -1820,7 +1892,7 @@
     "lastName": "De Martínez",
     "heightCm": 179,
     "age": 23,
-    "value": 803314,
+    "value": 824517,
     "salary": 362723
   },
   "1905172|153600": {
@@ -1832,7 +1904,7 @@
     "lastName": "Nagtglas",
     "heightCm": 216,
     "age": 24,
-    "value": 229866,
+    "value": 231774,
     "salary": 743576
   },
   "1905214|153616": {
@@ -1844,7 +1916,7 @@
     "lastName": "Lianting",
     "heightCm": 220,
     "age": 24,
-    "value": 238676,
+    "value": 239968,
     "salary": 116219
   },
   "1905218|153597": {
@@ -1856,8 +1928,20 @@
     "lastName": "Glenn",
     "heightCm": 219,
     "age": 24,
-    "value": 334134,
+    "value": 347832,
     "salary": 145166
+  },
+  "1905220|153594": {
+    "pozycja": "S",
+    "teamId": "153594",
+    "playerId": "1905220",
+    "name": "Marino, Gianni",
+    "firstName": "Gianni",
+    "lastName": "Marino",
+    "heightCm": 188,
+    "age": 23,
+    "value": 437684,
+    "salary": 191848
   },
   "1905226|153601": {
     "pozycja": "P",
@@ -1868,7 +1952,7 @@
     "lastName": "Fernandes",
     "heightCm": 181,
     "age": 24,
-    "value": 192483,
+    "value": 197148,
     "salary": 90599
   },
   "1905265|153607": {
@@ -1880,7 +1964,7 @@
     "lastName": "Greiner",
     "heightCm": 187,
     "age": 23,
-    "value": 150234,
+    "value": 155963,
     "salary": 69780
   },
   "1905272|153619": {
@@ -1892,7 +1976,7 @@
     "lastName": "Rada",
     "heightCm": 198,
     "age": 24,
-    "value": 189575,
+    "value": 190546,
     "salary": 87857
   },
   "1905277|153618": {
@@ -1904,7 +1988,7 @@
     "lastName": "Krcmar",
     "heightCm": 206,
     "age": 23,
-    "value": 141921,
+    "value": 146366,
     "salary": 69092
   },
   "1905281|153599": {
@@ -1928,7 +2012,7 @@
     "lastName": "Acosta",
     "heightCm": 212,
     "age": 24,
-    "value": 214529,
+    "value": 222552,
     "salary": 96006
   },
   "1905302|153602": {
@@ -1940,7 +2024,7 @@
     "lastName": "Altera",
     "heightCm": 206,
     "age": 23,
-    "value": 163050,
+    "value": 169648,
     "salary": 75246
   },
   "1905336|153598": {
@@ -1952,7 +2036,7 @@
     "lastName": "Téllez",
     "heightCm": 188,
     "age": 23,
-    "value": 296645,
+    "value": 308993,
     "salary": 137400
   },
   "1905338|153600": {
@@ -1964,8 +2048,20 @@
     "lastName": "Aerts",
     "heightCm": 192,
     "age": 24,
-    "value": 352063,
+    "value": 354291,
     "salary": 168940
+  },
+  "1905390|153615": {
+    "pozycja": "O",
+    "teamId": "153615",
+    "playerId": "1905390",
+    "name": "Šesták, Levoslav",
+    "firstName": "Levoslav",
+    "lastName": "Šesták",
+    "heightCm": 208,
+    "age": 24,
+    "value": 101257,
+    "salary": 41991
   },
   "1905437|153601": {
     "pozycja": "Ś",
@@ -1988,7 +2084,7 @@
     "lastName": "Wiels",
     "heightCm": 190,
     "age": 24,
-    "value": 128669,
+    "value": 131461,
     "salary": 61268
   },
   "1905461|153606": {
@@ -2000,8 +2096,20 @@
     "lastName": "Hrusínský",
     "heightCm": 197,
     "age": 24,
-    "value": 128641,
+    "value": 134746,
     "salary": 59093
+  },
+  "1905576|153595": {
+    "pozycja": "P",
+    "teamId": "153595",
+    "playerId": "1905576",
+    "name": "Mahieu, Thomas",
+    "firstName": "Thomas",
+    "lastName": "Mahieu",
+    "heightCm": 197,
+    "age": 24,
+    "value": 117280,
+    "salary": 51977
   },
   "1905655|153620": {
     "pozycja": "O",
@@ -2012,7 +2120,7 @@
     "lastName": "Šuler",
     "heightCm": 212,
     "age": 24,
-    "value": 93888,
+    "value": 95579,
     "salary": 39089
   },
   "1905671|153602": {
@@ -2024,7 +2132,7 @@
     "lastName": "Daniel",
     "heightCm": 202,
     "age": 23,
-    "value": 225857,
+    "value": 227708,
     "salary": 104632
   },
   "1905688|153607": {
@@ -2036,7 +2144,7 @@
     "lastName": "Rafelsberger",
     "heightCm": 182,
     "age": 23,
-    "value": 441092,
+    "value": 449867,
     "salary": 204081
   },
   "1905703|153617": {
@@ -2048,7 +2156,7 @@
     "lastName": "de Noronha",
     "heightCm": 219,
     "age": 23,
-    "value": 249736,
+    "value": 264912,
     "salary": 110969
   },
   "1905803|153617": {
@@ -2060,7 +2168,7 @@
     "lastName": "Rivera",
     "heightCm": 187,
     "age": 24,
-    "value": 83202,
+    "value": 86903,
     "salary": 36308
   },
   "1905845|153612": {
@@ -2072,7 +2180,7 @@
     "lastName": "Oese",
     "heightCm": 186,
     "age": 23,
-    "value": 124796,
+    "value": 127439,
     "salary": 317881
   },
   "1905864|153595": {
@@ -2084,7 +2192,7 @@
     "lastName": "Baudet",
     "heightCm": 186,
     "age": 24,
-    "value": 600944,
+    "value": 631176,
     "salary": 283692
   },
   "1905876|153619": {
@@ -2096,7 +2204,7 @@
     "lastName": "Stanca",
     "heightCm": 213,
     "age": 23,
-    "value": 93960,
+    "value": 94704,
     "salary": 39374
   },
   "1905880|153594": {
@@ -2108,7 +2216,7 @@
     "lastName": "Galtelli",
     "heightCm": 197,
     "age": 24,
-    "value": 110498,
+    "value": 116533,
     "salary": 50292
   },
   "1905912|153611": {
@@ -2120,7 +2228,7 @@
     "lastName": "Görke",
     "heightCm": 183,
     "age": 24,
-    "value": 116925,
+    "value": 119227,
     "salary": 53802
   },
   "1905951|153597": {
@@ -2132,7 +2240,7 @@
     "lastName": "Greenlee",
     "heightCm": 199,
     "age": 24,
-    "value": 123508,
+    "value": 127852,
     "salary": 55549
   },
   "1926918|153596": {
@@ -2144,7 +2252,7 @@
     "lastName": "Schüßler",
     "heightCm": 205,
     "age": 24,
-    "value": 135416,
+    "value": 137710,
     "salary": 529477
   },
   "1926926|153593": {
@@ -2156,7 +2264,7 @@
     "lastName": "Szymański",
     "heightCm": 199,
     "age": 24,
-    "value": 556228,
+    "value": 559610,
     "salary": 900911
   },
   "1926930|153598": {
@@ -2168,7 +2276,7 @@
     "lastName": "Coaña",
     "heightCm": 195,
     "age": 24,
-    "value": 385716,
+    "value": 411386,
     "salary": 382669
   },
   "1926952|153610": {
@@ -2192,7 +2300,7 @@
     "lastName": "Grozav",
     "heightCm": 191,
     "age": 24,
-    "value": 95068,
+    "value": 96156,
     "salary": 368260
   },
   "1927003|153615": {
@@ -2204,7 +2312,7 @@
     "lastName": "Darvas",
     "heightCm": 208,
     "age": 24,
-    "value": 244016,
+    "value": 248156,
     "salary": 110628
   },
   "1927030|153601": {
@@ -2216,7 +2324,7 @@
     "lastName": "Nepomuceno",
     "heightCm": 183,
     "age": 24,
-    "value": 137473,
+    "value": 140614,
     "salary": 533559
   },
   "1927031|153601": {
@@ -2228,7 +2336,7 @@
     "lastName": "Teixeira",
     "heightCm": 201,
     "age": 24,
-    "value": 130501,
+    "value": 131745,
     "salary": 61640
   },
   "1927063|153595": {
@@ -2240,7 +2348,7 @@
     "lastName": "Baud",
     "heightCm": 210,
     "age": 23,
-    "value": 602641,
+    "value": 622666,
     "salary": 275999
   },
   "1927210|153613": {
@@ -2252,7 +2360,7 @@
     "lastName": "de Almeida",
     "heightCm": 188,
     "age": 24,
-    "value": 447423,
+    "value": 458335,
     "salary": 205628
   },
   "1927264|153617": {
@@ -2264,7 +2372,7 @@
     "lastName": "Alcouffe",
     "heightCm": 206,
     "age": 23,
-    "value": 519950,
+    "value": 532053,
     "salary": 242880
   },
   "1927365|153620": {
@@ -2276,7 +2384,7 @@
     "lastName": "Blažić",
     "heightCm": 195,
     "age": 24,
-    "value": 142303,
+    "value": 144321,
     "salary": 65610
   },
   "1927366|153618": {
@@ -2288,7 +2396,7 @@
     "lastName": "Djurdjić",
     "heightCm": 176,
     "age": 24,
-    "value": 459826,
+    "value": 460501,
     "salary": 208735
   },
   "1927433|153612": {
@@ -2301,7 +2409,7 @@
     "heightCm": 206,
     "age": 24,
     "value": 147280,
-    "salary": 69137
+    "salary": 117717
   },
   "1927461|153617": {
     "pozycja": "Ś",
@@ -2312,7 +2420,7 @@
     "lastName": "Wiesbauer",
     "heightCm": 214,
     "age": 23,
-    "value": 318677,
+    "value": 328348,
     "salary": 142495
   },
   "1927483|153596": {
@@ -2324,7 +2432,7 @@
     "lastName": "Anders-Akinyemi",
     "heightCm": 182,
     "age": 23,
-    "value": 135299,
+    "value": 141753,
     "salary": 62276
   },
   "1927565|153606": {
@@ -2336,7 +2444,7 @@
     "lastName": "Travnicek",
     "heightCm": 181,
     "age": 24,
-    "value": 124526,
+    "value": 126862,
     "salary": 57794
   },
   "1927642|153604": {
@@ -2348,7 +2456,7 @@
     "lastName": "Vulić",
     "heightCm": 201,
     "age": 23,
-    "value": 137665,
+    "value": 139095,
     "salary": 352304
   },
   "1927728|153616": {
@@ -2360,7 +2468,7 @@
     "lastName": "Chunxian",
     "heightCm": 184,
     "age": 24,
-    "value": 100049,
+    "value": 100300,
     "salary": 43894
   },
   "1927729|153616": {
@@ -2372,7 +2480,7 @@
     "lastName": "Guangpeng",
     "heightCm": 204,
     "age": 24,
-    "value": 122948,
+    "value": 126588,
     "salary": 59801
   },
   "1927749|153596": {
@@ -2384,7 +2492,7 @@
     "lastName": "Maehle",
     "heightCm": 177,
     "age": 23,
-    "value": 696963,
+    "value": 729695,
     "salary": 319100
   },
   "1927751|153604": {
@@ -2396,7 +2504,7 @@
     "lastName": "Vukašinović",
     "heightCm": 203,
     "age": 24,
-    "value": 103096,
+    "value": 103299,
     "salary": 43962
   },
   "1927752|153598": {
@@ -2408,7 +2516,7 @@
     "lastName": "Aguado",
     "heightCm": 220,
     "age": 23,
-    "value": 124580,
+    "value": 127990,
     "salary": 59176
   },
   "1927855|153613": {
@@ -2420,7 +2528,7 @@
     "lastName": "Gusmão",
     "heightCm": 220,
     "age": 23,
-    "value": 245103,
+    "value": 247370,
     "salary": 114410
   },
   "1927865|153617": {
@@ -2432,7 +2540,7 @@
     "lastName": "Quiriti",
     "heightCm": 185,
     "age": 23,
-    "value": 166593,
+    "value": 168996,
     "salary": 78383
   },
   "1927870|153613": {
@@ -2456,7 +2564,7 @@
     "lastName": "Grabowski",
     "heightCm": 191,
     "age": 23,
-    "value": 200255,
+    "value": 203496,
     "salary": 90165
   },
   "1927875|153595": {
@@ -2468,7 +2576,7 @@
     "lastName": "Bardon",
     "heightCm": 192,
     "age": 23,
-    "value": 138215,
+    "value": 139860,
     "salary": 64473
   },
   "1927881|153610": {
@@ -2480,7 +2588,7 @@
     "lastName": "Zaidi",
     "heightCm": 189,
     "age": 23,
-    "value": 119266,
+    "value": 121139,
     "salary": 194558
   },
   "1927955|153601": {
@@ -2492,7 +2600,7 @@
     "lastName": "Campello",
     "heightCm": 206,
     "age": 23,
-    "value": 95349,
+    "value": 98649,
     "salary": 36671
   },
   "1928029|153593": {
@@ -2504,7 +2612,7 @@
     "lastName": "Okoński",
     "heightCm": 189,
     "age": 23,
-    "value": 156952,
+    "value": 164750,
     "salary": 72145
   },
   "1928033|153599": {
@@ -2516,7 +2624,7 @@
     "lastName": "Stoev",
     "heightCm": 209,
     "age": 23,
-    "value": 174388,
+    "value": 179161,
     "salary": 80424
   },
   "1928034|153596": {
@@ -2528,7 +2636,7 @@
     "lastName": "Achat",
     "heightCm": 212,
     "age": 23,
-    "value": 132743,
+    "value": 136897,
     "salary": 62844
   },
   "1928039|153593": {
@@ -2540,7 +2648,7 @@
     "lastName": "Biegański",
     "heightCm": 216,
     "age": 23,
-    "value": 417646,
+    "value": 425426,
     "salary": 191084
   },
   "1928058|153620": {
@@ -2552,7 +2660,7 @@
     "lastName": "Šmrtnik",
     "heightCm": 212,
     "age": 23,
-    "value": 139635,
+    "value": 142624,
     "salary": 69465
   },
   "1928065|153618": {
@@ -2564,7 +2672,7 @@
     "lastName": "Bekić",
     "heightCm": 211,
     "age": 23,
-    "value": 203821,
+    "value": 211566,
     "salary": 95506
   },
   "1928074|153594": {
@@ -2576,7 +2684,7 @@
     "lastName": "Rosini",
     "heightCm": 212,
     "age": 23,
-    "value": 177790,
+    "value": 181992,
     "salary": 81629
   },
   "1928107|153613": {
@@ -2588,7 +2696,7 @@
     "lastName": "Ferrobeira",
     "heightCm": 199,
     "age": 23,
-    "value": 440168,
+    "value": 442666,
     "salary": 208123
   },
   "1928130|153611": {
@@ -2600,7 +2708,7 @@
     "lastName": "Önay",
     "heightCm": 212,
     "age": 23,
-    "value": 223522,
+    "value": 236963,
     "salary": 288327
   },
   "1928131|153608": {
@@ -2612,7 +2720,7 @@
     "lastName": "Kokkonen",
     "heightCm": 193,
     "age": 23,
-    "value": 107933,
+    "value": 108687,
     "salary": 44527
   },
   "1928154|153612": {
@@ -2636,7 +2744,7 @@
     "lastName": "Yates",
     "heightCm": 194,
     "age": 23,
-    "value": 139860,
+    "value": 143887,
     "salary": 364562
   },
   "1928192|153614": {
@@ -2660,7 +2768,7 @@
     "lastName": "Latovlevici",
     "heightCm": 205,
     "age": 23,
-    "value": 365216,
+    "value": 370783,
     "salary": 172332
   },
   "1928197|153603": {
@@ -2672,7 +2780,7 @@
     "lastName": "Shirota",
     "heightCm": 198,
     "age": 23,
-    "value": 131475,
+    "value": 132500,
     "salary": 165680
   },
   "1928234|153608": {
@@ -2684,7 +2792,7 @@
     "lastName": "Halinen",
     "heightCm": 185,
     "age": 23,
-    "value": 109863,
+    "value": 115376,
     "salary": 292455
   },
   "1928235|153594": {
@@ -2708,7 +2816,7 @@
     "lastName": "Ferrandis",
     "heightCm": 198,
     "age": 23,
-    "value": 112203,
+    "value": 114317,
     "salary": 51734
   },
   "1928252|153615": {
@@ -2720,7 +2828,7 @@
     "lastName": "Penksa",
     "heightCm": 209,
     "age": 23,
-    "value": 145129,
+    "value": 149751,
     "salary": 64078
   },
   "1928274|153594": {
@@ -2732,7 +2840,7 @@
     "lastName": "Tavolaro",
     "heightCm": 189,
     "age": 23,
-    "value": 139379,
+    "value": 148439,
     "salary": 63630
   },
   "1928276|153593": {
@@ -2744,8 +2852,20 @@
     "lastName": "Żołądek",
     "heightCm": 183,
     "age": 23,
-    "value": 115601,
+    "value": 117534,
     "salary": 53324
+  },
+  "1928282|153609": {
+    "pozycja": "Ś",
+    "teamId": "153609",
+    "playerId": "1928282",
+    "name": "Vlak, Lovro",
+    "firstName": "Lovro",
+    "lastName": "Vlak",
+    "heightCm": 216,
+    "age": 23,
+    "value": 148742,
+    "salary": 114493
   },
   "1928285|153617": {
     "pozycja": "Ś",
@@ -2756,7 +2876,7 @@
     "lastName": "Terragni",
     "heightCm": 216,
     "age": 23,
-    "value": 237793,
+    "value": 244067,
     "salary": 108605
   },
   "1928286|153617": {
@@ -2768,7 +2888,7 @@
     "lastName": "Adar",
     "heightCm": 220,
     "age": 23,
-    "value": 247631,
+    "value": 254482,
     "salary": 110218
   },
   "1928337|153610": {
@@ -2780,7 +2900,7 @@
     "lastName": "de Sax",
     "heightCm": 208,
     "age": 23,
-    "value": 203086,
+    "value": 218458,
     "salary": 92463
   },
   "1928342|153600": {
@@ -2792,7 +2912,7 @@
     "lastName": "Seunke",
     "heightCm": 215,
     "age": 22,
-    "value": 216359,
+    "value": 221023,
     "salary": 98438
   },
   "1928347|153599": {
@@ -2816,7 +2936,7 @@
     "lastName": "Argenté",
     "heightCm": 206,
     "age": 23,
-    "value": 353993,
+    "value": 356532,
     "salary": 421053
   },
   "1928422|153604": {
@@ -2828,7 +2948,7 @@
     "lastName": "Gvozdenović",
     "heightCm": 201,
     "age": 23,
-    "value": 433393,
+    "value": 444899,
     "salary": 208495
   },
   "1928457|153602": {
@@ -2840,7 +2960,7 @@
     "lastName": "Landriscina",
     "heightCm": 187,
     "age": 23,
-    "value": 98670,
+    "value": 102984,
     "salary": 42365
   },
   "1928473|153593": {
@@ -2852,8 +2972,20 @@
     "lastName": "Majcher",
     "heightCm": 212,
     "age": 23,
-    "value": 132529,
+    "value": 135387,
     "salary": 60256
+  },
+  "1928476|153609": {
+    "pozycja": "L",
+    "teamId": "153609",
+    "playerId": "1928476",
+    "name": "Hrzica, Relja",
+    "firstName": "Relja",
+    "lastName": "Hrzica",
+    "heightCm": 175,
+    "age": 23,
+    "value": 631637,
+    "salary": 299751
   },
   "1928496|153608": {
     "pozycja": "Ś",
@@ -2864,7 +2996,7 @@
     "lastName": "Hämäläinen",
     "heightCm": 209,
     "age": 22,
-    "value": 269115,
+    "value": 277571,
     "salary": 114410
   },
   "1928510|153607": {
@@ -2900,8 +3032,20 @@
     "lastName": "Smiljanić",
     "heightCm": 200,
     "age": 23,
-    "value": 424935,
+    "value": 431173,
     "salary": 439922
+  },
+  "1928550|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "1928550",
+    "name": "Anocic, Vlado",
+    "firstName": "Vlado",
+    "lastName": "Anocic",
+    "heightCm": 198,
+    "age": 23,
+    "value": 187147,
+    "salary": 84399
   },
   "1928557|153616": {
     "pozycja": "Ś",
@@ -2912,8 +3056,20 @@
     "lastName": "Yuze",
     "heightCm": 194,
     "age": 22,
-    "value": 217856,
+    "value": 224139,
     "salary": 95649
+  },
+  "1928583|153609": {
+    "pozycja": "L",
+    "teamId": "153609",
+    "playerId": "1928583",
+    "name": "Kapor, Kristjan",
+    "firstName": "Kristjan",
+    "lastName": "Kapor",
+    "heightCm": 175,
+    "age": 23,
+    "value": 665480,
+    "salary": 315818
   },
   "1928588|153605": {
     "pozycja": "P",
@@ -2924,7 +3080,7 @@
     "lastName": "Mathioudakis",
     "heightCm": 198,
     "age": 23,
-    "value": 69671,
+    "value": 70713,
     "salary": 25279
   },
   "1928597|153617": {
@@ -2948,7 +3104,7 @@
     "lastName": "Silajdžić",
     "heightCm": 217,
     "age": 23,
-    "value": 192812,
+    "value": 205890,
     "salary": 90300
   },
   "1928667|153599": {
@@ -2960,7 +3116,7 @@
     "lastName": "Mladenov",
     "heightCm": 194,
     "age": 23,
-    "value": 144119,
+    "value": 146413,
     "salary": 64133
   },
   "1928726|153612": {
@@ -2972,7 +3128,7 @@
     "lastName": "Kibuspuu",
     "heightCm": 206,
     "age": 23,
-    "value": 402042,
+    "value": 407221,
     "salary": 193263
   },
   "1928798|153597": {
@@ -2984,7 +3140,7 @@
     "lastName": "Davis",
     "heightCm": 220,
     "age": 22,
-    "value": 349225,
+    "value": 358335,
     "salary": 158886
   },
   "1928799|153599": {
@@ -2996,7 +3152,7 @@
     "lastName": "Kirov",
     "heightCm": 186,
     "age": 23,
-    "value": 188266,
+    "value": 191400,
     "salary": 84227
   },
   "1928800|153607": {
@@ -3008,7 +3164,7 @@
     "lastName": "Wössner",
     "heightCm": 196,
     "age": 23,
-    "value": 197148,
+    "value": 199278,
     "salary": 89733
   },
   "1928809|153598": {
@@ -3020,7 +3176,7 @@
     "lastName": "Soler",
     "heightCm": 205,
     "age": 23,
-    "value": 100421,
+    "value": 102301,
     "salary": 41224
   },
   "1928845|153599": {
@@ -3032,7 +3188,7 @@
     "lastName": "Avramov",
     "heightCm": 200,
     "age": 23,
-    "value": 182070,
+    "value": 190546,
     "salary": 85142
   },
   "1928848|153601": {
@@ -3044,7 +3200,7 @@
     "lastName": "dos Reis",
     "heightCm": 220,
     "age": 23,
-    "value": 256237,
+    "value": 263099,
     "salary": 113793
   },
   "1928853|153605": {
@@ -3056,7 +3212,7 @@
     "lastName": "Tsatsarelis",
     "heightCm": 197,
     "age": 22,
-    "value": 102212,
+    "value": 102535,
     "salary": 43185
   },
   "1928886|153602": {
@@ -3068,8 +3224,20 @@
     "lastName": "Alfano",
     "heightCm": 199,
     "age": 23,
-    "value": 267302,
+    "value": 268831,
     "salary": 122033
+  },
+  "1928899|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "1928899",
+    "name": "Slavica, Oliver",
+    "firstName": "Oliver",
+    "lastName": "Slavica",
+    "heightCm": 199,
+    "age": 23,
+    "value": 113797,
+    "salary": 44256
   },
   "1928909|153602": {
     "pozycja": "P",
@@ -3080,7 +3248,7 @@
     "lastName": "Gamboa",
     "heightCm": 187,
     "age": 23,
-    "value": 110654,
+    "value": 116520,
     "salary": 51875
   },
   "1928916|153596": {
@@ -3092,7 +3260,7 @@
     "lastName": "Schimmer",
     "heightCm": 185,
     "age": 23,
-    "value": 149046,
+    "value": 155796,
     "salary": 69967
   },
   "1928917|153613": {
@@ -3116,7 +3284,7 @@
     "lastName": "Inagaki",
     "heightCm": 182,
     "age": 22,
-    "value": 117471,
+    "value": 120095,
     "salary": 52495
   },
   "1928979|153596": {
@@ -3140,7 +3308,7 @@
     "lastName": "Balkanski",
     "heightCm": 196,
     "age": 23,
-    "value": 234218,
+    "value": 238701,
     "salary": 106504
   },
   "1928994|153594": {
@@ -3152,7 +3320,7 @@
     "lastName": "Spompato",
     "heightCm": 203,
     "age": 23,
-    "value": 140857,
+    "value": 144367,
     "salary": 64773
   },
   "1929008|153594": {
@@ -3164,7 +3332,7 @@
     "lastName": "Savio",
     "heightCm": 213,
     "age": 22,
-    "value": 185005,
+    "value": 195894,
     "salary": 83779
   },
   "1929014|153601": {
@@ -3188,7 +3356,7 @@
     "lastName": "Hurtt",
     "heightCm": 189,
     "age": 23,
-    "value": 99232,
+    "value": 99699,
     "salary": 43279
   },
   "1929041|153600": {
@@ -3200,7 +3368,7 @@
     "lastName": "Rabbering",
     "heightCm": 185,
     "age": 22,
-    "value": 426855,
+    "value": 452752,
     "salary": 205822
   },
   "1929068|153614": {
@@ -3212,7 +3380,7 @@
     "lastName": "Yates",
     "heightCm": 197,
     "age": 23,
-    "value": 118532,
+    "value": 120681,
     "salary": 54782
   },
   "1929075|153619": {
@@ -3224,7 +3392,7 @@
     "lastName": "Iorga",
     "heightCm": 213,
     "age": 23,
-    "value": 153311,
+    "value": 159767,
     "salary": 241733
   },
   "1929080|153614": {
@@ -3236,7 +3404,7 @@
     "lastName": "Kaufman",
     "heightCm": 184,
     "age": 22,
-    "value": 80481,
+    "value": 81709,
     "salary": 34697
   },
   "1929106|153616": {
@@ -3248,7 +3416,7 @@
     "lastName": "Hongkai",
     "heightCm": 182,
     "age": 23,
-    "value": 87730,
+    "value": 89434,
     "salary": 36797
   },
   "1929119|153593": {
@@ -3260,7 +3428,7 @@
     "lastName": "Łukaszewski",
     "heightCm": 218,
     "age": 22,
-    "value": 355036,
+    "value": 364411,
     "salary": 157354
   },
   "1929120|153598": {
@@ -3272,7 +3440,7 @@
     "lastName": "Marola",
     "heightCm": 184,
     "age": 23,
-    "value": 129533,
+    "value": 129939,
     "salary": 58907
   },
   "1929135|153614": {
@@ -3284,7 +3452,7 @@
     "lastName": "Ashton",
     "heightCm": 214,
     "age": 22,
-    "value": 214780,
+    "value": 222883,
     "salary": 95263
   },
   "1929161|153604": {
@@ -3296,7 +3464,7 @@
     "lastName": "Tadić",
     "heightCm": 209,
     "age": 23,
-    "value": 143486,
+    "value": 149270,
     "salary": 69114
   },
   "1929182|153594": {
@@ -3308,7 +3476,7 @@
     "lastName": "Toniolo",
     "heightCm": 194,
     "age": 22,
-    "value": 109291,
+    "value": 111063,
     "salary": 51875
   },
   "1929226|153607": {
@@ -3320,7 +3488,7 @@
     "lastName": "Haslinger",
     "heightCm": 201,
     "age": 23,
-    "value": 76457,
+    "value": 79569,
     "salary": 87019
   },
   "1929235|153599": {
@@ -3344,7 +3512,7 @@
     "lastName": "Furkan",
     "heightCm": 213,
     "age": 23,
-    "value": 176486,
+    "value": 176618,
     "salary": 271403
   },
   "1929261|153616": {
@@ -3356,7 +3524,7 @@
     "lastName": "Hongjian",
     "heightCm": 202,
     "age": 23,
-    "value": 108356,
+    "value": 110006,
     "salary": 220874
   },
   "1929307|153605": {
@@ -3368,7 +3536,7 @@
     "lastName": "Antinos",
     "heightCm": 207,
     "age": 23,
-    "value": 83358,
+    "value": 86189,
     "salary": 34731
   },
   "1929443|153618": {
@@ -3380,7 +3548,7 @@
     "lastName": "Hajrović",
     "heightCm": 199,
     "age": 23,
-    "value": 76602,
+    "value": 78441,
     "salary": 79620
   },
   "1929446|153612": {
@@ -3392,7 +3560,7 @@
     "lastName": "Kapten",
     "heightCm": 194,
     "age": 23,
-    "value": 91801,
+    "value": 93878,
     "salary": 38819
   },
   "1929493|153597": {
@@ -3404,7 +3572,7 @@
     "lastName": "Jones",
     "heightCm": 187,
     "age": 23,
-    "value": 136779,
+    "value": 140554,
     "salary": 188678
   },
   "1929499|153610": {
@@ -3416,7 +3584,7 @@
     "lastName": "Quataert",
     "heightCm": 179,
     "age": 22,
-    "value": 615362,
+    "value": 631637,
     "salary": 299751
   },
   "1929520|153596": {
@@ -3428,7 +3596,7 @@
     "lastName": "Anders-Akinyemi",
     "heightCm": 182,
     "age": 23,
-    "value": 78232,
+    "value": 78641,
     "salary": 157773
   },
   "1929522|153600": {
@@ -3440,7 +3608,7 @@
     "lastName": "Poeder",
     "heightCm": 175,
     "age": 23,
-    "value": 621757,
+    "value": 638200,
     "salary": 297629
   },
   "1929523|153602": {
@@ -3452,7 +3620,7 @@
     "lastName": "Gálvez",
     "heightCm": 196,
     "age": 23,
-    "value": 293781,
+    "value": 303828,
     "salary": 139564
   },
   "1929528|153618": {
@@ -3464,7 +3632,7 @@
     "lastName": "Kršmanović",
     "heightCm": 219,
     "age": 23,
-    "value": 270368,
+    "value": 274598,
     "salary": 131660
   },
   "1929558|153611": {
@@ -3476,7 +3644,7 @@
     "lastName": "Örsan",
     "heightCm": 206,
     "age": 23,
-    "value": 178037,
+    "value": 179066,
     "salary": 82278
   },
   "1929560|153607": {
@@ -3488,7 +3656,7 @@
     "lastName": "Bettelheim",
     "heightCm": 198,
     "age": 23,
-    "value": 141251,
+    "value": 142119,
     "salary": 219533
   },
   "1929570|153615": {
@@ -3500,7 +3668,7 @@
     "lastName": "Dubašák",
     "heightCm": 194,
     "age": 23,
-    "value": 74256,
+    "value": 78981,
     "salary": 27956
   },
   "1929598|153598": {
@@ -3512,7 +3680,7 @@
     "lastName": "Jauregui",
     "heightCm": 218,
     "age": 23,
-    "value": 122338,
+    "value": 133360,
     "salary": 52266
   },
   "1929602|153612": {
@@ -3524,7 +3692,7 @@
     "lastName": "Chernichenko",
     "heightCm": 195,
     "age": 23,
-    "value": 95318,
+    "value": 97235,
     "salary": 40311
   },
   "1948929|153620": {
@@ -3536,7 +3704,7 @@
     "lastName": "Gobec",
     "heightCm": 184,
     "age": 23,
-    "value": 131518,
+    "value": 139065,
     "salary": 152819
   },
   "1948934|153602": {
@@ -3548,7 +3716,7 @@
     "lastName": "Di Gregorio",
     "heightCm": 185,
     "age": 23,
-    "value": 464765,
+    "value": 477092,
     "salary": 222846
   },
   "1948952|153611": {
@@ -3560,7 +3728,7 @@
     "lastName": "Aykut",
     "heightCm": 191,
     "age": 23,
-    "value": 198559,
+    "value": 201152,
     "salary": 91844
   },
   "1948961|153618": {
@@ -3572,7 +3740,7 @@
     "lastName": "Stokić",
     "heightCm": 211,
     "age": 23,
-    "value": 124607,
+    "value": 128378,
     "salary": 426289
   },
   "1949008|153602": {
@@ -3584,7 +3752,7 @@
     "lastName": "Carnaghi",
     "heightCm": 209,
     "age": 23,
-    "value": 132143,
+    "value": 134717,
     "salary": 62014
   },
   "1949018|153593": {
@@ -3608,7 +3776,7 @@
     "lastName": "Karubo",
     "heightCm": 187,
     "age": 23,
-    "value": 106486,
+    "value": 111511,
     "salary": 205349
   },
   "1949032|153598": {
@@ -3620,7 +3788,7 @@
     "lastName": "Longueira",
     "heightCm": 188,
     "age": 23,
-    "value": 125553,
+    "value": 128018,
     "salary": 58083
   },
   "1949043|153612": {
@@ -3632,7 +3800,7 @@
     "lastName": "Belkin",
     "heightCm": 212,
     "age": 23,
-    "value": 172683,
+    "value": 173664,
     "salary": 109979
   },
   "1949098|153594": {
@@ -3644,7 +3812,7 @@
     "lastName": "Cristiano",
     "heightCm": 195,
     "age": 23,
-    "value": 151350,
+    "value": 154019,
     "salary": 68308
   },
   "1949107|153614": {
@@ -3656,7 +3824,7 @@
     "lastName": "Jordan",
     "heightCm": 193,
     "age": 23,
-    "value": 138691,
+    "value": 142257,
     "salary": 355414
   },
   "1949133|153604": {
@@ -3668,7 +3836,7 @@
     "lastName": "Tošković",
     "heightCm": 184,
     "age": 23,
-    "value": 119485,
+    "value": 124607,
     "salary": 55117
   },
   "1949134|153600": {
@@ -3680,7 +3848,7 @@
     "lastName": "Atik",
     "heightCm": 210,
     "age": 23,
-    "value": 102089,
+    "value": 105035,
     "salary": 42088
   },
   "1949173|153620": {
@@ -3692,7 +3860,7 @@
     "lastName": "Zorc",
     "heightCm": 197,
     "age": 23,
-    "value": 422713,
+    "value": 431625,
     "salary": 516841
   },
   "1949516|153610": {
@@ -3704,7 +3872,7 @@
     "lastName": "Van Den Eynde",
     "heightCm": 218,
     "age": 23,
-    "value": 151172,
+    "value": 153805,
     "salary": 67213
   },
   "1949528|153616": {
@@ -3716,7 +3884,7 @@
     "lastName": "Changkai",
     "heightCm": 195,
     "age": 23,
-    "value": 385514,
+    "value": 406624,
     "salary": 180395
   },
   "1949740|153614": {
@@ -3728,7 +3896,7 @@
     "lastName": "Cammell",
     "heightCm": 200,
     "age": 23,
-    "value": 78876,
+    "value": 79367,
     "salary": 29951
   },
   "1949774|153606": {
@@ -3740,7 +3908,7 @@
     "lastName": "Sejkora",
     "heightCm": 219,
     "age": 22,
-    "value": 236312,
+    "value": 243422,
     "salary": 105940
   },
   "1949776|153604": {
@@ -3764,7 +3932,7 @@
     "lastName": "Beaudoin",
     "heightCm": 186,
     "age": 22,
-    "value": 122908,
+    "value": 124486,
     "salary": 57469
   },
   "1949867|153613": {
@@ -3776,7 +3944,7 @@
     "lastName": "Catão",
     "heightCm": 196,
     "age": 23,
-    "value": 107839,
+    "value": 111269,
     "salary": 51072
   },
   "1949870|153618": {
@@ -3788,7 +3956,7 @@
     "lastName": "Budimir",
     "heightCm": 193,
     "age": 23,
-    "value": 85744,
+    "value": 87826,
     "salary": 36449
   },
   "1949874|153619": {
@@ -3800,7 +3968,7 @@
     "lastName": "Lirca",
     "heightCm": 209,
     "age": 22,
-    "value": 90531,
+    "value": 91801,
     "salary": 37341
   },
   "1949892|153613": {
@@ -3812,7 +3980,7 @@
     "lastName": "Brilhante",
     "heightCm": 202,
     "age": 22,
-    "value": 258496,
+    "value": 269769,
     "salary": 115043
   },
   "1950000|153601": {
@@ -3824,7 +3992,7 @@
     "lastName": "Pita",
     "heightCm": 196,
     "age": 22,
-    "value": 436768,
+    "value": 444014,
     "salary": 203739
   },
   "1950001|153601": {
@@ -3836,7 +4004,7 @@
     "lastName": "Martins",
     "heightCm": 188,
     "age": 22,
-    "value": 459441,
+    "value": 467009,
     "salary": 215564
   },
   "1950003|153608": {
@@ -3848,7 +4016,7 @@
     "lastName": "Kaipainen",
     "heightCm": 209,
     "age": 22,
-    "value": 253167,
+    "value": 271398,
     "salary": 112641
   },
   "1950222|153618": {
@@ -3860,7 +4028,7 @@
     "lastName": "Šoljić",
     "heightCm": 206,
     "age": 22,
-    "value": 110654,
+    "value": 113182,
     "salary": 151113
   },
   "1950228|153593": {
@@ -3884,7 +4052,7 @@
     "lastName": "Codromaž",
     "heightCm": 182,
     "age": 22,
-    "value": 238448,
+    "value": 241651,
     "salary": 112331
   },
   "1950318|153606": {
@@ -3896,7 +4064,7 @@
     "lastName": "Síkora",
     "heightCm": 186,
     "age": 22,
-    "value": 561955,
+    "value": 632429,
     "salary": 245487
   },
   "1950343|153612": {
@@ -3920,7 +4088,7 @@
     "lastName": "Admiraal",
     "heightCm": 201,
     "age": 22,
-    "value": 97886,
+    "value": 103705,
     "salary": 42370
   },
   "1950405|153600": {
@@ -3932,7 +4100,7 @@
     "lastName": "Goncalves",
     "heightCm": 202,
     "age": 22,
-    "value": 132800,
+    "value": 137992,
     "salary": 61494
   },
   "1950428|153595": {
@@ -3944,7 +4112,7 @@
     "lastName": "Genty",
     "heightCm": 185,
     "age": 22,
-    "value": 908861,
+    "value": 915891,
     "salary": 377502
   },
   "1950434|153611": {
@@ -3956,7 +4124,7 @@
     "lastName": "Çağlayan",
     "heightCm": 194,
     "age": 22,
-    "value": 128683,
+    "value": 131773,
     "salary": 58532
   },
   "1950455|153614": {
@@ -3968,7 +4136,7 @@
     "lastName": "Pearce",
     "heightCm": 207,
     "age": 22,
-    "value": 179582,
+    "value": 189676,
     "salary": 393348
   },
   "1950469|153614": {
@@ -3980,7 +4148,7 @@
     "lastName": "Hannen",
     "heightCm": 199,
     "age": 22,
-    "value": 124796,
+    "value": 130825,
     "salary": 58102
   },
   "1950524|153607": {
@@ -3992,7 +4160,7 @@
     "lastName": "Lindinger",
     "heightCm": 212,
     "age": 22,
-    "value": 166433,
+    "value": 167325,
     "salary": 72924
   },
   "1950550|153619": {
@@ -4016,7 +4184,7 @@
     "lastName": "Zorc",
     "heightCm": 196,
     "age": 21,
-    "value": 137487,
+    "value": 140978,
     "salary": 61527
   },
   "1950600|153617": {
@@ -4028,7 +4196,7 @@
     "lastName": "Garcia",
     "heightCm": 199,
     "age": 22,
-    "value": 380208,
+    "value": 394354,
     "salary": 394254
   },
   "1950623|153597": {
@@ -4040,7 +4208,7 @@
     "lastName": "Soto",
     "heightCm": 205,
     "age": 22,
-    "value": 82789,
+    "value": 87575,
     "salary": 195846
   },
   "1950652|153616": {
@@ -4052,7 +4220,7 @@
     "lastName": "Yingkai",
     "heightCm": 204,
     "age": 22,
-    "value": 165900,
+    "value": 171470,
     "salary": 74771
   },
   "1950657|153604": {
@@ -4076,7 +4244,7 @@
     "lastName": "Paunero",
     "heightCm": 215,
     "age": 21,
-    "value": 212963,
+    "value": 222104,
     "salary": 88073
   },
   "1950699|153605": {
@@ -4088,7 +4256,7 @@
     "lastName": "Bakas",
     "heightCm": 212,
     "age": 22,
-    "value": 143624,
+    "value": 145754,
     "salary": 205624
   },
   "1950744|153600": {
@@ -4100,7 +4268,7 @@
     "lastName": "Bont",
     "heightCm": 215,
     "age": 21,
-    "value": 149655,
+    "value": 157845,
     "salary": 64515
   },
   "1950779|153612": {
@@ -4112,7 +4280,7 @@
     "lastName": "Laas",
     "heightCm": 187,
     "age": 22,
-    "value": 802728,
+    "value": 872503,
     "salary": 301509
   },
   "1950801|153613": {
@@ -4124,7 +4292,7 @@
     "lastName": "Amaral",
     "heightCm": 177,
     "age": 22,
-    "value": 611837,
+    "value": 642076,
     "salary": 290350
   },
   "1950811|153604": {
@@ -4136,7 +4304,7 @@
     "lastName": "Milovanović",
     "heightCm": 204,
     "age": 22,
-    "value": 106243,
+    "value": 110630,
     "salary": 43923
   },
   "1950847|153607": {
@@ -4148,7 +4316,7 @@
     "lastName": "Buchinger",
     "heightCm": 218,
     "age": 21,
-    "value": 177184,
+    "value": 184238,
     "salary": 77349
   },
   "1950848|153611": {
@@ -4160,7 +4328,7 @@
     "lastName": "Asel",
     "heightCm": 179,
     "age": 22,
-    "value": 536522,
+    "value": 552172,
     "salary": 238471
   },
   "1950852|153604": {
@@ -4172,7 +4340,7 @@
     "lastName": "Pavlović",
     "heightCm": 184,
     "age": 22,
-    "value": 100717,
+    "value": 107862,
     "salary": 38275
   },
   "1950865|153619": {
@@ -4184,7 +4352,7 @@
     "lastName": "Tamas",
     "heightCm": 203,
     "age": 21,
-    "value": 271198,
+    "value": 282805,
     "salary": 112236
   },
   "1950866|153594": {
@@ -4208,7 +4376,7 @@
     "lastName": "Vatra",
     "heightCm": 186,
     "age": 21,
-    "value": 73239,
+    "value": 77593,
     "salary": 22172
   },
   "1950903|153606": {
@@ -4220,7 +4388,7 @@
     "lastName": "Mráka",
     "heightCm": 204,
     "age": 22,
-    "value": 125120,
+    "value": 127963,
     "salary": 54521
   },
   "1950915|153610": {
@@ -4232,7 +4400,7 @@
     "lastName": "Hella",
     "heightCm": 214,
     "age": 21,
-    "value": 139545,
+    "value": 145566,
     "salary": 58920
   },
   "1950921|153605": {
@@ -4244,7 +4412,7 @@
     "lastName": "Arachovitis",
     "heightCm": 205,
     "age": 21,
-    "value": 160745,
+    "value": 166113,
     "salary": 72168
   },
   "1951006|153616": {
@@ -4256,7 +4424,7 @@
     "lastName": "Chufang",
     "heightCm": 186,
     "age": 22,
-    "value": 122404,
+    "value": 131873,
     "salary": 57782
   },
   "1951012|153618": {
@@ -4268,7 +4436,7 @@
     "lastName": "Todorović",
     "heightCm": 217,
     "age": 21,
-    "value": 153163,
+    "value": 160195,
     "salary": 75968
   },
   "1951023|153598": {
@@ -4304,7 +4472,7 @@
     "lastName": "Sommer",
     "heightCm": 196,
     "age": 22,
-    "value": 142349,
+    "value": 146036,
     "salary": 190938
   },
   "1951115|153612": {
@@ -4316,7 +4484,7 @@
     "lastName": "Koemets",
     "heightCm": 181,
     "age": 22,
-    "value": 99059,
+    "value": 102346,
     "salary": 41533
   },
   "1951120|153600": {
@@ -4328,7 +4496,7 @@
     "lastName": "van Enckhuyzen",
     "heightCm": 186,
     "age": 22,
-    "value": 85593,
+    "value": 88349,
     "salary": 35624
   },
   "1951185|153606": {
@@ -4352,7 +4520,7 @@
     "lastName": "Xia",
     "heightCm": 214,
     "age": 22,
-    "value": 129757,
+    "value": 135183,
     "salary": 246083
   },
   "1951221|153605": {
@@ -4364,7 +4532,7 @@
     "lastName": "Taxiarhis",
     "heightCm": 175,
     "age": 22,
-    "value": 274482,
+    "value": 296582,
     "salary": 120608
   },
   "1951252|153610": {
@@ -4376,8 +4544,20 @@
     "lastName": "Lanckacker",
     "heightCm": 177,
     "age": 22,
-    "value": 289842,
+    "value": 316904,
     "salary": 117619
+  },
+  "1951275|153609": {
+    "pozycja": "Ś",
+    "teamId": "153609",
+    "playerId": "1951275",
+    "name": "Jelusic, Zvonimir",
+    "firstName": "Zvonimir",
+    "lastName": "Jelusic",
+    "heightCm": 213,
+    "age": 22,
+    "value": 220789,
+    "salary": 100800
   },
   "1951288|153604": {
     "pozycja": "Ś",
@@ -4388,7 +4568,7 @@
     "lastName": "Bosić",
     "heightCm": 206,
     "age": 21,
-    "value": 168834,
+    "value": 172665,
     "salary": 244331
   },
   "1951352|153619": {
@@ -4400,7 +4580,7 @@
     "lastName": "Purece",
     "heightCm": 181,
     "age": 22,
-    "value": 80374,
+    "value": 82716,
     "salary": 28878
   },
   "1951360|153595": {
@@ -4412,7 +4592,7 @@
     "lastName": "Castex",
     "heightCm": 180,
     "age": 22,
-    "value": 788631,
+    "value": 829860,
     "salary": 349318
   },
   "1951375|153602": {
@@ -4424,7 +4604,7 @@
     "lastName": "Montenegro",
     "heightCm": 182,
     "age": 22,
-    "value": 151075,
+    "value": 154980,
     "salary": 304564
   },
   "1951417|153613": {
@@ -4436,7 +4616,7 @@
     "lastName": "Barbosa",
     "heightCm": 218,
     "age": 22,
-    "value": 154466,
+    "value": 160230,
     "salary": 67700
   },
   "1951442|153615": {
@@ -4448,7 +4628,7 @@
     "lastName": "Štohl",
     "heightCm": 212,
     "age": 22,
-    "value": 184572,
+    "value": 192238,
     "salary": 78931
   },
   "1951456|153608": {
@@ -4460,7 +4640,7 @@
     "lastName": "Geitel",
     "heightCm": 189,
     "age": 22,
-    "value": 318543,
+    "value": 339413,
     "salary": 133608
   },
   "1974416|153595": {
@@ -4472,7 +4652,7 @@
     "lastName": "Pardon",
     "heightCm": 190,
     "age": 22,
-    "value": 164874,
+    "value": 176109,
     "salary": 76213
   },
   "1974463|153598": {
@@ -4484,7 +4664,7 @@
     "lastName": "Hilla",
     "heightCm": 214,
     "age": 22,
-    "value": 149623,
+    "value": 161625,
     "salary": 177135
   },
   "1974473|153617": {
@@ -4496,7 +4676,7 @@
     "lastName": "Forystek",
     "heightCm": 197,
     "age": 22,
-    "value": 117522,
+    "value": 119809,
     "salary": 52925
   },
   "1974478|153619": {
@@ -4508,7 +4688,7 @@
     "lastName": "Beta",
     "heightCm": 201,
     "age": 22,
-    "value": 130754,
+    "value": 135489,
     "salary": 287142
   },
   "1974517|153607": {
@@ -4520,7 +4700,7 @@
     "lastName": "Strobl",
     "heightCm": 193,
     "age": 22,
-    "value": 94332,
+    "value": 95130,
     "salary": 38567
   },
   "1974532|153610": {
@@ -4532,7 +4712,7 @@
     "lastName": "Snoek",
     "heightCm": 195,
     "age": 22,
-    "value": 105609,
+    "value": 107021,
     "salary": 43579
   },
   "1974576|153608": {
@@ -4544,7 +4724,7 @@
     "lastName": "Laustela",
     "heightCm": 220,
     "age": 21,
-    "value": 181818,
+    "value": 192442,
     "salary": 80890
   },
   "1974585|153600": {
@@ -4556,7 +4736,7 @@
     "lastName": "Hoogzaad",
     "heightCm": 213,
     "age": 21,
-    "value": 133893,
+    "value": 141266,
     "salary": 360254
   },
   "1974588|153614": {
@@ -4568,7 +4748,7 @@
     "lastName": "Riley",
     "heightCm": 199,
     "age": 22,
-    "value": 319618,
+    "value": 333888,
     "salary": 148416
   },
   "1974604|153607": {
@@ -4580,8 +4760,8 @@
     "lastName": "Meissnitzer",
     "heightCm": 184,
     "age": 22,
-    "value": 99156,
-    "salary": 41089
+    "value": 100596,
+    "salary": 97289
   },
   "1974639|153620": {
     "pozycja": "Ś",
@@ -4592,7 +4772,7 @@
     "lastName": "Murko",
     "heightCm": 220,
     "age": 22,
-    "value": 153541,
+    "value": 158812,
     "salary": 76770
   },
   "1974851|153613": {
@@ -4604,7 +4784,7 @@
     "lastName": "Kapinha",
     "heightCm": 220,
     "age": 22,
-    "value": 165900,
+    "value": 173034,
     "salary": 69048
   },
   "1975164|153597": {
@@ -4628,7 +4808,7 @@
     "lastName": "Dalay",
     "heightCm": 175,
     "age": 21,
-    "value": 379689,
+    "value": 393445,
     "salary": 273250
   },
   "1975323|153610": {
@@ -4652,7 +4832,7 @@
     "lastName": "Mochizuki",
     "heightCm": 218,
     "age": 21,
-    "value": 161245,
+    "value": 170138,
     "salary": 69735
   },
   "1975442|153611": {
@@ -4664,7 +4844,7 @@
     "lastName": "Pelıt",
     "heightCm": 187,
     "age": 21,
-    "value": 97865,
+    "value": 102323,
     "salary": 364841
   },
   "1975521|153619": {
@@ -4688,7 +4868,7 @@
     "lastName": "Arnould",
     "heightCm": 206,
     "age": 21,
-    "value": 116154,
+    "value": 119706,
     "salary": 55501
   },
   "1975616|153598": {
@@ -4700,7 +4880,7 @@
     "lastName": "Cardell",
     "heightCm": 194,
     "age": 21,
-    "value": 116937,
+    "value": 121915,
     "salary": 44776
   },
   "1975617|153619": {
@@ -4712,7 +4892,7 @@
     "lastName": "Grumezescu",
     "heightCm": 219,
     "age": 21,
-    "value": 264884,
+    "value": 275731,
     "salary": 114738
   },
   "1975653|153607": {
@@ -4724,7 +4904,7 @@
     "lastName": "Gombrich",
     "heightCm": 219,
     "age": 21,
-    "value": 148503,
+    "value": 158353,
     "salary": 67868
   },
   "1975683|153608": {
@@ -4736,7 +4916,7 @@
     "lastName": "Kaurismäki",
     "heightCm": 211,
     "age": 21,
-    "value": 234889,
+    "value": 240019,
     "salary": 101015
   },
   "1975694|153603": {
@@ -4748,8 +4928,8 @@
     "lastName": "Tomita",
     "heightCm": 183,
     "age": 21,
-    "value": 739192,
-    "salary": 349209
+    "value": 746006,
+    "salary": 369596
   },
   "1975729|153614": {
     "pozycja": "Ś",
@@ -4760,7 +4940,7 @@
     "lastName": "Travers",
     "heightCm": 218,
     "age": 21,
-    "value": 161694,
+    "value": 170757,
     "salary": 68007
   },
   "1975734|153595": {
@@ -4772,7 +4952,7 @@
     "lastName": "Besnier",
     "heightCm": 202,
     "age": 21,
-    "value": 102491,
+    "value": 105655,
     "salary": 44063
   },
   "1975736|153607": {
@@ -4784,7 +4964,7 @@
     "lastName": "Fochler",
     "heightCm": 185,
     "age": 21,
-    "value": 66139,
+    "value": 67102,
     "salary": 24028
   },
   "1975742|153607": {
@@ -4808,7 +4988,7 @@
     "lastName": "Salden",
     "heightCm": 217,
     "age": 21,
-    "value": 116861,
+    "value": 118519,
     "salary": 52300
   },
   "1975780|153612": {
@@ -4820,7 +5000,7 @@
     "lastName": "Haug",
     "heightCm": 205,
     "age": 21,
-    "value": 165988,
+    "value": 170812,
     "salary": 72877
   },
   "1975815|153614": {
@@ -4832,8 +5012,20 @@
     "lastName": "Walton",
     "heightCm": 220,
     "age": 21,
-    "value": 220976,
+    "value": 236963,
     "salary": 96313
+  },
+  "1975836|153599": {
+    "pozycja": "O",
+    "teamId": "153599",
+    "playerId": "1975836",
+    "name": "Kosev, Kiril",
+    "firstName": "Kiril",
+    "lastName": "Kosev",
+    "heightCm": 215,
+    "age": 21,
+    "value": 187186,
+    "salary": 81778
   },
   "1975858|153605": {
     "pozycja": "Ś",
@@ -4844,7 +5036,7 @@
     "lastName": "Papilias",
     "heightCm": 205,
     "age": 21,
-    "value": 182284,
+    "value": 195644,
     "salary": 79083
   },
   "1975877|153607": {
@@ -4856,7 +5048,7 @@
     "lastName": "Cromer",
     "heightCm": 207,
     "age": 21,
-    "value": 124850,
+    "value": 128586,
     "salary": 57538
   },
   "1975878|153610": {
@@ -4868,7 +5060,7 @@
     "lastName": "Wijsmans",
     "heightCm": 212,
     "age": 21,
-    "value": 157036,
+    "value": 163959,
     "salary": 66400
   },
   "1975887|153615": {
@@ -4880,7 +5072,7 @@
     "lastName": "Chmelnický",
     "heightCm": 188,
     "age": 21,
-    "value": 409965,
+    "value": 418304,
     "salary": 185255
   },
   "1975894|153611": {
@@ -4892,7 +5084,7 @@
     "lastName": "Işil",
     "heightCm": 207,
     "age": 21,
-    "value": 159118,
+    "value": 167325,
     "salary": 69114
   },
   "1975967|153619": {
@@ -4904,7 +5096,7 @@
     "lastName": "Lemnaru",
     "heightCm": 175,
     "age": 20,
-    "value": 712994,
+    "value": 731829,
     "salary": 337179
   },
   "1975989|153603": {
@@ -4916,7 +5108,7 @@
     "lastName": "Gan",
     "heightCm": 184,
     "age": 21,
-    "value": 347540,
+    "value": 369966,
     "salary": 361994
   },
   "1976031|153605": {
@@ -4928,8 +5120,8 @@
     "lastName": "Kapetanakis",
     "heightCm": 178,
     "age": 20,
-    "value": 703390,
-    "salary": 262901
+    "value": 747953,
+    "salary": 434591
   },
   "1976037|153594": {
     "pozycja": "S",
@@ -4940,7 +5132,7 @@
     "lastName": "Melina",
     "heightCm": 203,
     "age": 21,
-    "value": 371290,
+    "value": 402296,
     "salary": 153733
   },
   "1976043|153613": {
@@ -4952,7 +5144,7 @@
     "lastName": "Isidro",
     "heightCm": 186,
     "age": 21,
-    "value": 72890,
+    "value": 74265,
     "salary": 26512
   },
   "1976054|153604": {
@@ -4964,7 +5156,7 @@
     "lastName": "Damjanović",
     "heightCm": 213,
     "age": 21,
-    "value": 48672,
+    "value": 53331,
     "salary": 16347
   },
   "1976073|153618": {
@@ -4976,7 +5168,7 @@
     "lastName": "Maksimović",
     "heightCm": 178,
     "age": 21,
-    "value": 572327,
+    "value": 612733,
     "salary": 194464
   },
   "1976080|153602": {
@@ -4988,7 +5180,7 @@
     "lastName": "Cosentino",
     "heightCm": 185,
     "age": 21,
-    "value": 108699,
+    "value": 114727,
     "salary": 42231
   },
   "1976172|153615": {
@@ -5000,7 +5192,7 @@
     "lastName": "Mečiar",
     "heightCm": 213,
     "age": 21,
-    "value": 150460,
+    "value": 156113,
     "salary": 68758
   },
   "1976194|153616": {
@@ -5012,7 +5204,7 @@
     "lastName": "Jun",
     "heightCm": 198,
     "age": 21,
-    "value": 159870,
+    "value": 164029,
     "salary": 72114
   },
   "1976214|153610": {
@@ -5024,7 +5216,7 @@
     "lastName": "Renier",
     "heightCm": 201,
     "age": 21,
-    "value": 188066,
+    "value": 195103,
     "salary": 83261
   },
   "1976242|153604": {
@@ -5036,7 +5228,7 @@
     "lastName": "Samardžić",
     "heightCm": 185,
     "age": 21,
-    "value": 84468,
+    "value": 86894,
     "salary": 29858
   },
   "1976260|153604": {
@@ -5048,8 +5240,20 @@
     "lastName": "Popović",
     "heightCm": 204,
     "age": 21,
-    "value": 133561,
+    "value": 135737,
     "salary": 59717
+  },
+  "1976283|153620": {
+    "pozycja": "Ś",
+    "teamId": "153620",
+    "playerId": "1976283",
+    "name": "Bajrić, Nikolaj",
+    "firstName": "Nikolaj",
+    "lastName": "Bajrić",
+    "heightCm": 198,
+    "age": 21,
+    "value": 188126,
+    "salary": 78434
   },
   "1976292|153605": {
     "pozycja": "O",
@@ -5060,7 +5264,7 @@
     "lastName": "Tsarouchitis",
     "heightCm": 201,
     "age": 21,
-    "value": 161694,
+    "value": 167826,
     "salary": 219715
   },
   "1976327|153605": {
@@ -5072,7 +5276,7 @@
     "lastName": "Charoupas",
     "heightCm": 197,
     "age": 20,
-    "value": 222977,
+    "value": 244041,
     "salary": 90754
   },
   "1976332|153620": {
@@ -5084,7 +5288,7 @@
     "lastName": "Zajc",
     "heightCm": 211,
     "age": 21,
-    "value": 205649,
+    "value": 214575,
     "salary": 85854
   },
   "1976344|153597": {
@@ -5096,7 +5300,7 @@
     "lastName": "Walters",
     "heightCm": 175,
     "age": 20,
-    "value": 857189,
+    "value": 925670,
     "salary": 318733
   },
   "1976356|153610": {
@@ -5108,7 +5312,7 @@
     "lastName": "Olaerts",
     "heightCm": 204,
     "age": 20,
-    "value": 180639,
+    "value": 191604,
     "salary": 75399
   },
   "1976374|153600": {
@@ -5120,7 +5324,7 @@
     "lastName": "Drent",
     "heightCm": 210,
     "age": 21,
-    "value": 120577,
+    "value": 125730,
     "salary": 54723
   },
   "1976375|153600": {
@@ -5132,7 +5336,7 @@
     "lastName": "Plasterk",
     "heightCm": 215,
     "age": 21,
-    "value": 104476,
+    "value": 112142,
     "salary": 43569
   },
   "1976388|153614": {
@@ -5144,7 +5348,7 @@
     "lastName": "Holland",
     "heightCm": 220,
     "age": 20,
-    "value": 133619,
+    "value": 140675,
     "salary": 55688
   },
   "1976391|153613": {
@@ -5156,7 +5360,7 @@
     "lastName": "Garcia",
     "heightCm": 189,
     "age": 21,
-    "value": 87575,
+    "value": 90085,
     "salary": 34835
   },
   "1976410|153593": {
@@ -5168,7 +5372,7 @@
     "lastName": "Jakubik",
     "heightCm": 193,
     "age": 21,
-    "value": 143918,
+    "value": 146570,
     "salary": 61907
   },
   "1976412|153600": {
@@ -5180,8 +5384,20 @@
     "lastName": "Hartland",
     "heightCm": 206,
     "age": 20,
-    "value": 161072,
+    "value": 171251,
     "salary": 348479
+  },
+  "1976426|153594": {
+    "pozycja": "P",
+    "teamId": "153594",
+    "playerId": "1976426",
+    "name": "Sergio, Carmelo",
+    "firstName": "Carmelo",
+    "lastName": "Sergio",
+    "heightCm": 182,
+    "age": 21,
+    "value": 103051,
+    "salary": 89100
   },
   "1976500|153605": {
     "pozycja": "S",
@@ -5192,7 +5408,7 @@
     "lastName": "Zervos",
     "heightCm": 186,
     "age": 21,
-    "value": 216405,
+    "value": 221539,
     "salary": 135520
   },
   "1976557|153596": {
@@ -5204,7 +5420,7 @@
     "lastName": "Steinert",
     "heightCm": 201,
     "age": 21,
-    "value": 374737,
+    "value": 394313,
     "salary": 144311
   },
   "1976580|153598": {
@@ -5216,7 +5432,7 @@
     "lastName": "Toledano",
     "heightCm": 218,
     "age": 21,
-    "value": 134950,
+    "value": 138990,
     "salary": 56498
   },
   "1976593|153603": {
@@ -5228,7 +5444,7 @@
     "lastName": "Kashima",
     "heightCm": 192,
     "age": 21,
-    "value": 94704,
+    "value": 101789,
     "salary": 37964
   },
   "1976595|153619": {
@@ -5240,8 +5456,20 @@
     "lastName": "Mutu",
     "heightCm": 192,
     "age": 21,
-    "value": 241907,
+    "value": 261878,
     "salary": 95141
+  },
+  "1976652|153620": {
+    "pozycja": "Ś",
+    "teamId": "153620",
+    "playerId": "1976652",
+    "name": "Plešec, Alojz",
+    "firstName": "Alojz",
+    "lastName": "Plešec",
+    "heightCm": 196,
+    "age": 21,
+    "value": 184631,
+    "salary": 75569
   },
   "1976653|153614": {
     "pozycja": "Ś",
@@ -5252,7 +5480,7 @@
     "lastName": "Entwistle",
     "heightCm": 205,
     "age": 21,
-    "value": 147265,
+    "value": 157575,
     "salary": 63850
   },
   "1976654|153605": {
@@ -5264,7 +5492,7 @@
     "lastName": "Kavalekas",
     "heightCm": 198,
     "age": 21,
-    "value": 180043,
+    "value": 187007,
     "salary": 76836
   },
   "1976658|153617": {
@@ -5276,7 +5504,7 @@
     "lastName": "Rolla",
     "heightCm": 185,
     "age": 21,
-    "value": 126698,
+    "value": 136338,
     "salary": 58678
   },
   "1976659|153613": {
@@ -5288,7 +5516,7 @@
     "lastName": "Miranda",
     "heightCm": 191,
     "age": 21,
-    "value": 115652,
+    "value": 121166,
     "salary": 53545
   },
   "1976706|153611": {
@@ -5300,7 +5528,7 @@
     "lastName": "Akalp",
     "heightCm": 180,
     "age": 21,
-    "value": 75454,
+    "value": 81151,
     "salary": 27893
   },
   "1976740|153604": {
@@ -5312,7 +5540,7 @@
     "lastName": "Ranisavljević",
     "heightCm": 219,
     "age": 21,
-    "value": 106116,
+    "value": 112057,
     "salary": 41761
   },
   "1976894|153610": {
@@ -5324,7 +5552,7 @@
     "lastName": "Engelen",
     "heightCm": 182,
     "age": 21,
-    "value": 167253,
+    "value": 176128,
     "salary": 94144
   },
   "1976913|153603": {
@@ -5336,7 +5564,7 @@
     "lastName": "Nakadoi",
     "heightCm": 185,
     "age": 21,
-    "value": 96198,
+    "value": 103682,
     "salary": 37835
   },
   "1976945|153597": {
@@ -5348,7 +5576,7 @@
     "lastName": "McCall",
     "heightCm": 190,
     "age": 21,
-    "value": 120577,
+    "value": 123561,
     "salary": 231804
   },
   "2002290|153600": {
@@ -5360,8 +5588,20 @@
     "lastName": "Ligtvoet",
     "heightCm": 213,
     "age": 21,
-    "value": 150073,
+    "value": 156969,
     "salary": 66400
+  },
+  "2002291|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "2002291",
+    "name": "Babic, Svebor",
+    "firstName": "Svebor",
+    "lastName": "Babic",
+    "heightCm": 193,
+    "age": 21,
+    "value": 124446,
+    "salary": 52312
   },
   "2002316|153608": {
     "pozycja": "L",
@@ -5384,7 +5624,7 @@
     "lastName": "Raiciu",
     "heightCm": 183,
     "age": 21,
-    "value": 105563,
+    "value": 112875,
     "salary": 40205
   },
   "2002379|153615": {
@@ -5396,7 +5636,7 @@
     "lastName": "Švikruha",
     "heightCm": 181,
     "age": 21,
-    "value": 392084,
+    "value": 412034,
     "salary": 147558
   },
   "2002408|153608": {
@@ -5420,7 +5660,7 @@
     "lastName": "Brunner",
     "heightCm": 198,
     "age": 21,
-    "value": 90233,
+    "value": 98638,
     "salary": 34379
   },
   "2002648|153598": {
@@ -5432,7 +5672,7 @@
     "lastName": "Pereda",
     "heightCm": 185,
     "age": 21,
-    "value": 88126,
+    "value": 92783,
     "salary": 35220
   },
   "2003054|153606": {
@@ -5447,6 +5687,18 @@
     "value": 452278,
     "salary": 220292
   },
+  "2003060|153609": {
+    "pozycja": "O",
+    "teamId": "153609",
+    "playerId": "2003060",
+    "name": "Diković, Benjamin",
+    "firstName": "Benjamin",
+    "lastName": "Diković",
+    "heightCm": 197,
+    "age": 21,
+    "value": 89907,
+    "salary": 37902
+  },
   "2003132|153600": {
     "pozycja": "P",
     "teamId": "153600",
@@ -5456,7 +5708,7 @@
     "lastName": "Schrijver",
     "heightCm": 181,
     "age": 20,
-    "value": 94953,
+    "value": 96896,
     "salary": 112918
   },
   "2003172|153605": {
@@ -5468,7 +5720,7 @@
     "lastName": "Fotopoulos",
     "heightCm": 208,
     "age": 21,
-    "value": 244921,
+    "value": 277688,
     "salary": 82648
   },
   "2003215|153610": {
@@ -5480,7 +5732,7 @@
     "lastName": "Van Brussel",
     "heightCm": 193,
     "age": 20,
-    "value": 232241,
+    "value": 252605,
     "salary": 92542
   },
   "2003328|153604": {
@@ -5492,7 +5744,7 @@
     "lastName": "Kolacić",
     "heightCm": 208,
     "age": 20,
-    "value": 122948,
+    "value": 128530,
     "salary": 52198
   },
   "2003351|153615": {
@@ -5516,7 +5768,7 @@
     "lastName": "Bergers",
     "heightCm": 215,
     "age": 20,
-    "value": 175940,
+    "value": 188387,
     "salary": 74140
   },
   "2003386|153598": {
@@ -5528,7 +5780,7 @@
     "lastName": "Gimeno",
     "heightCm": 185,
     "age": 20,
-    "value": 77456,
+    "value": 81285,
     "salary": 26631
   },
   "2003464|153598": {
@@ -5540,7 +5792,7 @@
     "lastName": "Muñoz",
     "heightCm": 196,
     "age": 20,
-    "value": 100541,
+    "value": 108215,
     "salary": 37581
   },
   "2003473|153615": {
@@ -5552,7 +5804,7 @@
     "lastName": "Svorník",
     "heightCm": 204,
     "age": 20,
-    "value": 110690,
+    "value": 114181,
     "salary": 44140
   },
   "2003481|153598": {
@@ -5576,7 +5828,7 @@
     "lastName": "Miyazaki",
     "heightCm": 214,
     "age": 19,
-    "value": 130712,
+    "value": 140978,
     "salary": 54314
   },
   "2003528|153603": {
@@ -5600,7 +5852,7 @@
     "lastName": "Yasui",
     "heightCm": 220,
     "age": 20,
-    "value": 126985,
+    "value": 132600,
     "salary": 53307
   },
   "2003623|153598": {
@@ -5612,7 +5864,7 @@
     "lastName": "Nájera",
     "heightCm": 176,
     "age": 19,
-    "value": 204777,
+    "value": 222175,
     "salary": 99702
   },
   "2003654|153605": {
@@ -5624,8 +5876,8 @@
     "lastName": "Makulis",
     "heightCm": 202,
     "age": 20,
-    "value": 72881,
-    "salary": 25268
+    "value": 74546,
+    "salary": 37553
   },
   "2003698|153607": {
     "pozycja": "O",
@@ -5636,7 +5888,7 @@
     "lastName": "Kaltenböck",
     "heightCm": 193,
     "age": 20,
-    "value": 94239,
+    "value": 99787,
     "salary": 249005
   },
   "2003733|153605": {
@@ -5648,7 +5900,7 @@
     "lastName": "Kipouros",
     "heightCm": 181,
     "age": 19,
-    "value": 288014,
+    "value": 297020,
     "salary": 126450
   },
   "2003766|153605": {
@@ -5660,7 +5912,7 @@
     "lastName": "Mpaxevanos",
     "heightCm": 217,
     "age": 20,
-    "value": 146445,
+    "value": 160127,
     "salary": 60021
   },
   "2003797|153620": {
@@ -5672,7 +5924,7 @@
     "lastName": "Žurej",
     "heightCm": 220,
     "age": 19,
-    "value": 192442,
+    "value": 204711,
     "salary": 79457
   },
   "2003854|153597": {
@@ -5684,7 +5936,7 @@
     "lastName": "Adams",
     "heightCm": 198,
     "age": 19,
-    "value": 132514,
+    "value": 138215,
     "salary": 952690
   },
   "2003866|153614": {
@@ -5696,8 +5948,8 @@
     "lastName": "Northwood",
     "heightCm": 218,
     "age": 20,
-    "value": 133619,
-    "salary": 56339
+    "value": 140766,
+    "salary": 226070
   },
   "2003877|153615": {
     "pozycja": "O",
@@ -5708,7 +5960,7 @@
     "lastName": "Fabuš",
     "heightCm": 186,
     "age": 20,
-    "value": 87479,
+    "value": 90690,
     "salary": 36004
   },
   "2004047|153607": {
@@ -5720,7 +5972,7 @@
     "lastName": "Salzer",
     "heightCm": 177,
     "age": 19,
-    "value": 358863,
+    "value": 368415,
     "salary": 127214
   },
   "2004052|153612": {
@@ -5732,7 +5984,7 @@
     "lastName": "Noormägi",
     "heightCm": 207,
     "age": 20,
-    "value": 120316,
+    "value": 125147,
     "salary": 53127
   },
   "2004097|153617": {
@@ -5744,7 +5996,7 @@
     "lastName": "Avelino",
     "heightCm": 201,
     "age": 20,
-    "value": 100421,
+    "value": 105333,
     "salary": 201831
   },
   "2004110|153607": {
@@ -5756,7 +6008,7 @@
     "lastName": "Hillebrand",
     "heightCm": 181,
     "age": 20,
-    "value": 94756,
+    "value": 101889,
     "salary": 273310
   },
   "2004131|153604": {
@@ -5768,7 +6020,7 @@
     "lastName": "Srbović",
     "heightCm": 209,
     "age": 20,
-    "value": 116747,
+    "value": 118404,
     "salary": 119428
   },
   "2004151|153610": {
@@ -5780,7 +6032,7 @@
     "lastName": "Onzia",
     "heightCm": 190,
     "age": 20,
-    "value": 83505,
+    "value": 87585,
     "salary": 52300
   },
   "2004237|153615": {
@@ -5792,7 +6044,7 @@
     "lastName": "Bumbák",
     "heightCm": 179,
     "age": 19,
-    "value": 304533,
+    "value": 362806,
     "salary": 104487
   },
   "2004265|153605": {
@@ -5804,7 +6056,7 @@
     "lastName": "Xidis",
     "heightCm": 207,
     "age": 20,
-    "value": 109684,
+    "value": 118109,
     "salary": 41035
   },
   "2004272|153608": {
@@ -5816,7 +6068,7 @@
     "lastName": "Niemistö",
     "heightCm": 178,
     "age": 20,
-    "value": 371446,
+    "value": 439201,
     "salary": 119173
   },
   "2004301|153612": {
@@ -5828,8 +6080,44 @@
     "lastName": "Reinbusch",
     "heightCm": 198,
     "age": 20,
-    "value": 103988,
+    "value": 108192,
     "salary": 42444
+  },
+  "2004467|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "2004467",
+    "name": "Valek, Obrad",
+    "firstName": "Obrad",
+    "lastName": "Valek",
+    "heightCm": 200,
+    "age": 20,
+    "value": 131944,
+    "salary": 51267
+  },
+  "2004469|153619": {
+    "pozycja": "P",
+    "teamId": "153619",
+    "playerId": "2004469",
+    "name": "Gaşpar, Nicolae",
+    "firstName": "Nicolae",
+    "lastName": "Gaşpar",
+    "heightCm": 192,
+    "age": 20,
+    "value": 121179,
+    "salary": 43426
+  },
+  "2004470|153608": {
+    "pozycja": "P",
+    "teamId": "153608",
+    "playerId": "2004470",
+    "name": "Lipsanen, Aki",
+    "firstName": "Aki",
+    "lastName": "Lipsanen",
+    "heightCm": 182,
+    "age": 20,
+    "value": 88944,
+    "salary": 28320
   },
   "2032122|153608": {
     "pozycja": "O",
@@ -5840,7 +6128,7 @@
     "lastName": "Piirainen",
     "heightCm": 194,
     "age": 20,
-    "value": 94197,
+    "value": 98057,
     "salary": 117020
   },
   "2032351|153605": {
@@ -5852,8 +6140,32 @@
     "lastName": "Demiris",
     "heightCm": 181,
     "age": 20,
-    "value": 314047,
+    "value": 364411,
     "salary": 107549
+  },
+  "2032376|153609": {
+    "pozycja": "S",
+    "teamId": "153609",
+    "playerId": "2032376",
+    "name": "Serbedzija, Nediljko",
+    "firstName": "Nediljko",
+    "lastName": "Serbedzija",
+    "heightCm": 196,
+    "age": 20,
+    "value": 124177,
+    "salary": 35486
+  },
+  "2032636|153609": {
+    "pozycja": "Ś",
+    "teamId": "153609",
+    "playerId": "2032636",
+    "name": "Pršo, Borko",
+    "firstName": "Borko",
+    "lastName": "Pršo",
+    "heightCm": 210,
+    "age": 19,
+    "value": 87344,
+    "salary": 84556
   },
   "2032695|153619": {
     "pozycja": "S",
@@ -5876,8 +6188,20 @@
     "lastName": "Chydenius",
     "heightCm": 188,
     "age": 20,
-    "value": 83643,
+    "value": 87720,
     "salary": 28823
+  },
+  "2032878|153609": {
+    "pozycja": "Ś",
+    "teamId": "153609",
+    "playerId": "2032878",
+    "name": "Alac, Matija",
+    "firstName": "Matija",
+    "lastName": "Alac",
+    "heightCm": 204,
+    "age": 19,
+    "value": 154582,
+    "salary": 58761
   },
   "2032910|153607": {
     "pozycja": "Ś",
@@ -5900,7 +6224,7 @@
     "lastName": "Cestnik",
     "heightCm": 214,
     "age": 19,
-    "value": 85179,
+    "value": 89051,
     "salary": 28720
   },
   "2060034|153602": {
@@ -5912,8 +6236,20 @@
     "lastName": "Sánchez",
     "heightCm": 194,
     "age": 19,
-    "value": 259125,
+    "value": 291744,
     "salary": 84942
+  },
+  "2060040|153609": {
+    "pozycja": "P",
+    "teamId": "153609",
+    "playerId": "2060040",
+    "name": "Glavas, Jerko",
+    "firstName": "Jerko",
+    "lastName": "Glavas",
+    "heightCm": 193,
+    "age": 19,
+    "value": 59679,
+    "salary": 20256
   },
   "2060106|153599": {
     "pozycja": "Ś",
@@ -5924,8 +6260,20 @@
     "lastName": "Bozhilov",
     "heightCm": 218,
     "age": 18,
-    "value": 164398,
+    "value": 177392,
     "salary": 59684
+  },
+  "2060111|153609": {
+    "pozycja": "O",
+    "teamId": "153609",
+    "playerId": "2060111",
+    "name": "Diković, Izidor",
+    "firstName": "Izidor",
+    "lastName": "Diković",
+    "heightCm": 198,
+    "age": 19,
+    "value": 90670,
+    "salary": 163578
   },
   "2060151|153599": {
     "pozycja": "Ś",
@@ -5936,7 +6284,7 @@
     "lastName": "Velkov",
     "heightCm": 219,
     "age": 18,
-    "value": 156834,
+    "value": 170138,
     "salary": 56315
   },
   "2060168|153611": {
@@ -5948,7 +6296,7 @@
     "lastName": "Hamı",
     "heightCm": 220,
     "age": 19,
-    "value": 110462,
+    "value": 116293,
     "salary": 41410
   },
   "2060180|153610": {
@@ -5960,7 +6308,7 @@
     "lastName": "Prim",
     "heightCm": 175,
     "age": 18,
-    "value": 226697,
+    "value": 249763,
     "salary": 100319
   },
   "2060263|153608": {
@@ -5972,7 +6320,7 @@
     "lastName": "Maalismaa",
     "heightCm": 216,
     "age": 19,
-    "value": 96949,
+    "value": 102100,
     "salary": 36400
   },
   "2060395|153614": {
@@ -5984,7 +6332,7 @@
     "lastName": "Edwards",
     "heightCm": 203,
     "age": 19,
-    "value": 98111,
+    "value": 107745,
     "salary": 36320
   },
   "2060450|153620": {
@@ -5996,7 +6344,7 @@
     "lastName": "Jelar",
     "heightCm": 180,
     "age": 18,
-    "value": 179104,
+    "value": 217533,
     "salary": 64822
   },
   "2060885|153616": {
@@ -6008,8 +6356,8 @@
     "lastName": "Tianxian",
     "heightCm": 209,
     "age": 19,
-    "value": 92987,
-    "salary": 37087
+    "value": 94249,
+    "salary": 174284
   },
   "2087514|153604": {
     "pozycja": "O",
@@ -6020,7 +6368,7 @@
     "lastName": "Pavlović",
     "heightCm": 213,
     "age": 19,
-    "value": 50770,
+    "value": 54134,
     "salary": 16947
   },
   "2087745|153610": {
@@ -6032,8 +6380,20 @@
     "lastName": "Van Erum",
     "heightCm": 193,
     "age": 19,
-    "value": 74538,
+    "value": 76636,
     "salary": 27583
+  },
+  "2087850|153609": {
+    "pozycja": "S",
+    "teamId": "153609",
+    "playerId": "2087850",
+    "name": "Ledenko, Uglješa",
+    "firstName": "Uglješa",
+    "lastName": "Ledenko",
+    "heightCm": 199,
+    "age": 19,
+    "value": 103535,
+    "salary": 23896
   },
   "2088002|153614": {
     "pozycja": "O",
@@ -6044,7 +6404,7 @@
     "lastName": "Gray",
     "heightCm": 198,
     "age": 19,
-    "value": 81312,
+    "value": 84627,
     "salary": 27246
   },
   "2088031|153615": {
@@ -6056,7 +6416,7 @@
     "lastName": "Uherík",
     "heightCm": 209,
     "age": 19,
-    "value": 88515,
+    "value": 93683,
     "salary": 277350
   },
   "2088032|153619": {
@@ -6068,7 +6428,7 @@
     "lastName": "Venter",
     "heightCm": 208,
     "age": 19,
-    "value": 79931,
+    "value": 86655,
     "salary": 207853
   },
   "2088133|153620": {
@@ -6080,8 +6440,20 @@
     "lastName": "Crnčić",
     "heightCm": 204,
     "age": 18,
-    "value": 123895,
+    "value": 136074,
     "salary": 42175
+  },
+  "2088181|153609": {
+    "pozycja": "S",
+    "teamId": "153609",
+    "playerId": "2088181",
+    "name": "Hegedusic, Zivko",
+    "firstName": "Zivko",
+    "lastName": "Hegedusic",
+    "heightCm": 202,
+    "age": 18,
+    "value": 111523,
+    "salary": 38411
   },
   "2088182|153608": {
     "pozycja": "S",
@@ -6092,8 +6464,44 @@
     "lastName": "Pitkänen",
     "heightCm": 202,
     "age": 18,
-    "value": 104078,
+    "value": 111353,
     "salary": 38326
+  },
+  "2088295|153609": {
+    "pozycja": "S",
+    "teamId": "153609",
+    "playerId": "2088295",
+    "name": "Pajer, Vojko",
+    "firstName": "Vojko",
+    "lastName": "Pajer",
+    "heightCm": 185,
+    "age": 18,
+    "value": 112008,
+    "salary": 40055
+  },
+  "2088391|153607": {
+    "pozycja": "Ś",
+    "teamId": "153607",
+    "playerId": "2088391",
+    "name": "Menninger, Alfred",
+    "firstName": "Alfred",
+    "lastName": "Menninger",
+    "heightCm": 219,
+    "age": 18,
+    "value": 76347,
+    "salary": 26610
+  },
+  "2088403|153609": {
+    "pozycja": "Ś",
+    "teamId": "153609",
+    "playerId": "2088403",
+    "name": "Jurisa, Bartul",
+    "firstName": "Bartul",
+    "lastName": "Jurisa",
+    "heightCm": 200,
+    "age": 18,
+    "value": 85857,
+    "salary": 34196
   },
   "2088466|153615": {
     "pozycja": "S",
@@ -6104,7 +6512,7 @@
     "lastName": "Mertinko",
     "heightCm": 189,
     "age": 18,
-    "value": 80410,
+    "value": 93375,
     "salary": 29682
   },
   "2088583|153607": {
@@ -6116,7 +6524,7 @@
     "lastName": "Köstlinger",
     "heightCm": 220,
     "age": 18,
-    "value": 80579,
-    "salary": 36260
+    "value": 87508,
+    "salary": 168579
   }
 }
