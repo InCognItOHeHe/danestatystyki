@@ -1,0 +1,287 @@
+{
+  "generatedAt": "2026-06-23",
+  "description": "Manifest historycznych wyników. Osiągnięcia są automatycznie liczone z CSV przy starcie strony; achievementsFile może istnieć opcjonalnie.",
+  "seasons": [
+    {
+      "id": "sezon_3",
+      "label": "Sezon 3",
+      "order": 3,
+      "leagues": [
+        {
+          "id": "1.1",
+          "label": "Liga 1.1",
+          "type": "league",
+          "file": "historyczne_sezony/baza_1_1_season3.csv"
+        }
+      ]
+    },
+    {
+      "id": "sezon_4",
+      "label": "Sezon 4",
+      "order": 4,
+      "leagues": [
+        {
+          "id": "1.1",
+          "label": "Liga 1.1",
+          "type": "league",
+          "file": "historyczne_sezony/baza_1_1_season4.csv"
+        }
+      ]
+    },
+    {
+      "id": "sezon_5",
+      "label": "Sezon 5",
+      "order": 5,
+      "leagues": [
+        {
+          "id": "1.1",
+          "label": "Liga 1.1",
+          "type": "league",
+          "file": "historyczne_sezony/baza_1_1_season5.csv"
+        }
+      ]
+    },
+    {
+      "id": "sezon_6",
+      "label": "Sezon 6",
+      "order": 6,
+      "leagues": [
+        {
+          "id": "1.1",
+          "label": "Liga 1.1",
+          "type": "league",
+          "file": "historyczne_sezony/baza_1_1_season6.csv"
+        }
+      ]
+    },
+    {
+      "id": "sezon_7",
+      "label": "Sezon 7",
+      "order": 7,
+      "leagues": [
+        {
+          "id": "1.1",
+          "label": "Liga 1.1",
+          "type": "league",
+          "file": "historyczne_sezony/baza_1_1_season7.csv"
+        }
+      ]
+    },
+    {
+      "id": "sezon_8",
+      "label": "Sezon 8",
+      "order": 8,
+      "leagues": [
+        {
+          "id": "1.1",
+          "label": "Liga 1.1",
+          "type": "league",
+          "file": "historyczne_sezony/baza_1_1_season8.csv"
+        }
+      ]
+    },
+    {
+      "id": "sezon_9",
+      "label": "Sezon 9",
+      "order": 9,
+      "leagues": [
+        {
+          "id": "1.1",
+          "label": "Liga 1.1",
+          "type": "league",
+          "file": "historyczne_sezony/baza_1_1_season9.csv"
+        }
+      ]
+    },
+    {
+      "id": "sezon_10",
+      "label": "Sezon 10",
+      "order": 10,
+      "leagues": [
+        {
+          "id": "1.1",
+          "label": "Liga 1.1",
+          "type": "league",
+          "file": "historyczne_sezony/baza_1_1_season10.csv"
+        }
+      ]
+    },
+    {
+      "id": "sezon_11",
+      "label": "Sezon 11",
+      "order": 11,
+      "achievementsFile": "historyczne_sezony/sezon_11/achievements.json",
+      "leagues": [
+        {
+          "id": "1.1",
+          "label": "Liga 1.1",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_1_1.csv"
+        },
+        {
+          "id": "2.1",
+          "label": "Liga 2.1",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_2_1.csv"
+        },
+        {
+          "id": "2.2",
+          "label": "Liga 2.2",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_2_2.csv"
+        },
+        {
+          "id": "2.3",
+          "label": "Liga 2.3",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_2_3.csv"
+        },
+        {
+          "id": "2.4",
+          "label": "Liga 2.4",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_2_4.csv"
+        },
+        {
+          "id": "3.1",
+          "label": "Liga 3.1",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_1.csv"
+        },
+        {
+          "id": "3.2",
+          "label": "Liga 3.2",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_2.csv"
+        },
+        {
+          "id": "3.3",
+          "label": "Liga 3.3",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_3.csv"
+        },
+        {
+          "id": "3.4",
+          "label": "Liga 3.4",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_4.csv"
+        },
+        {
+          "id": "3.5",
+          "label": "Liga 3.5",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_5.csv"
+        },
+        {
+          "id": "3.6",
+          "label": "Liga 3.6",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_6.csv"
+        },
+        {
+          "id": "3.7",
+          "label": "Liga 3.7",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_7.csv"
+        },
+        {
+          "id": "3.8",
+          "label": "Liga 3.8",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_8.csv"
+        },
+        {
+          "id": "3.9",
+          "label": "Liga 3.9",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_9.csv"
+        },
+        {
+          "id": "3.10",
+          "label": "Liga 3.10",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_10.csv"
+        },
+        {
+          "id": "3.11",
+          "label": "Liga 3.11",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_11.csv"
+        },
+        {
+          "id": "3.12",
+          "label": "Liga 3.12",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_12.csv"
+        },
+        {
+          "id": "3.13",
+          "label": "Liga 3.13",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_13.csv"
+        },
+        {
+          "id": "3.14",
+          "label": "Liga 3.14",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_14.csv"
+        },
+        {
+          "id": "3.15",
+          "label": "Liga 3.15",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_15.csv"
+        },
+        {
+          "id": "3.16",
+          "label": "Liga 3.16",
+          "type": "league",
+          "file": "historyczne_sezony/sezon_11/baza_3_16.csv"
+        },
+        {
+          "id": "pp",
+          "label": "Puchar Polski",
+          "type": "cup",
+          "file": "historyczne_sezony/sezon_11/baza_pp.csv"
+        },
+        {
+          "id": "pf",
+          "label": "Puchar Federacji",
+          "type": "cup",
+          "file": "historyczne_sezony/sezon_11/baza_pf.csv"
+        },
+        {
+          "id": "lm",
+          "label": "Liga Mistrzów",
+          "type": "cup",
+          "file": "historyczne_sezony/sezon_11/baza_lm.csv"
+        },
+        {
+          "id": "reprezentacja_grupa1",
+          "label": "Reprezentacje — Grupa 1",
+          "type": "national",
+          "file": "historyczne_sezony/sezon_11/baza_reprezentacja_grupa1.csv"
+        },
+        {
+          "id": "reprezentacja_grupa2",
+          "label": "Reprezentacje — Grupa 2",
+          "type": "national",
+          "file": "historyczne_sezony/sezon_11/baza_reprezentacja_grupa2.csv"
+        },
+        {
+          "id": "reprezentacja_grupa3",
+          "label": "Reprezentacje — Grupa 3",
+          "type": "national",
+          "file": "historyczne_sezony/sezon_11/baza_reprezentacja_grupa3.csv"
+        },
+        {
+          "id": "reprezentacja_grupa4",
+          "label": "Reprezentacje — Grupa 4",
+          "type": "national",
+          "file": "historyczne_sezony/sezon_11/baza_reprezentacja_grupa4.csv"
+        }
+      ]
+    }
+  ],
+  "nationalHistoryFile": "historyczne_sezony/baza_reprezentacje_all.csv"
+}
