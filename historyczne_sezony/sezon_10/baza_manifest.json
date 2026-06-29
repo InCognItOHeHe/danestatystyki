@@ -1,0 +1,192 @@
+﻿{
+  "version": "split-league-v1",
+  "generatedAt": "2026-06-29T15:58:21.929Z",
+  "basePath": "./",
+  "leagues": {
+    "1.1": {
+      "file": "baza_1_1.csv",
+      "rows": 5397,
+      "kind": "league"
+    },
+    "2.1": {
+      "file": "baza_2_1.csv",
+      "rows": 5414,
+      "kind": "league"
+    },
+    "2.2": {
+      "file": "baza_2_2.csv",
+      "rows": 5128,
+      "kind": "league"
+    },
+    "2.3": {
+      "file": "baza_2_3.csv",
+      "rows": 5246,
+      "kind": "league"
+    },
+    "2.4": {
+      "file": "baza_2_4.csv",
+      "rows": 5374,
+      "kind": "league"
+    },
+    "3.1": {
+      "file": "baza_3_1.csv",
+      "rows": 4824,
+      "kind": "league"
+    },
+    "3.2": {
+      "file": "baza_3_2.csv",
+      "rows": 4783,
+      "kind": "league"
+    },
+    "3.3": {
+      "file": "baza_3_3.csv",
+      "rows": 4208,
+      "kind": "league"
+    },
+    "3.4": {
+      "file": "baza_3_4.csv",
+      "rows": 4549,
+      "kind": "league"
+    },
+    "3.5": {
+      "file": "baza_3_5.csv",
+      "rows": 4719,
+      "kind": "league"
+    },
+    "3.6": {
+      "file": "baza_3_6.csv",
+      "rows": 4853,
+      "kind": "league"
+    },
+    "3.7": {
+      "file": "baza_3_7.csv",
+      "rows": 4575,
+      "kind": "league"
+    },
+    "3.8": {
+      "file": "baza_3_8.csv",
+      "rows": 4690,
+      "kind": "league"
+    },
+    "3.9": {
+      "file": "baza_3_9.csv",
+      "rows": 4743,
+      "kind": "league"
+    },
+    "3.10": {
+      "file": "baza_3_10.csv",
+      "rows": 4765,
+      "kind": "league"
+    },
+    "3.11": {
+      "file": "baza_3_11.csv",
+      "rows": 4753,
+      "kind": "league"
+    },
+    "3.12": {
+      "file": "baza_3_12.csv",
+      "rows": 4823,
+      "kind": "league"
+    },
+    "3.13": {
+      "file": "baza_3_13.csv",
+      "rows": 4719,
+      "kind": "league"
+    },
+    "3.14": {
+      "file": "baza_3_14.csv",
+      "rows": 4260,
+      "kind": "league"
+    },
+    "3.15": {
+      "file": "baza_3_15.csv",
+      "rows": 4398,
+      "kind": "league"
+    },
+    "3.16": {
+      "file": "baza_3_16.csv",
+      "rows": 4847,
+      "kind": "league"
+    },
+    "reprezentacja_grupa1": {
+      "file": "baza_reprezentacja_grupa1.csv",
+      "rows": 952,
+      "kind": "rep"
+    },
+    "reprezentacja_grupa2": {
+      "file": "baza_reprezentacja_grupa2.csv",
+      "rows": 954,
+      "kind": "rep"
+    },
+    "reprezentacja_grupa3": {
+      "file": "baza_reprezentacja_grupa3.csv",
+      "rows": 899,
+      "kind": "rep"
+    },
+    "reprezentacja_grupa4": {
+      "file": "baza_reprezentacja_grupa4.csv",
+      "rows": 884,
+      "kind": "rep"
+    }
+  },
+  "groups": {
+    "liga1": [
+      "1.1"
+    ],
+    "liga2": [
+      "2.1",
+      "2.2",
+      "2.3",
+      "2.4"
+    ],
+    "liga3": [
+      "3.1",
+      "3.2",
+      "3.3",
+      "3.4",
+      "3.5",
+      "3.6",
+      "3.7",
+      "3.8",
+      "3.9",
+      "3.10",
+      "3.11",
+      "3.12",
+      "3.13",
+      "3.14",
+      "3.15",
+      "3.16"
+    ],
+    "all_club": [
+      "1.1",
+      "2.1",
+      "2.2",
+      "2.3",
+      "2.4",
+      "3.1",
+      "3.2",
+      "3.3",
+      "3.4",
+      "3.5",
+      "3.6",
+      "3.7",
+      "3.8",
+      "3.9",
+      "3.10",
+      "3.11",
+      "3.12",
+      "3.13",
+      "3.14",
+      "3.15",
+      "3.16"
+    ],
+    "cups": [],
+    "reps": [
+      "reprezentacja_grupa1",
+      "reprezentacja_grupa2",
+      "reprezentacja_grupa3",
+      "reprezentacja_grupa4"
+    ],
+    "other": []
+  }
+}
