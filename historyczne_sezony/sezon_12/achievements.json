@@ -1,0 +1,72 @@
+{
+  "id": "sezon_12",
+  "season": "Sezon 12",
+  "generatedAt": "2026-08-23 01:03:29",
+  "source": "generated_from_current_csv",
+  "sourceFiles": {
+    "1.1": "baza_1_1.csv",
+    "pp": "baza_pp.csv",
+    "pf": "baza_pf.csv",
+    "lm": "baza_lm.csv"
+  },
+  "competitions": {
+    "1.1": {
+      "type": "league",
+      "label": "Liga 1.1",
+      "sourceFile": "baza_1_1.csv",
+      "podium": [
+        {
+          "place": 1,
+          "teamId": "128580",
+          "teamName": "VC Kittens",
+          "points": 74,
+          "matches": 30,
+          "sets": "81:28",
+          "smallPoints": "2551:2060"
+        },
+        {
+          "place": 2,
+          "teamId": "128638",
+          "teamName": "Dzikie Rumaxy",
+          "points": 67,
+          "matches": 30,
+          "sets": "78:40",
+          "smallPoints": "2703:2362"
+        },
+        {
+          "place": 3,
+          "teamId": "128577",
+          "teamName": "DHARMA Initiative",
+          "points": 63,
+          "matches": 30,
+          "sets": "78:44",
+          "smallPoints": "2748:2377"
+        }
+      ]
+    },
+    "pp": {
+      "type": "cup",
+      "label": "Puchar Polski",
+      "sourceFile": "baza_pp.csv",
+      "final": {
+        "winnerTeamId": "128764",
+        "winnerTeamName": "Smerfy",
+        "runnerUpTeamId": "131002",
+        "runnerUpTeamName": "AKS Volley Łódź",
+        "sets": "3:2",
+        "smallPoints": "101:96",
+        "date": "2026-08-12 19:00",
+        "matchId": "1210184",
+        "match": "Smerfy vs AKS Volley Łódź 3:2",
+        "setScores": [
+          "25:22",
+          "25:14",
+          "18:25",
+          "18:25",
+          "15:10"
+        ],
+        "winnerSide": "home"
+      }
+    }
+  }
+}
