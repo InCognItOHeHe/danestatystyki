@@ -1,7 +1,7 @@
 {
   "id": "sezon_12",
   "season": "Sezon 12",
-  "generatedAt": "2026-08-23 01:03:29",
+  "generatedAt": "2026-08-26 16:09:11",
   "source": "generated_from_current_csv",
   "sourceFiles": {
     "1.1": "baza_1_1.csv",
@@ -66,6 +66,50 @@
           "15:10"
         ],
         "winnerSide": "home"
+      }
+    },
+    "pf": {
+      "type": "cup",
+      "label": "Puchar Federacji",
+      "sourceFile": "baza_pf.csv",
+      "final": {
+        "winnerTeamId": "130744",
+        "winnerTeamName": "Kuźnia Byków",
+        "runnerUpTeamId": "129083",
+        "runnerUpTeamName": "Les Outsiders",
+        "sets": "3:0",
+        "smallPoints": "75:51",
+        "date": "2026-08-23 13:00",
+        "matchId": "1211927",
+        "match": "Kuźnia Byków vs Les Outsiders 3:0",
+        "setScores": [
+          "25:15",
+          "25:15",
+          "25:21"
+        ],
+        "winnerSide": "home"
+      }
+    },
+    "lm": {
+      "type": "cup",
+      "label": "Liga Mistrzów",
+      "sourceFile": "baza_lm.csv",
+      "final": {
+        "winnerTeamId": "129790",
+        "winnerTeamName": "Лудогорец Разград",
+        "runnerUpTeamId": "130607",
+        "runnerUpTeamName": "Dano Dream Team",
+        "sets": "3:0",
+        "smallPoints": "75:59",
+        "date": "2026-08-23 13:00",
+        "matchId": "1211926",
+        "match": "Dano Dream Team vs Лудогорец Разград 0:3",
+        "setScores": [
+          "19:25",
+          "23:25",
+          "17:25"
+        ],
+        "winnerSide": "away"
       }
     }
   }
