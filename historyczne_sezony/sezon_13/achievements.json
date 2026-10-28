@@ -1,0 +1,119 @@
+{
+  "id": "sezon_13",
+  "season": "Sezon 13",
+  "generatedAt": "2026-10-28 12:51:22",
+  "source": "generated_from_current_csv",
+  "sourceFiles": {
+    "1.1": "baza_1_1.csv",
+    "pp": "baza_pp.csv",
+    "pf": "baza_pf.csv",
+    "lm": "baza_lm.csv"
+  },
+  "competitions": {
+    "1.1": {
+      "type": "league",
+      "label": "Liga 1.1",
+      "sourceFile": "baza_1_1.csv",
+      "podium": [
+        {
+          "place": 1,
+          "teamId": "130885",
+          "teamName": "Pilica Koniecpol",
+          "points": 75,
+          "matches": 30,
+          "sets": "85:32",
+          "smallPoints": "2750:2349"
+        },
+        {
+          "place": 2,
+          "teamId": "128638",
+          "teamName": "Dzikie Rumaxy",
+          "points": 66,
+          "matches": 30,
+          "sets": "77:37",
+          "smallPoints": "2676:2326"
+        },
+        {
+          "place": 3,
+          "teamId": "130744",
+          "teamName": "Kuźnia Byków",
+          "points": 63,
+          "matches": 30,
+          "sets": "75:41",
+          "smallPoints": "2668:2357"
+        }
+      ]
+    },
+    "pp": {
+      "type": "cup",
+      "label": "Puchar Polski",
+      "sourceFile": "baza_pp.csv",
+      "final": {
+        "winnerTeamId": "128638",
+        "winnerTeamName": "Dzikie Rumaxy",
+        "runnerUpTeamId": "128622",
+        "runnerUpTeamName": "VC BORDER",
+        "sets": "3:2",
+        "smallPoints": "107:102",
+        "date": "2026-10-21 19:00",
+        "matchId": "1305791",
+        "match": "VC BORDER vs Dzikie Rumaxy 2:3",
+        "setScores": [
+          "21:25",
+          "25:16",
+          "15:25",
+          "25:23",
+          "16:18"
+        ],
+        "winnerSide": "away"
+      }
+    },
+    "pf": {
+      "type": "cup",
+      "label": "Puchar Federacji",
+      "sourceFile": "baza_pf.csv",
+      "final": {
+        "winnerTeamId": "129789",
+        "winnerTeamName": "Crescendo",
+        "runnerUpTeamId": "131002",
+        "runnerUpTeamName": "AKS Volley Łódź",
+        "sets": "3:1",
+        "smallPoints": "103:89",
+        "date": "2026-10-27 13:00",
+        "matchId": "1308102",
+        "match": "AKS Volley Łódź vs Crescendo 1:3",
+        "setScores": [
+          "29:31",
+          "25:22",
+          "19:25",
+          "16:25"
+        ],
+        "winnerSide": "away"
+      }
+    },
+    "lm": {
+      "type": "cup",
+      "label": "Liga Mistrzów",
+      "sourceFile": "baza_lm.csv",
+      "final": {
+        "winnerTeamId": "130607",
+        "winnerTeamName": "Dano Dream Team",
+        "runnerUpTeamId": "129782",
+        "runnerUpTeamName": "VC Minyor Pernik",
+        "sets": "3:2",
+        "smallPoints": "109:102",
+        "date": "2026-10-27 13:00",
+        "matchId": "1308101",
+        "match": "Dano Dream Team vs VC Minyor Pernik 3:2",
+        "setScores": [
+          "27:25",
+          "19:25",
+          "25:16",
+          "23:25",
+          "15:11"
+        ],
+        "winnerSide": "home"
+      }
+    }
+  }
+}
