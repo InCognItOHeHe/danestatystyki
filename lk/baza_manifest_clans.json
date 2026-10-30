@@ -1,26 +1,26 @@
 ﻿{
   "version": "clan-export-v1",
-  "generatedAt": "2026-10-24T11:11:04.969Z",
+  "generatedAt": "2026-10-30T20:25:40.061Z",
   "leagues": {
     "liga_klanow_1_1": {
       "file": "baza_liga_klanow_1_1.csv",
-      "rows": 3032
+      "rows": 3514
     },
     "liga_klanow_2_1": {
       "file": "baza_liga_klanow_2_1.csv",
-      "rows": 2755
+      "rows": 3194
     },
     "liga_klanow_2_2": {
       "file": "baza_liga_klanow_2_2.csv",
-      "rows": 2789
+      "rows": 3265
     },
     "liga_klanow_2_3": {
       "file": "baza_liga_klanow_2_3.csv",
-      "rows": 2741
+      "rows": 3187
     },
     "liga_klanow_2_4": {
       "file": "baza_liga_klanow_2_4.csv",
-      "rows": 2827
+      "rows": 3310
     }
   }
 }
