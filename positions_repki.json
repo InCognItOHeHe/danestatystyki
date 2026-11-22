@@ -1,4 +1,4 @@
-﻿{
+{
   "1681783|153599": {
     "pozycja": "L",
     "teamId": "153599",
@@ -24,7 +24,7 @@
     "salary": 424816
   },
   "1681866|153599": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153599",
     "playerId": "1681866",
     "name": "Vladimirov, Boyko",
@@ -92,7 +92,7 @@
     "lastName": "Campello",
     "heightCm": 183,
     "age": 30,
-    "value": 89159,
+    "value": 89032,
     "salary": 39963
   },
   "1709576|153601": {
@@ -104,7 +104,7 @@
     "lastName": "Chaves",
     "heightCm": 196,
     "age": 30,
-    "value": 89444,
+    "value": 89316,
     "salary": 38999
   },
   "1709653|153602": {
@@ -120,7 +120,7 @@
     "salary": 151738
   },
   "1709974|153611": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153611",
     "playerId": "1709974",
     "name": "Benek, Şahin",
@@ -128,11 +128,11 @@
     "lastName": "Benek",
     "heightCm": 188,
     "age": 29,
-    "value": 627562,
+    "value": 611390,
     "salary": 304357
   },
   "1709975|153611": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153611",
     "playerId": "1709975",
     "name": "Yücel, Gökben",
@@ -152,7 +152,7 @@
     "lastName": "Sofroniev",
     "heightCm": 189,
     "age": 29,
-    "value": 129226,
+    "value": 125716,
     "salary": 62519
   },
   "1724725|153612": {
@@ -168,7 +168,7 @@
     "salary": 37647
   },
   "1724889|153606": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153606",
     "playerId": "1724889",
     "name": "Jareš, Tibor",
@@ -180,7 +180,7 @@
     "salary": 150654
   },
   "1724977|153618": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153618",
     "playerId": "1724977",
     "name": "Trifković, Adin",
@@ -192,7 +192,7 @@
     "salary": 544418
   },
   "1724993|153597": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153597",
     "playerId": "1724993",
     "name": "Holguin, Calvin",
@@ -200,11 +200,11 @@
     "lastName": "Holguin",
     "heightCm": 205,
     "age": 29,
-    "value": 519515,
+    "value": 506104,
     "salary": 250549
   },
   "1725025|153601": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153601",
     "playerId": "1725025",
     "name": "Baeta, Joel",
@@ -224,11 +224,11 @@
     "lastName": "Lazić",
     "heightCm": 198,
     "age": 28,
-    "value": 126931,
+    "value": 126370,
     "salary": 62102
   },
   "1725106|153611": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153611",
     "playerId": "1725106",
     "name": "Asuela, Öner",
@@ -236,7 +236,7 @@
     "lastName": "Asuela",
     "heightCm": 208,
     "age": 28,
-    "value": 154731,
+    "value": 154003,
     "salary": 76581
   },
   "1725191|153596": {
@@ -264,7 +264,7 @@
     "salary": 23996
   },
   "1725262|153593": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153593",
     "playerId": "1725262",
     "name": "Wnuk, Grzegorz",
@@ -272,7 +272,7 @@
     "lastName": "Wnuk",
     "heightCm": 188,
     "age": 28,
-    "value": 763315,
+    "value": 762679,
     "salary": 376205
   },
   "1725341|153593": {
@@ -288,7 +288,7 @@
     "salary": 548630
   },
   "1725397|153608": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153608",
     "playerId": "1725397",
     "name": "Siimes, Petri",
@@ -300,7 +300,7 @@
     "salary": 124789
   },
   "1744625|153601": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153601",
     "playerId": "1744625",
     "name": "Morais, Fábio",
@@ -312,7 +312,7 @@
     "salary": 506859
   },
   "1744746|153596": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153596",
     "playerId": "1744746",
     "name": "Fohn, Hinrich",
@@ -324,7 +324,7 @@
     "salary": 44299
   },
   "1744844|153601": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153601",
     "playerId": "1744844",
     "name": "Fasano, Ibsen",
@@ -332,11 +332,11 @@
     "lastName": "Fasano",
     "heightCm": 210,
     "age": 29,
-    "value": 85217,
+    "value": 85151,
     "salary": 37230
   },
   "1744886|153617": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153617",
     "playerId": "1744886",
     "name": "Nunez, Jake",
@@ -360,7 +360,7 @@
     "salary": 131868
   },
   "1745058|153595": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153595",
     "playerId": "1745058",
     "name": "Macron, Colin",
@@ -384,7 +384,7 @@
     "salary": 35541
   },
   "1745091|153616": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153616",
     "playerId": "1745091",
     "name": "Yau, Tat-wah",
@@ -392,7 +392,7 @@
     "lastName": "Yau",
     "heightCm": 194,
     "age": 28,
-    "value": 549581,
+    "value": 548204,
     "salary": 265359
   },
   "1745092|153605": {
@@ -408,7 +408,7 @@
     "salary": 35474
   },
   "1745146|153608": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153608",
     "playerId": "1745146",
     "name": "Lyytinen, Petteri",
@@ -420,7 +420,7 @@
     "salary": 50728
   },
   "1745153|153601": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153601",
     "playerId": "1745153",
     "name": "Souza, Isidoro",
@@ -452,7 +452,7 @@
     "lastName": "Karamanis",
     "heightCm": 204,
     "age": 28,
-    "value": 79314,
+    "value": 79182,
     "salary": 35056
   },
   "1745330|153613": {
@@ -476,7 +476,7 @@
     "lastName": "Radan",
     "heightCm": 176,
     "age": 28,
-    "value": 585147,
+    "value": 570059,
     "salary": 285029
   },
   "1745557|153593": {
@@ -516,7 +516,7 @@
     "salary": 71128
   },
   "1767055|153612": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153612",
     "playerId": "1767055",
     "name": "Orro, Väino",
@@ -540,7 +540,7 @@
     "salary": 99615
   },
   "1767179|153616": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153616",
     "playerId": "1767179",
     "name": "Xuanren, Tat-wah",
@@ -564,7 +564,7 @@
     "salary": 65419
   },
   "1767798|153617": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153617",
     "playerId": "1767798",
     "name": "Bogalho, Demétrio",
@@ -576,7 +576,7 @@
     "salary": 254139
   },
   "1767863|153615": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153615",
     "playerId": "1767863",
     "name": "Ďurica, László",
@@ -584,7 +584,7 @@
     "lastName": "Ďurica",
     "heightCm": 214,
     "age": 28,
-    "value": 232759,
+    "value": 230794,
     "salary": 114023
   },
   "1767866|153613": {
@@ -600,7 +600,7 @@
     "salary": 41342
   },
   "1767943|153606": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153606",
     "playerId": "1767943",
     "name": "Blazek, Zdislav",
@@ -612,7 +612,7 @@
     "salary": 109775
   },
   "1767965|153603": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153603",
     "playerId": "1767965",
     "name": "Hozumi, Tomoaki",
@@ -620,11 +620,11 @@
     "lastName": "Hozumi",
     "heightCm": 208,
     "age": 28,
-    "value": 201966,
+    "value": 200895,
     "salary": 419890
   },
   "1864112|153603": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153603",
     "playerId": "1864112",
     "name": "Onohara, Kiiton",
@@ -644,7 +644,7 @@
     "lastName": "Luchev",
     "heightCm": 186,
     "age": 28,
-    "value": 177601,
+    "value": 177071,
     "salary": 87951
   },
   "1864270|153595": {
@@ -672,7 +672,7 @@
     "salary": 59388
   },
   "1864300|153599": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153599",
     "playerId": "1864300",
     "name": "Gavrilov, Orlin",
@@ -680,11 +680,11 @@
     "lastName": "Gavrilov",
     "heightCm": 218,
     "age": 28,
-    "value": 268802,
+    "value": 261712,
     "salary": 130249
   },
   "1864304|153595": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153595",
     "playerId": "1864304",
     "name": "Stern, Yannick",
@@ -692,7 +692,7 @@
     "lastName": "Stern",
     "heightCm": 205,
     "age": 28,
-    "value": 129603,
+    "value": 133144,
     "salary": 64265
   },
   "1864345|153594": {
@@ -720,7 +720,7 @@
     "salary": 255595
   },
   "1864459|153619": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153619",
     "playerId": "1864459",
     "name": "Piscanu, Constantin",
@@ -756,7 +756,7 @@
     "salary": 60445
   },
   "1864481|153606": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153606",
     "playerId": "1864481",
     "name": "Vojtechovsky, Robert",
@@ -764,7 +764,7 @@
     "lastName": "Vojtechovsky",
     "heightCm": 191,
     "age": 27,
-    "value": 339270,
+    "value": 330463,
     "salary": 165110
   },
   "1864555|153616": {
@@ -828,7 +828,7 @@
     "salary": 214055
   },
   "1864875|153612": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153612",
     "playerId": "1864875",
     "name": "Lehepuu, Kurni",
@@ -836,7 +836,7 @@
     "lastName": "Lehepuu",
     "heightCm": 204,
     "age": 28,
-    "value": 341526,
+    "value": 340772,
     "salary": 163570
   },
   "1864879|153614": {
@@ -852,7 +852,7 @@
     "salary": 37317
   },
   "1864912|153593": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153593",
     "playerId": "1864912",
     "name": "Czudaj, Bartosz",
@@ -884,11 +884,11 @@
     "lastName": "Flajs",
     "heightCm": 195,
     "age": 28,
-    "value": 129254,
-    "salary": 64362
+    "value": 128864,
+    "salary": 64023
   },
   "1864959|153604": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153604",
     "playerId": "1864959",
     "name": "Jovičić, Slavko",
@@ -900,7 +900,7 @@
     "salary": 239397
   },
   "1864965|153599": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153599",
     "playerId": "1864965",
     "name": "Lenkov, Boris",
@@ -936,7 +936,7 @@
     "salary": 209219
   },
   "1865011|153620": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153620",
     "playerId": "1865011",
     "name": "Saramati, Žiga",
@@ -944,7 +944,7 @@
     "lastName": "Saramati",
     "heightCm": 201,
     "age": 28,
-    "value": 462385,
+    "value": 461563,
     "salary": 223688
   },
   "1865033|153599": {
@@ -960,7 +960,7 @@
     "salary": 373333
   },
   "1865039|153593": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153593",
     "playerId": "1865039",
     "name": "Siedlecki, Mikołaj",
@@ -968,11 +968,11 @@
     "lastName": "Siedlecki",
     "heightCm": 191,
     "age": 27,
-    "value": 189575,
+    "value": 189514,
     "salary": 94273
   },
   "1865083|153595": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153595",
     "playerId": "1865083",
     "name": "Gillet, Yann",
@@ -984,7 +984,7 @@
     "salary": 1369611
   },
   "1865085|153595": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153595",
     "playerId": "1865085",
     "name": "Lecomte, Samuel",
@@ -1020,7 +1020,7 @@
     "salary": 128947
   },
   "1865113|153609": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153609",
     "playerId": "1865113",
     "name": "Liveric, Nedjeljko",
@@ -1032,7 +1032,7 @@
     "salary": 72261
   },
   "1865130|153613": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153613",
     "playerId": "1865130",
     "name": "Ramos, Morais",
@@ -1052,7 +1052,7 @@
     "lastName": "Louzada",
     "heightCm": 195,
     "age": 27,
-    "value": 144833,
+    "value": 148774,
     "salary": 477356
   },
   "1865183|153596": {
@@ -1076,11 +1076,11 @@
     "lastName": "Božovský",
     "heightCm": 184,
     "age": 28,
-    "value": 169015,
+    "value": 168582,
     "salary": 188810
   },
   "1865203|153620": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153620",
     "playerId": "1865203",
     "name": "Kocic, Dimitrij",
@@ -1092,7 +1092,7 @@
     "salary": 90242
   },
   "1865246|153620": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153620",
     "playerId": "1865246",
     "name": "Kovjenič, Lovro",
@@ -1140,7 +1140,7 @@
     "salary": 350779
   },
   "1865329|153599": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153599",
     "playerId": "1865329",
     "name": "Velichkov, Lyubomir",
@@ -1152,7 +1152,7 @@
     "salary": 1080903
   },
   "1865330|153599": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153599",
     "playerId": "1865330",
     "name": "Peychev, Alexander",
@@ -1160,7 +1160,7 @@
     "lastName": "Peychev",
     "heightCm": 193,
     "age": 27,
-    "value": 946034,
+    "value": 945640,
     "salary": 467679
   },
   "1865353|153595": {
@@ -1188,7 +1188,7 @@
     "salary": 111856
   },
   "1865404|153618": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153618",
     "playerId": "1865404",
     "name": "Jovanović, Faris",
@@ -1200,7 +1200,7 @@
     "salary": 252364
   },
   "1865435|153601": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153601",
     "playerId": "1865435",
     "name": "Neves, Damião",
@@ -1208,7 +1208,7 @@
     "lastName": "Neves",
     "heightCm": 213,
     "age": 28,
-    "value": 215236,
+    "value": 214757,
     "salary": 310475
   },
   "1865454|153593": {
@@ -1224,7 +1224,7 @@
     "salary": 314995
   },
   "1865491|153603": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153603",
     "playerId": "1865491",
     "name": "Bifu, Takenori",
@@ -1248,7 +1248,7 @@
     "salary": 187721
   },
   "1865584|153593": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153593",
     "playerId": "1865584",
     "name": "Jakubowski, Krzysztof",
@@ -1260,7 +1260,7 @@
     "salary": 998081
   },
   "1865639|153594": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153594",
     "playerId": "1865639",
     "name": "Cino, Battista",
@@ -1272,7 +1272,7 @@
     "salary": 374471
   },
   "1865788|153597": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153597",
     "playerId": "1865788",
     "name": "Dick, Rafael",
@@ -1284,7 +1284,7 @@
     "salary": 575473
   },
   "1865812|153617": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153617",
     "playerId": "1865812",
     "name": "Nelson, Jessie",
@@ -1316,7 +1316,7 @@
     "lastName": "Espinhel",
     "heightCm": 183,
     "age": 28,
-    "value": 118263,
+    "value": 115101,
     "salary": 249287
   },
   "1903422|153603": {
@@ -1332,7 +1332,7 @@
     "salary": 169528
   },
   "1903475|153612": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153612",
     "playerId": "1903475",
     "name": "Veikat, Bruno",
@@ -1340,7 +1340,7 @@
     "lastName": "Veikat",
     "heightCm": 209,
     "age": 28,
-    "value": 421651,
+    "value": 420723,
     "salary": 206471
   },
   "1903477|153612": {
@@ -1412,11 +1412,11 @@
     "lastName": "Bernardo",
     "heightCm": 190,
     "age": 28,
-    "value": 93888,
+    "value": 93171,
     "salary": 117902
   },
   "1903994|153596": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153596",
     "playerId": "1903994",
     "name": "Ostendorff, Andreas",
@@ -1424,7 +1424,7 @@
     "lastName": "Ostendorff",
     "heightCm": 203,
     "age": 27,
-    "value": 722802,
+    "value": 720695,
     "salary": 356794
   },
   "1904117|153596": {
@@ -1448,7 +1448,7 @@
     "lastName": "Del Boca",
     "heightCm": 206,
     "age": 27,
-    "value": 204125,
+    "value": 203302,
     "salary": 354168
   },
   "1904213|153596": {
@@ -1476,7 +1476,7 @@
     "salary": 78770
   },
   "1904233|153611": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153611",
     "playerId": "1904233",
     "name": "Ümıt, Alpkan",
@@ -1484,11 +1484,11 @@
     "lastName": "Ümıt",
     "heightCm": 213,
     "age": 27,
-    "value": 408377,
+    "value": 407008,
     "salary": 565124
   },
   "1904269|153601": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153601",
     "playerId": "1904269",
     "name": "Leone, Fabrício",
@@ -1496,11 +1496,11 @@
     "lastName": "Leone",
     "heightCm": 182,
     "age": 27,
-    "value": 667636,
+    "value": 663538,
     "salary": 328187
   },
   "1904311|153602": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153602",
     "playerId": "1904311",
     "name": "Nicasio, Mario",
@@ -1512,7 +1512,7 @@
     "salary": 127929
   },
   "1904325|153611": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153611",
     "playerId": "1904325",
     "name": "Banu, Evrim",
@@ -1520,7 +1520,7 @@
     "lastName": "Banu",
     "heightCm": 190,
     "age": 27,
-    "value": 83284,
+    "value": 82488,
     "salary": 36108
   },
   "1904391|153614": {
@@ -1536,7 +1536,7 @@
     "salary": 314864
   },
   "1904407|153597": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153597",
     "playerId": "1904407",
     "name": "Larsen, Dan",
@@ -1548,7 +1548,7 @@
     "salary": 122124
   },
   "1904420|153617": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153617",
     "playerId": "1904420",
     "name": "Johnson, Kevin",
@@ -1556,7 +1556,7 @@
     "lastName": "Johnson",
     "heightCm": 212,
     "age": 27,
-    "value": 316071,
+    "value": 314808,
     "salary": 774372
   },
   "1904423|153608": {
@@ -1572,7 +1572,7 @@
     "salary": 463407
   },
   "1904434|153597": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153597",
     "playerId": "1904434",
     "name": "Hansell, Noel",
@@ -1580,11 +1580,11 @@
     "lastName": "Hansell",
     "heightCm": 196,
     "age": 27,
-    "value": 580276,
+    "value": 563837,
     "salary": 277098
   },
   "1904435|153597": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153597",
     "playerId": "1904435",
     "name": "Guy, Jon",
@@ -1592,11 +1592,11 @@
     "lastName": "Guy",
     "heightCm": 189,
     "age": 27,
-    "value": 584291,
+    "value": 568690,
     "salary": 281653
   },
   "1904438|153606": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153606",
     "playerId": "1904438",
     "name": "Matoušek, Ernest",
@@ -1616,11 +1616,11 @@
     "lastName": "Malloy",
     "heightCm": 197,
     "age": 27,
-    "value": 168293,
+    "value": 168240,
     "salary": 342245
   },
   "1904499|153593": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153593",
     "playerId": "1904499",
     "name": "Hudziak, Sławomir",
@@ -1632,7 +1632,7 @@
     "salary": 198110
   },
   "1904500|153603": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153603",
     "playerId": "1904500",
     "name": "Mimura, Ryoji",
@@ -1704,7 +1704,7 @@
     "salary": 115862
   },
   "1904576|153600": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153600",
     "playerId": "1904576",
     "name": "Westenend, Arjen",
@@ -1716,7 +1716,7 @@
     "salary": 184653
   },
   "1904598|153596": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153596",
     "playerId": "1904598",
     "name": "Brößler, Magnus",
@@ -1724,11 +1724,11 @@
     "lastName": "Brößler",
     "heightCm": 212,
     "age": 26,
-    "value": 257841,
+    "value": 250875,
     "salary": 122616
   },
   "1904644|153618": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153618",
     "playerId": "1904644",
     "name": "Dedić, Belmin",
@@ -1752,7 +1752,7 @@
     "salary": 195151
   },
   "1904681|153599": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153599",
     "playerId": "1904681",
     "name": "Velichkov, Lachezar",
@@ -1760,11 +1760,11 @@
     "lastName": "Velichkov",
     "heightCm": 213,
     "age": 26,
-    "value": 320967,
+    "value": 320866,
     "salary": 159523
   },
   "1904704|153595": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153595",
     "playerId": "1904704",
     "name": "Brossard, Marcel",
@@ -1772,7 +1772,7 @@
     "lastName": "Brossard",
     "heightCm": 218,
     "age": 26,
-    "value": 340844,
+    "value": 339842,
     "salary": 165144
   },
   "1904713|153603": {
@@ -1800,7 +1800,7 @@
     "salary": 43279
   },
   "1904752|153595": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153595",
     "playerId": "1904752",
     "name": "Foulon, Jean",
@@ -1836,7 +1836,7 @@
     "salary": 324136
   },
   "1904779|153602": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153602",
     "playerId": "1904779",
     "name": "Onetto, Roldán",
@@ -1844,11 +1844,11 @@
     "lastName": "Onetto",
     "heightCm": 206,
     "age": 27,
-    "value": 462434,
+    "value": 461853,
     "salary": 757582
   },
   "1904811|153594": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153594",
     "playerId": "1904811",
     "name": "Valdinoci, Antonello",
@@ -1856,11 +1856,11 @@
     "lastName": "Valdinoci",
     "heightCm": 180,
     "age": 27,
-    "value": 643082,
+    "value": 626514,
     "salary": 311300
   },
   "1904823|153612": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153612",
     "playerId": "1904823",
     "name": "Härm, Niilo",
@@ -1868,7 +1868,7 @@
     "lastName": "Härm",
     "heightCm": 197,
     "age": 27,
-    "value": 136514,
+    "value": 136250,
     "salary": 65631
   },
   "1904865|153606": {
@@ -1956,7 +1956,7 @@
     "salary": 174282
   },
   "1904903|153597": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153597",
     "playerId": "1904903",
     "name": "Spencer, Tony",
@@ -1976,7 +1976,7 @@
     "lastName": "Terrell",
     "heightCm": 189,
     "age": 27,
-    "value": 207691,
+    "value": 207471,
     "salary": 98595
   },
   "1904937|153597": {
@@ -2060,7 +2060,7 @@
     "lastName": "Olsson",
     "heightCm": 178,
     "age": 26,
-    "value": 728326,
+    "value": 725597,
     "salary": 344289
   },
   "1904978|153593": {
@@ -2072,7 +2072,7 @@
     "lastName": "Konieczny",
     "heightCm": 183,
     "age": 27,
-    "value": 242985,
+    "value": 235312,
     "salary": 115311
   },
   "1904982|153593": {
@@ -2088,7 +2088,7 @@
     "salary": 139093
   },
   "1904984|153596": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153596",
     "playerId": "1904984",
     "name": "Tauchnitz, Götz",
@@ -2096,7 +2096,7 @@
     "lastName": "Tauchnitz",
     "heightCm": 214,
     "age": 27,
-    "value": 236863,
+    "value": 235911,
     "salary": 112522
   },
   "1905039|153602": {
@@ -2112,7 +2112,7 @@
     "salary": 475881
   },
   "1905172|153600": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153600",
     "playerId": "1905172",
     "name": "Nagtglas, Winfried",
@@ -2120,11 +2120,11 @@
     "lastName": "Nagtglas",
     "heightCm": 216,
     "age": 27,
-    "value": 258332,
+    "value": 251592,
     "salary": 743576
   },
   "1905214|153616": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153616",
     "playerId": "1905214",
     "name": "Lianting, Xin-Gang",
@@ -2132,11 +2132,11 @@
     "lastName": "Lianting",
     "heightCm": 220,
     "age": 27,
-    "value": 335861,
+    "value": 332276,
     "salary": 176232
   },
   "1905218|153597": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153597",
     "playerId": "1905218",
     "name": "Glenn, Michael",
@@ -2196,7 +2196,7 @@
     "salary": 95273
   },
   "1905277|153618": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153618",
     "playerId": "1905277",
     "name": "Krcmar, Ajdin",
@@ -2208,7 +2208,7 @@
     "salary": 89733
   },
   "1905281|153599": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153599",
     "playerId": "1905281",
     "name": "Yosifov, Hristo",
@@ -2216,11 +2216,11 @@
     "lastName": "Yosifov",
     "heightCm": 213,
     "age": 26,
-    "value": 387624,
+    "value": 387461,
     "salary": 187861
   },
   "1905290|153602": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153602",
     "playerId": "1905290",
     "name": "Acosta, Riccardo",
@@ -2232,7 +2232,7 @@
     "salary": 148682
   },
   "1905302|153602": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153602",
     "playerId": "1905302",
     "name": "Altera, Néstor",
@@ -2268,7 +2268,7 @@
     "salary": 157321
   },
   "1905338|153600": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153600",
     "playerId": "1905338",
     "name": "Aerts, Jari",
@@ -2280,7 +2280,7 @@
     "salary": 215315
   },
   "1905385|153603": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153603",
     "playerId": "1905385",
     "name": "Zushi, Kinya",
@@ -2304,7 +2304,7 @@
     "salary": 41991
   },
   "1905437|153601": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153601",
     "playerId": "1905437",
     "name": "Quadros, Fabrício",
@@ -2312,11 +2312,11 @@
     "lastName": "Quadros",
     "heightCm": 217,
     "age": 26,
-    "value": 283193,
+    "value": 282655,
     "salary": 140243
   },
   "1905455|153610": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153610",
     "playerId": "1905455",
     "name": "Wiels, Sjarel",
@@ -2324,7 +2324,7 @@
     "lastName": "Wiels",
     "heightCm": 190,
     "age": 27,
-    "value": 158116,
+    "value": 157660,
     "salary": 76688
   },
   "1905461|153606": {
@@ -2388,7 +2388,7 @@
     "salary": 116096
   },
   "1905688|153607": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153607",
     "playerId": "1905688",
     "name": "Rafelsberger, Wolfgang",
@@ -2396,7 +2396,7 @@
     "lastName": "Rafelsberger",
     "heightCm": 182,
     "age": 26,
-    "value": 555182,
+    "value": 554254,
     "salary": 274360
   },
   "1905697|153595": {
@@ -2412,7 +2412,7 @@
     "salary": 74539
   },
   "1905703|153617": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153617",
     "playerId": "1905703",
     "name": "de Noronha, Caio",
@@ -2420,11 +2420,11 @@
     "lastName": "de Noronha",
     "heightCm": 219,
     "age": 26,
-    "value": 363990,
+    "value": 354552,
     "salary": 176346
   },
   "1905803|153617": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153617",
     "playerId": "1905803",
     "name": "Rivera, Scott",
@@ -2444,7 +2444,7 @@
     "lastName": "Oese",
     "heightCm": 186,
     "age": 26,
-    "value": 174612,
+    "value": 174277,
     "salary": 317881
   },
   "1905863|153595": {
@@ -2460,7 +2460,7 @@
     "salary": 130939
   },
   "1905864|153595": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153595",
     "playerId": "1905864",
     "name": "Baudet, Sébastien",
@@ -2468,7 +2468,7 @@
     "lastName": "Baudet",
     "heightCm": 186,
     "age": 27,
-    "value": 776801,
+    "value": 775103,
     "salary": 374132
   },
   "1905876|153619": {
@@ -2520,7 +2520,7 @@
     "salary": 226981
   },
   "1926918|153596": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153596",
     "playerId": "1926918",
     "name": "Schüßler, Siegmar",
@@ -2528,11 +2528,11 @@
     "lastName": "Schüßler",
     "heightCm": 205,
     "age": 27,
-    "value": 185104,
+    "value": 183845,
     "salary": 529477
   },
   "1926926|153593": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153593",
     "playerId": "1926926",
     "name": "Szymański, Olaf",
@@ -2540,11 +2540,11 @@
     "lastName": "Szymański",
     "heightCm": 199,
     "age": 27,
-    "value": 693916,
+    "value": 671970,
     "salary": 900911
   },
   "1926930|153598": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153598",
     "playerId": "1926930",
     "name": "Coaña, Roberto",
@@ -2552,7 +2552,7 @@
     "lastName": "Coaña",
     "heightCm": 195,
     "age": 27,
-    "value": 483478,
+    "value": 481155,
     "salary": 235740
   },
   "1926949|153601": {
@@ -2600,11 +2600,11 @@
     "lastName": "Berdrač",
     "heightCm": 182,
     "age": 27,
-    "value": 150121,
+    "value": 145192,
     "salary": 72596
   },
   "1927003|153615": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153615",
     "playerId": "1927003",
     "name": "Darvas, Palo",
@@ -2652,7 +2652,7 @@
     "salary": 260958
   },
   "1927063|153595": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153595",
     "playerId": "1927063",
     "name": "Baud, Antoine",
@@ -2660,11 +2660,11 @@
     "lastName": "Baud",
     "heightCm": 210,
     "age": 26,
-    "value": 770350,
+    "value": 767144,
     "salary": 379713
   },
   "1927210|153613": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153613",
     "playerId": "1927210",
     "name": "de Almeida, Salvador",
@@ -2676,7 +2676,7 @@
     "salary": 298657
   },
   "1927264|153617": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153617",
     "playerId": "1927264",
     "name": "Alcouffe, Marc",
@@ -2684,7 +2684,7 @@
     "lastName": "Alcouffe",
     "heightCm": 206,
     "age": 26,
-    "value": 680437,
+    "value": 656923,
     "salary": 323899
   },
   "1927265|153593": {
@@ -2700,7 +2700,7 @@
     "salary": 120022
   },
   "1927279|153596": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153596",
     "playerId": "1927279",
     "name": "Enslein, Reinert",
@@ -2720,7 +2720,7 @@
     "lastName": "Blažić",
     "heightCm": 195,
     "age": 27,
-    "value": 187186,
+    "value": 186907,
     "salary": 92483
   },
   "1927366|153618": {
@@ -2760,7 +2760,7 @@
     "salary": 117717
   },
   "1927461|153617": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153617",
     "playerId": "1927461",
     "name": "Wiesbauer, Ivan",
@@ -2784,7 +2784,7 @@
     "salary": 85497
   },
   "1927511|153606": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153606",
     "playerId": "1927511",
     "name": "Brabec, Matěj",
@@ -2792,7 +2792,7 @@
     "lastName": "Brabec",
     "heightCm": 189,
     "age": 26,
-    "value": 144662,
+    "value": 143732,
     "salary": 69398
   },
   "1927565|153606": {
@@ -2804,7 +2804,7 @@
     "lastName": "Travnicek",
     "heightCm": 181,
     "age": 27,
-    "value": 156498,
+    "value": 155979,
     "salary": 77042
   },
   "1927642|153604": {
@@ -2816,7 +2816,7 @@
     "lastName": "Vulić",
     "heightCm": 201,
     "age": 26,
-    "value": 166450,
+    "value": 162058,
     "salary": 246546
   },
   "1927728|153616": {
@@ -2880,7 +2880,7 @@
     "salary": 71905
   },
   "1927855|153613": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153613",
     "playerId": "1927855",
     "name": "Gusmão, Aventino",
@@ -2904,7 +2904,7 @@
     "salary": 78383
   },
   "1927870|153613": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153613",
     "playerId": "1927870",
     "name": "Idanha, Gregório",
@@ -2912,7 +2912,7 @@
     "lastName": "Idanha",
     "heightCm": 206,
     "age": 26,
-    "value": 572746,
+    "value": 556751,
     "salary": 585646
   },
   "1927873|153593": {
@@ -2924,7 +2924,7 @@
     "lastName": "Grabowski",
     "heightCm": 191,
     "age": 26,
-    "value": 287740,
+    "value": 286196,
     "salary": 136662
   },
   "1927875|153595": {
@@ -2948,7 +2948,7 @@
     "lastName": "Zaidi",
     "heightCm": 189,
     "age": 26,
-    "value": 146775,
+    "value": 146397,
     "salary": 72627
   },
   "1927955|153601": {
@@ -2972,11 +2972,11 @@
     "lastName": "Okoński",
     "heightCm": 189,
     "age": 26,
-    "value": 203778,
+    "value": 209264,
     "salary": 101705
   },
   "1928033|153599": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153599",
     "playerId": "1928033",
     "name": "Stoev, Angel",
@@ -3000,7 +3000,7 @@
     "salary": 68951
   },
   "1928039|153593": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153593",
     "playerId": "1928039",
     "name": "Biegański, Adam",
@@ -3008,7 +3008,7 @@
     "lastName": "Biegański",
     "heightCm": 216,
     "age": 26,
-    "value": 534786,
+    "value": 519352,
     "salary": 257485
   },
   "1928058|153620": {
@@ -3024,7 +3024,7 @@
     "salary": 75181
   },
   "1928065|153618": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153618",
     "playerId": "1928065",
     "name": "Bekić, Sanjin",
@@ -3048,7 +3048,7 @@
     "salary": 105816
   },
   "1928107|153613": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153613",
     "playerId": "1928107",
     "name": "Ferrobeira, Sandro",
@@ -3060,7 +3060,7 @@
     "salary": 264500
   },
   "1928130|153611": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153611",
     "playerId": "1928130",
     "name": "Önay, Furkan",
@@ -3068,11 +3068,11 @@
     "lastName": "Önay",
     "heightCm": 212,
     "age": 26,
-    "value": 304822,
+    "value": 304758,
     "salary": 145013
   },
   "1928131|153608": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153608",
     "playerId": "1928131",
     "name": "Kokkonen, Esa-Pekka",
@@ -3092,7 +3092,7 @@
     "lastName": "Muhel",
     "heightCm": 176,
     "age": 26,
-    "value": 629859,
+    "value": 626972,
     "salary": 291718
   },
   "1928163|153593": {
@@ -3104,7 +3104,7 @@
     "lastName": "Kuligowski",
     "heightCm": 194,
     "age": 26,
-    "value": 208377,
+    "value": 208111,
     "salary": 101338
   },
   "1928166|153614": {
@@ -3132,7 +3132,7 @@
     "salary": 164866
   },
   "1928196|153619": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153619",
     "playerId": "1928196",
     "name": "Latovlevici, Dracul",
@@ -3156,7 +3156,7 @@
     "salary": 165680
   },
   "1928217|153601": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153601",
     "playerId": "1928217",
     "name": "Cicarelli, Lucrécio",
@@ -3176,11 +3176,11 @@
     "lastName": "Halinen",
     "heightCm": 185,
     "age": 26,
-    "value": 147138,
+    "value": 146287,
     "salary": 292455
   },
   "1928235|153594": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153594",
     "playerId": "1928235",
     "name": "Bottazzi, Federico",
@@ -3216,7 +3216,7 @@
     "salary": 80269
   },
   "1928268|153596": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153596",
     "playerId": "1928268",
     "name": "Beil, Jörn",
@@ -3224,7 +3224,7 @@
     "lastName": "Beil",
     "heightCm": 212,
     "age": 26,
-    "value": 161055,
+    "value": 160625,
     "salary": 79747
   },
   "1928274|153594": {
@@ -3236,7 +3236,7 @@
     "lastName": "Tavolaro",
     "heightCm": 189,
     "age": 26,
-    "value": 181489,
+    "value": 180755,
     "salary": 321327
   },
   "1928276|153593": {
@@ -3252,7 +3252,7 @@
     "salary": 453104
   },
   "1928282|153609": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153609",
     "playerId": "1928282",
     "name": "Vlak, Lovro",
@@ -3264,7 +3264,7 @@
     "salary": 94033
   },
   "1928285|153617": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153617",
     "playerId": "1928285",
     "name": "Terragni, Cesarino",
@@ -3272,11 +3272,11 @@
     "lastName": "Terragni",
     "heightCm": 216,
     "age": 26,
-    "value": 329560,
+    "value": 319652,
     "salary": 705417
   },
   "1928286|153617": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153617",
     "playerId": "1928286",
     "name": "Adar, Adnan",
@@ -3284,11 +3284,11 @@
     "lastName": "Adar",
     "heightCm": 220,
     "age": 26,
-    "value": 340378,
+    "value": 339770,
     "salary": 167278
   },
   "1928337|153610": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153610",
     "playerId": "1928337",
     "name": "de Sax, Alexei",
@@ -3296,11 +3296,11 @@
     "lastName": "de Sax",
     "heightCm": 208,
     "age": 26,
-    "value": 306239,
+    "value": 303956,
     "salary": 145795
   },
   "1928342|153600": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153600",
     "playerId": "1928342",
     "name": "Seunke, Tygo",
@@ -3324,7 +3324,7 @@
     "salary": 576177
   },
   "1928421|153598": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153598",
     "playerId": "1928421",
     "name": "Argenté, Gonzalo",
@@ -3336,7 +3336,7 @@
     "salary": 201803
   },
   "1928422|153604": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153604",
     "playerId": "1928422",
     "name": "Gvozdenović, Andrija",
@@ -3344,7 +3344,7 @@
     "lastName": "Gvozdenović",
     "heightCm": 201,
     "age": 26,
-    "value": 534395,
+    "value": 529278,
     "salary": 254912
   },
   "1928456|153605": {
@@ -3372,7 +3372,7 @@
     "salary": 53069
   },
   "1928473|153593": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153593",
     "playerId": "1928473",
     "name": "Majcher, Michał",
@@ -3396,7 +3396,7 @@
     "salary": 350559
   },
   "1928496|153608": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153608",
     "playerId": "1928496",
     "name": "Hämäläinen, Carl-Adam",
@@ -3404,7 +3404,7 @@
     "lastName": "Hämäläinen",
     "heightCm": 209,
     "age": 25,
-    "value": 431399,
+    "value": 429819,
     "salary": 207491
   },
   "1928510|153607": {
@@ -3419,20 +3419,8 @@
     "value": 401832,
     "salary": 193344
   },
-  "1928516|153601": {
-    "pozycja": "L",
-    "teamId": "153601",
-    "playerId": "1928516",
-    "name": "Abreu, Nelson",
-    "firstName": "Nelson",
-    "lastName": "Abreu",
-    "heightCm": 177,
-    "age": 26,
-    "value": 1041425,
-    "salary": 477221
-  },
   "1928529|153603": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153603",
     "playerId": "1928529",
     "name": "Tôchika, Kazuhisa",
@@ -3440,11 +3428,11 @@
     "lastName": "Tôchika",
     "heightCm": 204,
     "age": 26,
-    "value": 383858,
+    "value": 381127,
     "salary": 591271
   },
   "1928531|153604": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153604",
     "playerId": "1928531",
     "name": "Smiljanić, Darko",
@@ -3452,7 +3440,7 @@
     "lastName": "Smiljanić",
     "heightCm": 200,
     "age": 26,
-    "value": 535569,
+    "value": 525967,
     "salary": 251599
   },
   "1928550|153609": {
@@ -3480,7 +3468,7 @@
     "salary": 114289
   },
   "1928559|153595": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153595",
     "playerId": "1928559",
     "name": "Lafolie, Philippe",
@@ -3524,11 +3512,11 @@
     "lastName": "Altenburg",
     "heightCm": 175,
     "age": 25,
-    "value": 754690,
+    "value": 753903,
     "salary": 366831
   },
   "1928601|153618": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153618",
     "playerId": "1928601",
     "name": "Silajdžić, Sulejman",
@@ -3540,7 +3528,7 @@
     "salary": 114763
   },
   "1928604|153599": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153599",
     "playerId": "1928604",
     "name": "Popov, Metodi",
@@ -3560,11 +3548,11 @@
     "lastName": "Mladenov",
     "heightCm": 194,
     "age": 26,
-    "value": 208798,
+    "value": 202504,
     "salary": 99618
   },
   "1928726|153612": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153612",
     "playerId": "1928726",
     "name": "Kibuspuu, Ote",
@@ -3572,7 +3560,7 @@
     "lastName": "Kibuspuu",
     "heightCm": 206,
     "age": 26,
-    "value": 520004,
+    "value": 519081,
     "salary": 254379
   },
   "1928752|153595": {
@@ -3588,7 +3576,7 @@
     "salary": 114520
   },
   "1928798|153597": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153597",
     "playerId": "1928798",
     "name": "Davis, Grady",
@@ -3596,7 +3584,7 @@
     "lastName": "Davis",
     "heightCm": 220,
     "age": 25,
-    "value": 452230,
+    "value": 450811,
     "salary": 223454
   },
   "1928799|153599": {
@@ -3608,11 +3596,11 @@
     "lastName": "Kirov",
     "heightCm": 186,
     "age": 26,
-    "value": 271857,
+    "value": 263795,
     "salary": 129891
   },
   "1928800|153607": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153607",
     "playerId": "1928800",
     "name": "Wössner, Ramon",
@@ -3620,7 +3608,7 @@
     "lastName": "Wössner",
     "heightCm": 196,
     "age": 26,
-    "value": 283282,
+    "value": 281524,
     "salary": 135642
   },
   "1928809|153598": {
@@ -3644,11 +3632,11 @@
     "lastName": "Avramov",
     "heightCm": 200,
     "age": 26,
-    "value": 263962,
+    "value": 263850,
     "salary": 127794
   },
   "1928848|153601": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153601",
     "playerId": "1928848",
     "name": "dos Reis, Anderson",
@@ -3656,7 +3644,7 @@
     "lastName": "dos Reis",
     "heightCm": 220,
     "age": 26,
-    "value": 362273,
+    "value": 361665,
     "salary": 172260
   },
   "1928853|153605": {
@@ -3672,7 +3660,7 @@
     "salary": 53638
   },
   "1928863|153596": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153596",
     "playerId": "1928863",
     "name": "Gransee, Oliver",
@@ -3680,11 +3668,11 @@
     "lastName": "Gransee",
     "heightCm": 188,
     "age": 25,
-    "value": 619165,
+    "value": 616391,
     "salary": 301446
   },
   "1928886|153602": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153602",
     "playerId": "1928886",
     "name": "Alfano, Juan",
@@ -3692,7 +3680,7 @@
     "lastName": "Alfano",
     "heightCm": 199,
     "age": 26,
-    "value": 337526,
+    "value": 333607,
     "salary": 163158
   },
   "1928899|153609": {
@@ -3704,7 +3692,7 @@
     "lastName": "Slavica",
     "heightCm": 199,
     "age": 26,
-    "value": 153590,
+    "value": 153508,
     "salary": 73862
   },
   "1928909|153602": {
@@ -3728,11 +3716,11 @@
     "lastName": "Schimmer",
     "heightCm": 185,
     "age": 26,
-    "value": 213711,
+    "value": 213190,
     "salary": 104100
   },
   "1928917|153613": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153613",
     "playerId": "1928917",
     "name": "Salazar, Aldonio",
@@ -3740,11 +3728,11 @@
     "lastName": "Salazar",
     "heightCm": 201,
     "age": 26,
-    "value": 192156,
+    "value": 191931,
     "salary": 91502
   },
   "1928919|153603": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153603",
     "playerId": "1928919",
     "name": "Shirota, Tsumasaburo",
@@ -3752,7 +3740,7 @@
     "lastName": "Shirota",
     "heightCm": 214,
     "age": 26,
-    "value": 335367,
+    "value": 334556,
     "salary": 163519
   },
   "1928939|153603": {
@@ -3788,7 +3776,7 @@
     "lastName": "Balkanski",
     "heightCm": 196,
     "age": 26,
-    "value": 328902,
+    "value": 328798,
     "salary": 159255
   },
   "1928994|153594": {
@@ -3804,7 +3792,7 @@
     "salary": 83074
   },
   "1929008|153594": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153594",
     "playerId": "1929008",
     "name": "Savio, Arcangelo",
@@ -3812,7 +3800,7 @@
     "lastName": "Savio",
     "heightCm": 213,
     "age": 25,
-    "value": 265950,
+    "value": 264604,
     "salary": 477545
   },
   "1929014|153601": {
@@ -3860,7 +3848,7 @@
     "lastName": "Rabbering",
     "heightCm": 185,
     "age": 25,
-    "value": 668822,
+    "value": 639467,
     "salary": 311919
   },
   "1929068|153614": {
@@ -3876,7 +3864,7 @@
     "salary": 77349
   },
   "1929075|153619": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153619",
     "playerId": "1929075",
     "name": "Iorga, Anton",
@@ -3908,11 +3896,11 @@
     "lastName": "Hongkai",
     "heightCm": 182,
     "age": 26,
-    "value": 122378,
+    "value": 121625,
     "salary": 188994
   },
   "1929119|153593": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153593",
     "playerId": "1929119",
     "name": "Łukaszewski, Łukasz",
@@ -3932,11 +3920,11 @@
     "lastName": "Marola",
     "heightCm": 184,
     "age": 26,
-    "value": 167414,
+    "value": 165457,
     "salary": 79143
   },
   "1929135|153614": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153614",
     "playerId": "1929135",
     "name": "Ashton, Jacob",
@@ -3956,11 +3944,11 @@
     "lastName": "Tadić",
     "heightCm": 209,
     "age": 26,
-    "value": 197169,
+    "value": 195436,
     "salary": 96344
   },
   "1929182|153594": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153594",
     "playerId": "1929182",
     "name": "Toniolo, Leone",
@@ -3972,7 +3960,7 @@
     "salary": 70777
   },
   "1929226|153607": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153607",
     "playerId": "1929226",
     "name": "Haslinger, Oscar",
@@ -3992,11 +3980,11 @@
     "lastName": "Yurukov",
     "heightCm": 198,
     "age": 25,
-    "value": 202633,
+    "value": 201923,
     "salary": 96642
   },
   "1929237|153611": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153611",
     "playerId": "1929237",
     "name": "Furkan, Devrim",
@@ -4004,7 +3992,7 @@
     "lastName": "Furkan",
     "heightCm": 213,
     "age": 26,
-    "value": 274540,
+    "value": 269086,
     "salary": 271403
   },
   "1929261|153616": {
@@ -4044,7 +4032,7 @@
     "salary": 41551
   },
   "1929446|153612": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153612",
     "playerId": "1929446",
     "name": "Kapten, Ervin",
@@ -4052,7 +4040,7 @@
     "lastName": "Kapten",
     "heightCm": 194,
     "age": 26,
-    "value": 121586,
+    "value": 117573,
     "salary": 57982
   },
   "1929493|153597": {
@@ -4116,7 +4104,7 @@
     "salary": 139564
   },
   "1929528|153618": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153618",
     "playerId": "1929528",
     "name": "Kršmanović, Kerim",
@@ -4124,11 +4112,11 @@
     "lastName": "Kršmanović",
     "heightCm": 219,
     "age": 26,
-    "value": 358373,
+    "value": 354514,
     "salary": 170350
   },
   "1929558|153611": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153611",
     "playerId": "1929558",
     "name": "Örsan, Ayberk",
@@ -4140,7 +4128,7 @@
     "salary": 110300
   },
   "1929560|153607": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153607",
     "playerId": "1929560",
     "name": "Bettelheim, Gerald",
@@ -4148,7 +4136,7 @@
     "lastName": "Bettelheim",
     "heightCm": 198,
     "age": 26,
-    "value": 178798,
+    "value": 177999,
     "salary": 219533
   },
   "1929570|153615": {
@@ -4160,7 +4148,7 @@
     "lastName": "Dubašák",
     "heightCm": 194,
     "age": 26,
-    "value": 104431,
+    "value": 103637,
     "salary": 50733
   },
   "1929598|153598": {
@@ -4224,7 +4212,7 @@
     "salary": 240225
   },
   "1948952|153611": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153611",
     "playerId": "1948952",
     "name": "Aykut, Baykal",
@@ -4236,7 +4224,7 @@
     "salary": 139093
   },
   "1948961|153618": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153618",
     "playerId": "1948961",
     "name": "Stokić, Nikola",
@@ -4244,7 +4232,7 @@
     "lastName": "Stokić",
     "heightCm": 211,
     "age": 26,
-    "value": 173274,
+    "value": 172646,
     "salary": 426289
   },
   "1949008|153602": {
@@ -4256,7 +4244,7 @@
     "lastName": "Carnaghi",
     "heightCm": 209,
     "age": 26,
-    "value": 183160,
+    "value": 182868,
     "salary": 86646
   },
   "1949018|153593": {
@@ -4316,7 +4304,7 @@
     "lastName": "Cristiano",
     "heightCm": 195,
     "age": 26,
-    "value": 205300,
+    "value": 197989,
     "salary": 97790
   },
   "1949107|153614": {
@@ -4356,7 +4344,7 @@
     "salary": 125224
   },
   "1949173|153620": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153620",
     "playerId": "1949173",
     "name": "Zorc, Mario",
@@ -4364,11 +4352,11 @@
     "lastName": "Zorc",
     "heightCm": 197,
     "age": 26,
-    "value": 511213,
+    "value": 524758,
     "salary": 516841
   },
   "1949516|153610": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153610",
     "playerId": "1949516",
     "name": "Van Den Eynde, Ngagne",
@@ -4380,7 +4368,7 @@
     "salary": 102106
   },
   "1949528|153616": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153616",
     "playerId": "1949528",
     "name": "Changkai, Dai",
@@ -4388,7 +4376,7 @@
     "lastName": "Changkai",
     "heightCm": 195,
     "age": 26,
-    "value": 502831,
+    "value": 489846,
     "salary": 244923
   },
   "1949740|153614": {
@@ -4404,7 +4392,7 @@
     "salary": 36040
   },
   "1949774|153606": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153606",
     "playerId": "1949774",
     "name": "Sejkora, Benes",
@@ -4412,7 +4400,7 @@
     "lastName": "Sejkora",
     "heightCm": 219,
     "age": 25,
-    "value": 322661,
+    "value": 322152,
     "salary": 158168
   },
   "1949776|153604": {
@@ -4440,7 +4428,7 @@
     "salary": 90024
   },
   "1949867|153613": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153613",
     "playerId": "1949867",
     "name": "Catão, Bruno",
@@ -4448,7 +4436,7 @@
     "lastName": "Catão",
     "heightCm": 196,
     "age": 26,
-    "value": 147280,
+    "value": 147059,
     "salary": 71712
   },
   "1949870|153618": {
@@ -4460,7 +4448,7 @@
     "lastName": "Budimir",
     "heightCm": 193,
     "age": 26,
-    "value": 116558,
+    "value": 116343,
     "salary": 56670
   },
   "1949874|153619": {
@@ -4476,7 +4464,7 @@
     "salary": 66486
   },
   "1949892|153613": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153613",
     "playerId": "1949892",
     "name": "Brilhante, Nuno",
@@ -4488,7 +4476,7 @@
     "salary": 153474
   },
   "1949976|153594": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153594",
     "playerId": "1949976",
     "name": "Lecciolino, Marcello",
@@ -4500,7 +4488,7 @@
     "salary": 60714
   },
   "1950000|153601": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153601",
     "playerId": "1950000",
     "name": "Pita, Jacques",
@@ -4580,7 +4568,7 @@
     "lastName": "Grigorov",
     "heightCm": 185,
     "age": 25,
-    "value": 267386,
+    "value": 267076,
     "salary": 131633
   },
   "1950301|153596": {
@@ -4640,7 +4628,7 @@
     "lastName": "Admiraal",
     "heightCm": 201,
     "age": 25,
-    "value": 152475,
+    "value": 152426,
     "salary": 74643
   },
   "1950405|153600": {
@@ -4676,7 +4664,7 @@
     "lastName": "Piras",
     "heightCm": 189,
     "age": 25,
-    "value": 123241,
+    "value": 122788,
     "salary": 287931
   },
   "1950434|153611": {
@@ -4716,7 +4704,7 @@
     "salary": 66357
   },
   "1950481|153602": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153602",
     "playerId": "1950481",
     "name": "Ravera, Giancarlo",
@@ -4740,7 +4728,7 @@
     "salary": 28676
   },
   "1950491|153606": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153606",
     "playerId": "1950491",
     "name": "Brázda, Klement",
@@ -4760,11 +4748,11 @@
     "lastName": "Uchiyama",
     "heightCm": 176,
     "age": 25,
-    "value": 573944,
+    "value": 569166,
     "salary": 262050
   },
   "1950524|153607": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153607",
     "playerId": "1950524",
     "name": "Lindinger, Austin",
@@ -4772,7 +4760,7 @@
     "lastName": "Lindinger",
     "heightCm": 212,
     "age": 25,
-    "value": 241242,
+    "value": 240553,
     "salary": 118118
   },
   "1950526|153599": {
@@ -4824,7 +4812,7 @@
     "salary": 125876
   },
   "1950600|153617": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153617",
     "playerId": "1950600",
     "name": "Garcia, Andres",
@@ -4836,7 +4824,7 @@
     "salary": 237400
   },
   "1950623|153597": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153597",
     "playerId": "1950623",
     "name": "Soto, Beau",
@@ -4868,7 +4856,7 @@
     "lastName": "Stavrović",
     "heightCm": 181,
     "age": 24,
-    "value": 908293,
+    "value": 888922,
     "salary": 399569
   },
   "1950683|153596": {
@@ -4884,7 +4872,7 @@
     "salary": 122772
   },
   "1950697|153602": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153602",
     "playerId": "1950697",
     "name": "Paunero, Miguel",
@@ -4896,7 +4884,7 @@
     "salary": 134472
   },
   "1950699|153605": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153605",
     "playerId": "1950699",
     "name": "Bakas, Raoul",
@@ -4904,7 +4892,7 @@
     "lastName": "Bakas",
     "heightCm": 212,
     "age": 25,
-    "value": 221351,
+    "value": 219457,
     "salary": 104022
   },
   "1950724|153596": {
@@ -4932,7 +4920,7 @@
     "salary": 81525
   },
   "1950765|153608": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153608",
     "playerId": "1950765",
     "name": "Palmgren, Valtteri",
@@ -5000,11 +4988,11 @@
     "lastName": "Milovanović",
     "heightCm": 204,
     "age": 25,
-    "value": 156683,
+    "value": 151627,
     "salary": 71951
   },
   "1950847|153607": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153607",
     "playerId": "1950847",
     "name": "Buchinger, Benedikt",
@@ -5012,7 +5000,7 @@
     "lastName": "Buchinger",
     "heightCm": 218,
     "age": 24,
-    "value": 294432,
+    "value": 289628,
     "salary": 133566
   },
   "1950848|153611": {
@@ -5024,7 +5012,7 @@
     "lastName": "Asel",
     "heightCm": 179,
     "age": 25,
-    "value": 770591,
+    "value": 750766,
     "salary": 375383
   },
   "1950852|153604": {
@@ -5040,7 +5028,7 @@
     "salary": 233645
   },
   "1950865|153619": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153619",
     "playerId": "1950865",
     "name": "Tamas, Ludovic",
@@ -5136,7 +5124,7 @@
     "salary": 314334
   },
   "1951012|153618": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153618",
     "playerId": "1951012",
     "name": "Todorović, Damir",
@@ -5184,7 +5172,7 @@
     "salary": 155123
   },
   "1951104|153594": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153594",
     "playerId": "1951104",
     "name": "Barbero, Bruno",
@@ -5232,7 +5220,7 @@
     "salary": 166028
   },
   "1951208|153616": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153616",
     "playerId": "1951208",
     "name": "Xia, Hua",
@@ -5240,7 +5228,7 @@
     "lastName": "Xia",
     "heightCm": 214,
     "age": 25,
-    "value": 189999,
+    "value": 188407,
     "salary": 232406
   },
   "1951221|153605": {
@@ -5256,7 +5244,7 @@
     "salary": 159154
   },
   "1951243|153596": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153596",
     "playerId": "1951243",
     "name": "Wanderer, Roger",
@@ -5268,7 +5256,7 @@
     "salary": 106821
   },
   "1951244|153596": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153596",
     "playerId": "1951244",
     "name": "Titz, Reinhardt",
@@ -5292,7 +5280,7 @@
     "salary": 167630
   },
   "1951275|153609": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153609",
     "playerId": "1951275",
     "name": "Jelusic, Zvonimir",
@@ -5304,7 +5292,7 @@
     "salary": 149421
   },
   "1951288|153604": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153604",
     "playerId": "1951288",
     "name": "Bosić, Vuk",
@@ -5312,7 +5300,7 @@
     "lastName": "Bosić",
     "heightCm": 206,
     "age": 24,
-    "value": 250477,
+    "value": 249895,
     "salary": 273539
   },
   "1951352|153619": {
@@ -5348,11 +5336,11 @@
     "lastName": "Montenegro",
     "heightCm": 182,
     "age": 25,
-    "value": 213802,
+    "value": 213711,
     "salary": 405706
   },
   "1951408|153595": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153595",
     "playerId": "1951408",
     "name": "Combe, Daniel",
@@ -5360,11 +5348,11 @@
     "lastName": "Combe",
     "heightCm": 220,
     "age": 24,
-    "value": 345899,
+    "value": 343868,
     "salary": 165806
   },
   "1951417|153613": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153613",
     "playerId": "1951417",
     "name": "Barbosa, Lucílio",
@@ -5388,7 +5376,7 @@
     "salary": 128376
   },
   "1951456|153608": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153608",
     "playerId": "1951456",
     "name": "Geitel, Jotaarkka",
@@ -5396,11 +5384,11 @@
     "lastName": "Geitel",
     "heightCm": 189,
     "age": 25,
-    "value": 483276,
+    "value": 482113,
     "salary": 230854
   },
   "1974416|153595": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153595",
     "playerId": "1974416",
     "name": "Pardon, Daniel",
@@ -5408,11 +5396,11 @@
     "lastName": "Pardon",
     "heightCm": 190,
     "age": 25,
-    "value": 236437,
+    "value": 235038,
     "salary": 113048
   },
   "1974463|153598": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153598",
     "playerId": "1974463",
     "name": "Hilla, Tarsaci",
@@ -5424,7 +5412,7 @@
     "salary": 237031
   },
   "1974473|153617": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153617",
     "playerId": "1974473",
     "name": "Forystek, Michał",
@@ -5456,7 +5444,7 @@
     "lastName": "Strobl",
     "heightCm": 193,
     "age": 25,
-    "value": 129142,
+    "value": 128558,
     "salary": 60399
   },
   "1974532|153610": {
@@ -5468,7 +5456,7 @@
     "lastName": "Snoek",
     "heightCm": 195,
     "age": 25,
-    "value": 161573,
+    "value": 161348,
     "salary": 173007
   },
   "1974576|153608": {
@@ -5484,7 +5472,7 @@
     "salary": 99459
   },
   "1974585|153600": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153600",
     "playerId": "1974585",
     "name": "Hoogzaad, Jules",
@@ -5496,7 +5484,7 @@
     "salary": 337945
   },
   "1974588|153614": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153614",
     "playerId": "1974588",
     "name": "Riley, Frank",
@@ -5504,7 +5492,7 @@
     "lastName": "Riley",
     "heightCm": 199,
     "age": 25,
-    "value": 452941,
+    "value": 439800,
     "salary": 212601
   },
   "1974604|153607": {
@@ -5532,7 +5520,7 @@
     "salary": 79457
   },
   "1974851|153613": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153613",
     "playerId": "1974851",
     "name": "Kapinha, Acácio",
@@ -5568,7 +5556,7 @@
     "salary": 256008
   },
   "1975259|153594": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153594",
     "playerId": "1975259",
     "name": "Chiappi, Gigi",
@@ -5576,7 +5564,7 @@
     "lastName": "Chiappi",
     "heightCm": 209,
     "age": 24,
-    "value": 234616,
+    "value": 228482,
     "salary": 228111
   },
   "1975323|153610": {
@@ -5592,7 +5580,7 @@
     "salary": 350121
   },
   "1975353|153610": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153610",
     "playerId": "1975353",
     "name": "Schuddinck, Ulu",
@@ -5640,7 +5628,7 @@
     "salary": 81272
   },
   "1975517|153601": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153601",
     "playerId": "1975517",
     "name": "Ubeda, Thales",
@@ -5684,7 +5672,7 @@
     "lastName": "Smith",
     "heightCm": 184,
     "age": 24,
-    "value": 113292,
+    "value": 113083,
     "salary": 198474
   },
   "1975577|153595": {
@@ -5696,11 +5684,11 @@
     "lastName": "Arnould",
     "heightCm": 206,
     "age": 24,
-    "value": 192054,
+    "value": 191278,
     "salary": 91580
   },
   "1975616|153598": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153598",
     "playerId": "1975616",
     "name": "Cardell, Iván",
@@ -5712,7 +5700,7 @@
     "salary": 88933
   },
   "1975617|153619": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153619",
     "playerId": "1975617",
     "name": "Grumezescu, Henri",
@@ -5724,7 +5712,7 @@
     "salary": 194076
   },
   "1975653|153607": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153607",
     "playerId": "1975653",
     "name": "Gombrich, Viktor",
@@ -5736,7 +5724,7 @@
     "salary": 100223
   },
   "1975683|153608": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153608",
     "playerId": "1975683",
     "name": "Kaurismäki, Kullervo",
@@ -5760,7 +5748,7 @@
     "salary": 386744
   },
   "1975729|153614": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153614",
     "playerId": "1975729",
     "name": "Travers, Paddy",
@@ -5768,7 +5756,7 @@
     "lastName": "Travers",
     "heightCm": 218,
     "age": 24,
-    "value": 246873,
+    "value": 240426,
     "salary": 312900
   },
   "1975734|153595": {
@@ -5780,7 +5768,7 @@
     "lastName": "Besnier",
     "heightCm": 202,
     "age": 24,
-    "value": 169015,
+    "value": 168311,
     "salary": 80545
   },
   "1975736|153607": {
@@ -5820,7 +5808,7 @@
     "salary": 62946
   },
   "1975780|153612": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153612",
     "playerId": "1975780",
     "name": "Haug, Aldis",
@@ -5828,11 +5816,11 @@
     "lastName": "Haug",
     "heightCm": 205,
     "age": 24,
-    "value": 231357,
+    "value": 230208,
     "salary": 112713
   },
   "1975815|153614": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153614",
     "playerId": "1975815",
     "name": "Walton, Joss",
@@ -5840,11 +5828,11 @@
     "lastName": "Walton",
     "heightCm": 220,
     "age": 24,
-    "value": 342101,
+    "value": 338771,
     "salary": 163760
   },
   "1975836|153599": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153599",
     "playerId": "1975836",
     "name": "Kosev, Kiril",
@@ -5852,11 +5840,11 @@
     "lastName": "Kosev",
     "heightCm": 215,
     "age": 24,
-    "value": 297052,
+    "value": 295396,
     "salary": 946021
   },
   "1975858|153605": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153605",
     "playerId": "1975858",
     "name": "Papilias, Yiotis",
@@ -5864,11 +5852,11 @@
     "lastName": "Papilias",
     "heightCm": 205,
     "age": 24,
-    "value": 296926,
+    "value": 296270,
     "salary": 307785
   },
   "1975877|153607": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153607",
     "playerId": "1975877",
     "name": "Cromer, Matthäus",
@@ -5880,7 +5868,7 @@
     "salary": 92828
   },
   "1975878|153610": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153610",
     "playerId": "1975878",
     "name": "Wijsmans, Gabriel",
@@ -5904,7 +5892,7 @@
     "salary": 216560
   },
   "1975894|153611": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153611",
     "playerId": "1975894",
     "name": "Işil, Semih",
@@ -5936,11 +5924,11 @@
     "lastName": "Lemnaru",
     "heightCm": 175,
     "age": 23,
-    "value": 1036775,
+    "value": 1010151,
     "salary": 497769
   },
   "1975989|153603": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153603",
     "playerId": "1975989",
     "name": "Gan, Tesshô",
@@ -5948,7 +5936,7 @@
     "lastName": "Gan",
     "heightCm": 184,
     "age": 24,
-    "value": 528448,
+    "value": 525417,
     "salary": 254698
   },
   "1976031|153605": {
@@ -5964,7 +5952,7 @@
     "salary": 439993
   },
   "1976037|153594": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153594",
     "playerId": "1976037",
     "name": "Melina, Urbano",
@@ -5988,7 +5976,7 @@
     "salary": 43827
   },
   "1976054|153604": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153604",
     "playerId": "1976054",
     "name": "Damjanović, Stanislav",
@@ -6020,7 +6008,7 @@
     "lastName": "Maksimović",
     "heightCm": 178,
     "age": 24,
-    "value": 670289,
+    "value": 688004,
     "salary": 335144
   },
   "1976080|153602": {
@@ -6060,7 +6048,7 @@
     "salary": 242072
   },
   "1976172|153615": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153615",
     "playerId": "1976172",
     "name": "Mečiar, Gašpar",
@@ -6072,7 +6060,7 @@
     "salary": 299295
   },
   "1976174|153595": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153595",
     "playerId": "1976174",
     "name": "Evin, Charles",
@@ -6080,11 +6068,11 @@
     "lastName": "Evin",
     "heightCm": 218,
     "age": 24,
-    "value": 322695,
+    "value": 320798,
     "salary": 153442
   },
   "1976190|153593": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153593",
     "playerId": "1976190",
     "name": "Sochacki, Tomasz",
@@ -6092,7 +6080,7 @@
     "lastName": "Sochacki",
     "heightCm": 220,
     "age": 24,
-    "value": 275906,
+    "value": 266203,
     "salary": 692595
   },
   "1976194|153616": {
@@ -6104,11 +6092,11 @@
     "lastName": "Jun",
     "heightCm": 198,
     "age": 24,
-    "value": 239841,
+    "value": 231873,
     "salary": 113854
   },
   "1976199|153616": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153616",
     "playerId": "1976199",
     "name": "Yuze, Ma",
@@ -6116,7 +6104,7 @@
     "lastName": "Yuze",
     "heightCm": 218,
     "age": 24,
-    "value": 308928,
+    "value": 306529,
     "salary": 144250
   },
   "1976200|153595": {
@@ -6144,7 +6132,7 @@
     "salary": 103581
   },
   "1976224|153606": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153606",
     "playerId": "1976224",
     "name": "Beyvl, Svec",
@@ -6152,7 +6140,7 @@
     "lastName": "Beyvl",
     "heightCm": 220,
     "age": 24,
-    "value": 257378,
+    "value": 249393,
     "salary": 121454
   },
   "1976242|153604": {
@@ -6164,7 +6152,7 @@
     "lastName": "Samardžić",
     "heightCm": 185,
     "age": 24,
-    "value": 105908,
+    "value": 104990,
     "salary": 50568
   },
   "1976250|153596": {
@@ -6192,7 +6180,7 @@
     "salary": 61149
   },
   "1976259|153593": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153593",
     "playerId": "1976259",
     "name": "Kwiatkowski, Piotr",
@@ -6200,7 +6188,7 @@
     "lastName": "Kwiatkowski",
     "heightCm": 204,
     "age": 24,
-    "value": 204450,
+    "value": 204277,
     "salary": 95395
   },
   "1976260|153604": {
@@ -6224,7 +6212,7 @@
     "lastName": "Jianwen",
     "heightCm": 182,
     "age": 24,
-    "value": 152966,
+    "value": 152279,
     "salary": 236438
   },
   "1976283|153620": {
@@ -6240,7 +6228,7 @@
     "salary": 97251
   },
   "1976292|153605": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153605",
     "playerId": "1976292",
     "name": "Tsarouchitis, Elias",
@@ -6248,7 +6236,7 @@
     "lastName": "Tsarouchitis",
     "heightCm": 201,
     "age": 24,
-    "value": 254563,
+    "value": 246873,
     "salary": 118909
   },
   "1976307|153596": {
@@ -6276,7 +6264,7 @@
     "salary": 308292
   },
   "1976327|153605": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153605",
     "playerId": "1976327",
     "name": "Charoupas, Andreas",
@@ -6284,11 +6272,11 @@
     "lastName": "Charoupas",
     "heightCm": 197,
     "age": 23,
-    "value": 455368,
+    "value": 450622,
     "salary": 214864
   },
   "1976332|153620": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153620",
     "playerId": "1976332",
     "name": "Zajc, Leo",
@@ -6296,7 +6284,7 @@
     "lastName": "Zajc",
     "heightCm": 211,
     "age": 24,
-    "value": 326178,
+    "value": 315572,
     "salary": 368891
   },
   "1976344|153597": {
@@ -6324,7 +6312,7 @@
     "salary": 393993
   },
   "1976374|153600": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153600",
     "playerId": "1976374",
     "name": "Drent, Robertus",
@@ -6332,11 +6320,11 @@
     "lastName": "Drent",
     "heightCm": 210,
     "age": 24,
-    "value": 187386,
+    "value": 186788,
     "salary": 87474
   },
   "1976375|153600": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153600",
     "playerId": "1976375",
     "name": "Plasterk, Jernst",
@@ -6368,7 +6356,7 @@
     "lastName": "Garcia",
     "heightCm": 189,
     "age": 24,
-    "value": 112777,
+    "value": 111802,
     "salary": 53855
   },
   "1976410|153593": {
@@ -6380,11 +6368,11 @@
     "lastName": "Jakubik",
     "heightCm": 193,
     "age": 24,
-    "value": 201601,
+    "value": 200724,
     "salary": 95618
   },
   "1976412|153600": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153600",
     "playerId": "1976412",
     "name": "Hartland, Rijk",
@@ -6392,7 +6380,7 @@
     "lastName": "Hartland",
     "heightCm": 206,
     "age": 23,
-    "value": 248866,
+    "value": 247370,
     "salary": 348479
   },
   "1976426|153594": {
@@ -6420,7 +6408,7 @@
     "salary": 114083
   },
   "1976557|153596": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153596",
     "playerId": "1976557",
     "name": "Steinert, Korkmaz",
@@ -6432,7 +6420,7 @@
     "salary": 259296
   },
   "1976580|153598": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153598",
     "playerId": "1976580",
     "name": "Toledano, Robustiano",
@@ -6456,7 +6444,7 @@
     "salary": 52426
   },
   "1976595|153619": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153619",
     "playerId": "1976595",
     "name": "Mutu, Marku",
@@ -6476,7 +6464,7 @@
     "lastName": "Le Gac",
     "heightCm": 209,
     "age": 23,
-    "value": 148551,
+    "value": 148041,
     "salary": 70111
   },
   "1976652|153620": {
@@ -6504,7 +6492,7 @@
     "salary": 63850
   },
   "1976654|153605": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153605",
     "playerId": "1976654",
     "name": "Kavalekas, Orfeas",
@@ -6560,11 +6548,11 @@
     "lastName": "Pavlović",
     "heightCm": 189,
     "age": 23,
-    "value": 111498,
+    "value": 110943,
     "salary": 111292
   },
   "1976740|153604": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153604",
     "playerId": "1976740",
     "name": "Ranisavljević, Marko",
@@ -6572,7 +6560,7 @@
     "lastName": "Ranisavljević",
     "heightCm": 219,
     "age": 24,
-    "value": 193552,
+    "value": 193161,
     "salary": 93026
   },
   "1976894|153610": {
@@ -6600,7 +6588,7 @@
     "salary": 51841
   },
   "1976916|153602": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153602",
     "playerId": "1976916",
     "name": "Donatelli, Castulo",
@@ -6608,7 +6596,7 @@
     "lastName": "Donatelli",
     "heightCm": 206,
     "age": 24,
-    "value": 126274,
+    "value": 126083,
     "salary": 60628
   },
   "1976945|153597": {
@@ -6644,7 +6632,7 @@
     "lastName": "Babic",
     "heightCm": 193,
     "age": 24,
-    "value": 183473,
+    "value": 182673,
     "salary": 86785
   },
   "2002292|153602": {
@@ -6768,7 +6756,7 @@
     "salary": 43488
   },
   "2002929|153611": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153611",
     "playerId": "2002929",
     "name": "Yarkın, Ayben",
@@ -6776,11 +6764,11 @@
     "lastName": "Yarkın",
     "heightCm": 184,
     "age": 24,
-    "value": 396096,
+    "value": 391755,
     "salary": 191949
   },
   "2002946|153619": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153619",
     "playerId": "2002946",
     "name": "Sanmartean, Brăduț",
@@ -6864,7 +6852,7 @@
     "salary": 64843
   },
   "2003172|153605": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153605",
     "playerId": "2003172",
     "name": "Fotopoulos, Aggelos",
@@ -6872,7 +6860,7 @@
     "lastName": "Fotopoulos",
     "heightCm": 208,
     "age": 24,
-    "value": 390565,
+    "value": 389868,
     "salary": 190683
   },
   "2003195|153594": {
@@ -6888,7 +6876,7 @@
     "salary": 53255
   },
   "2003215|153610": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153610",
     "playerId": "2003215",
     "name": "Van Brussel, Rik",
@@ -6896,7 +6884,7 @@
     "lastName": "Van Brussel",
     "heightCm": 193,
     "age": 23,
-    "value": 414635,
+    "value": 412120,
     "salary": 196743
   },
   "2003219|153606": {
@@ -6936,7 +6924,7 @@
     "salary": 616211
   },
   "2003328|153604": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153604",
     "playerId": "2003328",
     "name": "Kolacić, Žarko",
@@ -6948,7 +6936,7 @@
     "salary": 87801
   },
   "2003344|153606": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153606",
     "playerId": "2003344",
     "name": "Tomšík, Karl",
@@ -6956,7 +6944,7 @@
     "lastName": "Tomšík",
     "heightCm": 209,
     "age": 23,
-    "value": 257133,
+    "value": 255858,
     "salary": 123802
   },
   "2003349|153614": {
@@ -6972,7 +6960,7 @@
     "salary": 286313
   },
   "2003351|153615": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153615",
     "playerId": "2003351",
     "name": "Búřil, Alojz",
@@ -6980,7 +6968,7 @@
     "lastName": "Búřil",
     "heightCm": 214,
     "age": 23,
-    "value": 263516,
+    "value": 261989,
     "salary": 126784
   },
   "2003360|153610": {
@@ -7028,7 +7016,7 @@
     "lastName": "Svorník",
     "heightCm": 204,
     "age": 23,
-    "value": 181044,
+    "value": 180485,
     "salary": 87586
   },
   "2003481|153598": {
@@ -7044,7 +7032,7 @@
     "salary": 328530
   },
   "2003486|153603": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153603",
     "playerId": "2003486",
     "name": "Miyazaki, Kôjiro",
@@ -7052,11 +7040,11 @@
     "lastName": "Miyazaki",
     "heightCm": 214,
     "age": 22,
-    "value": 251140,
+    "value": 248734,
     "salary": 119439
   },
   "2003501|153593": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153593",
     "playerId": "2003501",
     "name": "Nowak, Antoni",
@@ -7064,7 +7052,7 @@
     "lastName": "Nowak",
     "heightCm": 196,
     "age": 23,
-    "value": 617422,
+    "value": 592776,
     "salary": 267477
   },
   "2003506|153602": {
@@ -7076,7 +7064,7 @@
     "lastName": "Díaz",
     "heightCm": 183,
     "age": 22,
-    "value": 728174,
+    "value": 712994,
     "salary": 335844
   },
   "2003528|153603": {
@@ -7092,7 +7080,7 @@
     "salary": 181727
   },
   "2003544|153608": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153608",
     "playerId": "2003544",
     "name": "Fagerström, Einojuhani",
@@ -7100,7 +7088,7 @@
     "lastName": "Fagerström",
     "heightCm": 217,
     "age": 23,
-    "value": 208620,
+    "value": 207163,
     "salary": 96529
   },
   "2003552|153593": {
@@ -7136,7 +7124,7 @@
     "lastName": "Jowitt",
     "heightCm": 179,
     "age": 22,
-    "value": 516049,
+    "value": 505469,
     "salary": 214234
   },
   "2003623|153598": {
@@ -7176,7 +7164,7 @@
     "salary": 452598
   },
   "2003687|153605": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153605",
     "playerId": "2003687",
     "name": "Ageladaris, Anaximandros",
@@ -7184,11 +7172,11 @@
     "lastName": "Ageladaris",
     "heightCm": 214,
     "age": 22,
-    "value": 203973,
+    "value": 199193,
     "salary": 89983
   },
   "2003698|153607": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153607",
     "playerId": "2003698",
     "name": "Kaltenböck, Volkmar",
@@ -7236,7 +7224,7 @@
     "salary": 396169
   },
   "2003766|153605": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153605",
     "playerId": "2003766",
     "name": "Mpaxevanos, Omiros",
@@ -7244,11 +7232,11 @@
     "lastName": "Mpaxevanos",
     "heightCm": 217,
     "age": 23,
-    "value": 267160,
+    "value": 266850,
     "salary": 124433
   },
   "2003770|153619": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153619",
     "playerId": "2003770",
     "name": "Ormenisan, Gheorghe",
@@ -7256,7 +7244,7 @@
     "lastName": "Ormenisan",
     "heightCm": 216,
     "age": 23,
-    "value": 262543,
+    "value": 251672,
     "salary": 119755
   },
   "2003772|153619": {
@@ -7272,7 +7260,7 @@
     "salary": 39586
   },
   "2003797|153620": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153620",
     "playerId": "2003797",
     "name": "Žurej, Klemen",
@@ -7284,7 +7272,7 @@
     "salary": 167648
   },
   "2003799|153618": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153618",
     "playerId": "2003799",
     "name": "Lazić, Edvin",
@@ -7308,7 +7296,7 @@
     "salary": 101651
   },
   "2003854|153597": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153597",
     "playerId": "2003854",
     "name": "Adams, Mike",
@@ -7316,11 +7304,11 @@
     "lastName": "Adams",
     "heightCm": 198,
     "age": 22,
-    "value": 225689,
+    "value": 224829,
     "salary": 952690
   },
   "2003866|153614": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153614",
     "playerId": "2003866",
     "name": "Northwood, Patrick",
@@ -7328,7 +7316,7 @@
     "lastName": "Northwood",
     "heightCm": 218,
     "age": 23,
-    "value": 234318,
+    "value": 231995,
     "salary": 226070
   },
   "2003870|153618": {
@@ -7340,11 +7328,11 @@
     "lastName": "Todorović",
     "heightCm": 190,
     "age": 23,
-    "value": 127411,
+    "value": 127246,
     "salary": 60230
   },
   "2003874|153600": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153600",
     "playerId": "2003874",
     "name": "Wiggers, Nasrdin",
@@ -7368,7 +7356,7 @@
     "salary": 59788
   },
   "2003881|153616": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153616",
     "playerId": "2003881",
     "name": "Xiangda, Sakchai",
@@ -7376,11 +7364,11 @@
     "lastName": "Xiangda",
     "heightCm": 218,
     "age": 23,
-    "value": 233178,
+    "value": 231039,
     "salary": 112283
   },
   "2003883|153600": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153600",
     "playerId": "2003883",
     "name": "Nijpels, Raymond",
@@ -7388,7 +7376,7 @@
     "lastName": "Nijpels",
     "heightCm": 218,
     "age": 23,
-    "value": 231504,
+    "value": 227587,
     "salary": 104966
   },
   "2003884|153606": {
@@ -7404,7 +7392,7 @@
     "salary": 441888
   },
   "2003950|153619": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153619",
     "playerId": "2003950",
     "name": "Huiban, Silviu",
@@ -7424,11 +7412,11 @@
     "lastName": "Vilaragut",
     "heightCm": 175,
     "age": 23,
-    "value": 321542,
+    "value": 313188,
     "salary": 156594
   },
   "2003997|153620": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153620",
     "playerId": "2003997",
     "name": "Broz, Ljudmil",
@@ -7436,7 +7424,7 @@
     "lastName": "Broz",
     "heightCm": 219,
     "age": 22,
-    "value": 206921,
+    "value": 206372,
     "salary": 95527
   },
   "2004041|153603": {
@@ -7460,7 +7448,7 @@
     "lastName": "Salzer",
     "heightCm": 177,
     "age": 22,
-    "value": 519896,
+    "value": 506474,
     "salary": 253237
   },
   "2004052|153612": {
@@ -7472,7 +7460,7 @@
     "lastName": "Noormägi",
     "heightCm": 207,
     "age": 23,
-    "value": 188547,
+    "value": 187866,
     "salary": 87008
   },
   "2004059|153596": {
@@ -7496,7 +7484,7 @@
     "lastName": "Dujković",
     "heightCm": 198,
     "age": 23,
-    "value": 124998,
+    "value": 124850,
     "salary": 60707
   },
   "2004097|153617": {
@@ -7508,7 +7496,7 @@
     "lastName": "Avelino",
     "heightCm": 201,
     "age": 23,
-    "value": 148918,
+    "value": 148662,
     "salary": 222570
   },
   "2004109|153595": {
@@ -7520,7 +7508,7 @@
     "lastName": "Dedénon",
     "heightCm": 198,
     "age": 23,
-    "value": 181372,
+    "value": 174630,
     "salary": 83725
   },
   "2004110|153607": {
@@ -7536,7 +7524,7 @@
     "salary": 273310
   },
   "2004131|153604": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153604",
     "playerId": "2004131",
     "name": "Srbović, Čedomir",
@@ -7544,7 +7532,7 @@
     "lastName": "Srbović",
     "heightCm": 209,
     "age": 23,
-    "value": 159170,
+    "value": 157761,
     "salary": 75278
   },
   "2004148|153618": {
@@ -7560,7 +7548,7 @@
     "salary": 43001
   },
   "2004151|153610": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153610",
     "playerId": "2004151",
     "name": "Onzia, Stijn",
@@ -7580,7 +7568,7 @@
     "lastName": "Zauner",
     "heightCm": 198,
     "age": 23,
-    "value": 94208,
+    "value": 93672,
     "salary": 40846
   },
   "2004237|153615": {
@@ -7592,11 +7580,11 @@
     "lastName": "Bumbák",
     "heightCm": 179,
     "age": 22,
-    "value": 464862,
+    "value": 452847,
     "salary": 226423
   },
   "2004265|153605": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153605",
     "playerId": "2004265",
     "name": "Xidis, Romaleos",
@@ -7604,7 +7592,7 @@
     "lastName": "Xidis",
     "heightCm": 207,
     "age": 23,
-    "value": 159801,
+    "value": 158625,
     "salary": 215739
   },
   "2004272|153608": {
@@ -7640,11 +7628,11 @@
     "lastName": "Reinbusch",
     "heightCm": 198,
     "age": 23,
-    "value": 166682,
+    "value": 166042,
     "salary": 76844
   },
   "2004319|153610": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153610",
     "playerId": "2004319",
     "name": "Hallez, Siegfried",
@@ -7652,7 +7640,7 @@
     "lastName": "Hallez",
     "heightCm": 196,
     "age": 23,
-    "value": 285051,
+    "value": 283342,
     "salary": 136129
   },
   "2004428|153612": {
@@ -7704,7 +7692,7 @@
     "salary": 64766
   },
   "2032122|153608": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153608",
     "playerId": "2032122",
     "name": "Piirainen, Thomas",
@@ -7712,7 +7700,7 @@
     "lastName": "Piirainen",
     "heightCm": 194,
     "age": 23,
-    "value": 146460,
+    "value": 146162,
     "salary": 162038
   },
   "2032160|153616": {
@@ -7724,7 +7712,7 @@
     "lastName": "Cheung",
     "heightCm": 204,
     "age": 23,
-    "value": 185044,
+    "value": 184238,
     "salary": 317346
   },
   "2032201|153595": {
@@ -7736,11 +7724,11 @@
     "lastName": "Chauvin",
     "heightCm": 200,
     "age": 23,
-    "value": 192156,
+    "value": 184985,
     "salary": 88649
   },
   "2032203|153614": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153614",
     "playerId": "2032203",
     "name": "Hutton, Des",
@@ -7764,7 +7752,7 @@
     "salary": 36080
   },
   "2032351|153605": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153605",
     "playerId": "2032351",
     "name": "Demiris, Themistoklis",
@@ -7772,11 +7760,11 @@
     "lastName": "Demiris",
     "heightCm": 181,
     "age": 23,
-    "value": 531219,
+    "value": 514647,
     "salary": 250732
   },
   "2032376|153609": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153609",
     "playerId": "2032376",
     "name": "Serbedzija, Nediljko",
@@ -7788,7 +7776,7 @@
     "salary": 134372
   },
   "2032551|153602": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153602",
     "playerId": "2032551",
     "name": "Juarez, Walter",
@@ -7796,7 +7784,7 @@
     "lastName": "Juarez",
     "heightCm": 208,
     "age": 22,
-    "value": 272605,
+    "value": 264213,
     "salary": 126503
   },
   "2032575|153614": {
@@ -7836,7 +7824,7 @@
     "salary": 41211
   },
   "2032641|153603": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153603",
     "playerId": "2032641",
     "name": "Okitsu, Ginzô",
@@ -7868,7 +7856,7 @@
     "lastName": "Chydenius",
     "heightCm": 188,
     "age": 23,
-    "value": 123481,
+    "value": 119991,
     "salary": 58792
   },
   "2032854|153603": {
@@ -7884,7 +7872,7 @@
     "salary": 287753
   },
   "2032878|153609": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153609",
     "playerId": "2032878",
     "name": "Alac, Matija",
@@ -7892,7 +7880,7 @@
     "lastName": "Alac",
     "heightCm": 204,
     "age": 22,
-    "value": 279364,
+    "value": 276810,
     "salary": 129850
   },
   "2032910|153607": {
@@ -7920,7 +7908,7 @@
     "salary": 72588
   },
   "2059879|153612": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153612",
     "playerId": "2059879",
     "name": "Viira, Nazar",
@@ -7928,7 +7916,7 @@
     "lastName": "Viira",
     "heightCm": 212,
     "age": 22,
-    "value": 231088,
+    "value": 229355,
     "salary": 107664
   },
   "2059899|153620": {
@@ -7940,11 +7928,11 @@
     "lastName": "Potočnik",
     "heightCm": 198,
     "age": 23,
-    "value": 118339,
+    "value": 114243,
     "salary": 54355
   },
   "2059908|153620": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153620",
     "playerId": "2059908",
     "name": "Cestnik, Tom",
@@ -7952,7 +7940,7 @@
     "lastName": "Cestnik",
     "heightCm": 214,
     "age": 22,
-    "value": 136764,
+    "value": 135839,
     "salary": 64099
   },
   "2059928|153603": {
@@ -7992,7 +7980,7 @@
     "salary": 59878
   },
   "2060029|153612": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153612",
     "playerId": "2060029",
     "name": "Urbla, Sepo",
@@ -8004,7 +7992,7 @@
     "salary": 214999
   },
   "2060033|153602": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153602",
     "playerId": "2060033",
     "name": "Baigorria, Nito",
@@ -8012,11 +8000,11 @@
     "lastName": "Baigorria",
     "heightCm": 202,
     "age": 22,
-    "value": 486219,
+    "value": 484847,
     "salary": 237624
   },
   "2060034|153602": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153602",
     "playerId": "2060034",
     "name": "Sánchez, Silvestre",
@@ -8024,7 +8012,7 @@
     "lastName": "Sánchez",
     "heightCm": 194,
     "age": 22,
-    "value": 510197,
+    "value": 508705,
     "salary": 242855
   },
   "2060040|153609": {
@@ -8040,7 +8028,7 @@
     "salary": 25180
   },
   "2060044|153610": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153610",
     "playerId": "2060044",
     "name": "Draper, Jo",
@@ -8064,7 +8052,7 @@
     "salary": 95832
   },
   "2060111|153609": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153609",
     "playerId": "2060111",
     "name": "Diković, Izidor",
@@ -8072,7 +8060,7 @@
     "lastName": "Diković",
     "heightCm": 198,
     "age": 22,
-    "value": 132471,
+    "value": 131051,
     "salary": 163578
   },
   "2060151|153599": {
@@ -8108,7 +8096,7 @@
     "lastName": "Prim",
     "heightCm": 175,
     "age": 21,
-    "value": 442388,
+    "value": 430947,
     "salary": 205413
   },
   "2060195|153608": {
@@ -8132,7 +8120,7 @@
     "lastName": "Hiddink",
     "heightCm": 180,
     "age": 22,
-    "value": 123668,
+    "value": 119939,
     "salary": 341173
   },
   "2060263|153608": {
@@ -8156,11 +8144,11 @@
     "lastName": "Enchao",
     "heightCm": 181,
     "age": 22,
-    "value": 167593,
+    "value": 166664,
     "salary": 175916
   },
   "2060385|153616": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153616",
     "playerId": "2060385",
     "name": "Chunxian, Yong",
@@ -8168,11 +8156,11 @@
     "lastName": "Chunxian",
     "heightCm": 213,
     "age": 22,
-    "value": 204038,
+    "value": 201794,
     "salary": 95955
   },
   "2060394|153605": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153605",
     "playerId": "2060394",
     "name": "Georgoulis, Efstratios",
@@ -8196,7 +8184,7 @@
     "salary": 55417
   },
   "2060428|153598": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153598",
     "playerId": "2060428",
     "name": "Riquelme, Gerardo",
@@ -8204,7 +8192,7 @@
     "lastName": "Riquelme",
     "heightCm": 180,
     "age": 21,
-    "value": 264800,
+    "value": 262211,
     "salary": 124525
   },
   "2060450|153620": {
@@ -8216,11 +8204,11 @@
     "lastName": "Jelar",
     "heightCm": 180,
     "age": 21,
-    "value": 438189,
+    "value": 421077,
     "salary": 166593
   },
   "2060471|153594": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153594",
     "playerId": "2060471",
     "name": "Biffino, Pancrazio",
@@ -8228,7 +8216,7 @@
     "lastName": "Biffino",
     "heightCm": 217,
     "age": 22,
-    "value": 213666,
+    "value": 213212,
     "salary": 101478
   },
   "2060473|153603": {
@@ -8252,7 +8240,7 @@
     "lastName": "Lancel",
     "heightCm": 195,
     "age": 22,
-    "value": 129813,
+    "value": 128184,
     "salary": 60432
   },
   "2060554|153608": {
@@ -8268,7 +8256,7 @@
     "salary": 61613
   },
   "2060569|153608": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153608",
     "playerId": "2060569",
     "name": "Diktonius, Eugen",
@@ -8276,11 +8264,11 @@
     "lastName": "Diktonius",
     "heightCm": 216,
     "age": 22,
-    "value": 174873,
+    "value": 173386,
     "salary": 79977
   },
   "2060571|153616": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153616",
     "playerId": "2060571",
     "name": "Chuanhao, See-Yuen",
@@ -8288,11 +8276,11 @@
     "lastName": "Chuanhao",
     "heightCm": 220,
     "age": 22,
-    "value": 196939,
+    "value": 194730,
     "salary": 90127
   },
   "2060584|153612": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153612",
     "playerId": "2060584",
     "name": "Kromanov, Aare",
@@ -8300,7 +8288,7 @@
     "lastName": "Kromanov",
     "heightCm": 206,
     "age": 22,
-    "value": 103727,
+    "value": 103434,
     "salary": 50828
   },
   "2060591|153619": {
@@ -8312,11 +8300,11 @@
     "lastName": "Iliescu",
     "heightCm": 175,
     "age": 22,
-    "value": 348491,
+    "value": 337774,
     "salary": 164503
   },
   "2060618|153612": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153612",
     "playerId": "2060618",
     "name": "Lutsepp, Kaupo",
@@ -8336,11 +8324,11 @@
     "lastName": "Barnfield",
     "heightCm": 187,
     "age": 22,
-    "value": 115014,
+    "value": 118173,
     "salary": 57507
   },
   "2060654|153607": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153607",
     "playerId": "2060654",
     "name": "Brunner, Robert",
@@ -8348,11 +8336,11 @@
     "lastName": "Brunner",
     "heightCm": 219,
     "age": 22,
-    "value": 163486,
+    "value": 162597,
     "salary": 79117
   },
   "2060662|153604": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153604",
     "playerId": "2060662",
     "name": "Knežević, Srdjan",
@@ -8364,7 +8352,7 @@
     "salary": 75870
   },
   "2060666|153602": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153602",
     "playerId": "2060666",
     "name": "Mallat, Gabriel",
@@ -8372,11 +8360,11 @@
     "lastName": "Mallat",
     "heightCm": 219,
     "age": 21,
-    "value": 229696,
+    "value": 227370,
     "salary": 102945
   },
   "2060676|153615": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153615",
     "playerId": "2060676",
     "name": "Mihočko, Bruno",
@@ -8384,7 +8372,7 @@
     "lastName": "Mihočko",
     "heightCm": 213,
     "age": 21,
-    "value": 247553,
+    "value": 238651,
     "salary": 110805
   },
   "2060685|153611": {
@@ -8400,7 +8388,7 @@
     "salary": 115334
   },
   "2060722|153615": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153615",
     "playerId": "2060722",
     "name": "Ďumbala, Ľudovít",
@@ -8412,7 +8400,7 @@
     "salary": 42761
   },
   "2060762|153594": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153594",
     "playerId": "2060762",
     "name": "Zetti, Aldopaolo",
@@ -8420,11 +8408,11 @@
     "lastName": "Zetti",
     "heightCm": 215,
     "age": 22,
-    "value": 336073,
+    "value": 335367,
     "salary": 164105
   },
   "2060802|153598": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153598",
     "playerId": "2060802",
     "name": "Gatti, Silo",
@@ -8436,7 +8424,7 @@
     "salary": 57563
   },
   "2060833|153614": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153614",
     "playerId": "2060833",
     "name": "Roos, Crispian",
@@ -8448,7 +8436,7 @@
     "salary": 78585
   },
   "2060885|153616": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153616",
     "playerId": "2060885",
     "name": "Tianxian, Jingbo",
@@ -8456,7 +8444,7 @@
     "lastName": "Tianxian",
     "heightCm": 209,
     "age": 22,
-    "value": 175771,
+    "value": 174500,
     "salary": 174284
   },
   "2087230|153605": {
@@ -8480,7 +8468,7 @@
     "lastName": "Vávra",
     "heightCm": 184,
     "age": 22,
-    "value": 128419,
+    "value": 124648,
     "salary": 61003
   },
   "2087313|153598": {
@@ -8492,11 +8480,11 @@
     "lastName": "Canales",
     "heightCm": 185,
     "age": 22,
-    "value": 124352,
+    "value": 120694,
     "salary": 59067
   },
   "2087343|153598": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153598",
     "playerId": "2087343",
     "name": "Bartolomé, Pedro",
@@ -8520,7 +8508,7 @@
     "salary": 27206
   },
   "2087521|153610": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153610",
     "playerId": "2087521",
     "name": "Arnouts, Gabriel",
@@ -8528,7 +8516,7 @@
     "lastName": "Arnouts",
     "heightCm": 197,
     "age": 22,
-    "value": 145785,
+    "value": 144290,
     "salary": 68832
   },
   "2087700|153615": {
@@ -8556,7 +8544,7 @@
     "salary": 34486
   },
   "2087850|153609": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153609",
     "playerId": "2087850",
     "name": "Ledenko, Uglješa",
@@ -8568,7 +8556,7 @@
     "salary": 125570
   },
   "2087909|153608": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153608",
     "playerId": "2087909",
     "name": "Lampi, Kalevi",
@@ -8576,7 +8564,7 @@
     "lastName": "Lampi",
     "heightCm": 212,
     "age": 21,
-    "value": 225020,
+    "value": 217095,
     "salary": 99766
   },
   "2087924|153613": {
@@ -8588,11 +8576,11 @@
     "lastName": "Tamagnini",
     "heightCm": 182,
     "age": 22,
-    "value": 132629,
+    "value": 136250,
     "salary": 66314
   },
   "2087968|153610": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153610",
     "playerId": "2087968",
     "name": "Bucquoy, Jean-Claude",
@@ -8600,7 +8588,7 @@
     "lastName": "Bucquoy",
     "heightCm": 207,
     "age": 21,
-    "value": 220414,
+    "value": 214461,
     "salary": 98574
   },
   "2088002|153614": {
@@ -8624,11 +8612,11 @@
     "lastName": "Uherík",
     "heightCm": 209,
     "age": 22,
-    "value": 153492,
+    "value": 152001,
     "salary": 277350
   },
   "2088032|153619": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153619",
     "playerId": "2088032",
     "name": "Venter, Octavian",
@@ -8636,7 +8624,7 @@
     "lastName": "Venter",
     "heightCm": 208,
     "age": 22,
-    "value": 144849,
+    "value": 139845,
     "salary": 207853
   },
   "2088059|153616": {
@@ -8652,7 +8640,7 @@
     "salary": 51251
   },
   "2088133|153620": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153620",
     "playerId": "2088133",
     "name": "Crnčić, Franjo",
@@ -8660,11 +8648,11 @@
     "lastName": "Crnčić",
     "heightCm": 204,
     "age": 21,
-    "value": 280634,
+    "value": 273643,
     "salary": 128105
   },
   "2088175|153600": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153600",
     "playerId": "2088175",
     "name": "De Boer, Boudewijn",
@@ -8676,7 +8664,7 @@
     "salary": 156330
   },
   "2088181|153609": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153609",
     "playerId": "2088181",
     "name": "Hegedusic, Zivko",
@@ -8684,11 +8672,11 @@
     "lastName": "Hegedusic",
     "heightCm": 202,
     "age": 21,
-    "value": 303156,
+    "value": 296426,
     "salary": 132162
   },
   "2088182|153608": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153608",
     "playerId": "2088182",
     "name": "Pitkänen, Lauri",
@@ -8696,11 +8684,11 @@
     "lastName": "Pitkänen",
     "heightCm": 202,
     "age": 21,
-    "value": 304309,
+    "value": 289873,
     "salary": 129125
   },
   "2088295|153609": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153609",
     "playerId": "2088295",
     "name": "Pajer, Vojko",
@@ -8708,7 +8696,7 @@
     "lastName": "Pajer",
     "heightCm": 185,
     "age": 21,
-    "value": 310331,
+    "value": 303508,
     "salary": 134699
   },
   "2088304|153615": {
@@ -8724,7 +8712,7 @@
     "salary": 23547
   },
   "2088388|153606": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153606",
     "playerId": "2088388",
     "name": "Huntington, Janalyn",
@@ -8732,7 +8720,7 @@
     "lastName": "Huntington",
     "heightCm": 189,
     "age": 21,
-    "value": 284781,
+    "value": 282685,
     "salary": 132540
   },
   "2088390|153603": {
@@ -8748,7 +8736,7 @@
     "salary": 52352
   },
   "2088391|153607": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153607",
     "playerId": "2088391",
     "name": "Menninger, Alfred",
@@ -8784,7 +8772,7 @@
     "salary": 73206
   },
   "2088472|153603": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153603",
     "playerId": "2088472",
     "name": "Koyasu, Koji",
@@ -8792,7 +8780,7 @@
     "lastName": "Koyasu",
     "heightCm": 192,
     "age": 21,
-    "value": 103637,
+    "value": 102759,
     "salary": 42602
   },
   "2088555|153598": {
@@ -8808,7 +8796,7 @@
     "salary": 39643
   },
   "2088583|153607": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153607",
     "playerId": "2088583",
     "name": "Köstlinger, William",
@@ -8816,7 +8804,7 @@
     "lastName": "Köstlinger",
     "heightCm": 220,
     "age": 21,
-    "value": 209086,
+    "value": 205343,
     "salary": 95232
   },
   "2088657|153615": {
@@ -8828,11 +8816,11 @@
     "lastName": "Pyskatý",
     "heightCm": 205,
     "age": 21,
-    "value": 111353,
+    "value": 111293,
     "salary": 53052
   },
   "2088660|153620": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153620",
     "playerId": "2088660",
     "name": "Klemenčič, Mario",
@@ -8840,11 +8828,11 @@
     "lastName": "Klemenčič",
     "heightCm": 201,
     "age": 21,
-    "value": 141205,
+    "value": 140297,
     "salary": 68692
   },
   "2088692|153619": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153619",
     "playerId": "2088692",
     "name": "Stoicescu, Vladimir",
@@ -8876,11 +8864,11 @@
     "lastName": "Satô",
     "heightCm": 208,
     "age": 21,
-    "value": 118301,
+    "value": 117611,
     "salary": 56235
   },
   "2088780|153605": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153605",
     "playerId": "2088780",
     "name": "Makrionitis, Sotiris",
@@ -8888,11 +8876,11 @@
     "lastName": "Makrionitis",
     "heightCm": 216,
     "age": 20,
-    "value": 256319,
+    "value": 248392,
     "salary": 110969
   },
   "2088801|153607": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153607",
     "playerId": "2088801",
     "name": "Mauracher, Pero",
@@ -8900,11 +8888,11 @@
     "lastName": "Mauracher",
     "heightCm": 200,
     "age": 21,
-    "value": 213824,
+    "value": 211431,
     "salary": 98858
   },
   "2088820|153598": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153598",
     "playerId": "2088820",
     "name": "Galarraga, Rafael",
@@ -8912,11 +8900,11 @@
     "lastName": "Galarraga",
     "heightCm": 215,
     "age": 21,
-    "value": 172942,
+    "value": 170284,
     "salary": 81220
   },
   "2088995|153609": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153609",
     "playerId": "2088995",
     "name": "Pršo, Romano",
@@ -8924,7 +8912,7 @@
     "lastName": "Pršo",
     "heightCm": 200,
     "age": 21,
-    "value": 127040,
+    "value": 122497,
     "salary": 58475
   },
   "2089010|153598": {
@@ -8948,7 +8936,7 @@
     "lastName": "Zibert",
     "heightCm": 180,
     "age": 21,
-    "value": 105666,
+    "value": 103501,
     "salary": 156274
   },
   "2112029|153607": {
@@ -8964,7 +8952,7 @@
     "salary": 50024
   },
   "2112040|153598": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153598",
     "playerId": "2112040",
     "name": "Veloso, Gregorio",
@@ -8972,7 +8960,7 @@
     "lastName": "Veloso",
     "heightCm": 203,
     "age": 21,
-    "value": 146272,
+    "value": 138856,
     "salary": 66093
   },
   "2112082|153605": {
@@ -8984,11 +8972,11 @@
     "lastName": "Demopoulos",
     "heightCm": 194,
     "age": 21,
-    "value": 145394,
+    "value": 140207,
     "salary": 309063
   },
   "2112098|153606": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153606",
     "playerId": "2112098",
     "name": "Pluhař, Dušan",
@@ -9044,11 +9032,11 @@
     "lastName": "Minne",
     "heightCm": 180,
     "age": 20,
-    "value": 98283,
+    "value": 97374,
     "salary": 40302
   },
   "2112449|153604": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153604",
     "playerId": "2112449",
     "name": "Bosić, Ljubiša",
@@ -9056,11 +9044,11 @@
     "lastName": "Bosić",
     "heightCm": 190,
     "age": 21,
-    "value": 118186,
+    "value": 113983,
     "salary": 53978
   },
   "2112528|153603": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153603",
     "playerId": "2112528",
     "name": "Takahashi, Shichinosuke",
@@ -9068,11 +9056,11 @@
     "lastName": "Takahashi",
     "heightCm": 220,
     "age": 21,
-    "value": 147534,
+    "value": 141205,
     "salary": 68133
   },
   "2112724|153614": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153614",
     "playerId": "2112724",
     "name": "Cameron, Ballard",
@@ -9080,11 +9068,11 @@
     "lastName": "Cameron",
     "heightCm": 212,
     "age": 20,
-    "value": 212805,
+    "value": 206218,
     "salary": 92069
   },
   "2112767|153614": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153614",
     "playerId": "2112767",
     "name": "Trolley, Sidney",
@@ -9096,7 +9084,7 @@
     "salary": 54160
   },
   "2112768|153614": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153614",
     "playerId": "2112768",
     "name": "Kossoff, Marsh",
@@ -9108,7 +9096,7 @@
     "salary": 52954
   },
   "2112864|153609": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153609",
     "playerId": "2112864",
     "name": "Mestrovic, Bruno",
@@ -9140,7 +9128,7 @@
     "lastName": "Bakker",
     "heightCm": 189,
     "age": 20,
-    "value": 124190,
+    "value": 123241,
     "salary": 56413
   },
   "2113103|153603": {
@@ -9156,7 +9144,7 @@
     "salary": 27322
   },
   "2113212|153610": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153610",
     "playerId": "2113212",
     "name": "Sablon, Emil",
@@ -9164,11 +9152,11 @@
     "lastName": "Sablon",
     "heightCm": 209,
     "age": 20,
-    "value": 244429,
+    "value": 228385,
     "salary": 98155
   },
   "2113273|153605": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153605",
     "playerId": "2113273",
     "name": "Asthenidis, Tolis",
@@ -9176,11 +9164,11 @@
     "lastName": "Asthenidis",
     "heightCm": 220,
     "age": 20,
-    "value": 176392,
+    "value": 173589,
     "salary": 78501
   },
   "2113277|153598": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153598",
     "playerId": "2113277",
     "name": "Ayetxu, Catulo",
@@ -9192,7 +9180,7 @@
     "salary": 67715
   },
   "2113416|153614": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153614",
     "playerId": "2113416",
     "name": "Donat, Louis",
@@ -9200,11 +9188,11 @@
     "lastName": "Donat",
     "heightCm": 201,
     "age": 20,
-    "value": 107488,
+    "value": 106626,
     "salary": 42533
   },
   "2113483|153613": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153613",
     "playerId": "2113483",
     "name": "Catarro, Paulino",
@@ -9216,7 +9204,7 @@
     "salary": 84987
   },
   "2113551|153612": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153612",
     "playerId": "2113551",
     "name": "Lipso, Feliks",
@@ -9224,7 +9212,7 @@
     "lastName": "Lipso",
     "heightCm": 212,
     "age": 20,
-    "value": 105712,
+    "value": 100651,
     "salary": 41830
   },
   "2139264|153609": {
@@ -9236,7 +9224,7 @@
     "lastName": "Zarkovic",
     "heightCm": 208,
     "age": 20,
-    "value": 112435,
+    "value": 108628,
     "salary": 51206
   },
   "2139265|153605": {
@@ -9248,7 +9236,7 @@
     "lastName": "Hodolides",
     "heightCm": 200,
     "age": 20,
-    "value": 141418,
+    "value": 136705,
     "salary": 64543
   },
   "2139266|153618": {
@@ -9260,7 +9248,7 @@
     "lastName": "Karacić",
     "heightCm": 192,
     "age": 20,
-    "value": 98250,
+    "value": 97555,
     "salary": 40253
   },
   "2139576|153619": {
@@ -9276,7 +9264,7 @@
     "salary": 40324
   },
   "2139631|153597": {
-    "pozycja": "A",
+    "pozycja": "O",
     "teamId": "153597",
     "playerId": "2139631",
     "name": "Jacobs, Nathan",
@@ -9284,11 +9272,11 @@
     "lastName": "Jacobs",
     "heightCm": 205,
     "age": 20,
-    "value": 137606,
+    "value": 133489,
     "salary": 61627
   },
   "2140273|153609": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153609",
     "playerId": "2140273",
     "name": "Cindrić, József",
@@ -9296,11 +9284,11 @@
     "lastName": "Cindrić",
     "heightCm": 218,
     "age": 18,
-    "value": 90075,
+    "value": 87344,
     "salary": 29662
   },
   "2140410|153615": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153615",
     "playerId": "2140410",
     "name": "Hrbatý, Ferdinand",
@@ -9308,11 +9296,11 @@
     "lastName": "Hrbatý",
     "heightCm": 197,
     "age": 19,
-    "value": 149687,
+    "value": 142916,
     "salary": 60826
   },
   "2140459|153608": {
-    "pozycja": "S",
+    "pozycja": "Ś",
     "teamId": "153608",
     "playerId": "2140459",
     "name": "Vahlgren, Mauno",
@@ -9320,11 +9308,11 @@
     "lastName": "Vahlgren",
     "heightCm": 218,
     "age": 18,
-    "value": 121284,
+    "value": 116646,
     "salary": 42912
   },
   "2140496|153615": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153615",
     "playerId": "2140496",
     "name": "Fedačko, Nazariy",
@@ -9332,7 +9320,7 @@
     "lastName": "Fedačko",
     "heightCm": 180,
     "age": 19,
-    "value": 152917,
+    "value": 148551,
     "salary": 62344
   },
   "2140548|153615": {
@@ -9344,7 +9332,7 @@
     "lastName": "Žilinský",
     "heightCm": 175,
     "age": 19,
-    "value": 168870,
+    "value": 167773,
     "salary": 65823
   },
   "2140552|153620": {
@@ -9356,11 +9344,11 @@
     "lastName": "Kadrija",
     "heightCm": 197,
     "age": 19,
-    "value": 89739,
+    "value": 85254,
     "salary": 36801
   },
   "2140673|153608": {
-    "pozycja": "R",
+    "pozycja": "S",
     "teamId": "153608",
     "playerId": "2140673",
     "name": "Eklundh, Juho",
@@ -9368,7 +9356,7 @@
     "lastName": "Eklundh",
     "heightCm": 181,
     "age": 18,
-    "value": 116773,
+    "value": 112679,
     "salary": 44019
   }
 }
